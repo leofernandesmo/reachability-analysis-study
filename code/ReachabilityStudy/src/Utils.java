@@ -34,7 +34,8 @@ public class Utils {
 	
 	
 	/**
-	 * 
+	 * Localize a expression and change it.
+	 * TODO Change to use Regex 
 	 * @param file
 	 * @param exprStart
 	 * @param exprEnd

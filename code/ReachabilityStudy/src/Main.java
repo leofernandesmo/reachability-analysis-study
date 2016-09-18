@@ -11,6 +11,9 @@ import java.util.Properties;
 
 public class Main {
 
+	private static final String EXTENSION_OUT_DIRECTIVES = ".out.directives";
+	private static final String EXTENSION_MAP = ".map";
+	private static final String EXTENSION_OUT_FUNCTIONS = ".out.functions";
 	private static final String CTAGS_COMMAND = "ctags -x --c-kinds=f ";
 	private static final String AWK_COMMAND = "./bin/awk_command.sh ";
 
@@ -105,7 +108,7 @@ public class Main {
 
 			try {
 				FileOutputStream os = new FileOutputStream(
-						new File(outputPath + "/" + file.getName() + ".out.functions"));
+						new File(outputPath + "/" + file.getName() + EXTENSION_OUT_FUNCTIONS));
 				String output = "";
 				for (Function function : funcList) {
 					linesOutput.clear();
@@ -135,14 +138,14 @@ public class Main {
 		Utils.listFilesAndFilesSubDirectories(inputPath, files, ".c");
 		List<String> linesWithDirectives = new ArrayList<String>();
 		for (File file : files) {
-
+			//TODO Change to regex
 			String[] expStart = { "#ifdef", "# ifdef", "#  ifdef", "#   ifdef", "#ifndef", "# ifndef", "#  ifndef",
 					"#   ifndef", "#if", "# if", "#  if", "#   if" };
 			String[] expEnd = { "#endif", "# endif", "#  endif", "#   endif" };
 			try {
 				// Escreve no arquivo....
 				FileOutputStream os = new FileOutputStream(
-						new File(outputPath + "/" + file.getName() + ".out.directives"));
+						new File(outputPath + "/" + file.getName() + EXTENSION_OUT_DIRECTIVES));
 				String output = "";
 
 				linesWithDirectives = Utils.localizeExpr(file, expStart, expEnd);
@@ -173,7 +176,8 @@ public class Main {
 			List<File> filesWithDirectives = new ArrayList<File>();
 			// listFilesAndFilesSubDirectories(OUTPUT_DIRECTORY,
 			// filesWithFunctions, ".functions");
-			Utils.listFilesAndFilesSubDirectories(outputPath, filesWithDirectives, ".directives");
+			Utils.listFilesAndFilesSubDirectories(outputPath, 
+					filesWithDirectives, EXTENSION_OUT_DIRECTIVES);
 
 			for (File fileWithDirective : filesWithDirectives) {
 				List<Function> listResult = new ArrayList<Function>();
@@ -184,10 +188,11 @@ public class Main {
 					// Read Directive functions
 					while ((lineDirective = br.readLine()) != null) {
 						Directive directive = Directive.fromVariabilityLine(lineDirective);
-						String strFunctionFile = fileWithDirective.getAbsolutePath().replace(".directives",
-								".functions");
+						String strFunctionFile = fileWithDirective.getAbsolutePath()
+								.replace(EXTENSION_OUT_DIRECTIVES, EXTENSION_OUT_FUNCTIONS);
 						try {
-							BufferedReader brFunctions = new BufferedReader(new FileReader(strFunctionFile));
+							BufferedReader brFunctions = new BufferedReader(
+									new FileReader(strFunctionFile));
 
 							String input = "";
 							String lineFunction = "";
@@ -206,10 +211,12 @@ public class Main {
 								int functionStartLine = function.getStartLine();
 								int functionEndLine = function.getEndline();
 								// Directive wrap function
-								if (functionStartLine >= startLine && functionStartLine <= endLine) {
+								if (functionStartLine >= startLine && 
+										functionStartLine <= endLine) {
 									function.addVariability(directive);
 									// Function wrap directive
-								} else if (startLine >= functionStartLine && startLine <= functionEndLine) {
+								} else if (startLine >= functionStartLine && 
+										startLine <= functionEndLine) {
 									function.addVariability(directive);
 								}
 							}
@@ -224,7 +231,8 @@ public class Main {
 					ioe.printStackTrace();
 				}
 
-				FileOutputStream os = new FileOutputStream(new File(fileWithDirective.getAbsolutePath() + ".map"));
+				FileOutputStream os = new FileOutputStream(
+						new File(fileWithDirective.getAbsolutePath() + EXTENSION_MAP));
 				String output = "";
 				for (Function function : listResult) {
 					String line = function.getLineWithDrectives();
