@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_pack:113:246
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_shift:258:388
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_intrapixel:584:643
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_invert_alpha:487:577
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_swap_alpha:393:482
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_transformations:23:105

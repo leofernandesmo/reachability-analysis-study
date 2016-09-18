@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:is_well_formed_var_name
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:printlim
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:shell_builtin_read:#if 0 /* even bash has no -t N.NNN support */
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:shell_builtin_ulimit:#ifdef __GLIBC__

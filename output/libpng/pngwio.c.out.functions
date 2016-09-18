@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_default_flush:137:146
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_default_write_data:51:62
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_default_write_data:73:118
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_far_to_near:225:237
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_far_to_near:239:251
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_flush:129:133
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_set_write_fn:180:221
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_write_data:33:41

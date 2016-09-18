@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if BB_BIG_ENDIAN:49:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if ENABLE_DESKTOP:175:255
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if ENABLE_DESKTOP:322:324
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#ifndef __GLIBC__:435:451
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if ENABLE_DESKTOP:522:524
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if ENABLE_DESKTOP:528:530
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if ENABLE_DESKTOP:537:544
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if !ENABLE_DESKTOP:554:589
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:#if:#if ENABLE_DESKTOP:693:697

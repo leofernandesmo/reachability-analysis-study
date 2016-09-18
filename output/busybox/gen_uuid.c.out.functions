@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_clock:210:250
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_node_id:125:205
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_random_bytes:94:120
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_random_fd:69:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:uuid_generate:298:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:uuid_generate_random:279:290
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:uuid_generate_time:252:277

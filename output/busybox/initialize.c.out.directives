@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if HAVE_UNISTD_H:16:18
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if HAVE_SYS_STAT_H:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if HAVE_SYS_TYPES_H:24:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if defined(LITES)	   &&	defined(EXT2_OS_LITES):40:44
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if defined(__FreeBSD__) &&	defined(EXT2_OS_FREEBSD):37:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if defined(__GNU__)     &&	defined(EXT2_OS_HURD):34:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#if defined(__linux__)    &&	defined(EXT2_OS_LINUX):31:47
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#ifdef EXT2_DFL_CHECKINTERVAL:57:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#ifdef RES_GDT_DEBUG:85:88
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:#if:#ifdef WORDS_BIGENDIAN:121:123

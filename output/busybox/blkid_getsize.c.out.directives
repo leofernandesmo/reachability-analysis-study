@@ -1,0 +1,21 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_ERRNO_H:18:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_SYS_IOCTL_H:22:24
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_LINUX_FD_H:25:27
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_SYS_DISKLABEL_H:28:31
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_SYS_QUEUE_H:33:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#ifdef:#ifdef HAVE_SYS_QUEUE_H:33:37
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef __linux__:38:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#if defined(__linux__) && defined(_IO) && !defined(BLKGETSIZE):42:44
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#if defined(__linux__) && defined(_IOR) && !defined(BLKGETSIZE64):46:48
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef APPLE_DARWIN:50:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef __linux__:71:73
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef FDGETPRM:77:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_SYS_DISKLABEL_H:80:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef DKIOCGETBLOCKCOUNT	/* For Apple Darwin */:88:95
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef __linux__:98:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#ifdef:#ifdef __linux__:98:111
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef BLKGETSIZE:113:116
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef FDGETPRM:118:121
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#if 0:123:136
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef HAVE_SYS_DISKLABEL_H:122:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:#if:#ifdef TEST_PROGRAM:159:179

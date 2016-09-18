@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:handle_accept
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:handle_fd_set
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:handle_timeout
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_close_fd
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_dont_want_rd
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_dont_want_wr
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_register_fd
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_register_peer
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_run
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_want_rd
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:isrv_want_wr
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv.c:remove_peer

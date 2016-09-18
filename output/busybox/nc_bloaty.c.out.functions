@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:arm:228:232
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:catch:205:211
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:connect_w_timeout:284:298
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:doexec:267:276
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:dolisten:305:478
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:findline:238:276
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:nc_main:745:922
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:oprint:534:579
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:readwrite:587:922
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:tmtravel:221:225
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:udptest:491:518
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:unarm:214:218

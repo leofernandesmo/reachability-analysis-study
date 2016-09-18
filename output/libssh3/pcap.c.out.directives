@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pcap.c:#if:#ifdef _WIN32:27:34
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pcap.c:#ifdef:#ifdef _WIN32:27:507

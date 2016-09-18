@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_cleanup
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_get_bgcolor
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_get_image:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_init
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_version_info

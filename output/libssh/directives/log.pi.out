@@ -1,0 +1,5 @@
+__bswap_32:
+__uint64_t:
+do_ssh_log:
+ssh_log:
+ssh_log_common:

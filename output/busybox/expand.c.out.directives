@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/expand.c:# if:# if ENABLE_UNICODE_SUPPORT:80:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/expand.c:#if:#if ENABLE_EXPAND:61:96
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/expand.c:# if:# if ENABLE_UNICODE_SUPPORT:135:144
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/expand.c:#if:#if ENABLE_UNEXPAND:98:151
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/expand.c:#if:#if ENABLE_FEATURE_EXPAND_LONG_OPTIONS:163:169
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/expand.c:#if:#if ENABLE_FEATURE_UNEXPAND_LONG_OPTIONS:170:177

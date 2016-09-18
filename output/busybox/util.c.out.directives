@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/util.c:#if:#ifndef MAJOR:46:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/util.c:#if:#ifdef SCSI_DISK8_MAJOR:52:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/util.c:#ifdef:#ifdef SCSI_DISK8_MAJOR:52:63
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/util.c:#if:#ifdef SCSI_DISK0_MAJOR:51:64
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/util.c:#ifdef:#ifdef SCSI_DISK0_MAJOR:51:72

@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.hash.c:#if:#if !((' ' == 32) && ('!' == 33) && ('"' == 34) && ('#' == 35) \:5:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.hash.c:#if:#ifdef __cplusplus:38:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.hash.c:#ifdef:#ifdef __cplusplus:38:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.hash.c:#if:#ifdef __GNUC__:156:158

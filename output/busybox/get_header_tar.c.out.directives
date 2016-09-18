@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:137:144
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_SELINUX:146:157
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY:169:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:175:181
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS || ENABLE_FEATURE_TAR_SELINUX:183:185
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_DESKTOP || ENABLE_FEATURE_TAR_AUTODETECT:191:215
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_AUTODETECT:239:251
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY:259:261
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY:265:267
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_OLDSUN_COMPATIBILITY:271:273
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_UNAME_GNAME:311:314
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_OLDGNU_COMPATIBILITY:356:360
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:383:408
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:432:441
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/get_header_tar.c:#if:#if ENABLE_FEATURE_TAR_UNAME_GNAME:472:475

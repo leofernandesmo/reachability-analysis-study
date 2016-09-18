@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_POWERTOP_PROCIRQ:55:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:# if:# if BLOATY_HPET_IRQ_NUM_DETECTION:72:76
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_POWERTOP_PROCIRQ:71:80
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:85:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:94:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:# if:# if BLOATY_HPET_IRQ_NUM_DETECTION:233:261
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:# if:# if BLOATY_HPET_IRQ_NUM_DETECTION:269:273
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_POWERTOP_PROCIRQ:229:389
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_POWERTOP_PROCIRQ:429:435
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#ifdef __i386__:491:515
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#ifdef __i386__:517:614
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:685:691
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_POWERTOP_PROCIRQ && BLOATY_HPET_IRQ_NUM_DETECTION:695:698
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:709:718
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if !ENABLE_FEATURE_USE_TERMIOS:742:754
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:#if:#if ENABLE_FEATURE_POWERTOP_PROCIRQ:819:826

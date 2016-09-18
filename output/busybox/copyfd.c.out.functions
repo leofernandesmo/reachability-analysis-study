@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copyfd.c:bb_copyfd_eof:157:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copyfd.c:bb_copyfd_exact_size:146:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copyfd.c:bb_copyfd_size:138:144
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copyfd.c:bb_full_fd_action:30:125

@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#if TEST_DEBUG:196:266
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#if ENABLE_FEATURE_TEST_64:369:373
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#if ENABLE_FEATURE_TEST_64:423:427
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#if ENABLE_FEATURE_TEST_64:430:434
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#ifdef S_IFLNK:636:641
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#ifdef S_IFIFO:668:672
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#ifdef S_IFSOCK:675:679
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:#if:#if TEST_DEBUG:767:771

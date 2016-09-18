@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if !ENABLE_FEATURE_FANCY_HEAD:40:42
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if !ENABLE_FEATURE_FANCY_HEAD:46:48
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_FEATURE_FANCY_HEAD:59:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if !ENABLE_FEATURE_FANCY_HEAD:129:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_FEATURE_FANCY_HEAD:135:140
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_FEATURE_FANCY_HEAD:146:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_FEATURE_FANCY_HEAD:157:165
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_INCLUDE_SUSv2 || ENABLE_FEATURE_FANCY_HEAD:172:182
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_FEATURE_FANCY_HEAD:187:197
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_INCLUDE_SUSv2 || ENABLE_FEATURE_FANCY_HEAD:200:202
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:#if:#if ENABLE_FEATURE_FANCY_HEAD:217:221

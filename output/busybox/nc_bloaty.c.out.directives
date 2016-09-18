@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:115:117
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_LFS:121:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:158:162
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:185:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if 0:195:199
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA && defined(IP_OPTIONS):439:453
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:490:521
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:533:582
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#ifdef SIGURG:765:767
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:803:806
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_SERVER:807:811
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#ifdef BLOAT:840:844
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if 0:865:868
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#ifdef BLOAT:870:877
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc_bloaty.c:#if:#if ENABLE_NC_EXTRA:883:886

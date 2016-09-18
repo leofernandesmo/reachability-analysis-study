@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngFileInitialize
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngFileOpenDlg
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngFileSaveDlg
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngLoadImage:#ifdef PNG_STDIO_SUPPORTED:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngSaveImage:#ifdef PNG_STDIO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_cexcept_error:#ifdef PNG_CONSOLE_IO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_flush:#ifndef PNG_STDIO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_read_data:#ifndef PNG_STDIO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_write_data:#ifndef PNG_STDIO_SUPPORTED

@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/process_escape_sequence.c:bb_process_escape_sequence:19:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/process_escape_sequence.c:strcpy_and_process_escape_sequences:100:112

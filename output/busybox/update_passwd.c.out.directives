@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/update_passwd.c:#if:#if ENABLE_SELINUX:18:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/update_passwd.c:#if:#if !(ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP):75:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/update_passwd.c:#if:#if ENABLE_FEATURE_SHADOWPASSWDS:92:96
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/update_passwd.c:#if:#if ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP:178:217
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/update_passwd.c:#if:#if ENABLE_FEATURE_ADDUSER_TO_GROUP || ENABLE_FEATURE_DEL_USER_FROM_GROUP:242:249

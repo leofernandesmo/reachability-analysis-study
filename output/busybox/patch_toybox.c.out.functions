@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:TOY_llist_free:74:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:TOY_llist_pop:59:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:apply_one_hunk:307:417
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:copy_tempfile:196:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:delete_tempfile:214:221
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:dlist_add:88:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:do_line:262:274
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:fail_hunk:282:298
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:finish_oldfile:276:280
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:get_line:151:159
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:get_rawline:134:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:patch_main:428:591
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:replace_tempfile:178:192
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:xmkpath:107:130
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_toybox.c:xsendfile:163:174

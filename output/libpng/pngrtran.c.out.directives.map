@@ -1,0 +1,46 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:convert_gamma_value:#  ifdef PNG_FLOATING_POINT_SUPPORTED:#  ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_build_grayscale_palette:#ifdef PNG_BUILD_GRAYSCALE_PALETTE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_chop:#ifdef PNG_READ_STRIP_16_TO_8_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_compose:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_GAMMA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_encode_alpha:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_expand:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_expand_16:#ifdef PNG_READ_EXPAND_16_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_expand_palette:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_gamma:#ifdef PNG_READ_GAMMA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_gray_to_rgb:#ifdef PNG_READ_GRAY_TO_RGB_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_quantize:#ifdef PNG_READ_QUANTIZE_SUPPORTED:#ifdef PNG_READ_QUANTIZE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_read_filler:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_read_intrapixel:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_MNG_FEATURES_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_read_invert_alpha:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_read_swap_alpha:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_read_transformations:#ifdef PNG_READ_EXPAND_SUPPORTED:#ifdef PNG_READ_STRIP_ALPHA_SUPPORTED:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#ifdef PNG_READ_GRAY_TO_RGB_SUPPORTED:#if (defined PNG_READ_BACKGROUND_SUPPORTED) ||\:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#if (defined PNG_READ_BACKGROUND_SUPPORTED) ||\:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#ifdef PNG_READ_STRIP_ALPHA_SUPPORTED:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:#ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:#ifdef PNG_READ_STRIP_16_TO_8_SUPPORTED:#ifdef PNG_READ_QUANTIZE_SUPPORTED:#ifdef PNG_READ_EXPAND_16_SUPPORTED:#ifdef PNG_READ_GRAY_TO_RGB_SUPPORTED:#ifdef PNG_READ_INVERT_SUPPORTED:#ifdef PNG_READ_SHIFT_SUPPORTED:#ifdef PNG_READ_PACK_SUPPORTED:#ifdef PNG_READ_CHECK_FOR_INVALID_INDEX_SUPPORTED:#ifdef PNG_READ_BGR_SUPPORTED:#ifdef PNG_READ_PACKSWAP_SUPPORTED:#ifdef PNG_READ_FILLER_SUPPORTED:#ifdef PNG_READ_INVERT_ALPHA_SUPPORTED:#ifdef PNG_READ_SWAP_ALPHA_SUPPORTED:#ifdef PNG_READ_SWAP_SUPPORTED:#ifdef PNG_READ_SWAP_SUPPORTED:#ifdef PNG_USER_TRANSFORM_PTR_SUPPORTED:#ifdef PNG_USER_TRANSFORM_PTR_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_rgb_to_gray:#if defined(PNG_READ_GAMMA_SUPPORTED) || defined(PNG_READ_BACKGROUND_SUPPORTED):#if defined(PNG_READ_GAMMA_SUPPORTED) || defined(PNG_READ_BACKGROUND_SUPPORTED):#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_scale_16_to_8:#ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_unpack:#ifdef PNG_READ_PACK_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_do_unshift:#ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_gamma_threshold:#ifdef PNG_READ_GAMMA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_init_palette_transformations:#ifdef PNG_READ_INVERT_ALPHA_SUPPORTED:#ifdef PNG_READ_INVERT_ALPHA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_init_read_transformations:#ifdef PNG_READ_GAMMA_SUPPORTED:#ifdef PNG_READ_STRIP_ALPHA_SUPPORTED:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:#if defined(PNG_READ_EXPAND_SUPPORTED) && \:#if defined(PNG_READ_BACKGROUND_SUPPORTED) && \:#if defined(PNG_READ_BACKGROUND_SUPPORTED) && \:#  ifdef PNG_READ_BACKGROUND_SUPPORTED:#  ifdef PNG_READ_BACKGROUND_SUPPORTED:#ifdef PNG_READ_BACKGROUND_SUPPORTED:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#ifdef PNG_READ_BACKGROUND_SUPPORTED:#ifdef PNG_READ_BACKGROUND_SUPPORTED:#ifdef PNG_READ_BACKGROUND_SUPPORTED:#ifdef PNG_READ_SHIFT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_init_rgb_transformations:#if defined(PNG_READ_EXPAND_SUPPORTED) && defined(PNG_READ_BACKGROUND_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_read_transform_info:#ifdef PNG_READ_EXPAND_SUPPORTED:#if defined(PNG_READ_BACKGROUND_SUPPORTED) ||\:#ifdef PNG_READ_GAMMA_SUPPORTED:#  ifdef PNG_READ_16BIT_SUPPORTED:#ifdef PNG_READ_GRAY_TO_RGB_SUPPORTED:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#ifdef PNG_READ_QUANTIZE_SUPPORTED:#ifdef PNG_READ_EXPAND_16_SUPPORTED:#ifdef PNG_READ_PACK_SUPPORTED:#ifdef PNG_READ_STRIP_ALPHA_SUPPORTED:#ifdef PNG_READ_FILLER_SUPPORTED:#if defined(PNG_USER_TRANSFORM_PTR_SUPPORTED) && \:#ifndef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_alpha_mode:#  ifdef PNG_FLOATING_POINT_SUPPORTED:#  ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_alpha_mode_fixed
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_background:#  ifdef PNG_FLOATING_POINT_SUPPORTED:#  ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_background_fixed
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_crc_action
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_expand:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_expand_16:#ifdef PNG_READ_EXPAND_16_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_expand_gray_1_2_4_to_8:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_gamma:#  ifdef PNG_FLOATING_POINT_SUPPORTED:#  ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_gamma_fixed:#if PNG_LIBPNG_VER >= 10600
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_gray_to_rgb:#ifdef PNG_READ_GRAY_TO_RGB_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_palette_to_rgb:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_quantize:#ifdef PNG_READ_QUANTIZE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_read_user_transform_fn:#ifdef PNG_READ_USER_TRANSFORM_SUPPORTED:#ifdef PNG_READ_USER_TRANSFORM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_rgb_to_gray:#ifdef PNG_FLOATING_POINT_SUPPORTED:#ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_rgb_to_gray_fixed:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_scale_16:#ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_strip_16:#ifdef PNG_READ_STRIP_16_TO_8_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_strip_alpha:#ifdef PNG_READ_STRIP_ALPHA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:png_set_tRNS_to_alpha:#ifdef PNG_READ_EXPAND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrtran.c:translate_gamma_flags

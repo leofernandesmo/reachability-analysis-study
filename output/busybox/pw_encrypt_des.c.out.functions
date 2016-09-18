@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:ascii_to_bin:205:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:const_des_init:239:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:des_crypt:716:774
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:des_init:353:483
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:des_setkey:510:590
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:do_des:594:695
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:setup_salt:487:507
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt_des.c:to64_msb_first:700:712

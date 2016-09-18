@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/executable.c:BB_EXECVP:78:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/executable.c:BB_EXECVP_or_die:86:92
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/executable.c:executable_exists:66:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/executable.c:file_is_executable:16:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/executable.c:find_executable:31:60

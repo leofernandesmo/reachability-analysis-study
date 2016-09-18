@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_check_sig
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_cleanup
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_decode_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_end_callback
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_error_handler
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_info_callback:#ifdef PNG_FLOATING_POINT_SUPPORTED:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:#ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_init:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_row_callback
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_version_info

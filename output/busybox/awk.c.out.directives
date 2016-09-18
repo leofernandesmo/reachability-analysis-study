@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/awk.c:#if:#ifndef debug_printf_walker:63:65
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/awk.c:#if:#ifndef debug_printf_eval:66:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/awk.c:#if:#ifndef debug_printf_parse:69:71
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/awk.c:#if:#if ENABLE_FEATURE_AWK_GNU_EXTENSIONS:3144:3146
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/awk.c:#if:#if ENABLE_FEATURE_AWK_GNU_EXTENSIONS:3236:3240

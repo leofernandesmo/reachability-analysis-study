@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetversion.c:#if:#ifdef HAVE_ERRNO_H:20:22
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetversion.c:#if:#ifdef HAVE_UNISTD_H:23:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetversion.c:#if:#ifdef O_LARGEFILE:31:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetversion.c:#if:#ifdef HAVE_EXT2_IOCTLS:47:69

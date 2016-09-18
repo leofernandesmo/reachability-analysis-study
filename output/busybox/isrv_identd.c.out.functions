@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv_identd.c:do_rd:49:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv_identd.c:do_timeout:88:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv_identd.c:fakeidentd_main:104:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv_identd.c:inetd_mode:93:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/isrv_identd.c:new_peer:33:47

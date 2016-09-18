@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#if:#ifdef HAVE_GCRYPT_ECC:587:592
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#if:#ifdef HAVE_GCRYPT_ECC:730:735
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#if:#ifdef HAVE_GCRYPT_ECC:1037:1041
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#if:#ifdef DEBUG_CRYPTO:1501:1504
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#if:#ifdef DEBUG_CRYPTO:1534:1537
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#if:#ifdef WITH_SERVER:1722:1789
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki_gcrypt.c:#ifdef:#ifdef WITH_SERVER:1722:1791

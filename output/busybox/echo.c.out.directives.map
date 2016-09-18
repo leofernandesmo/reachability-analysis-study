@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/echo.c:bb_process_escape_sequence:#ifdef WANT_HEX_ESCAPES:#ifdef WANT_HEX_ESCAPES:#ifdef WANT_HEX_ESCAPES
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/echo.c:main

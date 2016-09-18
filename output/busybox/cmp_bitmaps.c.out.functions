@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/cmp_bitmaps.c:ext2fs_compare_block_bitmap:30:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/cmp_bitmaps.c:ext2fs_compare_inode_bitmap:52:72

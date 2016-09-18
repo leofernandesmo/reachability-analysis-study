@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:#if:#ifndef BOND_ABI_VERSION:136:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:#if:#ifndef IFNAMSIZ:139:141
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:#if:#if (SIOCGIFADDR | SIOCSIFADDR \:246:253
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:#if:#if ENABLE_LONG_OPTS:485:494
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:#if:#ifdef WHY_BOTHER:546:557

@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc.c:#if:#if 0  /* nc-1.10 does not do this (without -v) */:186:196
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nc.c:#if:#if ENABLE_NC_110_COMPAT:45:279

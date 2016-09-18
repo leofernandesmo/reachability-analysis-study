@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:bb_delete_module:182:187
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:bb_init_module:144:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:filename2modname:48:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:moderror:189:206
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:parse_cmdline_module_options:69:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:replace:19:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:replace_underscores:28:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:string_to_llist:34:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils.c:try_to_mmap_module:106:136

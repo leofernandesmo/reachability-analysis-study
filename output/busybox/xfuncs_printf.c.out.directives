@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:#if:#ifndef DMALLOC:30:63
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:# if:# ifdef AF_PACKET:426:428
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:# if:# ifdef AF_NETLINK:429:431
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:# ifdef:# ifdef AF_NETLINK:429:436
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:#if:#if ENABLE_SELINUX:488:497
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:#if:#if ENABLE_IOCTL_HEX2STR_ERROR:529:567
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:#if:#if BB_MMU:641:650

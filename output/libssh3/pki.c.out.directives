@@ -1,0 +1,24 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:# if:# if _MSC_VER >= 1400:44:54
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef _WIN32:43:55
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:69:81
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef HAVE_OPENSSL_ECC /* FIXME Better ECC check needed */:112:117
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef HAVE_OPENSSL_ECC:156:158
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#ifdef:#ifdef HAVE_OPENSSL_ECC:156:159
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef HAVE_LIBGCRYPT:351:355
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef HAVE_LIBGCRYPT:359:363
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#if defined(HAVE_LIBCRYPTO) && defined(HAVE_OPENSSL_ECC):366:368
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:703:707
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:740:743
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef HAVE_ECC:754:787
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef HAVE_ECC:1062:1071
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:1393:1396
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1393:1403
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:1410:1412
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:1466:1468
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1466:1471
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:1510:1512
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifndef _WIN32:1530:1580
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:1610:1612
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1610:1618
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#if:#ifdef DEBUG_CRYPTO:1647:1649
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1647:1665

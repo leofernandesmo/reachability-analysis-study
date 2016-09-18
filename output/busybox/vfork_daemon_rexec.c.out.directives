@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:#if:#ifdef __GLIBC__:122:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:#if:#ifdef __GLIBC__:159:163
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:#ifdef:#ifdef __GLIBC__:159:167
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:# if:# if BB_MMU:176:178
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:# if:# if BB_MMU:180:182
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:# if:# if BB_MMU:186:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:#if:#if ENABLE_FEATURE_PREFER_APPLETS:172:197
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/vfork_daemon_rexec.c:#if:#if !BB_MMU:202:224

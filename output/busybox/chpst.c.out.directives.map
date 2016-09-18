@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/chpst.c:chpst_main:#ifdef RLIMIT_DATA:#ifdef RLIMIT_STACK:#ifdef RLIMIT_MEMLOCK:#ifdef RLIMIT_AS:#ifdef RLIMIT_AS:#ifdef RLIMIT_OFILE:#ifdef RLIMIT_OFILE:#ifdef RLIMIT_NPROC:#ifdef RLIMIT_FSIZE:#ifdef RLIMIT_CORE:#ifdef RLIMIT_RSS:#ifdef RLIMIT_CPU
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/chpst.c:edir
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/chpst.c:limit

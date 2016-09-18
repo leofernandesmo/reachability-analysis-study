@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:add_to_dirlist:808:820
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:create_J:464:608
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:diff:610:719
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:diff_main:973:1052
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:diffdir:857:947
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:diffreg:721:783
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:equiv:376:400
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:fetch:425:448
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:isqrt:299:308
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:line_compar:413:423
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:print_status:785:798
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:read_token:215:269
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:search:277:297
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:seek_ft:204:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:skip_dir:825:855
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:stone:310:363
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:unsort:402:411

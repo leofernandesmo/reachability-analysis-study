@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/lsattr.c:list_attributes:44:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/lsattr.c:lsattr_args:73:85
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/lsattr.c:lsattr_dir_proc:87:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/lsattr.c:lsattr_main:116:129

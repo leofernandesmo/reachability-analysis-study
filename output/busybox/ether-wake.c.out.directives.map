@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:bb_debug_dump_packet:#ifdef DEBUG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:ether_wake_main:# ifdef DEBUG:# ifdef DEBUG:#if defined(PF_PACKET)
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:fill_pkt_header
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:get_dest_addr:#if !defined(__UCLIBC__) || UCLIBC_VERSION >= KERNEL_VERSION(0, 9, 30)
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:get_wol_pw

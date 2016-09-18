@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/watchdog.c:# if:# if defined WDIOC_SETOPTIONS && defined WDIOS_ENABLECARD:84:89
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/watchdog.c:#if:#ifndef WDIOC_SETTIMEOUT:81:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/watchdog.c:#if:#if 0:93:97

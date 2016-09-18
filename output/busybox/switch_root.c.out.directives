@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/switch_root.c:#if:#ifndef RAMFS_MAGIC:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/switch_root.c:#if:#ifndef TMPFS_MAGIC:24:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/switch_root.c:#if:#ifndef MS_MOVE:27:29

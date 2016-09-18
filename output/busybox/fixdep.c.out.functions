@@ -1,0 +1,14 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:clear_config:196:200
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:define_config:184:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:do_config_file:283:312
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:grow_config:152:161
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:is_defined_config:168:179
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:main:399:414
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:parse_config_file:226:269
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:parse_dep_file:314:352
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:print_cmdline:139:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:print_deps:354:384
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:strrcmp:272:281
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:traps:386:397
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:usage:129:134
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/fixdep.c:use_config:205:224

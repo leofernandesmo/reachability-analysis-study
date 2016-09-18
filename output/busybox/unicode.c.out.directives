@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#if:#ifndef unicode_status:13:15
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:# if:# if ENABLE_FEATURE_CHECK_UNICODE_IN_ENV:68:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:# if:# if CONFIG_LAST_SUPPORTED_WCHAR >= 0x300:274:327
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:# if:# if CONFIG_LAST_SUPPORTED_WCHAR >= 0x300:454:604
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#   if:#   if CONFIG_LAST_SUPPORTED_WCHAR >= 0x10000:646:668
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#   if:#   if CONFIG_LAST_SUPPORTED_WCHAR >= 0xac00:678:686
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#  if:#  if CONFIG_LAST_SUPPORTED_WCHAR >= 0x1100:631:688
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:# if:# if CONFIG_LAST_SUPPORTED_WCHAR >= 0x300:620:689
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#  if:#  if ENABLE_UNICODE_NEUTRAL_TABLE:776:979
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:# if:# if ENABLE_UNICODE_BIDI_SUPPORT:693:981
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#if:#if ENABLE_UNICODE_USING_LOCALE:22:983
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#if:#if ENABLE_UNICODE_USING_LOCALE:1050:1081
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#if:#if ENABLE_UNICODE_USING_LOCALE:1105:1112
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#if:#if ENABLE_UNICODE_USING_LOCALE:1158:1169
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/unicode.c:#if:#ifdef UNUSED:1142:1178

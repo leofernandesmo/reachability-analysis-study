@@ -1,0 +1,12 @@
+__bswap_32:
+__uint64_t:
+__bswap_32:def(HAVE_PTHREAD);
+__uint64_t:def(HAVE_PTHREAD);
+__bswap_32:def(HAVE_PTHREAD);
+__uint64_t:def(HAVE_PTHREAD);
+ssh_pthread_mutex_init:def(HAVE_PTHREAD);
+ssh_pthread_mutex_destroy:def(HAVE_PTHREAD);
+ssh_pthread_mutex_lock:def(HAVE_PTHREAD);
+ssh_pthread_mutex_unlock:def(HAVE_PTHREAD);
+ssh_pthread_thread_id:def(HAVE_PTHREAD);
+ssh_threads_callbacks_struct:def(HAVE_PTHREAD);

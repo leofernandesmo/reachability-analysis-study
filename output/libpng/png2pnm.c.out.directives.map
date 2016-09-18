@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:main:#ifdef __TURBOC__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:png2pnm
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:usage:#ifdef __TURBOC__

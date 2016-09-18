@@ -1,0 +1,31 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):40:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(HAVE_ANY_OP):47:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):50:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):56:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:# if:# if !defined(LZO_UNALIGNED_OK_4):103:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:# if:# if !defined(LZO_UNALIGNED_OK_4):125:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO_UNALIGNED_OK_4) || defined(LZO_ALIGNED_OK_4):102:128
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if !defined(LZO_UNALIGNED_OK_4):129:136
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):143:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):152:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):142:165
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1X):173:188
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1X):190:214
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):172:217
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):232:237
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):239:251
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):231:252
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):256:261
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):274:278
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):283:285
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):287:293
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):298:300
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):273:301
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):305:310
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):314:322
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):304:326
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:# if:# if !defined(LZO_UNALIGNED_OK_4):340:345
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO_UNALIGNED_OK_4) || defined(LZO_ALIGNED_OK_4):339:356
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(COPY_DICT):331:363
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if defined(LZO1Z):366:370
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/lzo1x_d.c:#if:#if 0:380:389

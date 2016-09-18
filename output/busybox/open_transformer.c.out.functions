@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:check_errors_in_children:71:100
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:check_signature16:14:28
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:fork_transformer:104:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:init_transformer_state:9:12
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:open_transformer:256:280
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:open_zipped:282:303
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:setup_transformer_on_fd:164:233
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:setup_unzip_on_fd:238:254
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:transformer_write:30:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:xmalloc_open_zipped_read_close:305:350
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:xtransformer_write:62:69

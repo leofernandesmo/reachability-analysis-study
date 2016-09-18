@@ -1,0 +1,32 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:PNG_FUNCTION:#ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:PNG_FUNCTION:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_SETJMP_SUPPORTED:#ifdef USE_FAR_KEYWORD:#ifdef USE_FAR_KEYWORD:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_SET_USER_LIMITS_SUPPORTED:#ifdef USE_FAR_KEYWORD:#ifdef USE_FAR_KEYWORD:#ifdef USE_FAR_KEYWORD:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_convert_from_struct_tm:#ifdef PNG_CONVERT_tIME_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_convert_from_time_t:#ifdef PNG_CONVERT_tIME_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_destroy_write_struct:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_init_filter_heuristics
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_reset_filter_heuristics
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_compression_level
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_compression_mem_level
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_compression_method
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_compression_strategy
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_compression_window_bits:#ifndef WBITS_8_OK
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_filter:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_WRITE_FILTER_SUPPORTED:#ifdef PNG_WRITE_FILTER_SUPPORTED:#ifdef PNG_WRITE_FILTER_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_filter_heuristics:#ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_filter_heuristics_fixed:#ifdef PNG_FIXED_POINT_SUPPORTED:#ifdef PNG_FIXED_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_flush:#ifdef PNG_WRITE_FLUSH_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_text_compression_level
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_text_compression_mem_level
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_text_compression_method:#ifndef WBITS_8_OK
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_text_compression_strategy
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_text_compression_window_bits:#ifndef WBITS_8_OK:#ifndef WBITS_8_OK
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_write_status_fn
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_set_write_user_transform_fn:#ifdef PNG_WRITE_USER_TRANSFORM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_destroy:#ifdef PNG_SETJMP_SUPPORTED:#ifdef PNG_WARNINGS_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_WRITE_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_SETJMP_SUPPORTED:#ifdef PNG_WARNINGS_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_WARNINGS_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_SETJMP_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_end:#ifdef PNG_WRITE_CHECK_FOR_INVALID_INDEX_SUPPORTED:#ifdef PNG_WRITE_TEXT_SUPPORTED:#ifdef PNG_WRITE_tIME_SUPPORTED:#ifdef PNG_WRITE_iTXt_SUPPORTED:#ifdef PNG_WRITE_zTXt_SUPPORTED:#ifdef PNG_WRITE_tEXt_SUPPORTED:#ifdef PNG_WRITE_tEXt_SUPPORTED:#ifdef PNG_WRITE_UNKNOWN_CHUNKS_SUPPORTED:#  ifdef PNG_WRITE_FLUSH_AFTER_IEND_SUPPORTED:#  ifdef PNG_WRITE_FLUSH_AFTER_IEND_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_flush:#ifdef PNG_WRITE_FLUSH_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_image:#ifdef PNG_WRITE_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_info:#if defined(PNG_WRITE_TEXT_SUPPORTED) || defined(PNG_WRITE_sPLT_SUPPORTED):#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:#ifdef PNG_WRITE_bKGD_SUPPORTED:#ifdef PNG_WRITE_hIST_SUPPORTED:#ifdef PNG_WRITE_oFFs_SUPPORTED:#ifdef PNG_WRITE_pCAL_SUPPORTED:#ifdef PNG_WRITE_sCAL_SUPPORTED:#ifdef PNG_WRITE_pHYs_SUPPORTED:#ifdef PNG_WRITE_tIME_SUPPORTED:#ifdef PNG_WRITE_sPLT_SUPPORTED:#ifdef PNG_WRITE_iTXt_SUPPORTED:#ifdef PNG_WRITE_zTXt_SUPPORTED:#ifdef PNG_WRITE_tEXt_SUPPORTED:#ifdef PNG_WRITE_tEXt_SUPPORTED:#ifdef PNG_WRITE_UNKNOWN_CHUNKS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_info_before_PLTE:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:#ifdef PNG_WRITE_gAMA_SUPPORTED:#ifdef PNG_WRITE_sRGB_SUPPORTED:#ifdef PNG_WRITE_iCCP_SUPPORTED:#ifdef PNG_WRITE_sBIT_SUPPORTED:#ifdef PNG_WRITE_cHRM_SUPPORTED:#ifdef PNG_WRITE_UNKNOWN_CHUNKS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_png:#ifdef PNG_WRITE_INVERT_SUPPORTED:#ifdef PNG_WRITE_SHIFT_SUPPORTED:#ifdef PNG_WRITE_PACK_SUPPORTED:#ifdef PNG_WRITE_SWAP_ALPHA_SUPPORTED:#ifdef PNG_WRITE_FILLER_SUPPORTED:#ifdef PNG_WRITE_BGR_SUPPORTED:#ifdef PNG_WRITE_SWAP_SUPPORTED:#ifdef PNG_WRITE_PACKSWAP_SUPPORTED:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:#ifdef PNG_WRITE_PACKSWAP_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_row:#if !defined(PNG_WRITE_INVERT_SUPPORTED) && defined(PNG_READ_INVERT_SUPPORTED):#if !defined(PNG_WRITE_FILLER_SUPPORTED) && defined(PNG_READ_FILLER_SUPPORTED):#if !defined(PNG_WRITE_PACKSWAP_SUPPORTED) && \:#if !defined(PNG_WRITE_PACK_SUPPORTED) && defined(PNG_READ_PACK_SUPPORTED):#if !defined(PNG_WRITE_SHIFT_SUPPORTED) && defined(PNG_READ_SHIFT_SUPPORTED):#if !defined(PNG_WRITE_BGR_SUPPORTED) && defined(PNG_READ_BGR_SUPPORTED):#if !defined(PNG_WRITE_SWAP_SUPPORTED) && defined(PNG_READ_SWAP_SUPPORTED):#ifdef PNG_WRITE_INTERLACING_SUPPORTED:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:#ifdef PNG_WRITE_TRANSFORMS_SUPPORTED:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_WRITE_CHECK_FOR_INVALID_INDEX_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:png_write_rows

@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifndef _WIN32:29:32
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_GSSAPI:285:288
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SSH1:326:330
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SSH1:357:361
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SSH1:457:461
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SSH1:566:570
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifndef _WIN32:647:848
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifndef _WIN32:921:927
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SSH1:1114:1119
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifndef _WIN32:1174:1202
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SSH1:1531:1535
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_SERVER:1669:1703
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth.c:#if:#ifdef WITH_GSSAPI:1771:1808

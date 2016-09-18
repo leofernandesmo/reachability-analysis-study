@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:alarm_handler:517:521
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:auto_baud:390:435
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:bcode:127:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:finalize_tty_attrs:310:387
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:get_logname:440:515
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:getty_main:524:711
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:init_tty_attrs:235:308
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:open_tty:190:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:parse_args:155:187
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:parse_speeds:136:152
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:set_tty_attrs:222:226

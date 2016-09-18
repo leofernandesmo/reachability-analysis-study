@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_cleanup:300:312
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_get_bgcolor:155:200
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_get_image:207:297
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_init:88:147
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:readpng_version_info:77:83

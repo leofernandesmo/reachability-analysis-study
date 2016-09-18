@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:dprintf:67:81
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:getline:170:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:memrchr:90:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:mkdtemp:108:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:stpcpy:159:166
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:strcasestr:118:128
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:strchrnul:12:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:strsep:133:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:usleep:21:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:vasprintf:39:62

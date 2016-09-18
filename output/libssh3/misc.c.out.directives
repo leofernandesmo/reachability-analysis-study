@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef HAVE_SYS_TIME_H:36:38
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#ifdef:#ifdef HAVE_SYS_TIME_H:36:40
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifndef _WIN32_IE:53:55
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#if _MSC_VER >= 1400:62:64
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#ifndef:#ifndef _WIN32_IE:53:66
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef HAVE_LIBGCRYPT:72:76
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef HAVE_LIBCRYPTO:78:82
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef WITH_ZLIB:84:88
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifndef NSS_BUFLEN_PASSWD:205:207
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#ifndef:#ifndef NSS_BUFLEN_PASSWD:205:291
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef WORDS_BIGENDIAN:295:306
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#ifdef:#ifdef WORDS_BIGENDIAN:295:308
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef _WIN32:626:630
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef _WIN32:656:674
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef _POSIX_MONOTONIC_CLOCK:888:892
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/misc.c:#if:#ifdef HAVE_CLOCK_GETTIME:900:908

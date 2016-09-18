@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_UNCOMPRESS || ENABLE_BUNZIP2 || ENABLE_UNLZMA || ENABLE_UNXZ:193:206
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_UNCOMPRESS:230:239
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_FEATURE_SEAMLESS_Z:309:311
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_GUNZIP:298:352
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_BUNZIP2:389:400
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:# if:# if ENABLE_LZMA:488:492
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_UNLZMA:483:500
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:# if:# if ENABLE_XZ:526:530
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:#if:#if ENABLE_UNXZ:521:538

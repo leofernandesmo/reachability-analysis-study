@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getpty.c:# if:# ifndef HAVE_PTSNAME_R:22:37
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getpty.c:# ifndef:# ifndef HAVE_PTSNAME_R:22:64

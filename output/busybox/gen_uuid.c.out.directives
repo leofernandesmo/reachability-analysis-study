@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_SYS_IOCTL_H:45:47
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_SYS_SOCKIO_H:49:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_NET_IF_H:52:54
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_NETINET_IN_H:55:57
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_NET_IF_DL_H:58:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_SRANDOM:64:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_NET_IF_DL_H:134:136
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifndef max:145:147
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#ifndef:#ifndef max:145:152
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef HAVE_NET_IF_DL_H:179:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#ifdef:#ifdef HAVE_NET_IF_DL_H:179:192
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#if:#ifdef SIOCGENADDR:174:193
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:#ifdef:#ifdef SIOCGENADDR:174:203

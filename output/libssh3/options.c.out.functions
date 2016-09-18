@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_bind_options_set:1387:1564
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_bind_set_key:1304:1318
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_apply:1243:1295
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_copy:64:163
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_get:940:989
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_get_port:884:897
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_getopt:1012:1182
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_parse_config:1200:1241
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_set:382:868
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:ssh_options_set_algo:165:182

@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/seq.c:#if:#if ENABLE_LOCALE_SUPPORT:36:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/seq.c:#if:#if ENABLE_LOCALE_SUPPORT:63:65

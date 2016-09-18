@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:check_skip:#ifdef XZ_DEC_ANY_CHECK
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:crc32_validate
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_block:#ifdef XZ_DEC_BCJ:#ifdef XZ_DEC_ANY_CHECK
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_block_header:#ifdef XZ_DEC_BCJ:#ifdef XZ_DEC_BCJ
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_index
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_main:#ifdef XZ_DEC_ANY_CHECK
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_stream_footer
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_stream_header:#ifdef XZ_DEC_ANY_CHECK
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:dec_vli
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:fill_temp
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:index_update
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:xz_dec_end:#ifdef XZ_DEC_BCJ
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:xz_dec_init:#ifdef XZ_DEC_BCJ:#ifdef XZ_DEC_BCJ
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:xz_dec_reset
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_stream.c:xz_dec_run

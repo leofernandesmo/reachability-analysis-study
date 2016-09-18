@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/mconf.c:#if:#ifdef SIGWINCH:448:456
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/mconf.c:#if:#ifdef SIGWINCH:469:477
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/mconf.c:#if:#if 0:521:524

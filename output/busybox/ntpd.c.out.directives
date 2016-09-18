@@ -1,0 +1,39 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifndef IPTOS_LOWDELAY:59:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:312:318
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP:388:392
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:503:524
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0:563:683
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_IPV6:825:827
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0 /* we filter out such packets earlier */:1035:1042
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP:1356:1358
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP || USING_INITIAL_FREQ_ESTIMATION:1359:1361
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0:1366:1373
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP || USING_INITIAL_FREQ_ESTIMATION:1389:1391
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP:1392:1394
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:# if:# if !USING_KERNEL_PLL_LOOP:1403:1405
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if USING_INITIAL_FREQ_ESTIMATION:1395:1407
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0:1413:1444
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if USING_INITIAL_FREQ_ESTIMATION:1480:1485
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if USING_INITIAL_FREQ_ESTIMATION:1513:1521
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0 /* this is dead code for now */:1525:1534
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if USING_INITIAL_FREQ_ESTIMATION:1536:1544
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP:1547:1570
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if !USING_KERNEL_PLL_LOOP:1594:1612
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0:1622:1630
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if 0:1885:1902
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:1950:2016
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:2134:2136
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_CONF:2145:2162
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:2169:2180
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:2257:2263
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:2341:2350
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifdef STA_NANO:2407:2411
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#ifdef:#ifdef STA_NANO:2407:2414
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifdef KERNEL_PLL:2427:2445
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifdef STA_NANO:2487:2491
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifdef STA_NANO:2496:2502
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifdef STA_NANO:2538:2542
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#ifdef STA_NANO:2549:2553
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#if:#if defined(STA_NANO) && NTP_API == 4:2556:2566
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#ifdef:#ifdef STA_NANO:2549:2568
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:#ifdef:#ifdef STA_NANO:2538:2569

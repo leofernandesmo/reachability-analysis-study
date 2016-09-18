@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/probe.c:#if:#ifdef HAVE_SYS_STAT_H:22:24
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/probe.c:#if:#ifdef HAVE_SYS_MKDEV_H:25:27
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/probe.c:#if:#ifdef HAVE_ERRNO_H:28:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/probe.c:#if:#ifdef TEST_PROGRAM:693:726

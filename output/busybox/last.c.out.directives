@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last.c:#if:#ifndef SHUTDOWN_TIME:25:27
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last.c:#if:#if defined UT_LINESIZE \:33:39
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last.c:#if:#if EMPTY != 0 || RUN_LVL != 1 || BOOT_TIME != 2 || NEW_TIME != 3 || \:41:44
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last.c:#if:#if 1:84:96

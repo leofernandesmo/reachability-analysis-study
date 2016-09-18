@@ -1,0 +1,54 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:ElfW:#if defined(USE_LIST)
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:ElfW
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:add_kernel_symbols
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:add_ksymoops_symbols:#ifdef _NOT_SUPPORTED_:#ifdef _NOT_SUPPORTED_
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:add_symbols_from:#ifdef SYMBOL_PREFIX:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE:#ifdef SYMBOL_PREFIX:#ifdef SYMBOL_PREFIX
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_apply_relocation:#if defined(__arm__) || defined(__i386__) || defined(__mc68000__) \:#if defined(__arm__) || defined(__H8300H__) || defined(__H8300S__) \:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES):#if defined(USE_GOT_ENTRIES):#if defined(__arm__) || defined(__i386__) || defined(__mc68000__) \:# if defined(USE_PLT_LIST):#if defined(USE_PLT_ENTRIES):# ifdef R_68K_GOTOFF:# ifndef R_390_GOTOFF32:# if defined(__SH5__):# if 0:# ifndef R_390_GOTOFF32:#if defined(USE_PLT_LIST):#if defined(__arm__):#if defined(__powerpc__):#if defined(__v850e__):#if defined(__arm__) || defined(__powerpc__):#if defined(__v850e__):#if defined(__arm__):#if defined(__powerpc__):#if defined(__v850e__):#if defined(USE_PLT_ENTRIES):#if defined(__sh__):#if defined(USE_GOT_ENTRIES)
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_create_got:#if defined(USE_GOT_ENTRIES):#if defined(USE_PLT_ENTRIES):#if defined(USE_GOT_ENTRIES):#if defined(USE_PLT_ENTRIES):#ifdef R_68K_GOTOFF:#ifdef R_68K_GOTOFF:#if defined(USE_GOT_ENTRIES):#if defined(USE_PLT_LIST):#if defined(USE_PLT_ENTRIES):#if defined(USE_GOT_ENTRIES):#if defined(USE_PLT_ENTRIES):#if defined(__arm__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_new_file
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_new_section
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_new_symbol
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_single_init:#if defined(USE_SINGLE)
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:arch_xsect_init:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES)
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:bb_init_module_24:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS:#if !LOADBITS
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:check_tainted_module:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:get_modinfo_value
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:get_module_version:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:helper_create_alloced_section
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:hide_special_symbols
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:ncv_strcmp:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:ncv_symbol_hash:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_add_ksymtab:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_create_module_ksymtab
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_create_this_module
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_get_kernel_symbols
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_get_module_version:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_init_module
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_is_kernel_checksummed
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_is_module_checksummed:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:new_process_module_arguments:#ifdef SYMBOL_PREFIX
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:next_arg
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_add_symbol
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_allocate_commons
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_check_undefineds
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_create_alloced_section
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_create_alloced_section_first
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_create_image
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_elf_hash
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_elf_hash_n
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_extend_section
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_find_section
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_find_symbol
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_gpl_license:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_insert_section_load_order
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_load:#if BB_LITTLE_ENDIAN:#if LOADBITS:#if defined(__mips__):#if SHT_RELM == SHT_REL:#if defined(__SH5__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_load_order_prio
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_load_progbits:#if ENABLE_FEATURE_INSMOD_LOADINKMEM
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_load_size
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_relocate:#if defined(__alpha__) && defined(AXP_BROKEN_GAS):#if SHT_RELM == SHT_RELA
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_set_symbol_compare:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_string_patch
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:obj_symbol_patch
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:print_load_map:#if ENABLE_FEATURE_INSMOD_LOAD_MAP_FULL:#if ENABLE_FEATURE_INSMOD_LOAD_MAP_FULL:#if ENABLE_FEATURE_INSMOD_LOAD_MAP
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:print_load_map:#if ENABLE_FEATURE_INSMOD_LOAD_MAP
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:set_tainted:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE

@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_allocate_block_bitmap
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_allocate_generic_bitmap
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_allocate_inode_bitmap
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_clear_block_bitmap
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_clear_inode_bitmap
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_copy_bitmap
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_fudge_block_bitmap_end
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_fudge_inode_bitmap_end
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:ext2fs_set_bitmap_padding
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitmaps.c:make_bitmap

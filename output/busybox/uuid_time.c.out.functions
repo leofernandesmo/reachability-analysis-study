@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/uuid_time.c:main:110:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/uuid_time.c:uuid_time:46:66
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/uuid_time.c:uuid_type:68:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/uuid_time.c:uuid_variant:76:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/uuid_time.c:variant_string:94:106

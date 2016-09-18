@@ -1,0 +1,1 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_bswap_64.c:bb_bswap_64:#if !(ULONG_MAX > 0xffffffff)

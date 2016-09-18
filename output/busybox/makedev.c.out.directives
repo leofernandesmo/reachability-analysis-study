@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/makedev.c:#if:#if defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__) \:13:19
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/makedev.c:#if:#ifdef __GLIBC__:21:31

@@ -1,0 +1,26 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef __linux__:117:120
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if DEBUG_SEGV_HANDLER:123:130
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifndef CBAUD:134:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifndef INIT_SCRIPT:146:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_INIT_SYSLOG:229:267
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef VT_OPENQRY:277:279
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef VT_OPENQRY:303:313
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef __linux__:336:339
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifndef CRTSCTS:342:344
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef CUSTOMIZED_BANNER:489:491
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_USE_INITTAB:654:659
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_USE_INITTAB:681:712
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef RB_ENABLE_CAD:842:847
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_KILL_REMOVED:917:933
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_USE_INITTAB:899:959
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_USE_INITTAB:972:975
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef SIGPWR:983:985
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if DEBUG_SEGV_HANDLER:995:1020
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if DEBUG_SEGV_HANDLER:1029:1040
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef RB_DISABLE_CAD:1049:1053
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if !ENABLE_FEATURE_EXTRA_QUIET:1080:1083
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:# if:# ifdef __linux__:1089:1105
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:# ifdef:# ifdef __linux__:1089:1106
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_SELINUX:1125:1139
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#ifdef SIGPWR:1171:1173
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/init.c:#if:#if ENABLE_FEATURE_USE_INITTAB:1177:1179

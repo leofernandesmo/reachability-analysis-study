@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:40:47
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifndef:#ifndef _WIN32:49:52
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:244:248
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:607:609
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:618:658
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:663:671
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:685:693

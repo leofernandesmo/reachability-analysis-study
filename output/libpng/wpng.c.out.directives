@@ -1,0 +1,18 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#  if:#  ifndef __GNUC__   /* treat Win32 native ports of gcc as Unix environments */:97:99
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#  ifndef:#  ifndef __GNUC__   /* treat Win32 native ports of gcc as Unix environments */:97:100
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#  if:#  ifdef __EMX__:111:122
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#  ifdef:#  ifdef __EMX__:111:127
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef DOS_OS2_W32:144:146
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifndef DOS_OS2_W32:156:158
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef sgi:159:162
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#if defined(NeXT):198:227
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef DOS_OS2_W32:306:310
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifndef DOS_OS2_W32:438:440
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef FORBID_LATIN1_CTRL:467:475
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef FORBID_LATIN1_CTRL:497:505
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef FORBID_LATIN1_CTRL:537:545
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef FORBID_LATIN1_CTRL:567:575
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef FORBID_LATIN1_CTRL:597:605
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef FORBID_LATIN1_CTRL:627:635
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifndef DOS_OS2_W32:640:642
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:#if:#ifdef DOS_OS2_W32:833:853

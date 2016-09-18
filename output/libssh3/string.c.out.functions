@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_burn:244:250
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_copy:216:237
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_data:259:265
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_fill:82:91
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_free:272:274
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_free_char:204:206
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_from_char:103:122
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_get_char:155:163
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_len:131:144
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_new:53:69
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/string.c:ssh_string_to_char:176:197

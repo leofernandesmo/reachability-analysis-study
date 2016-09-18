@@ -1,0 +1,21 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_get_progressive_ptr:#ifdef PNG_READ_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_process_IDAT_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_process_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_process_data_pause
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_process_data_skip
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_process_some_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_progressive_combine_row:#ifdef PNG_READ_INTERLACING_SUPPORTED:#ifdef PNG_READ_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_crc_finish
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_crc_skip
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_fill_buffer
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_have_end
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_have_info
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_have_row
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_process_row:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:#ifdef PNG_READ_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_read_IDAT
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_read_chunk:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:#ifdef PNG_READ_gAMA_SUPPORTED:#ifdef PNG_READ_sBIT_SUPPORTED:#ifdef PNG_READ_cHRM_SUPPORTED:#ifdef PNG_READ_sRGB_SUPPORTED:#ifdef PNG_READ_iCCP_SUPPORTED:#ifdef PNG_READ_sPLT_SUPPORTED:#ifdef PNG_READ_tRNS_SUPPORTED:#ifdef PNG_READ_bKGD_SUPPORTED:#ifdef PNG_READ_hIST_SUPPORTED:#ifdef PNG_READ_pHYs_SUPPORTED:#ifdef PNG_READ_oFFs_SUPPORTED:#ifdef PNG_READ_pCAL_SUPPORTED:#ifdef PNG_READ_sCAL_SUPPORTED:#ifdef PNG_READ_tIME_SUPPORTED:#ifdef PNG_READ_tEXt_SUPPORTED:#ifdef PNG_READ_zTXt_SUPPORTED:#ifdef PNG_READ_iTXt_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_read_sig
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_restore_buffer
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_push_save_buffer
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_read_push_finish_row:#ifdef PNG_READ_INTERLACING_SUPPORTED:#ifdef PNG_READ_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngpread.c:png_set_progressive_read_fn:#ifdef PNG_READ_INTERLACING_SUPPORTED

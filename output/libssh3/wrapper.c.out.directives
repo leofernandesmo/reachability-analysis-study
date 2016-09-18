@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/wrapper.c:#if:#ifdef WITH_ZLIB:41:43
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/wrapper.c:#if:#ifdef HAVE_LIBGCRYPT:107:109
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/wrapper.c:#if:#ifdef HAVE_LIBGCRYPT:116:123
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/wrapper.c:#if:#ifdef HAVE_ECDH:160:163
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/wrapper.c:#if:#ifdef WITH_ZLIB:172:184
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/wrapper.c:#if:#ifdef WITH_SERVER:349:469

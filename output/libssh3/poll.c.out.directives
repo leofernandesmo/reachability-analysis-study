@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:39:41
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifndef SSH_POLL_CTX_CHUNK:44:46
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifndef STRICT:109:111
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:# if:# ifdef HAVE_SYS_TIME_H:120:122
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:# ifdef:# ifdef HAVE_SYS_TIME_H:120:124
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef HAVE_UNISTD_H:126:128
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifndef _WIN32:161:166
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef _WIN32:220:228
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#ifdef:#ifdef _WIN32:220:266
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:677:679
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:705:712
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:790:792
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:809:821
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:908:910
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:927:937
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/poll.c:#if:#ifdef WITH_SERVER:970:974

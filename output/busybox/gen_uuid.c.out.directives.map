@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_clock
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_node_id:#ifdef HAVE_NET_IF_DL_H:#ifndef max:#ifndef max:#ifdef HAVE_NET_IF_DL_H:#ifdef HAVE_NET_IF_DL_H:#ifdef SIOCGENADDR:#ifdef SIOCGENADDR
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_random_bytes
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:get_random_fd
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:uuid_generate
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:uuid_generate_random
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/gen_uuid.c:uuid_generate_time

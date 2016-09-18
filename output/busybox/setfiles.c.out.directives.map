@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:add_exclude
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:apply_spec
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:canoncon:#if ENABLE_FEATURE_SETFILES_CHECK_OPTION
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:exclude
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:inc_err
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:match
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:only_changed_user
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:process_one
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:qprintf
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:restore
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/setfiles.c:setfiles_main:#if ENABLE_FEATURE_SETFILES_CHECK_OPTION

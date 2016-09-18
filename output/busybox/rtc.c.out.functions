@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/rtc.c:open_loop_on_busy:41:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/rtc.c:rtc_adjtime_is_utc:16:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/rtc.c:rtc_read_tm:87:92
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/rtc.c:rtc_tm2time:94:115
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/rtc.c:rtc_xopen:63:85

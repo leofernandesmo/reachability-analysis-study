@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#ifndef EV_SW:36:38
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#ifndef EV_KEY:39:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#ifndef SW_LID:42:44
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#ifndef SW_RFKILL_ALL:45:47
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#ifndef KEY_POWER:48:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#ifndef KEY_SLEEP:51:53
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:#if:#if ENABLE_FEATURE_PIDFILE:237:239

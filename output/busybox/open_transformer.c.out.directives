@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:#if:#if 0 /* possible future extension */:20:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:#if:#if BB_MMU:103:110
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:#if:#if BB_MMU:121:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:# if:# if BB_MMU:247:251
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:# if:# if BB_MMU:293:297
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:# if:# if 1:307:349
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/open_transformer.c:#if:#if SEAMLESS_COMPRESSION:159:352

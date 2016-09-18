@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:ext2fs_inode_io_intern:101:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:ext2fs_inode_io_intern2:75:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_close:167:186
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_flush:261:270
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_open:108:165
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_read_blk:201:219
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_set_blksize:188:198
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_write_blk:221:239
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode_io.c:inode_write_byte:241:256

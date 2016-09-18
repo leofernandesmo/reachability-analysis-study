@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:recv_from_to:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):#ifndef IP_PKTINFO
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:send_to_from:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):# if ENABLE_FEATURE_IPV6:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):#ifndef IP_PKTINFO
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:socket_want_pktinfo:#ifdef IP_PKTINFO:#if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO)

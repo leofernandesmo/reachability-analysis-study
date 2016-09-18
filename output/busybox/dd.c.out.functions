@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/dd.c:dd_main:149:480
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/dd.c:dd_output_status:81:115
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/dd.c:full_write_or_warn:117:124
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/dd.c:write_and_stats:126:140

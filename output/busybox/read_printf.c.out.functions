@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:nonblock_immune_read:48:63
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xmalloc_open_read_close:159:193
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xmalloc_open_read_close:198:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xmalloc_read:105:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xmalloc_reads:68:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xmalloc_xopen_read_close:230:236
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xread:213:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/read_printf.c:xread_char:223:228

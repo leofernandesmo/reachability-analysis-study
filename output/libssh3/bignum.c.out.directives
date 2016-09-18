@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef DEBUG_CRYPTO:43:45
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef HAVE_LIBGCRYPT:57:61
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef DEBUG_CRYPTO:70:73
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef HAVE_LIBGCRYPT:75:79
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef HAVE_LIBGCRYPT:86:92
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef HAVE_LIBGCRYPT:97:103
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bignum.c:#if:#ifdef HAVE_LIBGCRYPT:106:110

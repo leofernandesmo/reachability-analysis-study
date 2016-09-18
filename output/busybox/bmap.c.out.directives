@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bmap.c:#if:#if HAVE_UNISTD_H:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bmap.c:#if:#if BB_BIG_ENDIAN:49:53
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bmap.c:#if:#if BB_BIG_ENDIAN:60:64
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bmap.c:#if:#if BB_BIG_ENDIAN:73:78
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bmap.c:#if:#if BB_BIG_ENDIAN:165:169

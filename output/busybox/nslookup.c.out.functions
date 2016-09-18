@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:nslookup_main:170:200
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:print_host:67:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:server_print:117:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:set_default_dns:137:167

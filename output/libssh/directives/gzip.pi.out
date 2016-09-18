@@ -1,0 +1,12 @@
+__bswap_32:
+__uint64_t:
+__bswap_32:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+__uint64_t:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+__bswap_32:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+__uint64_t:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+z_stream:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+ssh_buffer:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+compress_buffer:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+z_stream:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+ssh_buffer:(def(HAVE_LIBZ)&def(WITH_LIBZ));
+decompress_buffer:(def(HAVE_LIBZ)&def(WITH_LIBZ));

@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef _WIN32:35:46
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:63:70
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:78:599
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBCRYPTO:601:624
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:670:681
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBCRYPTO:697:704
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:721:757
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:763:799
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBCRYPTO:804:806
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:814:820
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:849:858
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:860:873
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:877:895
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:900:918
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:923:927
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:934:940
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/keyfiles.c:#ifdef:#ifdef HAVE_LIBGCRYPT:961:967

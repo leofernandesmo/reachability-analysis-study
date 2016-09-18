@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/read_bb.c:ext2fs_read_bb_inode:65:96
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/read_bb.c:mark_bad_block:41:60

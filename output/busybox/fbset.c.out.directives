@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_FANCY:137:158
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_FANCY:180:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_READMODE:211:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_READMODE:219:373
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_FANCY:385:387
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_FANCY:394:396
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_FANCY:479:489
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:#if:#if ENABLE_FEATURE_FBSET_READMODE:513:518

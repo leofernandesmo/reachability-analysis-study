@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_default_read_data:51:65
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_default_read_data:76:121
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_read_data:32:41
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_set_read_fn:145:175

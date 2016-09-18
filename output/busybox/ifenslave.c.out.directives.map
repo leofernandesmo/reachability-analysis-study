@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:change_active
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:clear_if_addr
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:enslave
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:get_drv_info
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:get_if_settings
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:get_slave_flags
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:ifenslave_main:#if ENABLE_LONG_OPTS:#ifdef WHY_BOTHER
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:ioctl_on_skfd
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:release
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_hwaddr
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_addr:#if (SIOCGIFADDR | SIOCSIFADDR \
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_down
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_flags
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_up
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_ifrname_and_do_ioctl
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_mtu

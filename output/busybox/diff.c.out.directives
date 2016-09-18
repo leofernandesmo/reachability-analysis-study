@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if 0:129:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if 0:260:267
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if 0:547:564
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if ENABLE_FEATURE_DIFF_DIR:800:948
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if ENABLE_FEATURE_DIFF_LONG_OPTIONS:950:970
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if ENABLE_FEATURE_DIFF_LONG_OPTIONS:983:985
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/diff.c:#if:#if ENABLE_FEATURE_DIFF_DIR:1031:1035

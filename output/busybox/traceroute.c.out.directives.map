@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:common_traceroute_main:#ifdef IP_TOS:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:#if ENABLE_TRACEROUTE6:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:#if 0 /* IGNORED */:#ifdef IP_TOS:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:#if ENABLE_TRACEROUTE6:# ifdef IPV6_RECVPKTINFO:# ifdef IPV6_RECVPKTINFO:#if TRACEROUTE_SO_DEBUG:#if ENABLE_TRACEROUTE6:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE && defined IP_OPTIONS:#ifdef SO_SNDBUF:#ifdef IP_TOS:#ifdef IP_DONTFRAG:#if TRACEROUTE_SO_DEBUG:#if ENABLE_TRACEROUTE6:#if ENABLE_TRACEROUTE6:#if ENABLE_TRACEROUTE6:#if ENABLE_TRACEROUTE6 && (ICMP6_DST_UNREACH_NOROUTE != ICMP_UNREACH_NET):#if ENABLE_TRACEROUTE6:#if ENABLE_TRACEROUTE6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:dup_sockaddr
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:packet4_ok:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:packet_ok:# if ENABLE_FEATURE_TRACEROUTE_VERBOSE:#if ENABLE_TRACEROUTE6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:packet_ok:#if ENABLE_TRACEROUTE6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:pr_type:# if ENABLE_TRACEROUTE6:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:print:#if ENABLE_TRACEROUTE6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:print_delta_ms
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:print_inetname
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:send_probe:#if ENABLE_TRACEROUTE6:#if 0 //ENABLE_FEATURE_TRACEROUTE_VERBOSE:#if ENABLE_TRACEROUTE6:#if defined IP_TTL
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:traceroute6_main:#if ENABLE_TRACEROUTE6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:traceroute_main
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:wait_for_reply

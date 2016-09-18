@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef HAVE_UNISTD_H:17:19
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef HAVE_SYS_TYPES_H:23:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef HAVE_ERRNO_H:27:29
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef HAVE_SYS_MKDEV_H:30:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef VG_DIR:145:224
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef VG_DIR:281:283
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/devname.c:#if:#ifdef TEST_PROGRAM:344:367

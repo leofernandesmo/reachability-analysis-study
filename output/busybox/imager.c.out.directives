@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/imager.c:#if:#if HAVE_UNISTD_H:19:21
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/imager.c:#if:#if HAVE_ERRNO_H:22:24
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/imager.c:#if:#if HAVE_SYS_STAT_H:27:29
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/imager.c:#if:#if HAVE_SYS_TYPES_H:30:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/imager.c:#if:#ifndef HAVE_TYPE_SSIZE_T:37:39

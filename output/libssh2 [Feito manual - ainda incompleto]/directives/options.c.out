@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/options.c:#ifndef:#ifndef _WIN32:29:33
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/options.c:#ifdef:#ifdef WITH_SERVER:38:41
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/options.c:#ifdef:#ifdef WITH_SSH1:710:714
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/options.c:#ifdef:#ifdef _MSC_VER:716:847
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/options.c:#ifdef:#ifdef WITH_SERVER:965:1177

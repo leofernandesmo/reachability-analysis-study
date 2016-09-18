@@ -1,0 +1,14 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifndef:#ifndef _WIN32:32:35
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:335:341
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:399:403
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:890:894
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:1172:1178
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:1511:1517
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:1585:1591
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:1623:1627
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifndef:#ifndef _WIN32:1759:1764
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef _WIN32:1789:1793
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:2163:2167
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:2231:2235
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:2894:2898
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/channels.c:#ifdef:#ifdef WITH_SSH1:2950:2954

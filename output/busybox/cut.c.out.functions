@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/cut.c:cmpfunc:53:57
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/cut.c:cut_file:59:182
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/cut.c:cut_main:185:306

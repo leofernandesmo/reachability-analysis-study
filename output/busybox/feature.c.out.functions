@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/feature.c:e2p_edit_feature:151:187
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/feature.c:e2p_feature2string:58:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/feature.c:e2p_string2feature:89:130
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/feature.c:skip_over_blanks:132:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/feature.c:skip_over_word:139:144

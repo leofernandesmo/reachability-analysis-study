@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/bootchartd.c:bootchartd_main:344:468
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/bootchartd.c:do_logging:217:261
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/bootchartd.c:dump_file:121:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/bootchartd.c:dump_procs:133:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/bootchartd.c:finalize:263:332
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/bootchartd.c:make_tempdir:185:215

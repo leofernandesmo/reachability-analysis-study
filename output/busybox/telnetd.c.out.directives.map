@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:IF_NOT_FEATURE_TELNETD_STANDALONE:#if !ENABLE_FEATURE_TELNETD_STANDALONE:#if ENABLE_FEATURE_TELNETD_STANDALONE:#if ENABLE_FEATURE_TELNETD_STANDALONE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:free_session:#if 0:#if 0:#if ENABLE_FEATURE_TELNETD_STANDALONE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:handle_sigchld
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:iac_safe_write
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:remove_iacs:#if DEBUG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:telnetd_main:#if ENABLE_FEATURE_TELNETD_STANDALONE:#if ENABLE_FEATURE_TELNETD_STANDALONE:#if ENABLE_FEATURE_TELNETD_INETD_WAIT:#if ENABLE_FEATURE_TELNETD_STANDALONE

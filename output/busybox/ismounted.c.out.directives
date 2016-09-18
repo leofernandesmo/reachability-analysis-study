@@ -1,0 +1,25 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#if HAVE_UNISTD_H:14:16
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#if HAVE_ERRNO_H:17:19
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef HAVE_LINUX_FD_H:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef HAVE_MNTENT_H:24:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef HAVE_GETMNTINFO:27:31
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifndef __GNU__ /* The GNU hurd is broken with respect to stat devices */:60:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifndef __GNU__:73:76
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifndef __GNU__ /* The GNU hurd is broken with respect to stat devices */:86:102
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef DEBUG:115:118
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef DEBUG:124:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#ifdef:#ifdef DEBUG:124:130
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef MNTOPT_RO:133:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef DEBUG:170:175
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef __linux__:176:181
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifndef MOUNTED:183:185
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#ifndef:#ifndef MOUNTED:183:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#if defined(HAVE_GETMNTINFO):195:231
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#if defined(MOUNTED) || defined(_PATH_MOUNTED):182:232
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifndef __GNU__ /* The GNU hurd is broken with respect to stat devices */:246:250
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifndef __GNU__:267:274
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef __TURBOC__:287:289
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef __GNUC__:304:306
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#ifdef:#ifdef __GNUC__:304:309
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef HAVE_GETMNTINFO:301:310
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ismounted.c:#if:#ifdef DEBUG:323:357

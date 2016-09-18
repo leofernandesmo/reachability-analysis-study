@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:default_scope:591:598
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:do_ipaddr:749:764
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:flush_update:204:212
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:ipaddr_list_or_flush:421:589
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:ipaddr_modify:601:746
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:ipaddr_reset_filter:414:418
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:print_addrinfo:214:366
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:print_link_flags:45:75
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:print_linkinfo:98:202
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:print_queuelen:77:96
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:print_selected_addrinfo:374:392
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:store_nlmsg:395:412

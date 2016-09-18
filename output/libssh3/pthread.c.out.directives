@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/threads/pthread.c:#if:#if defined(_WIN32) && !defined(__WINPTHREADS_VERSION):78:82
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/threads/pthread.c:#if:#ifdef HAVE_PTHREAD:25:99

@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:AboutDlgProc:431:453
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:BuildPngList:513:611
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:CenterAbout:459:507
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:DisplayImage:705:767
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:FillBitmap:807:965
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:InitBitmap:773:801
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:LoadImageFile:661:699
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:SearchPngList:618:654
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:WinMain:79:145
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/VisualPng.c:WndProc:147:429

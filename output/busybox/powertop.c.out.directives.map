@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:clear_lines
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:cpuid:#ifdef __i386__
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:is_hpet_irq:# if BLOATY_HPET_IRQ_NUM_DETECTION:# if BLOATY_HPET_IRQ_NUM_DETECTION:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:line_compare
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:powertop_main:#if ENABLE_FEATURE_USE_TERMIOS:#if ENABLE_FEATURE_POWERTOP_PROCIRQ && BLOATY_HPET_IRQ_NUM_DETECTION:#if ENABLE_FEATURE_USE_TERMIOS:#if !ENABLE_FEATURE_USE_TERMIOS:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:print_intel_cstates:#ifdef __i386__
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:process_irq_counts:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:process_timer_stats:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:read_cstate_counts
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:reset_term:#if ENABLE_FEATURE_USE_TERMIOS
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:save_irq_count:#if ENABLE_FEATURE_POWERTOP_PROCIRQ
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:save_line
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:show_timerstats
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:sig_handler:#if ENABLE_FEATURE_USE_TERMIOS
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:sort_lines
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:update_lines_cumulative_count
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:write_str_to_file

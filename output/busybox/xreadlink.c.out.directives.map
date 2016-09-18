@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xreadlink.c:xmalloc_follow_symlinks
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xreadlink.c:xmalloc_readlink
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xreadlink.c:xmalloc_readlink_or_warn
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xreadlink.c:xmalloc_realpath:#if defined(__GLIBC__) && \

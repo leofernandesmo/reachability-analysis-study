@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifdef HAVE_WSPIAPI_H:43:51
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#if _MSC_VER >= 1400:53:57
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifdef HAVE_WSPIAPI_H:63:65
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifndef EINPROGRESS:67:69
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#ifndef:#ifndef EINPROGRESS:67:78
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifndef HAVE_GETADDRINFO:86:88
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifndef gai_strerror:91:99
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#ifndef:#ifndef gai_strerror:91:100
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifdef _WIN32:103:107
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifdef AI_NUMERICSERV:127:129
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/connect.c:#if:#ifdef _WIN32:172:174

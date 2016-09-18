@@ -1,0 +1,22 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#if HAVE_UNISTD_H:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#if HAVE_ERRNO_H:24:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef __linux__:29:31
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#if HAVE_SYS_STAT_H:32:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#if HAVE_SYS_TYPES_H:35:37
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#if defined(__CYGWIN__) || defined(__FreeBSD__) || defined(__FreeBSD_kernel__):89:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef NEED_BOUNCE_BUFFER:104:108
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef DEBUG:168:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#ifdef:#ifdef DEBUG:168:203
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifndef NO_IO_CACHE:287:367
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef __linux__:376:378
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef CONFIG_LFS:410:414
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#if (defined(__alpha__) || ((defined(__sparc__) || defined(__mips__)) && (SIZEOF_LONG == 4))):422:426
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef __linux__:420:453
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifndef NO_IO_CACHE:478:480
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifndef NO_IO_CACHE:502:505
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef DEBUG:546:548
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef DEBUG:562:564
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#ifdef:#ifdef DEBUG:562:578
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifdef NO_IO_CACHE:594:630
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifndef NO_IO_CACHE:644:650
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:#if:#ifndef NO_IO_CACHE:674:676

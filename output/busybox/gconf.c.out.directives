@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifdef HAVE_CONFIG_H:9:11
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifdef DEBUG:104:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifdef DEBUG:147:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifdef DEBUG:173:175
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#if 0	/* Use stock Gtk icons instead */:238:245
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#if 0:253:268
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#if GTK_CHECK_VERSION(2,1,4) // bug in ctree with earlier version of GTK:1031:1040
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifdef DEBUG:1415:1419
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifdef DEBUG:1501:1513
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/gconf.c:#if:#ifndef LKC_DIRECT_LINK:1579:1581

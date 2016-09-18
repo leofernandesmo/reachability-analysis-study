@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:main:162:423
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:rpng_x_cleanup:861:888
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:rpng_x_create_window:429:856
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:rpng_x_display_image:686:856
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:rpng_x_msb:894:904

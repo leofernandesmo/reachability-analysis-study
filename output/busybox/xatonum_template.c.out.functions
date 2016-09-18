@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range:77:82
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range:103:108
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range:154:157
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range:172:175
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range_sfx:19:75
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range_sfx:95:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range_sfx:123:152
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_range_sfx:164:170
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_sfx:84:88
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_sfx:110:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:_sfx:177:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:xato:182:185
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:xatou:116:119
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:xstrto:159:162
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum_template.c:xstrtou:90:93

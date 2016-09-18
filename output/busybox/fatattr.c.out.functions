@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fatattr.c:decode_arg:55:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fatattr.c:fatattr_main:64:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fatattr.c:get_flag:47:53

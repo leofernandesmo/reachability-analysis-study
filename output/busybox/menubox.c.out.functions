@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:dialog_menu:181:426
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:do_print_item:66:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:do_scroll:168:176
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:print_arrows:110:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:print_buttons:154:165

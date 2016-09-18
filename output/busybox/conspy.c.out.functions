@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:cleanup:141:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:clrscr:115:120
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:conspy_main:363:577
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:create_cdev_if_doesnt_exist:325:332
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:curmove:312:323
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:gotoxy:131:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:putcsi:109:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:screen_char:197:279
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:screen_dump:281:310
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:screen_read_close:157:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:set_cursor:122:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/conspy.c:start_shell_in_child:334:360

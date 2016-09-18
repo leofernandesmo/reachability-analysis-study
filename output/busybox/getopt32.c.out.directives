@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getopt32.c:#if:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG:10:12
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getopt32.c:#if:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG:319:324
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getopt32.c:#if:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG:340:343
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getopt32.c:#if:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG:389:433
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getopt32.c:#if:#ifdef __GLIBC__:543:548
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getopt32.c:#if:#if ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG:555:560

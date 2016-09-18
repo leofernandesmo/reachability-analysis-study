@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/gen_bitmap.c:#if:#if HAVE_UNISTD_H:16:18
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/gen_bitmap.c:#if:#if HAVE_SYS_STAT_H:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/gen_bitmap.c:#if:#if HAVE_SYS_TYPES_H:24:26

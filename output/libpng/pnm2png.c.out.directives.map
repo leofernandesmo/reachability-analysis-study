@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:get_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:get_token
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:get_value
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:main:#ifdef __TURBOC__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:pnm2png
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:usage:#ifdef __TURBOC__

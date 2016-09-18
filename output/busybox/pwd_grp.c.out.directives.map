@@ -1,0 +1,35 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:bb__parsegrent
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:bb__parsepwent
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:bb__parsespent:#if ENABLE_USE_BB_SHADOW
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:bb__pgsreader
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:endgrent
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:endpwent
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:endspent:#if ENABLE_USE_BB_SHADOW:#ifdef UNUSED_FOR_NOW
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:fgetgrent:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:fgetgrent_r
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:fgetpwent:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:fgetpwent_r
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:fgetspent:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:fgetspent_r:#ifdef UNUSED_FOR_NOW:#ifdef UNUSED_FOR_NOW
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:get_S
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getgrent:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getgrent_r
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getgrgid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getgrnam
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getgrouplist
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getgrouplist_internal
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getpwent:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getpwent_r
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getpwnam
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getpwuid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getspent:#if ENABLE_USE_BB_SHADOW:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:getspent_r:#if ENABLE_USE_BB_SHADOW:#ifdef UNUSED_FOR_NOW
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:initgroups
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:putgrent:#if 0:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:putpwent:#if 0:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:putspent:#ifdef UNUSED_FOR_NOW:#ifdef UNUSED_FOR_NOW
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:setgrent
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:setpwent
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:setspent:#if ENABLE_USE_BB_SHADOW:#ifdef UNUSED_FOR_NOW
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:sgetspent:#if ENABLE_USE_BB_SHADOW:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:sgetspent_r:#ifdef UNUSED_FOR_NOW:#ifdef UNUSED_FOR_NOW

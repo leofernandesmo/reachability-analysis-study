@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/fold.c:adjust_column:34:56
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/fold.c:fold_main:65:176
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/fold.c:write2stdout:59:62

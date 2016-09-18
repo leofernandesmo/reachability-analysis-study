@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_sun.c:#if:#ifndef IDE0_MAJOR:34:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_sun.c:#if:#ifndef IDE1_MAJOR:37:39
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_sun.c:#if:#ifdef SCSI_IOCTL_GET_IDLUN:163:227
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_sun.c:#if:#if ENABLE_FEATURE_FDISK_ADVANCED:673:720
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_sun.c:#ifdef:#ifdef SCSI_IOCTL_GET_IDLUN:163:733

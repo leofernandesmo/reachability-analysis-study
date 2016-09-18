@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:#if:#ifdef PNG_CONSOLE_IO_SUPPORTED:40:42
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:#if:#ifdef PNG_STDIO_SUPPORTED:160:164
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:#  if:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:182:186
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:#  ifdef:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:182:187
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:#if:#ifdef PNG_STDIO_SUPPORTED:335:339
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:#if:#ifndef PNG_STDIO_SUPPORTED:406:446

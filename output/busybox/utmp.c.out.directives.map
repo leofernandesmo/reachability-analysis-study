@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:touch
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:update_utmp:#if ENABLE_FEATURE_WTMP
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:write_new_utmp:#if ENABLE_FEATURE_WTMP

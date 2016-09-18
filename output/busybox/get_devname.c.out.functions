@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:add_to_uuid_cache:247:267
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:display_uuid_cache:227:245
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:fromhex:186:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:get_devname_from_label:272:284
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:get_devname_from_uuid:286:299
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:get_label_uuid:42:75
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:get_spec_by_uuid:194:217
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:get_spec_by_volume_label:220:223
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:get_spec_by_x:158:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:resolve_mount_spec:301:316
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:uuidcache_addentry:79:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:uuidcache_check_device:104:124
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/volume_id/get_devname.c:uuidcache_init:127:151

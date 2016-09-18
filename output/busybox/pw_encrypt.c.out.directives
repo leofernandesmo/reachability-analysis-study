@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:#if:#if !ENABLE_USE_BB_CRYPT || ENABLE_USE_BB_CRYPT_SHA:60:65
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:#if:#if ENABLE_USE_BB_CRYPT_SHA:91:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:#if:#if ENABLE_USE_BB_CRYPT_SHA:108:111
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:#if:#if ENABLE_USE_BB_CRYPT:71:155

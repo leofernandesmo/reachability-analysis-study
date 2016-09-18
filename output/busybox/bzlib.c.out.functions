@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:BZ2_bzBuffToBuffCompress:385:424
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:BZ2_bzCompress:304:360
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:BZ2_bzCompressEnd:365:375
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:BZ2_bzCompressInit:87:115
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:add_pair_to_block:120:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:bz_assert_fail:45:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:copy_input_until_stop:188:226
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:copy_output_until_stop:231:250
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:flush_RL:153:157
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:handle_compress:255:299
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:init_RL:71:75
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:isempty_RL:79:82
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/bzlib.c:prepare_new_block:54:65

@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:copy_changed_values:95:118
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:copy_if_gt0:85:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:fbset_main:406:535
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:read_mode_db:238:372
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:showmode:375:403
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fbset.c:ss:220:226

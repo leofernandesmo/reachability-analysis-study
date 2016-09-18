@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:dos_kbd_gets:835:851
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:main:154:783
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:wpng_cleanup:807:828
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:wpng_isvalid_latin1:789:801

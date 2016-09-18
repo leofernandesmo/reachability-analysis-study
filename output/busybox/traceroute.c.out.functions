@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:common_traceroute_main:791:1235
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:dup_sockaddr:391:396
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:packet4_ok:553:636
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:packet_ok:644:718
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:packet_ok:721:727
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:pr_type:515:545
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:print:758:776
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:print_delta_ms:779:783
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:print_inetname:736:755
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:send_probe:423:508
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:traceroute6_main:1245:1248
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:traceroute_main:1238:1241
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:wait_for_reply:400:420

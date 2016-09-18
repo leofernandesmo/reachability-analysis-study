@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#ifndef __BIONIC__:31:33
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#if ENABLE_FEATURE_MOUNT_LABEL:35:39
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#ifndef MNTTYPE_SWAP:41:43
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#ifndef SWAP_FLAG_DISCARD:46:48
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#ifndef SWAP_FLAG_DISCARD_ONCE:49:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#ifndef SWAP_FLAG_DISCARD_PAGES:52:54
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#ifndef:#ifndef SWAP_FLAG_DISCARD_PAGES:52:57
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#if ENABLE_FEATURE_SWAPON_DISCARD || ENABLE_FEATURE_SWAPON_PRI:60:72
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#if ENABLE_FEATURE_SWAPON_DISCARD:126:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:#if:#if ENABLE_FEATURE_SWAPON_PRI:150:168

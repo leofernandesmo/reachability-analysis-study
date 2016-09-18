@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nbd-client.c:#if:#if BB_MMU:49:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nbd-client.c:#if:#if !BB_MMU:68:70
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nbd-client.c:#if:#if BB_MMU:111:136

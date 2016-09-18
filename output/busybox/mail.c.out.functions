@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/mail.c:encode_base64:119:167
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/mail.c:get_cred_or_die:172:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/mail.c:kill_helper:12:18
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/mail.c:launch_helper:42:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/mail.c:send_mail_command:81:95
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/mail.c:signal_handler:21:40

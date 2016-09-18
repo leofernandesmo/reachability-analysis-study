@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:fopen_for_read:22:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:fopen_for_write:32:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:fopen_or_warn:12:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:xfdopen_for_read:49:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:xfdopen_for_write:53:56
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:xfdopen_helper:42:48
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:xfopen_for_read:27:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen.c:xfopen_for_write:37:40

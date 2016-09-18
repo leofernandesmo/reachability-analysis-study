@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/md5_sha1_sum.c:hash_bin_to_hex:87:94
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/md5_sha1_sum.c:hash_file:96:168
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/md5_sha1_sum.c:md5_sha1_sum_main:171:260

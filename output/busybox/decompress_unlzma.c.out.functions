@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_bit_tree_decode:137:145
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_direct_bit:124:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_do_normalize:61:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_free:94:97
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_get_bit:116:121
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_init:76:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_is_bit_1:100:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_normalize:68:73
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:rc_read:49:58
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_unlzma.c:unpack_lzma_stream:209:467

@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:#if:#if SEAMLESS_COMPRESSION:121:125
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:#if:#if ENABLE_FEATURE_SEAMLESS_LZMA:127:130
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:#if:#if ENABLE_FEATURE_SEAMLESS_XZ:131:135
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:#if:#if ENABLE_FEATURE_SEAMLESS_BZ2:136:140
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:#if:#if ENABLE_FEATURE_SEAMLESS_GZ:141:145

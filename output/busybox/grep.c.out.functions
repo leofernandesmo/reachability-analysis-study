@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:add_grep_list_data:613:627
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:bb_getline:291:307
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:file_action_grep:648:664
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:grep_dir:666:678
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:grep_file:310:609
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:grep_main:681:847
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:load_regexes_from_file:629:646
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/grep.c:print_line:257:287

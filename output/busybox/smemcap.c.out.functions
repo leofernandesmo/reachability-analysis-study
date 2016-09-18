@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/smemcap.c:archivefile:60:92
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/smemcap.c:archivejoin:94:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/smemcap.c:smemcap_main:106:132
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/smemcap.c:writeheader:30:58

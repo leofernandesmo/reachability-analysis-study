@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:ext2fs_add_journal_device:254:309
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:ext2fs_add_journal_inode:316:391
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:ext2fs_create_journal_superblock:46:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:main:394:425
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:mkjournal_proc:149:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:write_journal_file:94:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:write_journal_inode:196:249

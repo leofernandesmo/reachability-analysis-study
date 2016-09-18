@@ -1,0 +1,314 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !(defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__) \:84:88
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:91:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_RANDOM_SUPPORT:101:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef PIPE_BUF:106:108
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BUILD_AS_NOMMU:298:305
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if NUM_APPLETS == 1:308:317
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_INTERACTIVE:319:326
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_IF || ENABLE_HUSH_LOOPS || ENABLE_HUSH_CASE:329:337
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:362:372
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:383:390
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_IF:394:400
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:401:407
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS || ENABLE_HUSH_CASE:408:410
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:411:418
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_parse:451:458
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:465:467
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:529:532
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:533:535
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:540:542
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:543:559
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:578:582
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:608:610
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:614:616
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:611:629
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOCAL:641:643
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:660:662
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:654:664
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_MODE_X:700:702
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_MODE_X:707:709
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:728:737
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_EDITING:738:740
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_RANDOM_SUPPORT:744:746
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:747:755
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_MODE_X:757:761
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:763:765
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:766:772
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:781:783
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:784:787
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOCAL:794:797
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:792:798
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:800:804
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:813:818
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG:821:824
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:847:850
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_HELP:851:853
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if MAX_HISTORY && ENABLE_FEATURE_EDITING:854:856
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOCAL:857:859
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG:860:862
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_PRINTF:863:865
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:878:881
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:882:884
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_HELP:895:900
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:906:908
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:909:911
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:913:915
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:920:922
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_HELP:923:925
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if MAX_HISTORY && ENABLE_FEATURE_EDITING:926:928
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:929:931
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOCAL:932:934
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG:935:937
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:939:941
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:944:946
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_PRINTF:960:962
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG:970:979
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf:981:983
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_parse:985:987
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_exec:989:991
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_env:993:995
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_jobs:997:1002
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_expand:1004:1009
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_varexp:1011:1013
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_glob:1015:1020
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_list:1022:1024
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_subst:1026:1028
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_printf_clean:1030:1035
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if DEBUG_EXPAND:1037:1047
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if LEAK_HUNTING:1052:1080
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG < 2:1088:1095
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG >= 2:1101:1103
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HUSH_DEBUG < 2:1143:1157
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:1160:1164
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if LEAK_HUNTING:1210:1219
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if LEAK_HUNTING:1229:1238
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:1443:1447
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:1454:1459
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:1480:1516
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:1524:1529
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_EDITING_SAVE_ON_EXIT:1549:1551
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_CLEAN_UP:1566:1580
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:1582:1587
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:1634:1648
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:1649:1658
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_RANDOM_SUPPORT:1727:1730
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU && ENABLE_HUSH_LOCAL:1743:1754
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:1777:1779
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOCAL:1790:1811
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOCAL:1834:1836
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:1842:1844
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_FEATURE_EDITING:2061:2095
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:2018:2099
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:2109:2111
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:2119:2127
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:2231:2239
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BRACE_EXPANSION:2257:2261
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if DEBUG_EXPAND || DEBUG_GLOB:2350:2378
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BRACE_EXPANSION:2426:2699
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:2771:2776
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:2777:2780
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:2798:2801
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:2811:2813
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_IF:2833:2839
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOOPS:2840:2846
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOOPS || ENABLE_HUSH_CASE:2847:2849
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:2850:2856
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FUNCTIONS:2864:2866
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:2887:2891
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef debug_print_tree:2822:2908
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:2959:2963
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_IF:2969:2971
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:2972:2976
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:2977:2979
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:2994:2998
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:2999:3004
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_IF:3039:3045
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOOPS:3046:3053
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:3054:3057
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_IF:3069:3076
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOOPS:3077:3084
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:3085:3088
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:3102:3106
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:3116:3121
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:3163:3169
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:3030:3175
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:3221:3229
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOOPS:3231:3234
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_CASE:3235:3237
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_BASH_COMPAT:3247:3252
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:3220:3254
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:3297:3312
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:3313:3318
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:3335:3338
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:3474:3477
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if 0:3569:3573
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:3579:3582
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_FUNCTIONS:3588:3591
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:3603:3634
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if 0 /* Prevented by caller */:3636:3646
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:3648:3650
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:3666:3670
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:3672:3675
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:3686:3691
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_BASH_COMPAT:3801:3803
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK || ENABLE_SH_MATH_SUPPORT || ENABLE_HUSH_DOLLAR_OPS:3699:3860
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:3863:3867
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_DOLLAR_OPS:3978:3984
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_SH_MATH_SUPPORT:4018:4036
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_TICK:4037:4049
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_SH_MATH_SUPPORT || ENABLE_HUSH_TICK:4012:4052
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_BASH_COMPAT:4076:4083
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_BASH_COMPAT:4088:4093
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:4075:4094
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_BASH_COMPAT:4101:4103
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:4156:4167
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:4250:4256
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:4370:4375
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:4401:4407
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if 0:4433:4438
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if 0:4459:4464
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:4485:4488
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:4574:4577
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:4565:4582
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:4584:4586
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:4591:4606
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:4629:4632
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:4642:4644
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:4648:4657
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:4664:4667
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:4703:4705
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:4715:4718
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_BASH_COMPAT:4728:4732
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:4734:4736
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BRACE_EXPANSION:4754:4764
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_BASH_COMPAT:4849:4853
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:4862:4864
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_SH_MATH_SUPPORT:4882:4901
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:4903:4955
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:5085:5132
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT && ENABLE_SH_MATH_SUPPORT:5134:5170
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:5266:5268
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_SH_MATH_SUPPORT:5269:5271
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:5350:5362
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_SH_MATH_SUPPORT:5363:5376
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:5406:5408
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:5461:5466
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_BASH_COMPAT:5476:5478
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:5591:5593
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FUNCTIONS:5631:5633
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FUNCTIONS:5680:5683
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FUNCTIONS:5701:5707
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:5566:5751
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_INTERACTIVE:5774:5777
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:5804:5807
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:5830:5832
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if BB_MMU:5894:5909
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FAST:5914:5919
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:5921:5923
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_TICK:5825:5963
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:5974:5976
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:6012:6014
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:6024:6031
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:6034:6037
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:6039:6041
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:6222:6224
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:6230:6232
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:6259:6261
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if BB_MMU:6267:6270
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if BB_MMU:6278:6296
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOCAL:6310:6312
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:6315:6321
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOCAL:6326:6349
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:6184:6356
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:6359:6365
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:6373:6389
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_MODE_X:6405:6432
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:6434:6439
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:6467:6475
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:6481:6483
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_SH_STANDALONE || BB_MMU:6487:6490
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:6508:6516
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if BB_MMU /* see above why on NOMMU it is not allowed */:6523:6528
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_SH_STANDALONE:6518:6539
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_SH_STANDALONE || BB_MMU:6541:6543
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if BB_MMU:6568:6582
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:6590:6681
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:6689:6691
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:6702:6719
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:6734:6736
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:6741:6747
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if DEBUG_JOBS:6752:6762
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:6810:6813
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:6825:6853
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:6859:6872
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_MODE_X:6900:6903
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if !BB_MMU:6974:6977
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:6966:6988
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:7006:7010
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if 0 /* A few cases in testsuite fail with this code. FIXME */:7018:7069
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:7073:7077
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:7090:7094
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOCAL:7114:7118
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOCAL:7122:7124
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:7112:7126
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:7168:7174
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7192:7212
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:7238:7241
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:7243:7249
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7257:7261
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:7287:7289
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7290:7294
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_IF || ENABLE_HUSH_CASE:7297:7301
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:7302:7305
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7310:7338
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7344:7346
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if HAS_KEYWORDS:7348:7351
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7363:7371
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_IF:7386:7401
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7402:7449
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:7450:7480
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7497:7499
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7508:7528
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:7529:7534
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7541:7544
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7550:7557
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_IF:7568:7571
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7575:7596
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7599:7601
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:7602:7606
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_CASE:7607:7609
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:7679:7709
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FAST:7766:7768
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:7769:7771
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_BASH_COMPAT:7804:7846
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_EDITING:7848:7850
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FUNCTIONS:7877:7879
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:7875:7880
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_LOOPS:7967:7970
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_FUNCTIONS:7977:7986
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !BB_MMU:7938:7987
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#ifndef BB_VER:7993:7999
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_FEATURE_CLEAN_UP:8047:8049
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#  if:#  if ENABLE_FEATURE_SH_HISTFILESIZE:8136:8139
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# if ENABLE_HUSH_SAVEHISTORY && MAX_HISTORY > 0:8122:8141
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:8065:8164
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_MSH:8187:8194
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_PRINTF:8225:8230
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if !ENABLE_HUSH_LOCAL:8349:8352
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_EXPORT_N:8405:8414
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if 0:8420:8435
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOCAL:8447:8457
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:8561:8564
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:8582:8643
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_HELP:8645:8660
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if MAX_HISTORY && ENABLE_FEATURE_EDITING:8662:8668
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_JOB:8670:8686
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# if:# ifdef M_TRIM_THRESHOLD:8694:8697
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:# ifdef:# ifdef M_TRIM_THRESHOLD:8694:8720
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:8902:8904
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:8929:8933
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:8942:8944
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:9008:9012
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS || ENABLE_HUSH_FUNCTIONS:9117:9129
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_LOOPS:9131:9155
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/hush.c:#if:#if ENABLE_HUSH_FUNCTIONS:9157:9179

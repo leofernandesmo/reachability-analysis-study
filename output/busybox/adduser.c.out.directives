@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:#if:#if CONFIG_LAST_SYSTEM_ID < CONFIG_FIRST_SYSTEM_ID:26:28
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:#if:#if CONFIG_LAST_ID < CONFIG_LAST_SYSTEM_ID:29:31
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:#if:#if ENABLE_FEATURE_ADDGROUP_LONG_OPTIONS || !ENABLE_ADDGROUP:100:108
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:#if:#if ENABLE_FEATURE_ADDUSER_LONG_OPTIONS:126:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:#if:#if ENABLE_FEATURE_ADDUSER_LONG_OPTIONS:154:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:#if:#if ENABLE_FEATURE_SHADOWPASSWDS:213:230

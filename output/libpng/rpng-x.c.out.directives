@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:#if:#ifdef sgi:164:166
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:#if:#if defined(NeXT):188:216
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:#if:#ifdef DEBUG:452:454
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:#if:#if 0:456:501
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:#if:#ifdef NO_24BIT_MASKS:522:530
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-x.c:#if:#ifdef NO_24BIT_MASKS:716:736

@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/session.c:#if:#ifndef _WIN32:94:99
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/session.c:#if:#ifdef WITH_SSH1:107:111
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/session.c:#if:#ifdef HAVE_ECC:118:127
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/session.c:#if:#ifdef WITH_PCAP:196:201
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/session.c:#if:#ifndef _WIN32:224:226

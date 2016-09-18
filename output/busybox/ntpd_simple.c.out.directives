@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#ifndef IPTOS_LOWDELAY:11:13
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:141:143
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if 0 //UNUSED:210:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:222:244
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_IPV6:309:311
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_IPV6:459:462
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:670:733
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:851:858
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:# if:# if 0:870:879
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if 0:864:885
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:924:930
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd_simple.c:#if:#if ENABLE_FEATURE_NTPD_SERVER:987:995

@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:conf_expand_value:44:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:conf_get_default_confname:70:85
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:conf_read:270:330
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:conf_read_simple:87:268
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:conf_warning:33:42
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:conf_write:332:590

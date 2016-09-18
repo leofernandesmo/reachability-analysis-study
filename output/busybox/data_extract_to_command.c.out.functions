@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/data_extract_to_command.c:data_extract_to_command:62:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/data_extract_to_command.c:dec2env:50:54
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/data_extract_to_command.c:oct2env:56:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/data_extract_to_command.c:str2env:44:48
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/data_extract_to_command.c:xputenv:38:42

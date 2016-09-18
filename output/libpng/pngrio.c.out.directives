@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:#  if:#  ifndef USE_FAR_KEYWORD:49:122
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:#  ifndef:#  ifndef USE_FAR_KEYWORD:49:123
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:#if:#ifdef PNG_STDIO_SUPPORTED:153:161
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:#if:#ifdef PNG_WRITE_FLUSH_SUPPORTED:172:174
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:#ifdef:#ifdef PNG_WRITE_FLUSH_SUPPORTED:172:176

@@ -1,0 +1,21 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_MAX_MALLOC_64K:#  ifndef PNG_USER_MEM_SUPPORTED:#  ifndef PNG_USER_MEM_SUPPORTED:#  ifndef PNG_USER_MEM_SUPPORTED:#  ifndef PNG_USER_MEM_SUPPORTED:#  ifndef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_USER_MEM_SUPPORTED:#  if defined(__TURBOC__) && !defined(__FLAT__)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_MAX_MALLOC_64K:#  if defined(__TURBOC__) && !defined(__FLAT__):#  ifndef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:PNG_FUNCTION
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_destroy_struct:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_destroy_struct:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_destroy_struct_2:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_destroy_struct_2:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_USER_MEM_SUPPORTED:#  if defined(__TURBOC__) && !defined(__FLAT__)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_free:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_free:#  ifdef PNG_USER_MEM_SUPPORTED:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_free_default:#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_free_default:#  ifdef PNG_USER_MEM_SUPPORTED:#  if defined(__TURBOC__) && !defined(__FLAT__):#  ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_get_mem_ptr:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:png_set_mem_fn:#ifdef PNG_USER_MEM_SUPPORTED:#ifdef PNG_USER_MEM_SUPPORTED

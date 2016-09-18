@@ -1,0 +1,23 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if !ENABLE_FEATURE_CHAT_IMPLICIT_CR:48:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR:64:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_NOFAIL:74:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR:91:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN:112:116
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_TTY_HIFI:117:119
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_CLR_ABORT:124:126
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_TTY_HIFI:144:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_SWALLOW_OPTS:151:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_CLR_ABORT:162:164
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN:179:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:# if:# if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN:190:192
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:# if:# if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN:194:196
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:# if:# if ENABLE_FEATURE_CHAT_VAR_ABORT_LEN:201:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_CLR_ABORT:185:206
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_NOFAIL:244:246
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_NOFAIL:253:261
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#ifdef ___TEST___BUF___ // test behaviour with a small buffer:263:266
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_NOFAIL:337:354
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR:363:365
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_SEND_ESCAPES:388:417
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_IMPLICIT_CR:428:432
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/chat.c:#if:#if ENABLE_FEATURE_CHAT_TTY_HIFI:440:442

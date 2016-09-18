@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_UNISTD_H:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_ERRNO_H:18:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_SYS_STAT_H:23:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_SYS_TYPES_H:26:28
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_SYS_IOCTL_H:29:31
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_NETINET_IN_H:32:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_EXT2_IOCTLS:339:346
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if defined(HAVE_CHFLAGS) && defined(UF_NODUMP):336:347
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if HAVE_EXT2_IOCTLS:363:366
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#if defined(HAVE_CHFLAGS) && defined(UF_NODUMP):360:367
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/mkjournal.c:#if:#ifdef DEBUG:393:426

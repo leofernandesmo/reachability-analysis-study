@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:get_groups
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:id_main:#if ENABLE_SELINUX:#if ENABLE_SELINUX:#if ENABLE_SELINUX
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:print_common
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:print_group
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:print_user

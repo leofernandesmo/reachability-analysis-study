@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tr.c:complement:238:254
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tr.c:expand:102:233
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tr.c:map:73:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tr.c:tr_main:257:346

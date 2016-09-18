@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/time.c:#if:#if ENABLE_DESKTOP:18:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/time.c:#if:#if ENABLE_DESKTOP  /* strptime is BIG: ~1k in uclibc, ~10k in glibc */:53:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/time.c:#if:#ifndef CLOCK_MONOTONIC:237:239
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/time.c:#ifndef:#ifndef CLOCK_MONOTONIC:237:298

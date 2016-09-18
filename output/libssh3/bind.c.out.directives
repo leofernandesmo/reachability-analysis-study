@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bind.c:#if:#ifdef HAVE_WSPIAPI_H:58:60
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bind.c:#ifdef:#ifdef HAVE_WSPIAPI_H:58:71
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bind.c:#if:#ifdef HAVE_ECC:158:179
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/bind.c:#if:#ifdef HAVE_ECC:438:446

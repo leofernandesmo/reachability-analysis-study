@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:addLines:548:570
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:bad_nums:88:95
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:deleteLines:910:946
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:doCommands:134:339
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:ed_main:107:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:findLine:996:1034
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:findString:516:539
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:getNum:581:669
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:insertLine:872:904
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:printLines:819:862
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:readLines:676:759
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:searchLines:956:990
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:setCurNum:1041:1051
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:skip_blank:98:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:subCommand:346:509
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/ed.c:writeLines:766:810

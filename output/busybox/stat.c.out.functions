@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:do_stat:546:712
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:do_statfs:430:540
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:file_type:88:115
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:get_f_fsid:194:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:human_fstype:140:190
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:human_time:117:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:print_it:369:423
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:print_stat:268:367
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:print_statfs:221:265
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:printfs:214:218
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:stat_main:715:741
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:strcatc:207:212

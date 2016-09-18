@@ -1,0 +1,46 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:alloc_string
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:append_string
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:new_string
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yy_fatal_error
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yy_flex_strlen:#ifdef YY_NEED_STRLEN
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yy_flex_strncpy:#ifndef yytext_ptr
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yy_get_next_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yy_get_previous_state
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yy_try_NUL_trans
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yyinput:#ifdef __cplusplus:#ifdef __cplusplus:#ifdef __cplusplus
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:yyunput
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_create_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_curname
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_delete_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_endfile
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_endhelp
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_flush_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_fopen
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_init_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_initscan
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_lineno
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_load_buffer_state
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_nextfile
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_scan_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_scan_bytes
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_scan_string
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_starthelp
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconf_switch_to_buffer
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfalloc
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfensure_buffer_stack
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconffree
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfget_debug
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfget_in
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfget_leng
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfget_lineno
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfget_out
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfget_text
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconflex_destroy
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfpop_buffer_state
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfpush_buffer_state
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfrealloc
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfrestart
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfset_debug
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfset_in
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfset_lineno
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lex.zconf.c:zconfset_out

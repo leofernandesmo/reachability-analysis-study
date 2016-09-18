@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:WinMain:#ifndef __CYGWIN__:#if defined(NeXT):#ifndef __CYGWIN__:#ifndef __CYGWIN__:#if (defined(__i386__) || defined(_M_IX86) || defined(__x86_64__)) && \:#ifndef __CYGWIN__:#ifndef __CYGWIN__:#ifndef __CYGWIN__:#ifndef __CYGWIN__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:repl_getch:#ifdef __CYGWIN__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_cleanup
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_create_window:#ifndef __CYGWIN__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_display_row:#ifndef __CYGWIN__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_finish_display:#ifndef __CYGWIN__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_init
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_load_bg_image:#ifndef __CYGWIN__
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-win.c:rpng2_win_wndproc

@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:clear_lines:121:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:cpuid:495:514
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:is_hpet_irq:230:275
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:line_compare:140:145
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:powertop_main:680:856
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:print_intel_cstates:518:611
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:process_irq_counts:300:386
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:process_timer_stats:391:489
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:read_cstate_counts:153:207
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:reset_term:95:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:save_irq_count:278:297
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:save_line:210:227
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:show_timerstats:616:654
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:sig_handler:100:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:sort_lines:147:150
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:update_lines_cumulative_count:133:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/powertop.c:write_str_to_file:107:115

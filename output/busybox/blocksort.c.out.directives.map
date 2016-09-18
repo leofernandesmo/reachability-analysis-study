@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:BZ2_blockSort
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:fallbackQSort3
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:fallbackSimpleSort
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:fallbackSort
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mainGtU:#if CONFIG_BZIP2_FAST >= 1
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mainQSort3
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mainSimpleSort:#if CONFIG_BZIP2_FAST >= 3
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mainSort:#if CONFIG_BZIP2_FAST >= 2:#if CONFIG_BZIP2_FAST >= 2
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mmed3
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mmin
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/blocksort.c:mvswap

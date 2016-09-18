@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last_fancy.c:get_ut_type:106:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last_fancy.c:is_runlevel_shutdown:144:151
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last_fancy.c:last_main:154:295
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last_fancy.c:show_entry:42:104

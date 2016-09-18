@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum.c:bb_strtoui:38:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum.c:xatoi_positive:62:65
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum.c:xatou16:67:70

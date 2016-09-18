@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_gunzip.c:#if:#if STATE_IN_BSS /* Use global data segment */:160:170
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_gunzip.c:#if:#if STATE_IN_MALLOC /* Use malloc space */:172:181
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_gunzip.c:#if:#if BB_LITTLE_ENDIAN:1084:1089
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_gunzip.c:#if:#if BB_LITTLE_ENDIAN:1097:1104
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_gunzip.c:#if:#if !ENABLE_FEATURE_SEAMLESS_Z:1189:1208

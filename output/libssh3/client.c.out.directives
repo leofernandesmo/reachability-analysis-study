@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifndef _WIN32:28:31
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef WITH_PCAP:106:110
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef WITH_PCAP:182:185
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef HAVE_ECDH:210:214
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef HAVE_CURVE25519:215:219
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef WITH_SSH1:355:358
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef WITH_SSH1:360:368
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef WITH_SSH1:378:381
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifdef WITH_SSH1:389:397
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/client.c:#if:#ifndef _WIN32:521:525

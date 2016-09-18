@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:is_number:2038:2046
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:main:293:739
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_cleanup:2054:2091
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_create_window:801:1564
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_display_row:1348:1564
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_finish_display:1570:1582
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_init:749:795
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_load_bg_image:1052:1564
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_msb:2097:2107
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_redisplay_image:1588:2046
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_reload_bg_image:1837:2046

@@ -1,0 +1,122 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_LOADINKMEM:65:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__alpha__):72:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__):80:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__NDS32_EB__):98:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__NDS32_EL__):105:110
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__nds32__) || defined(__NDS32__):93:111
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(BFIN):114:119
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef EM_CRIS:127:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifndef:#ifndef EM_CRIS:127:132
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__H8300H__) || defined(__H8300S__):135:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__LP64__):148:154
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__hppa__):145:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef EM_486:159:163
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifndef:#ifndef EM_486:159:170
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__ia64__):173:178
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__mc68000__):181:189
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__microblaze__):192:199
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef EM_MIPS_RS4_BE:209:213
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifdef:#ifdef EM_MIPS_RS4_BE:209:214
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef EM_MIPS_RS3_LE:208:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__nios2__):219:224
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__powerpc64__):227:243
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__s390__):246:256
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__sh__) && BB_BIG_ENDIAN:269:271
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ((!(defined(__SH3__) || defined(__SH4__) || defined(__SH5__)))) && (defined(__sh__)):273:275
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__sh__):259:276
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__sparc__):279:284
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef EM_CYGNUS_V850	/* grumble */:295:297
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifndef:#ifndef EM_CYGNUS_V850	/* grumble */:295:299
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__x86_64__):302:310
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef SHT_RELM:312:314
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__sparc__) && !defined(__sparc_v9__) && defined(ARCH_sparc64):357:368
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef __alpha__:406:408
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef ARCHDATAM:421:425
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifdef:#ifdef ARCHDATAM:421:465
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# if:# if ELFCLASSM == ELFCLASS32:507:513
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef ElfW:506:514
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef ELF32_ST_INFO:517:519
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifndef ELF64_ST_INFO:521:523
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:608:612
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if !LOADBITS:646:649
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE:669:671
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifndef:#ifndef ELF64_ST_INFO:521:672
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef SYMBOL_PREFIX:679:683
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_LIST):698:707
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_SINGLE):709:717
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__mips__):719:725
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):729:731
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):732:734
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__mips__):735:737
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_LIST):743:747
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):742:748
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):749:751
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__) || defined(__i386__) || defined(__mc68000__) \:799:803
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__) || defined(__H8300H__) || defined(__H8300S__) \:806:811
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES):812:814
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):817:819
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__) || defined(__i386__) || defined(__mc68000__) \:815:820
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# if:# if defined(USE_PLT_LIST):824:828
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):821:829
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# if:# ifdef R_68K_GOTOFF:1057:1061
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# if:# ifndef R_390_GOTOFF32:1413:1415
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# if:# if defined(__SH5__):1457:1500
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# if:# if 0:1574:1586
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:# ifndef:# ifndef R_390_GOTOFF32:1413:1590
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_LIST):1603:1608
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__):1615:1618
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__powerpc__):1619:1624
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__v850e__):1625:1631
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__) || defined(__powerpc__):1638:1642
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__v850e__):1646:1650
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__):1654:1659
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__powerpc__):1660:1662
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__v850e__):1663:1672
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):1597:1674
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__sh__):1685:1689
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):1676:1692
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_LIST):1699:1724
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_SINGLE):1726:1740
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES) || defined(USE_PLT_ENTRIES):1742:1763
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):1770:1772
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):1773:1775
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):1798:1800
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):1801:1803
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef R_68K_GOTOFF:1841:1845
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifdef:#ifdef R_68K_GOTOFF:1841:1862
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):1873:1881
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_LIST):1884:1892
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):1882:1895
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_GOT_ENTRIES):1899:1904
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(USE_PLT_ENTRIES):1906:1911
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__arm__):1806:1913
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:1943:1996
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef SYMBOL_PREFIX:2235:2238
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE:2239:2243
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE:2259:2263
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef SYMBOL_PREFIX:2268:2281
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef SYMBOL_PREFIX:2285:2289
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef SYMBOL_PREFIX:2433:2439
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:2542:2577
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS:2707:2737
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__alpha__) && defined(AXP_BROKEN_GAS):3138:3142
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if SHT_RELM == SHT_RELA:3137:3144
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if BB_LITTLE_ENDIAN:3230:3234
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if LOADBITS:3302:3307
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__mips__):3311:3313
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if SHT_RELM == SHT_REL:3322:3328
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if defined(__SH5__):3396:3405
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_LOADINKMEM:3429:3455
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_CHECK_TAINTED_MODULE:3477:3594
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if !ENABLE_FEATURE_INSMOD_VERSION_CHECKING:3601:3603
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:3607:3612
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#ifdef _NOT_SUPPORTED_:3677:3687
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#ifdef:#ifdef _NOT_SUPPORTED_:3677:3702
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_LOAD_MAP_FULL:3708:3713
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_LOAD_MAP_FULL:3734:3795
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_LOAD_MAP:3704:3801
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:3811:3813
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:3836:3862
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_VERSION_CHECKING:3869:3877
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if ENABLE_FEATURE_INSMOD_KSYMOOPS_SYMBOLS:3894:3896
+/home/ubuntu-vm/workspace/busybox-1.23.1/modutils/modutils-24.c:#if:#if !LOADBITS:3914:3923

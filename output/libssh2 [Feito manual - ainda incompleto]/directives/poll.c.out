@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/poll.c:#ifndef:#ifndef SSH_POLL_CTX_CHUNK:38:40
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/poll.c:#ifndef:#ifndef STRICT:101:103
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/poll.c:#ifdef:#ifdef _WIN32:100:113
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/poll.c:#ifndef:#ifndef _WIN32:146:151
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/poll.c:#ifdef:#ifdef _WIN32:205:213
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/poll.c:#ifdef:#ifdef HAVE_POLL:78:251

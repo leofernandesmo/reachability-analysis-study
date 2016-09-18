@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifndef:#ifndef _WIN32:29:32
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifdef:#ifdef WITH_SSH1:330:334
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifdef:#ifdef WITH_SSH1:367:373
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifdef:#ifdef WITH_SSH1:510:516
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifndef:#ifndef _WIN32:816:949
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifdef:#ifdef WITH_SSH1:985:991
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/auth.c:#ifndef:#ifndef _WIN32:1131:1192

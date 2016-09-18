@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:calc_reserved_gdt_blocks:#ifdef RES_GDT_DEBUG
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/initialize.c:ext2fs_initialize:#ifdef WORDS_BIGENDIAN

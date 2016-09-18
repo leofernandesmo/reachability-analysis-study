@@ -1,0 +1,55 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:PNG_FUNCTION
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:PNG_FUNCTION:#ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_64bit_product:#ifdef PNG_CHECK_cHRM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_XYZ_from_xy:#ifdef PNG_cHRM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_XYZ_from_xy_checked:#ifdef PNG_cHRM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_access_version_number
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_ascii_from_fixed:#  ifdef PNG_FIXED_POINT_SUPPORTED:#  ifdef PNG_FIXED_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_ascii_from_fp:#  ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_build_16bit_table
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_build_16to8_table
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_build_8bit_table
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_build_gamma_table:#if defined(PNG_READ_BACKGROUND_SUPPORTED) || \:#ifdef PNG_16BIT_SUPPORTED:#ifdef PNG_16BIT_SUPPORTED:#if defined(PNG_READ_BACKGROUND_SUPPORTED) || \:#ifdef PNG_16BIT_SUPPORTED:#ifdef PNG_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_calculate_crc
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_check_IHDR:#  ifdef PNG_SET_USER_LIMITS_SUPPORTED:#  ifdef PNG_SET_USER_LIMITS_SUPPORTED:#  ifdef PNG_MNG_FEATURES_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_check_cHRM_fixed:#  ifdef PNG_CHECK_cHRM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_check_fp_number:#if defined(PNG_sCAL_SUPPORTED) || defined(PNG_pCAL_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_check_fp_string:#if defined(PNG_sCAL_SUPPORTED) || defined(PNG_pCAL_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_chunk_unknown_handling:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_convert_to_rfc1123:#  ifdef PNG_TIME_RFC1123_SUPPORTED:#  ifdef PNG_TIME_RFC1123_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_data_freer
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_destroy_gamma_table:#if defined(PNG_READ_BACKGROUND_SUPPORTED) || \
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_destroy_info_struct:#ifdef PNG_USER_MEM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_exp:#ifdef PNG_DO_BC
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_exp16bit:#ifdef PNG_DO_BC
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_exp8bit:#ifdef PNG_DO_BC
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_fixed:#if defined(PNG_FLOATING_POINT_SUPPORTED) && \
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_free_data:#ifdef PNG_TEXT_SUPPORTED:#ifdef PNG_tRNS_SUPPORTED:#ifdef PNG_sCAL_SUPPORTED:#ifdef PNG_pCAL_SUPPORTED:#ifdef PNG_iCCP_SUPPORTED:#ifdef PNG_sPLT_SUPPORTED:#ifdef PNG_UNKNOWN_CHUNKS_SUPPORTED:#ifdef PNG_hIST_SUPPORTED:#ifdef PNG_INFO_IMAGE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_gamma_16bit_correct
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_gamma_8bit_correct
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_gamma_correct
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_gamma_significant
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_get_copyright:#  ifdef __STDC__:#  ifdef __STDC__
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_get_header_ver
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_get_header_version:#  ifndef PNG_READ_SUPPORTED:#  ifndef PNG_READ_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_get_io_ptr
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_get_libpng_ver
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_handle_as_unknown:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_info_destroy:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_info_init_3
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_init_io:#  ifdef PNG_STDIO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_log16bit
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_log8bit
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_muldiv:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_muldiv_warn:#if defined(PNG_READ_GAMMA_SUPPORTED) || defined(PNG_INCH_CONVERSIONS_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_pow10:#  ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_product2:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_reciprocal:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_reciprocal2:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED:#ifdef PNG_FLOATING_ARITHMETIC_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_reset_crc
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_reset_zstream:#ifdef PNG_READ_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_set_sig_bytes:#ifdef PNG_READ_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_sig_cmp:#ifdef PNG_READ_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_user_version_check:#ifdef PNG_WARNINGS_SUPPORTED:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_xy_from_XYZ:#ifdef PNG_cHRM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/png.c:png_zfree

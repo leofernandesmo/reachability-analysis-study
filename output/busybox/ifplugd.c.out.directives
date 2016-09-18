@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#ifdef HAVE_NET_ETHERNET_H:40:42
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if ENABLE_FEATURE_PIDFILE:91:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if ENABLE_FEATURE_PIDFILE:95:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if 0 /* why do we mess with IP addr? It's not our business */:351:360
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if 0 /* bloat */:368:394
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if ENABLE_FEATURE_PIDFILE:517:531
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if ENABLE_FEATURE_PIDFILE:542:545
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if ENABLE_FEATURE_PIDFILE:557:570
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:#if:#if 0  /* if you are back in 1970... */:718:723

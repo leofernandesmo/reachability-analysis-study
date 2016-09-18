@@ -1,0 +1,60 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef YYTOKENTYPE:59:97
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if YYDEBUG:172:174
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef YYDEBUG:178:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifdef YYERROR_VERBOSE:183:188
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if ! defined (YYSTYPE) && ! defined (YYSTYPE_IS_DECLARED):190:205
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef YYFREE:217:219
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef YYMALLOC:220:222
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#   if:#   ifdef __GNUC__:228:232
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#   ifdef:#   ifdef __GNUC__:228:233
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#  if:#  if YYSTACK_USE_ALLOCA:227:234
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#  if:#  if defined (__STDC__) || defined (__cplusplus):240:243
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifdef YYSTACK_ALLOC:236:246
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# ifdef:# ifdef YYSTACK_ALLOC:236:247
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#  if:#  if defined (__GNUC__) && 1 < __GNUC__:273:285
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef YYCOPY:272:286
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# ifndef:# ifndef YYCOPY:272:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):306:310
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if YYDEBUG:367:437
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if YYDEBUG || YYERROR_VERBOSE:439:460
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifdef YYPRINT:462:472
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if ! defined (YYSIZE_T) && defined (__SIZE_TYPE__):667:669
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if ! defined (YYSIZE_T) && defined (size_t):670:672
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# if defined (__STDC__) || defined (__cplusplus):674:677
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if ! defined (YYSIZE_T):673:678
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if ! defined (YYSIZE_T):679:681
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef YYLLOC_DEFAULT:728:746
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# if YYLTYPE_IS_TRIVIAL:754:761
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef YY_LOCATION_PRINT:753:762
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifdef YYLEX_PARAM:767:771
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef YYFPRINTF:776:779
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):803:811
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):830:837
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# ifndef:# ifndef YYFPRINTF:776:863
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef	YYINITDEPTH:867:869
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef YYMAXDEPTH:878:880
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#   if:#   if defined (__STDC__) || defined (__cplusplus):892:897
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#  if:#  if defined (__GLIBC__) && defined (_STRING_H):887:906
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef yystrlen:886:907
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#   if:#   if defined (__STDC__) || defined (__cplusplus):916:922
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#  if:#  if defined (__GLIBC__) && defined (_STRING_H) && defined (_GNU_SOURCE):910:932
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef yystpcpy:909:933
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# ifndef:# ifndef yystpcpy:909:935
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):944:953
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifdef YYPRINT:964:967
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# ifdef:# ifdef YYPRINT:964:976
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):981:990
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# if defined (__STDC__) || defined (__cplusplus):1041:1045
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):1047:1051
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifdef YYPARSE_PARAM:1040:1052
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# if defined (__STDC__) || defined (__cplusplus):1072:1077
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if defined (__STDC__) || defined (__cplusplus):1079:1086
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifdef YYPARSE_PARAM:1071:1087
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# if:# ifndef YYSTACK_RELOCATE:1191:1214
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:# ifndef:# ifndef YYSTACK_RELOCATE:1191:1215
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if YYERROR_VERBOSE:1745:1803
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifdef __GNUC__:1846:1851
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef yyoverflow:1920:1928
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#ifndef yyoverflow:1931:1934
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if YYDEBUG:1954:1957
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/zconf.tab.c:#if:#if YYDEBUG:2028:2030

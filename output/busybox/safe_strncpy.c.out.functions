@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/safe_strncpy.c:overlapping_strcpy:21:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/safe_strncpy.c:safe_strncpy:13:18

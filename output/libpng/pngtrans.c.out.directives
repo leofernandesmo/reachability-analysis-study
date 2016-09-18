@@ -1,0 +1,23 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_BGR_SUPPORTED) || defined(PNG_WRITE_BGR_SUPPORTED):18:30
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_SWAP_SUPPORTED) || defined(PNG_WRITE_SWAP_SUPPORTED):32:45
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_PACK_SUPPORTED) || defined(PNG_WRITE_PACK_SUPPORTED):47:63
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_PACKSWAP_SUPPORTED)||defined(PNG_WRITE_PACKSWAP_SUPPORTED):65:78
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_SHIFT_SUPPORTED) || defined(PNG_WRITE_SHIFT_SUPPORTED):80:92
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_INTERLACING_SUPPORTED) || \:94:109
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_FILLER_SUPPORTED) || defined(PNG_WRITE_FILLER_SUPPORTED):111:166
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_SWAP_ALPHA_SUPPORTED) || \:168:180
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_INVERT_ALPHA_SUPPORTED) || \:182:194
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#ifdef PNG_16BIT_SUPPORTED:244:259
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#ifdef:#ifdef PNG_16BIT_SUPPORTED:244:261
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_SWAP_SUPPORTED) || defined(PNG_WRITE_SWAP_SUPPORTED):264:285
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#ifdef PNG_16BIT_SUPPORTED:263:286
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_PACKSWAP_SUPPORTED)||defined(PNG_WRITE_PACKSWAP_SUPPORTED):288:423
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_WRITE_FILLER_SUPPORTED) || \:425:541
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#ifdef PNG_16BIT_SUPPORTED:582:617
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#ifdef:#ifdef PNG_16BIT_SUPPORTED:582:620
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#if defined(PNG_READ_CHECK_FOR_INVALID_INDEX_SUPPORTED) || \:622:723
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#ifdef PNG_USER_TRANSFORM_PTR_SUPPORTED:727:740
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#ifdef PNG_USER_TRANSFORM_PTR_SUPPORTED:747:756
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#if:#ifdef PNG_USER_TRANSFORM_INFO_SUPPORTED:758:778
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#ifdef:#ifdef PNG_USER_TRANSFORM_INFO_SUPPORTED:758:779
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngtrans.c:#ifdef:#ifdef PNG_USER_TRANSFORM_PTR_SUPPORTED:747:781

@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#if:#ifndef USE_FAR_KEYWORD:49:120
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#ifndef:#ifndef USE_FAR_KEYWORD:49:121
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#  if:#  ifdef PNG_STDIO_SUPPORTED:135:147
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#  ifdef:#  ifdef PNG_STDIO_SUPPORTED:135:148
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#if:#ifdef PNG_STDIO_SUPPORTED:188:196
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#  if:#  ifdef PNG_STDIO_SUPPORTED:199:209
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#  ifdef:#  ifdef PNG_STDIO_SUPPORTED:199:210
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#  if:#  ifdef _MSC_VER:224:252
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#  ifdef:#  ifdef _MSC_VER:224:253
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:#if:#ifdef USE_FAR_KEYWORD:223:254

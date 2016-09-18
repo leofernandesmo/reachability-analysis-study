@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:ext2fs_read_dir_block
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:ext2fs_read_dir_block2:#if BB_BIG_ENDIAN:#if BB_BIG_ENDIAN:#if BB_BIG_ENDIAN:#ifdef WORDS_BIGENDIAN
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:ext2fs_write_dir_block
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:ext2fs_write_dir_block2:#ifndef WORDS_BIGENDIAN:#ifdef WORDS_BIGENDIAN:#ifdef WORDS_BIGENDIAN

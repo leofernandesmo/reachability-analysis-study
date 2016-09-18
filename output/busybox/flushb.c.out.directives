@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#if HAVE_ERRNO_H:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#if HAVE_UNISTD_H:18:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#if HAVE_SYS_IOCTL_H:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#if HAVE_SYS_MOUNT_H:24:27
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#ifndef BLKFLSBUF:40:42
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#ifndef FDFLUSH:43:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#ifndef:#ifndef FDFLUSH:43:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#ifdef __GNUC__:70:72
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#ifdef:#ifdef __GNUC__:70:73
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#if:#ifdef __GNUC__:77:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/flushb.c:#ifdef:#ifdef __GNUC__:77:80

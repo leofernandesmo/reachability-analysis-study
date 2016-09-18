@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:ext2fs_clear_bit:#ifndef _EXT2_HAVE_ASM_BITOPS_
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:ext2fs_set_bit:#ifndef _EXT2_HAVE_ASM_BITOPS_
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:ext2fs_test_bit:#ifndef _EXT2_HAVE_ASM_BITOPS_
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:ext2fs_warn_bitmap:#ifndef OMIT_COM_ERR
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:ext2fs_warn_bitmap2:#ifndef OMIT_COM_ERR

@@ -1,0 +1,16 @@
+__bswap_32:
+__uint64_t:
+__bswap_32:
+__uint64_t:
+__bswap_32:
+__uint64_t:
+__bswap_32:def(OPENSSL_CRYPTO);
+__uint64_t:def(OPENSSL_CRYPTO);
+__bswap_32:def(OPENSSL_CRYPTO);
+__uint64_t:def(OPENSSL_CRYPTO);
+__bswap_32:
+__uint64_t:
+uint32_t:
+packet_decrypt:def(HAVE_LIBGCRYPT);(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO));(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)));(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT));(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO));
+packet_encrypt:def(HAVE_LIBGCRYPT);(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT));(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO));(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO));(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO));(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)));(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)));
+packet_hmac_verify:def(DEBUG_CRYPTO);

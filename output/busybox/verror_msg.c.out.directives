@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/verror_msg.c:#if:#if ENABLE_FEATURE_SYSLOG:10:12
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/verror_msg.c:#if:#if ENABLE_FEATURE_SYSLOG:14:16
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/verror_msg.c:#if:#if ENABLE_FEATURE_SYSLOG:74:78
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/verror_msg.c:# if:# if ENABLE_FEATURE_SYSLOG:134:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/verror_msg.c:#if:#ifdef VERSION_WITH_WRITEV:82:141

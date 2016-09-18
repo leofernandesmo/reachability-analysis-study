@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:aexpr:727:743
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:binop:492:550
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:check_operator:473:489
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:filstat:630:700
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:getn:420:443
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:initialize_group_array:553:569
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:is_a_group_member:576:593
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:nexpr:703:724
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:oexpr:746:762
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:primary:765:822
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:syntax:408:416
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:test_eaccess:599:627
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/test.c:test_main:825:917

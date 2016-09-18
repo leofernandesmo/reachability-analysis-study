@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:blkid_get_dev_size:68:157
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:main:160:178
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/blkid/blkid_getsize.c:valid_offset:54:63

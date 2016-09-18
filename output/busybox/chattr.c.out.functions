@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/chattr.c:change_attributes:104:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/chattr.c:chattr_dir_proc:93:102
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/chattr.c:chattr_main:151:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/chattr.c:decode_arg:69:89
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/chattr.c:get_flag:61:67

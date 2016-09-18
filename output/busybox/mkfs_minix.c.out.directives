@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if 1:82:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if !ENABLE_FEATURE_MINIX2:98:100
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if ENABLE_FEATURE_MINIX2:105:108
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if !ENABLE_FEATURE_MINIX2:157:164
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#ifndef BLKGETSIZE:195:197
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if ENABLE_FEATURE_MINIX2:330:387
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if ENABLE_FEATURE_MINIX2:411:435
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if ENABLE_FEATURE_MINIX2:602:605
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if ENABLE_FEATURE_MINIX2:620:624
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if 0:654:661
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_minix.c:#if:#if 0:648:662

@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_badblocks_list_free:108:111
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_free:23:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_free_block_bitmap:74:81
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_free_dblist:117:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_free_generic_bitmap:54:63
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_free_inode_bitmap:65:72
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_free_inode_cache:86:94
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/freefs.c:ext2fs_u32_list_free:99:106

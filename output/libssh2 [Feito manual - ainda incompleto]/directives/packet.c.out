@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet.c:#ifndef:#ifndef _WIN32:31:34
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet.c:#ifdef:#ifdef WITH_SERVER:89:93
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet.c:#ifdef:#ifdef DEBUG_CRYPTO:246:250
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet.c:#ifdef:#ifdef WITH_SSH1:322:327
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet.c:#ifdef:#ifdef WITH_PCAP:498:504
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet.c:#ifdef:#ifdef WITH_SSH1:526:530

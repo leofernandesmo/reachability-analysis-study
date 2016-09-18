@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngFileInitialize:50:75
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngFileOpenDlg:77:85
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngFileSaveDlg:87:95
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngLoadImage:99:292
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:PngSaveImage:295:404
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_cexcept_error:36:46
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_flush:438:444
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_read_data:409:423
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/visupng/PngFile.c:png_write_data:426:435

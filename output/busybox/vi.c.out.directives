@@ -1,0 +1,128 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_REGEX_SEARCH:187:189
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_8BIT:197:202
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_8BIT:207:211
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_LOCALE_SUPPORT:195:213
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD || ENABLE_FEATURE_VI_YANKMARK:250:255
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:295:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_ASK_TERMINAL:314:316
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:331:335
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS || ENABLE_FEATURE_VI_CRASHME:336:338
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:339:341
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:344:346
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:351:356
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS:357:359
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_COLON:361:363
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:366:370
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:373:375
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:395:404
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:379:413
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:446:450
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:478:483
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:476:484
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if !ENABLE_FEATURE_VI_UNDO:516:518
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if !ENABLE_FEATURE_VI_UNDO:527:529
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if !ENABLE_FEATURE_VI_UNDO:534:536
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:569:571
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_COLON:572:575
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS:577:581
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:582:587
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:588:590
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if !ENABLE_FEATURE_VI_UNDO:594:596
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK || (ENABLE_FEATURE_VI_COLON && ENABLE_FEATURE_VI_SEARCH) || ENABLE_FEATURE_VI_CRASHME:591:598
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:599:603
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:608:612
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:604:616
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:618:622
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO_QUEUE:638:641
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:636:642
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS || ENABLE_FEATURE_VI_CRASHME:644:646
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:647:649
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#ifdef NO_SUCH_APPLET_YET:650:655
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_COLON:662:668
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:671:675
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:676:680
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_COLON:681:686
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:726:729
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_WIN_RESIZE:748:760
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:764:766
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS:768:770
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_ASK_TERMINAL:777:793
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:797:801
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS:807:815
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:822:827
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_COLON:829:849
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:853:864
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:866:872
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:873:884
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:895:898
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:922:936
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:937:950
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SET && ENABLE_FEATURE_VI_SETOPTS:993:1010
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_COLON:908:1012
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_ALLOW_EXEC:1153:1165
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:1200:1209
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:1354:1356
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:1361:1374
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:1377:1395
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SET:1352:1396
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:1402:1404
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:1441:1443
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:1397:1459
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:1474:1479
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:1513:1523
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:1531:1534
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if !ENABLE_FEATURE_VI_COLON:1017:1535
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#  if:#  if ENABLE_FEATURE_VI_SETOPTS:1936:1946
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_REGEX_SEARCH:1879:1977
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:1877:1979
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:1996:2000
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:1988:2004
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:2026:2029
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:2037:2041
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:2025:2045
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:2061:2063
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:2047:2068
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:2237:2257
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO_QUEUE:2286:2338
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO_QUEUE:2353:2362
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO_QUEUE:2434:2448
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:2259:2450
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:2471:2478
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:# if:# if ENABLE_FEATURE_VI_UNDO_QUEUE:2513:2517
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:2503:2520
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:2567:2569
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:2579:2581
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:2582:2584
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:2585:2588
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:2589:2592
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SET:2593:2595
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SETOPTS:2596:2598
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS:2599:2602
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_WIN_RESIZE:2603:2605
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:2625:2627
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:2609:2630
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:2643:2652
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:2656:2665
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK \:2632:2668
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:2670:2731
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_USE_SIGNALS:2753:2799
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:2833:2863
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:2946:2956
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:3055:3058
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:3234:3238
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_READONLY:3241:3243
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:3499:3503
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:3676:3680
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:3609:3691
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:3754:3763
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_SEARCH:3764:3843
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_DOT_CMD:3925:3928
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:3973:3980
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:4092:4095
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:4099:4102
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:4155:4167
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:4182:4189
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_UNDO:4229:4247
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if 0:4257:4271
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_YANKMARK:4284:4286
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/vi.c:#if:#if ENABLE_FEATURE_VI_CRASHME:4297:4500

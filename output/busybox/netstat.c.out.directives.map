@@ -1,0 +1,19 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:add_to_prg_cache_if_socket:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:build_ipv4_addr
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:build_ipv6_addr:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:dir_act:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:do_info
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:extract_socket_inode:#if 0 /* bb_strtol returns all-ones bit pattern on ERANGE anyway */:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:get_sname
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:ip_port_str
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:netstat_main:#if ENABLE_ROUTE:#if ENABLE_FEATURE_NETSTAT_WIDE:#if ENABLE_FEATURE_NETSTAT_PRG:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:prg_cache_add:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:prg_cache_clear:#if ENABLE_FEATURE_CLEAN_UP:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:prg_cache_get:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:prg_cache_load:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:print_inet_line:#if ENABLE_FEATURE_NETSTAT_PRG
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:raw_do_one
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:scan_inet_proc_line:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:tcp_do_one
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:udp_do_one
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:unix_do_one:#if ENABLE_FEATURE_NETSTAT_PRG

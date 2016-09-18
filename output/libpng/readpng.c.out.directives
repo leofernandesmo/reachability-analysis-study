@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:#if:#ifndef png_jmpbuf:64:66
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:#  if:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:235:239
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng.c:#  ifdef:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:235:240

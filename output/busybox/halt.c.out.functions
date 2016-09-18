@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/halt.c:halt_main:99:173
+/home/ubuntu-vm/workspace/busybox-1.23.1/init/halt.c:write_wtmp:75:92

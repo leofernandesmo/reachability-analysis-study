@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_check_sig:88:91
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_cleanup:463:473
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_decode_data:189:211
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_end_callback:434:457
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_error_handler:479:511
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_info_callback:216:381
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_init:98:182
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_row_callback:387:428
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:readpng2_version_info:76:83

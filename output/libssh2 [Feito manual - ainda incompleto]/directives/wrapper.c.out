@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/wrapper.c:#ifdef:#ifdef WITH_LIBZ:41:43
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/wrapper.c:#ifdef:#ifdef HAVE_LIBGCRYPT:66:68
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/wrapper.c:#ifdef:#ifdef HAVE_LIBGCRYPT:75:82
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/wrapper.c:#ifdef:#ifdef WITH_LIBZ:116:125

@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rs_bitmap.c:ext2fs_resize_block_bitmap:91:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rs_bitmap.c:ext2fs_resize_generic_bitmap:30:72
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rs_bitmap.c:ext2fs_resize_inode_bitmap:74:89

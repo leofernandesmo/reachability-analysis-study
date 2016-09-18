@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_default_flush:#  ifdef PNG_STDIO_SUPPORTED:#  ifdef PNG_STDIO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_default_write_data:#ifndef USE_FAR_KEYWORD:#ifndef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_default_write_data:#ifndef USE_FAR_KEYWORD:#ifndef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_far_to_near:#  ifdef _MSC_VER:#  ifdef _MSC_VER:#ifdef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_far_to_near:#  ifdef _MSC_VER:#  ifdef _MSC_VER:#ifdef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_flush
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_set_write_fn:#ifdef PNG_STDIO_SUPPORTED:#  ifdef PNG_STDIO_SUPPORTED:#  ifdef PNG_STDIO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwio.c:png_write_data

@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/checklist.c:dialog_checklist:111:333
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/checklist.c:print_arrows:59:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/checklist.c:print_buttons:95:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/checklist.c:print_item:31:54

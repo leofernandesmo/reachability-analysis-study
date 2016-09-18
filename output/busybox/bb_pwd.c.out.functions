@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:get_ug_id:103:112
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:gid2group:69:73
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:gid2group_utoa:81:85
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:uid2uname:63:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:uid2uname_utoa:75:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xgetgrgid:43:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xgetgrnam:26:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xgetpwnam:18:24
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xgetpwuid:35:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xgid2group:57:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xgroup2gid:95:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xuid2uname:51:55
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_pwd.c:xuname2uid:87:93

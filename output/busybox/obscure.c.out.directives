@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/obscure.c:#if:#ifndef __BIONIC__:112:117
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/obscure.c:#if:#if ENABLE_UNIT_TEST:186:222

@@ -1,0 +1,30 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef HAVE_NET_ETHERNET_H:38:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if ENABLE_FEATURE_HWIB:42:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if ENABLE_FEATURE_IPV6:48:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:# if:# ifndef _LINUX_IN6_H:58:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:# ifndef:# ifndef _LINUX_IN6_H:58:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifndef SIOCSIFTXQLEN:71:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifndef ifr_qlen:77:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifndef HAVE_TXQUEUELEN:81:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifndef IFF_DYNAMIC:85:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef UNUSED_AND_BUGGY:101:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef UNUSED:183:197
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#ifdef:#ifdef UNUSED:183:221
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef HAVE_AFINET6:263:265
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if 0:354:380
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if INT_MAX == LONG_MAX:450:463
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef SIOCGIFMAP:640:644
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef HAVE_TXQUEUELEN:646:653
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if ENABLE_FEATURE_IPV6:740:748
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if ENABLE_FEATURE_HWIB:749:758
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if ENABLE_FEATURE_IPV6:766:768
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#if ENABLE_FEATURE_HWIB:769:771
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef IFF_PORTSEL:775:787
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef HAVE_AFINET6:855:928
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef IFF_PORTSEL:958:964
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef HAVE_DYNAMIC:1001:1003
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef HAVE_DYNAMIC:1019:1021
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef SIOCSKEEPALIVE:1036:1039
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:#if:#ifdef UNUSED:1115:1130
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:# if:# ifdef HWIB_DEBUG:1163:1165
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/interface.c:# ifdef:# ifdef HWIB_DEBUG:1163:1168

@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/random.c:main:#ifdef RANDTEST
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/random.c:next_random

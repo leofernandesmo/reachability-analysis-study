@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:delete_eth_table:204:327
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:nameif_main:219:327
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:nameif_parse_selector:145:187
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:prepend_new_eth_table:189:201

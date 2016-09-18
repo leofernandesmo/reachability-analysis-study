@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/unparse.c:uuid_unparse:74:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/unparse.c:uuid_unparse_lower:64:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/unparse.c:uuid_unparse_upper:69:72
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/uuid/unparse.c:uuid_unparse_x:52:62

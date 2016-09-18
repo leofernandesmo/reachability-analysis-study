@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/get_console.c:console_make_active:76:80
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/get_console.c:get_console_fd_or_die:39:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/get_console.c:open_a_console:16:32

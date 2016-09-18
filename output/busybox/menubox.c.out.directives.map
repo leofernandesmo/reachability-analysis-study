@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:dialog_menu
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:do_print_item:#if OLD_NCURSES
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:do_scroll
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:print_arrows
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/menubox.c:print_buttons

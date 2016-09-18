@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifndef _WIN32:29:32
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifdef WITH_SERVER:45:48
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifndef WITH_SERVER:76:94
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifdef WITH_SERVER:96:320
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifdef WITH_SERVER:358:368
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifdef WITH_GSSAPI:792:841
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#ifdef:#ifdef WITH_GSSAPI:792:862
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifdef WITH_GSSAPI:887:891
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#if 0 // should we wipe the username ?:906:908
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#ifdef:#ifdef WITH_GSSAPI:887:987
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/messages.c:#if:#ifdef WITH_SERVER:1311:1394

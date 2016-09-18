@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/touch.c:# if:# if ENABLE_LONG_OPTS:102:110
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/touch.c:#if:#if ENABLE_FEATURE_TOUCH_SUSV3:101:119
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/touch.c:#if:#if ENABLE_FEATURE_TOUCH_SUSV3 && ENABLE_LONG_OPTS:121:123
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/touch.c:#if:#if ENABLE_FEATURE_TOUCH_NODEREF:170:172

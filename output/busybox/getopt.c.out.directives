@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:104:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:113:116
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:128:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_CLEAN_UP:155:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if !ENABLE_FEATURE_GETOPT_LONG:216:219
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#ifdef __GLIBC__:229:234
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:237:245
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:251:258
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:283:326
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:347:359
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if ENABLE_FEATURE_GETOPT_LONG:370:373
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/getopt.c:#if:#if !ENABLE_FEATURE_GETOPT_LONG:396:407

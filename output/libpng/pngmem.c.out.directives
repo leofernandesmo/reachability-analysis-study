@@ -1,0 +1,27 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:33:42
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:55:65
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:77:86
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:89:99
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:144:161
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_MAX_MALLOC_64K:166:174
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifndef PNG_USER_MEM_SUPPORTED:226:232
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifndef PNG_USER_MEM_SUPPORTED:238:246
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifndef PNG_USER_MEM_SUPPORTED:256:262
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifndef PNG_USER_MEM_SUPPORTED:287:293
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifndef PNG_USER_MEM_SUPPORTED:303:312
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:327:341
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:380:391
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:404:417
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  if defined(__TURBOC__) && !defined(__FLAT__):419:427
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:440:449
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:452:461
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  if defined(__TURBOC__) && !defined(__FLAT__):462:473
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:502:522
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_MAX_MALLOC_64K:527:538
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  if defined(__TURBOC__) && !defined(__FLAT__):541:564
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifndef PNG_USER_MEM_SUPPORTED:566:569
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  ifdef PNG_USER_MEM_SUPPORTED:583:600
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  if:#  if defined(__TURBOC__) && !defined(__FLAT__):602:613
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#  ifdef:#  ifdef PNG_USER_MEM_SUPPORTED:583:615
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:638:666
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngmem.c:#ifdef:#ifdef PNG_USER_MEM_SUPPORTED:638:667

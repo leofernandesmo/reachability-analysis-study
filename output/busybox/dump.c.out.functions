@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:alloc_dumper:43:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:bb_dump_add:702:808
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:bb_dump_dump:674:700
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:bb_dump_size:53:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:bpad:449:466
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:conv_c:480:503
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:conv_u:505:527
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:display:529:671
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:do_skip:321:342
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:get:373:447
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:next:344:371
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/dump.c:rewrite:100:319

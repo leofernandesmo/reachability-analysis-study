@@ -1,0 +1,41 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_check_keyword:#if defined(PNG_WRITE_TEXT_SUPPORTED) || defined(PNG_WRITE_pCAL_SUPPORTED) || \
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_do_write_interlace:#ifdef PNG_WRITE_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_save_int_32:#ifdef PNG_SAVE_INT_32_SUPPORTED:#ifdef PNG_SAVE_INT_32_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_save_uint_16:#ifdef PNG_SAVE_INT_32_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_save_uint_32
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_text_compress
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_IDAT:#ifdef PNG_WRITE_OPTIMIZE_CMF_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_IEND
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_IHDR:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_WRITE_CUSTOMIZE_ZTXT_COMPRESSION_SUPPORTED:#ifdef PNG_WRITE_CUSTOMIZE_ZTXT_COMPRESSION_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_PLTE:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_POINTER_INDEXING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_bKGD:#ifdef PNG_MNG_FEATURES_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_cHRM_fixed:#ifdef PNG_CHECK_cHRM_SUPPORTED:#ifdef PNG_CHECK_cHRM_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_chunk
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_chunk_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_chunk_end:#ifdef PNG_IO_STATE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_chunk_header:#if defined(PNG_DEBUG) && (PNG_DEBUG > 0):#ifdef PNG_IO_STATE_SUPPORTED:#ifdef PNG_IO_STATE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_chunk_start
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_complete_chunk
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_compressed_data_out:#ifdef PNG_WRITE_OPTIMIZE_CMF_SUPPORTED:#ifdef PNG_WRITE_OPTIMIZE_CMF_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_filtered_row:#ifdef PNG_WRITE_FLUSH_SUPPORTED:#ifdef PNG_WRITE_FLUSH_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_find_filter:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifndef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifndef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_USE_ABS:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_USE_ABS:#ifdef PNG_USE_ABS:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_finish_row:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:#ifdef PNG_WRITE_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_gAMA_fixed:#ifdef PNG_WRITE_gAMA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_hIST:#ifdef PNG_WRITE_hIST_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_iCCP:#ifdef PNG_WRITE_iCCP_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_iTXt:#ifdef PNG_WRITE_iTXt_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_oFFs:#ifdef PNG_WRITE_oFFs_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_pCAL:#ifdef PNG_WRITE_pCAL_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_pHYs:#ifdef PNG_WRITE_pHYs_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_sBIT:#ifdef PNG_WRITE_sBIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_sCAL_s:#ifdef PNG_WRITE_sCAL_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_sPLT:#ifndef PNG_POINTER_INDEXING_SUPPORTED:#ifdef PNG_POINTER_INDEXING_SUPPORTED:#ifdef PNG_POINTER_INDEXING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_sRGB:#ifdef PNG_WRITE_sRGB_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_sig:#ifdef PNG_IO_STATE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_start_row:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:#ifdef PNG_WRITE_FILTER_SUPPORTED:#ifdef PNG_WRITE_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_tEXt:#ifdef PNG_WRITE_tEXt_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_tIME:#ifdef PNG_WRITE_tIME_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_tRNS:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_write_zTXt:#ifdef PNG_WRITE_zTXt_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_zlib_claim
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwutil.c:png_zlib_release

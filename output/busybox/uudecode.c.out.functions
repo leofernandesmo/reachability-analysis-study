@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uudecode.c:base64_main:168:205
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uudecode.c:read_stduu:28:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uudecode.c:uudecode_main:92:145

@@ -1,0 +1,27 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#ifdef __BIONIC__:32:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:# if:# ifdef IPV6_2292HOPLIMIT:141:144
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:# ifdef:# ifdef IPV6_2292HOPLIMIT:141:145
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:158:163
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:166:170
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if 0:212:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if 0:256:264
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:238:278
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if !ENABLE_PING6:280:282
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:289:303
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:309:313
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:319:323
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:375:377
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:510:529
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#ifndef MLD_LISTENER_QUERY:553:555
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#ifndef MLD_LISTENER_REPORT:556:558
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#ifndef MLD_LISTENER_REDUCTION:559:561
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#ifndef:#ifndef MLD_LISTENER_REDUCTION:559:577
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:653:683
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#ifdef ICMP6_FILTER:748:761
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#ifdef:#ifdef ICMP6_FILTER:748:822
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:840:847
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:879:890
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:734:901
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if !ENABLE_FEATURE_FANCY_PING:907:911
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:# if:# if !ENABLE_FEATURE_FANCY_PING:918:922
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ping.c:#if:#if ENABLE_PING6:914:924

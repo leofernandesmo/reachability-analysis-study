@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:# if:# ifdef HAVE_WSPIAPI_H:40:42
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:# ifdef:# ifdef HAVE_WSPIAPI_H:40:45
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:#ifdef HAVE_ECC:103:109
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:  #ifdef HAVE_ECDH:199:203
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:  #ifdef HAVE_CURVE25519:204:208
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:#ifdef WITH_SSH1:374:382
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:#ifdef WITH_SSH1:392:395
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:#ifdef WITH_SSH1:405:413
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/server.c:#if:#ifdef WITH_PCAP:502:510

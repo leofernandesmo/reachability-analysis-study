@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:#if:#ifdef IP_PKTINFO:18:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:#if:#if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:# if:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):41:43
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:# if:# if ENABLE_FEATURE_IPV6:48:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:# if:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):88:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:#if:#ifndef IP_PKTINFO:33:102
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:# if:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):122:124
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:# if:# if ENABLE_FEATURE_IPV6 && defined(IPV6_PKTINFO):163:175
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/udp_io.c:#if:#ifndef IP_PKTINFO:114:178

@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_apply:#ifdef XZ_DEC_X86:#ifdef XZ_DEC_POWERPC:#ifdef XZ_DEC_IA64:#ifdef XZ_DEC_ARM:#ifdef XZ_DEC_ARMTHUMB:#ifdef XZ_DEC_SPARC
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_arm:#ifdef XZ_DEC_ARM
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_armthumb:#ifdef XZ_DEC_ARMTHUMB
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_flush
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_ia64:#ifdef XZ_DEC_IA64
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_powerpc:#ifdef XZ_DEC_POWERPC
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_sparc:#ifdef XZ_DEC_SPARC
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_x86:#ifdef XZ_DEC_X86
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:bcj_x86_test_msbyte:#ifdef XZ_DEC_X86
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:xz_dec_bcj_create
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:xz_dec_bcj_reset:#ifdef XZ_DEC_X86:#ifdef XZ_DEC_POWERPC:#ifdef XZ_DEC_IA64:#ifdef XZ_DEC_ARM:#ifdef XZ_DEC_ARMTHUMB:#ifdef XZ_DEC_SPARC:#ifdef XZ_DEC_SPARC
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/unxz/xz_dec_bcj.c:xz_dec_bcj_run

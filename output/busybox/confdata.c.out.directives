@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:#if:						fprintf(out_h, "#ifdef MAKE_SUID\n");:477:481
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:#if:					fprintf(out_h, "#ifdef MAKE_SUID\n");:513:517
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:#if:						fprintf(out_h, "#ifdef MAKE_SUID\n");:529:533
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/confdata.c:#if:					fprintf(out_h, "#ifdef MAKE_SUID\n");:547:551

@@ -1,0 +1,46 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_INFO_IMAGE_SUPPORTED:38:47
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_pHYs_SUPPORTED:117:126
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_pHYs_SUPPORTED:134:143
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_pHYs_SUPPORTED:151:160
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_READ_pHYs_SUPPORTED:169:181
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#ifdef:#ifdef PNG_READ_pHYs_SUPPORTED:169:185
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_READ_pHYs_SUPPORTED:192:212
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#ifdef:#ifdef PNG_READ_pHYs_SUPPORTED:192:216
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_oFFs_SUPPORTED:221:229
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_oFFs_SUPPORTED:237:245
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_oFFs_SUPPORTED:253:261
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_oFFs_SUPPORTED:269:277
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#if 0:286:312
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_FIXED_POINT_SUPPORTED:333:352
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_FIXED_POINT_SUPPORTED:354:362
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_FLOATING_POINT_SUPPORTED:364:373
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_FLOATING_POINT_SUPPORTED:375:384
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_pHYs_SUPPORTED:386:424
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#ifdef:#ifdef PNG_pHYs_SUPPORTED:386:425
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#ifdef:#ifdef PNG_FLOATING_POINT_SUPPORTED:375:429
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_bKGD_SUPPORTED:449:465
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:527:594
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  if:#  ifdef PNG_FIXED_POINT_SUPPORTED:596:628
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  ifdef:#  ifdef PNG_FIXED_POINT_SUPPORTED:596:629
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:647:661
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  ifdef:#  ifdef PNG_FLOATING_POINT_SUPPORTED:647:662
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_sRGB_SUPPORTED:664:680
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_iCCP_SUPPORTED:682:706
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_sPLT_SUPPORTED:708:721
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_hIST_SUPPORTED:723:739
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_oFFs_SUPPORTED:780:798
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_pCAL_SUPPORTED:800:824
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  if:#  ifdef PNG_FIXED_POINT_SUPPORTED:827:847
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:848:864
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#  ifdef:#  ifdef PNG_FLOATING_POINT_SUPPORTED:848:880
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_pHYs_SUPPORTED:882:915
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_sBIT_SUPPORTED:935:951
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_TEXT_SUPPORTED:953:977
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_tIME_SUPPORTED:979:994
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_tRNS_SUPPORTED:996:1039
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_UNKNOWN_CHUNKS_SUPPORTED:1041:1054
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:1056:1062
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_USER_CHUNKS_SUPPORTED:1064:1070
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_SET_USER_LIMITS_SUPPORTED:1078:1106
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#if:#ifdef PNG_IO_STATE_SUPPORTED:1109:1128
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngget.c:#ifdef:#ifdef PNG_IO_STATE_SUPPORTED:1109:1130

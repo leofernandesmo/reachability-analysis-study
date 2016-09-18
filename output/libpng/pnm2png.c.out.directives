@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifdef __TURBOC__:17:20
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifndef BOOL:22:24
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifndef TRUE:25:27
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifndef FALSE:28:30
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifndef PNG_DEBUG:37:39
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifndef png_jmpbuf:44:46
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifdef __TURBOC__:130:140
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/pnm2png.c:#if:#ifdef __TURBOC__:169:173

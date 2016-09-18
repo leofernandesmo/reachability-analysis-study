@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tail.c:eat_num:81:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tail.c:tail_main:93:384
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tail.c:tail_read:66:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/tail.c:tail_xprint_header:60:64

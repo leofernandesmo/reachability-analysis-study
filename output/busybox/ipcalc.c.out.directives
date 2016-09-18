@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:#if:#if ENABLE_FEATURE_IPCALC_FANCY:62:78
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:# if:# if ENABLE_FEATURE_IPCALC_FANCY:93:97
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:#if:#if ENABLE_FEATURE_IPCALC_LONG_OPTIONS:88:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:#if:#if ENABLE_FEATURE_IPCALC_LONG_OPTIONS:116:118

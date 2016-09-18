@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:98:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:212:226
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_LOCALE_SUPPORT:234:238
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:240:301
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:316:327
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:349:406
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:428:443
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/sort.c:#if:#if ENABLE_FEATURE_SORT_BIG:463:467

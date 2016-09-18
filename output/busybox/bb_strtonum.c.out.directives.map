@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoi:#if UINT_MAX != ULONG_MAX
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtol:#if ULONG_MAX != ULLONG_MAX
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoll
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtou:#if UINT_MAX != ULONG_MAX
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoul:#if ULONG_MAX != ULLONG_MAX
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoull
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:handle_errors
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:ret_ERANGE

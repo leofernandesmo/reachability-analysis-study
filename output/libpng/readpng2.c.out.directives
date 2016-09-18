@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:#if:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:134:163
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:#if:#ifdef PNG_FLOATING_POINT_SUPPORTED:221:225
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:#  if:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:316:320
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:#  ifdef:#  ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:316:321
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/readpng2.c:#if:#ifdef PNG_FLOATING_POINT_SUPPORTED:342:354

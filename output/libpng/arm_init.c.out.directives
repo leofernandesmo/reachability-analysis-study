@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/arm/arm_init.c:#if:#if defined __linux__ && defined __arm__:15:43
+/home/ubuntu-vm/workspace/libpng-1.5.14/arm/arm_init.c:#if:#ifdef __linux__:49:52
+/home/ubuntu-vm/workspace/libpng-1.5.14/arm/arm_init.c:#ifdef:#ifdef __linux__:49:85

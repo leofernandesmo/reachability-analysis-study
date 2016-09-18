@@ -1,0 +1,25 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:26:30
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:41:80
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#ifdef:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:41:104
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#if defined(PNG_WARNINGS_SUPPORTED) || defined(PNG_TIME_RFC1123_SUPPORTED):125:205
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:219:222
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#ifdef:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:219:355
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_BENIGN_ERRORS_SUPPORTED:357:366
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#if defined(PNG_WARNINGS_SUPPORTED) || defined(PNG_ERROR_TEXT_SUPPORTED):381:425
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#if defined(PNG_READ_SUPPORTED) && defined(PNG_ERROR_TEXT_SUPPORTED):427:442
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:444:458
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_BENIGN_ERRORS_SUPPORTED:461:471
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#ifdef:#ifdef PNG_BENIGN_ERRORS_SUPPORTED:461:472
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_FLOATING_POINT_SUPPORTED:475:493
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#ifdef:#ifdef PNG_FLOATING_POINT_SUPPORTED:475:494
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_SETJMP_SUPPORTED:496:510
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:522:552
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#ifdef:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:522:560
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#  if:#  ifdef USE_FAR_KEYWORD:570:579
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#  ifdef:#  ifdef USE_FAR_KEYWORD:570:581
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#  if:#  ifdef PNG_ERROR_NUMBERS_SUPPORTED:596:624
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#  ifdef:#  ifdef PNG_ERROR_NUMBERS_SUPPORTED:596:632
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_CONSOLE_IO_SUPPORTED:595:635
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:651:655
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#if:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:673:684
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:#ifdef:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:673:685

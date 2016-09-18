@@ -1,0 +1,27 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#if HAVE_UNISTD_H:17:19
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#if HAVE_ERRNO_H:20:22
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_SYS_IOCTL_H:24:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_LINUX_FD_H:27:29
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_SYS_DISKLABEL_H:30:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_SYS_QUEUE_H:34:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#ifdef:#ifdef HAVE_SYS_QUEUE_H:34:38
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef __linux__:39:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#if defined(__linux__) && defined(_IO) && !defined(BLKGETSIZE):43:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#if defined(__linux__) && defined(_IOR) && !defined(BLKGETSIZE64):47:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef APPLE_DARWIN:51:53
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#if (_WIN32_WINNT >= 0x0500):62:64
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_GET_FILE_SIZE_EX:73:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_GET_FILE_SIZE_EX:102:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef __linux__:140:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef FDGETPRM:146:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_SYS_DISKLABEL_H:149:154
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef CONFIG_LFS:156:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef DKIOCGETBLOCKCOUNT	/* For Apple Darwin */:164:173
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef __linux__:176:181
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#ifdef:#ifdef __linux__:176:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef BLKGETSIZE:193:199
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef FDGETPRM:201:207
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#if defined(DIOCGMEDIASIZE):210:239
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef HAVE_SYS_DISKLABEL_H:209:240
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#ifdef:#ifdef HAVE_SYS_DISKLABEL_H:209:269
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/getsize.c:#if:#ifdef DEBUG:271:291

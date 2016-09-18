@@ -1,0 +1,1 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/getpty.c:xgetpty:# ifndef HAVE_PTSNAME_R:# ifndef HAVE_PTSNAME_R

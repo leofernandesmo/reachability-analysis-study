@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_add_to:16:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_add_to_end:26:33
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_find_str:90:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_free:65:73
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_pop:36:47
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_rev:76:88
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/llist.c:llist_unlink:50:61

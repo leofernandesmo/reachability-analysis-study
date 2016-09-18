@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if !BB_MMU:106:108
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if ENABLE_FEATURE_FTP_WRITE:119:121
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#ifdef WHY_BOTHER_WE_CAN_ASSUME_IP_MATCHES:485:489
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#ifdef WHY_BOTHER_WE_CAN_ASSUME_IP_MATCHES:497:499
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#ifdef WHY_BOTHER_WE_CAN_ASSUME_IP_MATCHES:523:545
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if !BB_MMU:647:649
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if BB_MMU:660:679
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if ENABLE_FEATURE_FTP_WRITE:832:975
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if !BB_MMU:1102:1106
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if !BB_MMU:1113:1117
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if BB_MMU:1129:1141
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if ENABLE_FEATURE_FTP_AUTHENTICATION:1195:1221
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if !BB_MMU:1224:1226
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if !BB_MMU:1229:1232
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if ENABLE_FEATURE_FTP_WRITE:1339:1360
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if 0:1361:1373
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpd.c:#if:#if ENABLE_FEATURE_FTP_WRITE:1379:1381

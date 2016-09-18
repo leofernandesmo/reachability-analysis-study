@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/threads.c:#if:#if (GCRYPT_VERSION_NUMBER >= 0x010600):62:102
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/threads.c:#if:#ifdef HAVE_LIBGCRYPT:61:148
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/threads.c:#if:#ifdef HAVE_LIBGCRYPT:167:171
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/threads.c:#if:#ifdef HAVE_LIBGCRYPT:178:181

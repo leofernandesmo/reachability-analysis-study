@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:#if:#if ENABLE_FEATURE_WTMP:55:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:#if:#if ENABLE_FEATURE_WTMP:127:131

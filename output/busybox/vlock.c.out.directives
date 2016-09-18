@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:#if:#ifdef __linux__:26:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:#if:#ifdef __linux__:46:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:#if:#ifdef __linux__:69:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:#if:#ifdef __linux__:84:92
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:#if:#ifdef __linux__:114:116

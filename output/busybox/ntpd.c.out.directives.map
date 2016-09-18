@@ -1,0 +1,35 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:LOG2D
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:MAXD
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:MIND
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:SQRT
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:SQUARE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:add_peers
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:adjust_poll
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:clamp_pollexp_and_set_MAXSTRAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:compare_point_edge
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:compare_survivor_metric
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:d_to_lfp:#if ENABLE_FEATURE_NTPD_SERVER
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:d_to_sfp:#if ENABLE_FEATURE_NTPD_SERVER
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:d_to_tv
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:dispersion
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:do_sendto
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:filter_datapoints:#if 0
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:fit:#if 0 /* we filter out such packets earlier */
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:gettime1900d
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:lfp_to_d
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:my_SQRT
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:ntp_init:#if ENABLE_FEATURE_NTPD_SERVER:#if ENABLE_FEATURE_NTPD_CONF:#if ENABLE_FEATURE_NTPD_SERVER
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:ntpd_main:#if ENABLE_FEATURE_NTPD_SERVER:#if ENABLE_FEATURE_NTPD_SERVER
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:poll_interval
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:recv_and_process_client_pkt:#if ENABLE_FEATURE_NTPD_SERVER
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:recv_and_process_peer_pkt:#if 0
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:reset_peer_stats
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:root_distance
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:run_script
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:select_and_cluster
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:send_query_to_peer:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:set_new_values
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:set_next
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:sfp_to_d
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:step_time
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ntpd.c:update_local_clock:#if !USING_KERNEL_PLL_LOOP:#if !USING_KERNEL_PLL_LOOP || USING_INITIAL_FREQ_ESTIMATION:#if 0:#if !USING_KERNEL_PLL_LOOP || USING_INITIAL_FREQ_ESTIMATION:#if !USING_KERNEL_PLL_LOOP:# if !USING_KERNEL_PLL_LOOP:#if USING_INITIAL_FREQ_ESTIMATION:#if 0:#if USING_INITIAL_FREQ_ESTIMATION:#if USING_INITIAL_FREQ_ESTIMATION:#if 0 /* this is dead code for now */:#if USING_INITIAL_FREQ_ESTIMATION:#if !USING_KERNEL_PLL_LOOP:#if !USING_KERNEL_PLL_LOOP:#if 0

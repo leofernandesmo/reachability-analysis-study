@@ -1,0 +1,45 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_check_chunk_name
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_combine_row:#if PNG_USE_COMPILE_TIME_MASKS:#if PNG_ALIGN_TYPE != PNG_ALIGN_NONE:#ifdef PNG_READ_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_crc_error:#ifdef PNG_IO_STATE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_crc_finish
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_crc_read
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_decompress_chunk:#ifdef PNG_USER_LIMITS_SUPPORTED:#ifdef PNG_USER_LIMITS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_do_read_interlace:#ifdef PNG_READ_PACKSWAP_SUPPORTED:#ifdef PNG_READ_PACKSWAP_SUPPORTED:#ifdef PNG_READ_PACKSWAP_SUPPORTED:#ifndef PNG_READ_PACKSWAP_SUPPORTED:#ifndef PNG_READ_PACKSWAP_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_get_fixed_point:#if defined(PNG_READ_gAMA_SUPPORTED) || defined(PNG_READ_cHRM_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_get_int_32:#ifdef PNG_READ_INT_FUNCTIONS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_get_uint_16:#ifdef PNG_READ_INT_FUNCTIONS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_get_uint_31
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_get_uint_32:#ifdef PNG_READ_INT_FUNCTIONS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_IEND
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_IHDR:#ifdef PNG_MNG_FEATURES_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_PLTE:#ifdef PNG_POINTER_INDEXING_SUPPORTED:#ifndef PNG_READ_OPT_PLTE_SUPPORTED:#ifdef PNG_POINTER_INDEXING_SUPPORTED:#ifndef PNG_READ_OPT_PLTE_SUPPORTED:#ifndef PNG_READ_OPT_PLTE_SUPPORTED:#ifdef PNG_READ_tRNS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_bKGD:#ifdef PNG_READ_bKGD_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_cHRM:#  ifdef PNG_READ_sRGB_SUPPORTED:#ifdef PNG_READ_sRGB_SUPPORTED:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_gAMA:#ifdef PNG_READ_sRGB_SUPPORTED:#  ifdef PNG_READ_sRGB_SUPPORTED:#  ifdef PNG_READ_GAMMA_SUPPORTED:#  ifdef PNG_READ_GAMMA_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_hIST:#ifdef PNG_READ_hIST_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_iCCP:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_MAX_MALLOC_64K
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_iTXt:#ifdef PNG_USER_LIMITS_SUPPORTED:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_MAX_MALLOC_64K
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_oFFs:#ifdef PNG_READ_oFFs_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_pCAL:#ifdef PNG_READ_pCAL_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_pHYs:#ifdef PNG_READ_pHYs_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_sBIT:#ifdef PNG_READ_sBIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_sCAL:#ifdef PNG_READ_sCAL_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_sPLT:#ifdef PNG_USER_LIMITS_SUPPORTED:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_POINTER_INDEXING_SUPPORTED:#ifdef PNG_POINTER_INDEXING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_sRGB:#if defined(PNG_READ_gAMA_SUPPORTED) && defined(PNG_READ_GAMMA_SUPPORTED):#ifdef PNG_READ_cHRM_SUPPORTED:#  ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:#  ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_tEXt:#ifdef PNG_USER_LIMITS_SUPPORTED:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_MAX_MALLOC_64K
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_tIME:#ifdef PNG_READ_tIME_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_tRNS:#ifdef PNG_READ_tRNS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_unknown:#ifdef PNG_USER_LIMITS_SUPPORTED:#ifdef PNG_READ_USER_CHUNKS_SUPPORTED:#ifdef PNG_READ_USER_CHUNKS_SUPPORTED:#ifdef PNG_READ_USER_CHUNKS_SUPPORTED:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:#ifdef PNG_READ_USER_CHUNKS_SUPPORTED:#ifndef PNG_READ_USER_CHUNKS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_handle_zTXt:#ifdef PNG_USER_LIMITS_SUPPORTED:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_MAX_MALLOC_64K
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_inflate
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_init_filter_functions:#ifdef PNG_FILTER_OPTIMIZATIONS
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_chunk_header:#ifdef PNG_IO_STATE_SUPPORTED:#ifdef PNG_IO_STATE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_filter_row
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_filter_row_avg
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_filter_row_paeth_1byte_pixel
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_filter_row_paeth_multibyte_pixel
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_filter_row_sub
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_filter_row_up
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_finish_row:#ifdef PNG_READ_INTERLACING_SUPPORTED:#ifdef PNG_READ_INTERLACING_SUPPORTED:#ifdef PNG_READ_INTERLACING_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_sig:#ifdef PNG_IO_STATE_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrutil.c:png_read_start_row:#ifdef PNG_READ_INTERLACING_SUPPORTED:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:#ifdef PNG_READ_INTERLACING_SUPPORTED:#ifdef PNG_READ_PACK_SUPPORTED:#ifdef PNG_READ_EXPAND_SUPPORTED:#ifdef PNG_READ_EXPAND_16_SUPPORTED:#ifdef PNG_READ_FILLER_SUPPORTED:#ifdef PNG_READ_EXPAND_SUPPORTED:#ifdef PNG_READ_FILLER_SUPPORTED:#ifdef PNG_READ_FILLER_SUPPORTED:#if defined(PNG_READ_USER_TRANSFORM_SUPPORTED) && \:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_ALIGNED_MEMORY_SUPPORTED:#ifdef PNG_MAX_MALLOC_64K:#ifdef PNG_MAX_MALLOC_64K

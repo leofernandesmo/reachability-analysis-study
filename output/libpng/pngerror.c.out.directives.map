@@ -1,0 +1,22 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:PNG_FUNCTION:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:PNG_FUNCTION:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:PNG_FUNCTION:#if defined(PNG_READ_SUPPORTED) && defined(PNG_ERROR_TEXT_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:PNG_FUNCTION:#ifdef PNG_FLOATING_POINT_SUPPORTED:#ifdef PNG_FLOATING_POINT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:PNG_FUNCTION:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:PNG_FUNCTION:#  ifdef USE_FAR_KEYWORD:#  ifdef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_benign_error:#ifdef PNG_BENIGN_ERRORS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_chunk_benign_error:#ifdef PNG_BENIGN_ERRORS_SUPPORTED:#ifdef PNG_BENIGN_ERRORS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_chunk_warning:#ifdef PNG_WARNINGS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_default_warning:#  ifdef PNG_ERROR_NUMBERS_SUPPORTED:#  ifdef PNG_ERROR_NUMBERS_SUPPORTED:#ifdef PNG_CONSOLE_IO_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_format_buffer:#if defined(PNG_WARNINGS_SUPPORTED) || defined(PNG_ERROR_TEXT_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_format_number:#if defined(PNG_WARNINGS_SUPPORTED) || defined(PNG_TIME_RFC1123_SUPPORTED)
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_formatted_warning:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_get_error_ptr
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_safecat
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_set_error_fn:#ifdef PNG_WARNINGS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_set_longjmp_fn:#ifdef PNG_SETJMP_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_set_strip_error_numbers:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_warning:#ifdef PNG_ERROR_NUMBERS_SUPPORTED:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_warning_parameter:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_warning_parameter_signed:#ifdef PNG_ERROR_NUMBERS_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngerror.c:png_warning_parameter_unsigned:#ifdef PNG_ERROR_NUMBERS_SUPPORTED

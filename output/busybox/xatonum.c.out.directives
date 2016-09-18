@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum.c:#if:#if ULONG_MAX != ULLONG_MAX:23:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xatonum.c:#if:#if UINT_MAX != ULONG_MAX:36:58

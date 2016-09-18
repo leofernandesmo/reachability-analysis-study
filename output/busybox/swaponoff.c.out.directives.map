@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:do_all_in_proc_swaps
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:do_em_all_in_fstab
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:set_discard_flag:#if ENABLE_FEATURE_SWAPON_DISCARD
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:set_priority_flag:#if ENABLE_FEATURE_SWAPON_PRI
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:swap_enable_disable
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/swaponoff.c:swap_on_off_main

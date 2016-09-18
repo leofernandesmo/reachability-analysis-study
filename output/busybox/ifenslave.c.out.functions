@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:change_active:284:301
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:clear_if_addr:235:242
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:enslave:303:420
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:get_drv_info:451:471
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:get_if_settings:179:188
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:get_slave_flags:190:193
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:ifenslave_main:474:617
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:ioctl_on_skfd:168:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:release:422:449
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_hwaddr:195:201
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_addr:244:282
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_down:227:233
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_flags:211:217
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_if_up:219:225
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_ifrname_and_do_ioctl:173:177
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifenslave.c:set_mtu:203:209

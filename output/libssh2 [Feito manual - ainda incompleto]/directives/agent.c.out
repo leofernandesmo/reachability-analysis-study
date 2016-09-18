@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/agent.c:#ifndef:#ifndef _WIN32:46:49
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/agent.c:#ifdef:#ifdef EWOULDBLOCK:106:110
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/agent.c:#ifndef:#ifndef _WIN32:37:205

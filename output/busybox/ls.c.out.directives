@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/ls.c:#if:#ifdef EXT2_DYNAMIC_REV:88:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/ls.c:#if:#ifdef EXT2_DYNAMIC_REV:109:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/ls.c:#if:#ifndef EXT2_INODE_SIZE:133:135
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/ls.c:#if:#ifndef EXT2_GOOD_OLD_REV:137:139
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/ls.c:#if:#ifdef EXT2_DYNAMIC_REV:170:173

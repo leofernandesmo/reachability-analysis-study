@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:addgroup_wrapper:#if ENABLE_FEATURE_ADDGROUP_LONG_OPTIONS || !ENABLE_ADDGROUP
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:adduser_main:#if ENABLE_FEATURE_ADDUSER_LONG_OPTIONS:#if ENABLE_FEATURE_SHADOWPASSWDS
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:passwd_study
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/adduser.c:passwd_wrapper

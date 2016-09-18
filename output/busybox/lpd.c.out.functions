@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/printutils/lpd.c:lpd_main:109:292
+/home/ubuntu-vm/workspace/busybox-1.23.1/printutils/lpd.c:sane:87:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/printutils/lpd.c:xmalloc_read_stdin:101:106

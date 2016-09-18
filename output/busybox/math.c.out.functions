@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/math.c:arith:720:725
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/math.c:arith_apply:300:468
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/math.c:arith_lookup_val:258:294
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/math.c:evaluate_string:517:717
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/math.c:is_assign_op:216:223
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/math.c:is_right_associative:226:231

@@ -1,0 +1,21 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifndef RTF_MSS:52:54
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#ifndef:#ifndef RTF_MSS:52:58
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if defined(SIOCADDRTOLD) || defined(RTF_IRTT)	/* route */:60:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if HAVE_NEW_ADDRT:64:70
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if HAVE_NEW_ADDRT:108:110
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifdef RTF_IRTT:116:118
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifdef RTF_REJECT:122:124
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifdef RTF_REJECT:132:134
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if HAVE_NEW_ADDRT:194:196
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if HAVE_NEW_ADDRT:229:234
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if 0:287:292
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifdef RTF_IRTT:282:295
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifdef RTF_REJECT:309:313
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:349:451
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:459:463
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:472:474
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#ifdef RTF_REJECT:526:530
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:552:641
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:676:680
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:689:693
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:#if:#if ENABLE_FEATURE_IPV6:705:709

@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:do_stat:#if ENABLE_SELINUX:# if !ENABLE_SELINUX:# if ENABLE_SELINUX:# if ENABLE_SELINUX:#if ENABLE_FEATURE_STAT_FORMAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:do_statfs:#if !ENABLE_FEATURE_STAT_FORMAT:#if ENABLE_SELINUX:# if !ENABLE_SELINUX:# if !ENABLE_SELINUX:#if ENABLE_FEATURE_STAT_FORMAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:file_type:#ifdef S_TYPEISMQ:#ifdef S_TYPEISSEM:#ifdef S_TYPEISSHM:#ifdef S_TYPEISTMO
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:get_f_fsid
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:human_fstype
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:human_time
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:print_it:#if ENABLE_FEATURE_STAT_FORMAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:print_stat:# if ENABLE_SELINUX:#if ENABLE_FEATURE_STAT_FORMAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:print_statfs:# if ENABLE_SELINUX:#if ENABLE_FEATURE_STAT_FORMAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:printfs:#if ENABLE_FEATURE_STAT_FORMAT
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:stat_main:#if ENABLE_SELINUX
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:strcatc:#if ENABLE_FEATURE_STAT_FORMAT

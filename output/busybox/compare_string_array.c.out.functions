@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/compare_string_array.c:index_in_str_array:10:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/compare_string_array.c:index_in_strings:22:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/compare_string_array.c:index_in_substr_array:39:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/compare_string_array.c:index_in_substrings:54:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/compare_string_array.c:nth_string:76:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/compare_string_array.c:yesno:87:94

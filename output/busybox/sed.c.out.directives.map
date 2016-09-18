@@ -1,0 +1,23 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:add_cmd
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:add_cmd_block
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:append
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:beg_match
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:branch_to
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:cleanup_outname
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:copy_parsing_escapes
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:do_subst_command
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:do_subst_w_backrefs
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:flush_append
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:get_address
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:get_next_line
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:index_of_next_unescaped_regexp_delim
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:parse_cmd_args
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:parse_escapes
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:parse_file_cmd
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:parse_regex_delim
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:parse_subst_cmd
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:pipe_putc
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:process_files
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:puts_maybe_newline
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:sed_free_and_close_stuff:#if ENABLE_FEATURE_CLEAN_UP
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/sed.c:sed_main:#if ENABLE_LONG_OPTS

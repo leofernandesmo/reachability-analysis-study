@@ -1,0 +1,10 @@
+__bswap_32:
+__uint64_t:
+__bswap_32:
+__uint64_t:
+wait_auth1_status:def(WITH_SSH1);
+ssh_auth1_handler:def(WITH_SSH1);
+send_username:def(WITH_SSH1);
+ssh_userauth1_none:def(WITH_SSH1);
+ssh_userauth1_offer_pubkey:def(WITH_SSH1);
+ssh_userauth1_password:def(WITH_SSH1);

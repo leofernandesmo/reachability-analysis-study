@@ -1,0 +1,46 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:112:115
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_SMP_PROCESS:120:122
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:150:152
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_SMP_CPU:153:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:157:163
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if !ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:164:174
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_SMP_CPU:175:179
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:180:182
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:219:226
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if !ENABLE_FEATURE_TOP_SMP_CPU:266:270
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if !ENABLE_FEATURE_TOP_SMP_CPU:299:338
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:236:394
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_GLOBAL_PERCENTS && ENABLE_FEATURE_TOP_DECIMALS:396:419
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_TOP_SMP_CPU:430:432
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_TOP_DECIMALS:440:448
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if !ENABLE_FEATURE_TOP_SMP_CPU:450:464
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_TOP_SMP_CPU:479:484
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_GLOBAL_PERCENTS:421:500
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:603:607
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_DECIMALS:617:627
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:639:671
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:681:683
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:732:734
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:724:744
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:769:868
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:959:962
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_SHOW_THREADS:965:972
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#  if:#  if ENABLE_FEATURE_TOPMEM:988:997
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#  if:#  if ENABLE_FEATURE_TOP_SMP_CPU:1002:1020
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:# if:# if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:973:1021
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:892:1027
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:1086:1088
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_SMP_CPU:1094:1099
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:1104:1107
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:1125:1131
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:1136:1149
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:1160:1167
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:1176:1178
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:1185:1187
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_SMP_PROCESS:1191:1193
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:1195:1212
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOP_CPU_USAGE_PERCENTAGE:1220:1232
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:1234:1238
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_TOPMEM:1241:1244
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if !ENABLE_FEATURE_USE_TERMIOS:1248:1252
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/top.c:#if:#if ENABLE_FEATURE_USE_TERMIOS:1256:1258

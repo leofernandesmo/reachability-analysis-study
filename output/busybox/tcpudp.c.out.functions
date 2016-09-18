@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:connection_status:178:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:print_waitstat:142:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:sig_child_handler:185:200
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:sig_term_handler:133:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:tcpudpsvd_main:203:550
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:undo_xsetenv:123:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:xsetenv_plain:109:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tcpudp.c:xsetenv_proto:116:121

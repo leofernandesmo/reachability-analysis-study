@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:#if:#ifdef PF_PACKET:86:92
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:#if:#ifdef DEBUG:94:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:#if:#if !defined(__UCLIBC__) || UCLIBC_VERSION >= KERNEL_VERSION(0, 9, 30):124:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:# if:# ifdef DEBUG:235:243
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:# ifdef:# ifdef DEBUG:235:245
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ether-wake.c:#if:#if defined(PF_PACKET):263:279

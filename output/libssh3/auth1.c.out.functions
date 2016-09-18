@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:send_username:78:139
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:ssh_auth1_handler:66:76
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:ssh_auth_status_termination:38:44
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:ssh_userauth1_none:142:144
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:ssh_userauth1_offer_pubkey:149:157
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:ssh_userauth1_password:159:226
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/auth1.c:wait_auth1_status:46:64

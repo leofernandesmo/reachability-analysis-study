@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:touch:11:15
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:update_utmp:65:132
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/utmp.c:write_new_utmp:17:60

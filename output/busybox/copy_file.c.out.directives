@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copy_file.c:#if:#if !ENABLE_FEATURE_NON_POSIX_CP:30:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copy_file.c:#if:#if ENABLE_FEATURE_VERBOSE_CP_MESSAGE:55:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copy_file.c:#if:#if ENABLE_SELINUX:112:128
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/copy_file.c:#if:#if ENABLE_SELINUX:298:316

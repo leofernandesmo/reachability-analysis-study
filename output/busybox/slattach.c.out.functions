@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/slattach.c:restore_state_and_exit:81:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/slattach.c:save_state:49:57
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/slattach.c:set_state:110:128
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/slattach.c:set_termios_state_or_warn:59:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/slattach.c:sig_handler:130:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/slattach.c:slattach_main:136:258

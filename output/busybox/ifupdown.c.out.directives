@@ -1,0 +1,30 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_MAPPING:53:55
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:197:228
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:288:295
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:298:314
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_IPV4 || ENABLE_FEATURE_IFUPDOWN_IPV6:144:360
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:367:374
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:379:383
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:394:403
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:409:413
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:416:432
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:435:437
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_IPV6:363:449
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:456:463
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:468:475
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:481:497
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_IP:503:512
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_EXTERNAL_DHCP:516:542
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#  if:#  if ENABLE_FEATURE_IFUPDOWN_IP:548:556
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#  if:#  if ENABLE_FEATURE_IFUPDOWN_IP:567:575
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_EXTERNAL_DHCP:544:586
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:# if:# if ENABLE_FEATURE_IFUPDOWN_EXTERNAL_DHCP:588:634
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_IPV4:452:686
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_MAPPING:778:780
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_DESKTOP:795:808
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_MAPPING:817:836
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_IPV4:840:842
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_IPV6:843:845
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_MAPPING:931:943
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_MAPPING:1086:1158
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifupdown.c:#if:#if ENABLE_FEATURE_IFUPDOWN_MAPPING:1274:1291

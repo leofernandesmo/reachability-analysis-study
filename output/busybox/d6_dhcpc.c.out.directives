@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if ENABLE_LONG_OPTS:41:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if 0:697:723
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if 0:735:743
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if BB_MMU:818:826
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if ENABLE_FEATURE_UDHCP_PORT:962:967
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if !BB_MMU:1018:1024
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if BB_MMU /* -b is not supported on NOMMU */:1125:1132
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/d6_dhcpc.c:#if:#if BB_MMU /* NOMMU case backgrounded earlier */:1467:1473

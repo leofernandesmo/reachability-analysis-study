@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:angle_address:159:173
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:rcptto:175:182
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:rcptto_list:185:207
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:sane_address:140:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:send_r_n:97:102
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:sendmail_main:210:487
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:smtp_check:134:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/mailutils/sendmail.c:smtp_checkp:104:132

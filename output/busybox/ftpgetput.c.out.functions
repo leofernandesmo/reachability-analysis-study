@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:ftp_die:79:89
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:ftp_login:118:145
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:ftp_receive:219:270
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:ftp_send:277:301
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:ftpcmd:91:116
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:ftpgetput_main:315:360
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:pump_data_and_QUIT:194:213
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:xconnect_ftpdata:147:192

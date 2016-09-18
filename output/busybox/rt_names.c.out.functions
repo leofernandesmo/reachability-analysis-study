@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_a2n:36:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_dsfield_a2n:213:217
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_dsfield_n2a:197:211
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtdsfield_initialize:189:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtprot_a2n:107:111
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtprot_initialize:66:89
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtprot_n2a:91:105
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtrealm_a2n:162:166
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtrealm_initialize:154:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtrealm_n2a:169:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtscope_a2n:145:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtscope_initialize:116:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rtscope_n2a:129:143
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rttable_a2n:250:254
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rttable_initialize:223:232
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_rttable_n2a:234:248
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/rt_names.c:rtnl_tab_initialize:19:34

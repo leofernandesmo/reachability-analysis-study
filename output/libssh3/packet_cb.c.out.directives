@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/packet_cb.c:#if:#ifdef HAVE_ARPA_INET_H:27:29
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/packet_cb.c:#if:#ifdef HAVE_ECDH:111:115
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/packet_cb.c:#if:#ifdef HAVE_CURVE25519:116:120

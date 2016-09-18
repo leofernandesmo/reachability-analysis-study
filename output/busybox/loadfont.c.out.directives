@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#ifndef KDFONTOP:35:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_FEATURE_LOADFONT_PSF2:78:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if !ENABLE_FEATURE_LOADFONT_PSF2:163:166
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if !ENABLE_FEATURE_LOADFONT_PSF2:169:174
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_FEATURE_LOADFONT_PSF2:194:223
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_FEATURE_LOADFONT_PSF2:264:276
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_FEATURE_LOADFONT_RAW:277:284
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if !defined(PIO_FONTX) || defined(__sparc__):289:292
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_LOADFONT:307:332
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_FEATURE_SETFONT_TEXTUAL_MAP:369:383
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_FEATURE_SETFONT_TEXTUAL_MAP:434:481
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:#if:#if ENABLE_SETFONT:334:492

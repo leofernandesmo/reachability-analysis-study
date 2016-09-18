@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/sestatus.c:display_boolean:26:54
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/sestatus.c:display_verbose:83:151
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/sestatus.c:read_config:56:81
+/home/ubuntu-vm/workspace/busybox-1.23.1/selinux/sestatus.c:sestatus_main:154:211

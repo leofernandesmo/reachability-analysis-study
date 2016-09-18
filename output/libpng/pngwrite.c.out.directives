@@ -1,0 +1,99 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_MNG_FEATURES_SUPPORTED:40:47
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:53:57
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_gAMA_SUPPORTED:61:64
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_sRGB_SUPPORTED:65:68
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_iCCP_SUPPORTED:70:74
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_sBIT_SUPPORTED:75:78
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_cHRM_SUPPORTED:79:86
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_UNKNOWN_CHUNKS_SUPPORTED:88:116
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if defined(PNG_WRITE_TEXT_SUPPORTED) || defined(PNG_WRITE_sPLT_SUPPORTED):124:126
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:145:155
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:145:159
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_bKGD_SUPPORTED:160:163
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_hIST_SUPPORTED:165:168
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_oFFs_SUPPORTED:170:174
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_pCAL_SUPPORTED:176:181
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_sCAL_SUPPORTED:183:187
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_pHYs_SUPPORTED:189:193
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_tIME_SUPPORTED:195:201
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_sPLT_SUPPORTED:203:207
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_iTXt_SUPPORTED:218:228
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_zTXt_SUPPORTED:236:243
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_tEXt_SUPPORTED:250:260
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef PNG_WRITE_tEXt_SUPPORTED:250:263
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_UNKNOWN_CHUNKS_SUPPORTED:265:289
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_CHECK_FOR_INVALID_INDEX_SUPPORTED:308:311
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_TEXT_SUPPORTED:316:318
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_tIME_SUPPORTED:319:325
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_iTXt_SUPPORTED:335:345
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_zTXt_SUPPORTED:352:359
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_tEXt_SUPPORTED:366:372
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef PNG_WRITE_tEXt_SUPPORTED:366:378
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_UNKNOWN_CHUNKS_SUPPORTED:379:401
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#  if:#  ifdef PNG_WRITE_FLUSH_AFTER_IEND_SUPPORTED:416:418
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#  ifdef:#  ifdef PNG_WRITE_FLUSH_AFTER_IEND_SUPPORTED:416:419
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_CONVERT_tIME_SUPPORTED:422:446
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:453:466
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_SETJMP_SUPPORTED:468:470
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef USE_FAR_KEYWORD:473:475
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef USE_FAR_KEYWORD:473:476
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:480:485
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_SET_USER_LIMITS_SUPPORTED:490:493
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef USE_FAR_KEYWORD:500:504
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef USE_FAR_KEYWORD:505:507
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef USE_FAR_KEYWORD:505:509
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:511:513
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:535:540
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:546:548
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:593:600
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_INVERT_SUPPORTED) && defined(PNG_READ_INVERT_SUPPORTED):634:637
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_FILLER_SUPPORTED) && defined(PNG_READ_FILLER_SUPPORTED):639:642
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_PACKSWAP_SUPPORTED) && \:643:648
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_PACK_SUPPORTED) && defined(PNG_READ_PACK_SUPPORTED):650:653
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_SHIFT_SUPPORTED) && defined(PNG_READ_SHIFT_SUPPORTED):655:658
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_BGR_SUPPORTED) && defined(PNG_READ_BGR_SUPPORTED):660:663
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#if !defined(PNG_WRITE_SWAP_SUPPORTED) && defined(PNG_READ_SWAP_SUPPORTED):665:668
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:673:739
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INTERLACING_SUPPORTED:759:772
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_TRANSFORMS_SUPPORTED:774:778
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_MNG_FEATURES_SUPPORTED:787:803
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_CHECK_FOR_INVALID_INDEX_SUPPORTED:806:811
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_FLUSH_SUPPORTED:820:884
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:892:895
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:902:908
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:919:925
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:928:933
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:940:945
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_SETJMP_SUPPORTED:955:957
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:959:961
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:963:965
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_FILTER_SUPPORTED:976:982
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_WEIGHTED_FILTER_SUPPORTED:984:989
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_SETJMP_SUPPORTED:991:994
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:997:999
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:1001:1003
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:1008:1010
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_USER_MEM_SUPPORTED:1012:1014
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_SETJMP_SUPPORTED:1016:1018
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_MNG_FEATURES_SUPPORTED:1030:1035
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_FILTER_SUPPORTED:1040:1045
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_FILTER_SUPPORTED:1049:1067
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_FILTER_SUPPORTED:1081:1141
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_FLOATING_POINT_SUPPORTED:1273:1326
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_FIXED_POINT_SUPPORTED:1328:1392
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef PNG_FIXED_POINT_SUPPORTED:1328:1393
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifndef WBITS_8_OK:1446:1454
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifndef WBITS_8_OK:1527:1535
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifndef:#ifndef WBITS_8_OK:1527:1554
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_USER_TRANSFORM_SUPPORTED:1566:1579
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INVERT_SUPPORTED:1595:1599
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_SHIFT_SUPPORTED:1601:1608
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_PACK_SUPPORTED:1610:1614
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_SWAP_ALPHA_SUPPORTED:1616:1620
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_FILLER_SUPPORTED:1622:1629
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_BGR_SUPPORTED:1631:1635
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_SWAP_SUPPORTED:1637:1641
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_PACKSWAP_SUPPORTED:1643:1647
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#if:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:1649:1653
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:1649:1667
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwrite.c:#ifdef:#ifdef PNG_WRITE_PACKSWAP_SUPPORTED:1643:1668

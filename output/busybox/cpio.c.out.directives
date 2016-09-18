@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/cpio.c:#if:#if ENABLE_FEATURE_CPIO_O:168:336
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/cpio.c:#if:#if ENABLE_FEATURE_CPIO_P:353:355
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/cpio.c:#if:#if ENABLE_FEATURE_CPIO_O:350:356
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/cpio.c:#if:#if ENABLE_LONG_OPTS:346:361
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/cpio.c:#if:#if !BB_MMU:401:411
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/cpio.c:#if:#if !ENABLE_FEATURE_CPIO_O:372:438

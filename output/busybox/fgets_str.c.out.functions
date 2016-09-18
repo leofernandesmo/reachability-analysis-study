@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/fgets_str.c:xmalloc_fgetline_str:82:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/fgets_str.c:xmalloc_fgets_internal:13:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/fgets_str.c:xmalloc_fgets_str:65:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/fgets_str.c:xmalloc_fgets_str_len:71:80

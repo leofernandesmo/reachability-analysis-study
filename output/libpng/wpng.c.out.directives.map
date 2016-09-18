@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:dos_kbd_gets:#ifdef DOS_OS2_W32
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:main:#ifndef DOS_OS2_W32:#ifdef sgi:#if defined(NeXT):#ifdef DOS_OS2_W32:#ifndef DOS_OS2_W32:#ifdef FORBID_LATIN1_CTRL:#ifdef FORBID_LATIN1_CTRL:#ifdef FORBID_LATIN1_CTRL:#ifdef FORBID_LATIN1_CTRL:#ifdef FORBID_LATIN1_CTRL:#ifdef FORBID_LATIN1_CTRL:#ifndef DOS_OS2_W32
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:wpng_cleanup
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/wpng.c:wpng_isvalid_latin1

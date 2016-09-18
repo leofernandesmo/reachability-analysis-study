@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/nandwrite.c:dump_bad:69:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/nandwrite.c:nandwrite_main:107:275
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/nandwrite.c:next_good_eraseblock:85:104

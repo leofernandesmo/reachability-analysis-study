@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/perror_msg.c:bb_perror_msg:11:19
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/perror_msg.c:bb_perror_msg_and_die:21:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/perror_msg.c:bb_simple_perror_msg:32:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/perror_msg.c:bb_simple_perror_msg_and_die:37:40

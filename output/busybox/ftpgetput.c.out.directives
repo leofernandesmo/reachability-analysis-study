@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:#if:#if !ENABLE_FTPGET:215:271
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:#if:#if !ENABLE_FTPPUT:273:302
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:#if:#if ENABLE_FEATURE_FTPGETPUT_LONG_OPTIONS:304:312
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:#if:#if ENABLE_FTPPUT && !ENABLE_FTPGET:320:331
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ftpgetput.c:#if:#if ENABLE_FEATURE_FTPGETPUT_LONG_OPTIONS:341:343

@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/beep.c:#if:#ifndef CLOCK_TICK_RATE:23:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/beep.c:#if:#ifndef CONFIG_FEATURE_BEEP_FREQ:28:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/beep.c:#if:#ifndef CONFIG_FEATURE_BEEP_LENGTH_MS:33:37

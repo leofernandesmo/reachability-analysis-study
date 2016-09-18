@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_read_bitmaps:267:275
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_read_block_bitmap:262:265
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_read_inode_bitmap:257:260
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_swap_bitmap:45:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_write_bitmaps:277:294
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_write_block_bitmap:97:147
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:ext2fs_write_inode_bitmap:55:95
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:read_bitmaps:149:255

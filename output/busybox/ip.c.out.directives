@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:#if:#if ENABLE_FEATURE_IP_ADDRESS:108:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:#if:#if ENABLE_FEATURE_IP_LINK:115:121
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:#if:#if ENABLE_FEATURE_IP_ROUTE:122:128
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:#if:#if ENABLE_FEATURE_IP_RULE:129:135
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:#if:#if ENABLE_FEATURE_IP_TUNNEL:136:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:#if:#if ENABLE_FEATURE_IP_ADDRESS \:89:177

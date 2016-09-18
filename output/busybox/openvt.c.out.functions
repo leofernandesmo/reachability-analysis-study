@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/openvt.c:find_free_vtno:82:95
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/openvt.c:get_vt_fd:68:80
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/openvt.c:not_vt_fd:61:65
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/openvt.c:openvt_main:117:188
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/openvt.c:vfork_child:101:114

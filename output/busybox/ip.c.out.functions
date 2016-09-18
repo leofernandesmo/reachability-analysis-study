@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:ip_do:102:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:ip_main:146:175
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:ip_print_help:95:98
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:ipaddr_main:110:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:iplink_main:117:120
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:iproute_main:124:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:iprule_main:131:134
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ip.c:iptunnel_main:138:141

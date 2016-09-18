@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/libcoreutils/getopt_mk_fifo_nod.c:#if:#if ENABLE_SELINUX:30:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/libcoreutils/getopt_mk_fifo_nod.c:#if:#if ENABLE_SELINUX:40:45

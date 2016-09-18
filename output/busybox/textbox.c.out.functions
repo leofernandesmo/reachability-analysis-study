@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/textbox.c:back_lines:306:412
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/textbox.c:dialog_textbox:37:300
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/textbox.c:get_line:465:511
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/textbox.c:print_line:435:458
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/textbox.c:print_page:417:430
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/textbox.c:print_position:516:531

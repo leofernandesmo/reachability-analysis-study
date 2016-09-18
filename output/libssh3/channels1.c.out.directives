@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/channels1.c:#if:#ifndef _WIN32:28:30
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/channels1.c:#if:#ifdef HAVE_UNISTD_H:31:33
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/channels1.c:#if:#ifdef WITH_SSH1:43:395

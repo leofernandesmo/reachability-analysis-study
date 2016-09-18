@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_STRCHRNUL:11:18
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_USLEEP:20:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_VASPRINTF:38:63
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_DPRINTF:65:82
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_MEMRCHR:84:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_MKDTEMP:106:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_STRCASESTR:116:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_STRSEP:131:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_STPCPY:158:167
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/platform.c:#if:#ifndef HAVE_GETLINE:169:196

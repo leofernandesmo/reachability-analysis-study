@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:#if:#ifndef _WIN32:29:33
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:#if:#ifdef WITH_SERVER:39:42
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:#if:#ifdef WITH_SSH1:1027:1031
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:#if:#ifdef _MSC_VER:1033:1181
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:#if:#ifdef HAVE_ECC:1418:1426
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/options.c:#ifdef:#ifdef HAVE_ECC:1418:1565

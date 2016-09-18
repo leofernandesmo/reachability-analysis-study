@@ -1,0 +1,38 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:92:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if   CONFIG_GZIP_FAST == 0:111:119
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  if:#  ifdef SMALL_MEM:122:126
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  ifdef:#  ifdef SMALL_MEM:122:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  if:#  ifdef SMALL_MEM:130:134
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  ifdef:#  ifdef SMALL_MEM:130:135
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  if:#  ifdef SMALL_MEM:138:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  ifdef:#  ifdef SMALL_MEM:138:143
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef WSIZE:158:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef MAX_PATH_LEN:176:178
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef BITS:183:185
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef MAX_EXT_CHARS:198:202
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef SMALL_MEM:214:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef MEDIUM_MEM:217:219
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef HASH_BITS:220:223
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef TOO_FAR:229:231
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:362:364
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:389:391
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:479:483
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:530:532
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:547:549
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:551:553
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if HASH_BITS < 8 || MAX_MATCH != 258:647:649
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:709:729
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  if:#  ifdef MEDIUM_MEM:834:838
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  ifdef:#  ifdef MEDIUM_MEM:834:839
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#  if:#  ifdef SMALL_MEM:831:840
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef DIST_BUFSIZE:841:843
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifndef DEBUG:1005:1014
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DUMP_BL_TREE:1312:1317
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:1865:1867
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef NOT_NEEDED:1928:1931
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#ifdef DEBUG:2051:2053
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if ENABLE_GUNZIP:2092:2096
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if ENABLE_FEATURE_GZIP_LONG_OPTIONS:2086:2101
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if ENABLE_GUNZIP:2118:2122
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if ENABLE_FEATURE_GZIP_LONG_OPTIONS:2126:2128
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/gzip.c:#if:#if ENABLE_GUNZIP /* gunzip_main may not be visible... */:2131:2134

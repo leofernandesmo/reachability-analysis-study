@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/external/blowfish.c:#if:#if 0:46:49
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/external/blowfish.c:#if:#ifdef __GNUC__:57:61
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/external/blowfish.c:#if:#if 0:649:691
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/external/blowfish.c:#ifdef:#ifdef __GNUC__:57:693

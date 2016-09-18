@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifndef IUCLC:27:29
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifndef LOGIN_PROCESS:31:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef DEBUGGING:40:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef CMSPAR:266:268
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef CBAUD:269:271
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef CBAUDEX:272:274
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef CIBAUD:275:277
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef CRTSCTS:288:291
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef __linux__:301:303
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef VSWTC:367:369
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef VSWTCH:370:372
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef ISSUE:452:455
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef ISSUE:532:534
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef DEBUGGING:608:614
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/getty.c:#if:#ifdef __linux__:631:635

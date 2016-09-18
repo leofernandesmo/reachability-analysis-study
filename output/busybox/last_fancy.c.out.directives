@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last_fancy.c:#if:#ifndef SHUTDOWN_TIME:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/last_fancy.c:#if:#ifdef BUT_UTIL_LINUX_LAST_HAS_NO_SUCH_OPT:168:177

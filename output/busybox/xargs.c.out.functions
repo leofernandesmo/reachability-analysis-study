@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:bb_show_usage:649:654
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:main:656:659
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process0_stdin:299:333
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process_stdin:162:246
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process_stdin:249:295
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process_stdin_with_replace:349:393
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:store_param:139:147
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:xargs_ask_confirmation:401:414
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:xargs_exec:111:132
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:xargs_main:477:642

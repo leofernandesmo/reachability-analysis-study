@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:#if:#if HAVE_SYS_TYPES_H:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:#if:#ifndef _EXT2_HAVE_ASM_BITOPS_:22:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:#if:#ifndef OMIT_COM_ERR:73:78
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/bitops.c:#if:#ifndef OMIT_COM_ERR:84:89

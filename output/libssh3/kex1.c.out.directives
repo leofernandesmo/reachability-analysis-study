@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifndef _WIN32:26:28
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifdef DEBUG_CRYPTO:86:89
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifdef DEBUG_CRYPTO:101:103
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifdef HAVE_LIBGCRYPT:113:124
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifdef HAVE_LIBGCRYPT:129:132
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifdef HAVE_LIBGCRYPT:143:198
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/kex1.c:#if:#ifdef DEBUG_CRYPTO:236:238

@@ -1,0 +1,71 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_REGEX:345:347
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#ifndef FNM_CASEFOLD:349:351
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if 1:353:357
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_NOT:367:369
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MAXDEPTH:415:417
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_NOT:475:477
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if !FNM_CASEFOLD:487:501
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if FNM_CASEFOLD:518:524
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if FNM_CASEFOLD:530:536
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PATH:527:538
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_REGEX:539:551
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_TYPE:552:557
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PERM:558:570
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MTIME:571:583
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MMIN:584:596
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_NEWER:597:602
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_INUM:603:608
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:613:617
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_USE_PORTABLE_CODE:618:622
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:628:646
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:654:660
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:673:686
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#  if:#  if ENABLE_FEATURE_FIND_NOT:701:703
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:689:712
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_EXEC:609:713
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_USER:714:719
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_GROUP:720:725
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PRINT0:726:732
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PAREN:738:743
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_SIZE:744:753
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PRUNE:754:765
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_DELETE:766:779
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_CONTEXT:780:797
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_LINKS:798:807
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_XDEV:817:828
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MAXDEPTH:830:838
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MAXDEPTH:845:850
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_TYPE:863:888
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PERM \:890:899
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if !USE_NESTED_FUNCTION:904:924
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_DESKTOP:935:939
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_DESKTOP:950:954
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_DESKTOP:978:982
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_DESKTOP:993:995
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if !USE_NESTED_FUNCTION:1012:1041
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_XDEV:1074:1079
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MAXDEPTH:1080:1085
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_DEPTH:1086:1091
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_NOT:1115:1121
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PRINT0:1128:1134
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PRUNE:1135:1140
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_DELETE:1141:1148
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:1169:1172
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:# if:# if ENABLE_FEATURE_FIND_EXEC_PLUS:1186:1192
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_EXEC:1149:1194
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PAREN:1195:1218
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PATH:1226:1234
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_REGEX:1235:1242
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_TYPE:1243:1250
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_PERM:1251:1267
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MTIME:1268:1276
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_MMIN:1277:1285
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_NEWER:1286:1295
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_INUM:1296:1303
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_USER:1304:1313
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_GROUP:1314:1323
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_LFS:1332:1336
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_SIZE:1324:1351
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_CONTEXT:1352:1362
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_LINKS:1363:1371
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/find.c:#if:#if ENABLE_FEATURE_FIND_XDEV:1437:1453

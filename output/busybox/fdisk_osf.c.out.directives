@@ -1,0 +1,27 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#ifndef BSD_DISKMAGIC:36:38
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#ifndef BSD_MAXPARTITIONS:40:42
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__) \:46:55
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#ifdef __alpha__:187:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#ifdef __alpha__:202:206
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__):256:258
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):260:265
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):327:329
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):332:347
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):352:387
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):428:432
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__) && !defined(__powerpc__) && !defined(__hppa__):464:470
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__):502:506
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__):590:597
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__):606:611
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__) || defined(__powerpc__) || defined(__hppa__) || \:617:622
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__) || defined(__ia64__):655:660
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__powerpc__) || defined(__hppa__):753:760
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__):765:770
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):862:866
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):887:905
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):926:930
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__) && !defined(__powerpc__) && !defined(__hppa__):960:965
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__) && BSD_LABELSECTOR == 0:976:984
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if !defined(__alpha__):990:1026
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#if:#if defined(__alpha__):1028:1041
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_osf.c:#ifdef:#ifdef __alpha__:202:1047

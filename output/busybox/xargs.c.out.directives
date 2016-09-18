@@ -1,0 +1,14 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:# if:# ifndef ENABLE_FEATURE_XARGS_SUPPORT_CONFIRMATION:78:80
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:# if:# ifndef ENABLE_FEATURE_XARGS_SUPPORT_QUOTES:81:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:# if:# ifndef ENABLE_FEATURE_XARGS_SUPPORT_TERMOPT:84:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:# if:# ifndef ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM:87:89
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:# ifndef:# ifndef ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM:87:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR:95:99
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_QUOTES:161:296
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM:298:334
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR:336:394
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_CONFIRMATION:396:417
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM \:487:492
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_DESKTOP && ENABLE_LONG_OPTS:496:501
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR:568:581
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:#if:#ifdef TEST:645:660

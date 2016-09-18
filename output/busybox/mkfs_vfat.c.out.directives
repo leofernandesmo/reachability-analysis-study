@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_vfat.c:#if:#if !defined(BLKSSZGET):31:33
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_vfat.c:#if:#if 0:279:294
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_vfat.c:#if:#if 0:415:419
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_vfat.c:#if:#if 0:545:548
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_vfat.c:#if:#if 0:552:562
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkfs_vfat.c:#if:#if 0:566:621

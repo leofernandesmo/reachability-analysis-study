@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/iprule.c:do_iprule:306:319
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/iprule.c:iprule_list:156:176
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/iprule.c:iprule_modify:179:303
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/iprule.c:print_rule:40:153

@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:Usage:137:159
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_infobox:201:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_inputbox:187:194
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_menu:165:169
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_msgbox:196:199
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_radiolist:171:175
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_textbox:177:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_yesno:182:185
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:main:54:132

@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/cttyhack.c:#if:#if !defined(__linux__) && !defined(TIOCGSERIAL) && !ENABLE_WERROR:68:70
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/cttyhack.c:#if:#ifdef __linux__:119:150
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/cttyhack.c:#if:#ifdef TIOCGSERIAL:151:157

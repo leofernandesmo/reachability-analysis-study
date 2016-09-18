@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uudecode.c:#if:#if ENABLE_UUDECODE:27:88
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uudecode.c:#if:#if ENABLE_UUDECODE:90:146
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uudecode.c:#if:#if ENABLE_BASE64:166:206

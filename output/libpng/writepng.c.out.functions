@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_cleanup:356:363
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_encode_finish:327:350
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_encode_image:259:289
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_encode_row:297:319
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_error_handler:369:401
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_init:84:251
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/writepng.c:writepng_version_info:70:76

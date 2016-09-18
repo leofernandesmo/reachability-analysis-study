@@ -1,0 +1,24 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:con_escape
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:cookmode
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:do_linemode
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:doexit
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:handle_net_input
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:handle_net_output
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:iac_flush
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:put_iac
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:put_iac2
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:put_iac_naws:#if ENABLE_FEATURE_AUTOWIDTH
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:put_iac_subopt:#if ENABLE_FEATURE_TELNET_TTYPE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:put_iac_subopt_autologin:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:rawmode
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:setConMode
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:subneg:#if ENABLE_FEATURE_TELNET_TTYPE:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:telnet_main:#if ENABLE_FEATURE_AUTOWIDTH:#if ENABLE_FEATURE_TELNET_TTYPE:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:telopt:#if ENABLE_FEATURE_TELNET_TTYPE:#if ENABLE_FEATURE_TELNET_AUTOLOGIN:#if ENABLE_FEATURE_AUTOWIDTH
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:to_echo
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:to_naws:#if ENABLE_FEATURE_AUTOWIDTH
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:to_new_environ:#if ENABLE_FEATURE_TELNET_AUTOLOGIN
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:to_notsup
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:to_sga
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:to_ttype:#if ENABLE_FEATURE_TELNET_TTYPE
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnet.c:will_charmode

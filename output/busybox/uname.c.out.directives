@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uname.c:#if:#if ENABLE_LONG_OPTS:95:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uname.c:#if:#if defined(__sparc__) && defined(__linux__):111:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uname.c:#if:#if defined(__sparc__) && defined(__linux__):137:141
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/uname.c:#if:#if 0:145:156

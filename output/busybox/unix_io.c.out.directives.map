@@ -1,0 +1,16 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:alloc_cache
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:find_cached_block:#ifndef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:flush_cached_blocks:#ifndef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:free_cache
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:raw_read_blk
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:raw_read_blk:#ifdef DEBUG:#ifdef DEBUG
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:raw_write_blk
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:reuse_cache:#ifndef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_close:#ifndef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_flush:#ifndef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_open:#ifdef __linux__:#ifdef CONFIG_LFS:#if (defined(__alpha__) || ((defined(__sparc__) || defined(__mips__)) && (SIZEOF_LONG == 4))):#ifdef __linux__
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_read_blk:#ifdef DEBUG:#ifdef DEBUG:#ifdef DEBUG
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_set_blksize:#ifndef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_set_option
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_write_blk:#ifdef NO_IO_CACHE
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/unix_io.c:unix_write_byte:#ifndef NO_IO_CACHE

@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetflags.c:#if:#ifdef HAVE_ERRNO_H:19:21
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetflags.c:#if:#ifdef HAVE_UNISTD_H:22:24
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetflags.c:#if:#ifdef HAVE_EXT2_IOCTLS:27:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetflags.c:#if:#ifdef O_LARGEFILE:34:38
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/e2p/fgetsetflags.c:#if:#ifdef HAVE_EXT2_IOCTLS:42:67

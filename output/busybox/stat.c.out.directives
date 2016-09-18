@@ -1,0 +1,21 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_FEATURE_STAT_FORMAT:82:86
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#ifdef S_TYPEISMQ:102:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#ifdef S_TYPEISSEM:105:107
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#ifdef S_TYPEISSHM:108:110
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#ifdef S_TYPEISTMO:111:113
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if ENABLE_SELINUX:257:260
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if ENABLE_SELINUX:359:362
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_FEATURE_STAT_FORMAT:206:424
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if !ENABLE_FEATURE_STAT_FORMAT:427:429
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if !ENABLE_FEATURE_STAT_FORMAT:433:435
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_SELINUX:436:449
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if !ENABLE_SELINUX:457:482
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if !ENABLE_SELINUX:500:537
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_FEATURE_STAT_FORMAT:455:538
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if !ENABLE_FEATURE_STAT_FORMAT:543:545
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_SELINUX:549:562
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if !ENABLE_SELINUX:570:633
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if ENABLE_SELINUX:656:661
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:# if:# if ENABLE_SELINUX:702:705
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_FEATURE_STAT_FORMAT:568:710
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stat.c:#if:#if ENABLE_SELINUX:730:734

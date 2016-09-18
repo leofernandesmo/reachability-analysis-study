@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gzip.c:compress_buffer:103:123
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gzip.c:decompress_buffer:199:219
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gzip.c:gzip_compress:59:101
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gzip.c:gzip_decompress:148:197
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gzip.c:initcompress:38:57
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gzip.c:initdecompress:127:146

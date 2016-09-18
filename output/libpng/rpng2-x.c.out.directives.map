@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:is_number:#ifdef FEATURE_LOOP
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:main:#ifdef sgi:#ifdef FEATURE_LOOP:#if defined(NeXT):#ifdef FEATURE_LOOP:#ifdef FEATURE_LOOP:#ifdef FEATURE_LOOP:#ifdef FEATURE_LOOP
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_cleanup
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_create_window:#ifdef DEBUG
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_display_row
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_finish_display
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_init
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_load_bg_image
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_msb
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_redisplay_image:#ifdef NO_24BIT_MASKS:#ifdef NO_24BIT_MASKS:#ifdef FEATURE_LOOP
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng2-x.c:rpng2_x_reload_bg_image:#ifdef FEATURE_LOOP

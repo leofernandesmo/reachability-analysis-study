@@ -1,0 +1,14 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if (defined(__GLIBC__) && !defined(__UCLIBC__)) /* || OTHER_SAFE_LIBC... */:67:71
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#ifndef SENDMAIL:76:78
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#ifndef SENDMAIL_ARGS:79:81
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#ifndef CRONUPDATE:82:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#ifndef MAXLINES:85:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL:103:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if SETENV_LEAKS:136:141
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL:400:402
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL:442:445
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL:481:484
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL:497:499
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if SETENV_LEAKS:556:570
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if SETENV_LEAKS:577:587
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/crond.c:#if:#if ENABLE_FEATURE_CROND_CALL_SENDMAIL:601:787

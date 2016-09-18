@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:crypt_make_pw_salt:51:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:crypt_make_salt:30:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:i64c:16:28
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:my_crypt:102:118
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:my_crypt_cleanup:121:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:pw_encrypt:129:139
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:pw_encrypt:143:153
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/pw_encrypt.c:to64:74:82

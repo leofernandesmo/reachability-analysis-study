@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:get_groups:121:145
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:id_main:148:267
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:print_common:83:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:print_group:106:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/id.c:print_user:111:114

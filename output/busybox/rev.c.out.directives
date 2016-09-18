@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/rev.c:#if:#if ENABLE_UNICODE_SUPPORT:28:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/rev.c:#if:#if ENABLE_UNICODE_SUPPORT:97:111

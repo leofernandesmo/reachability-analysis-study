@@ -1,0 +1,93 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if (defined HAVE_CONFIG_H) && !(defined PNG_NO_CONFIG_H):29:31
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef HAVE_FEENABLEEXCEPT /* from config.h, if included */:33:35
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_FREESTANDING_TESTS:40:44
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if PNG_LIBPNG_VER < 10500:48:82
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if PNG_LIBPNG_VER < 10600:84:89
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  if defined(__GNUC__) || defined(_MSC_VER):102:106
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifndef UNUSED:101:107
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_FREESTANDING_TESTS:110:114
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef __cplusplus:116:122
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:161:169
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:180:188
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:248:258
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:248:259
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_READ_16BIT_SUPPORTED:329:332
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  ifdef:#  ifdef PNG_READ_16BIT_SUPPORTED:329:335
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifndef DO_16BIT:336:338
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:402:440
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if PNG_LIBPNG_VER < 10506:507:534
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:478:544
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:655:675
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:881:894
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:1032:1062
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:1109:1134
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:1109:1216
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:1243:1257
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_READ_SUPPORTED:1538:1554
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:1565:1643
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:1720:1740
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:1720:1781
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:1975:2000
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if (defined PNG_READ_GAMMA_SUPPORTED) ||\:2002:2015
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_GAMMA_SUPPORTED:2017:2134
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_RGB_TO_GRAY_SUPPORTED:2187:2199
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_GAMMA_SUPPORTED:2825:2892
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_GAMMA_SUPPORTED:2825:2893
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:3171:3207
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  if (defined PNG_READ_zTXt_SUPPORTED) && (defined PNG_WRITE_zTXt_SUPPORTED):3360:3364
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_TEXT_SUPPORTED:3359:3386
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_TEXT_SUPPORTED:3423:3442
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:3516:3537
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_TEXT_SUPPORTED:3595:3617
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_TEXT_SUPPORTED:3696:3715
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SUPPORTED:3781:3793
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_WARNINGS_SUPPORTED:3803:3975
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_WARNINGS_SUPPORTED /* else there are no cases that work! */:3980:4000
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_TIME_RFC1123_SUPPORTED:4009:4075
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_USER_TRANSFORM_INFO_SUPPORTED:4573:4580
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_INTERLACING_SUPPORTED:4591:4606
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_TEXT_SUPPORTED:4673:4785
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if PNG_LIBPNG_VER < 10506:4804:4811
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if PNG_LIBPNG_VER < 10506:4824:4830
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if 0:5104:5107
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_BACKGROUND_SUPPORTED:6026:6039
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_EXPAND_SUPPORTED:6041:6077
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_EXPAND_SUPPORTED:6079:6135
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_GRAY_TO_RGB_SUPPORTED:6137:6194
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_EXPAND_SUPPORTED:6196:6241
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_EXPAND_SUPPORTED:6243:6275
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_EXPAND_16_SUPPORTED:6277:6323
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED  /* API added in 1.5.4 */:6325:6367
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_16_TO_8_SUPPORTED /* the default before 1.5.4 */:6369:6434
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_STRIP_ALPHA_SUPPORTED:6436:6477
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:6502:6508
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:6658:6663
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_READ_cHRM_SUPPORTED:6665:6774
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  ifdef:#  ifdef PNG_READ_cHRM_SUPPORTED:6665:6960
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:7020:7026
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  ifdef:#  ifdef PNG_FLOATING_POINT_SUPPORTED:7020:7094
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef THIS_IS_THE_PROFORMA:7273:7304
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef THIS_IS_THE_PROFORMA:7273:7393
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_BACKGROUND_SUPPORTED:7718:7736
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:7738:7763
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:7803:7805
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:7807:7809
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:7881:7883
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:7893:7903
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifndef PNG_MAX_GAMMA_8:8853:8855
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  ifndef:#  ifndef PNG_MAX_GAMMA_8:8853:8903
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:8944:8961
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:8944:9057
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef DO_16BIT:9083:9086
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#  if:#  ifdef PNG_READ_BACKGROUND_SUPPORTED:9096:9098
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef DO_16BIT /* Should be READ_16BIT_SUPPORTED */:9151:9165
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_BACKGROUND_SUPPORTED:9167:9189
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:9191:9214
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_ALPHA_MODE_SUPPORTED:9191:9216
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_BACKGROUND_SUPPORTED:9167:9217
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef HAVE_FEENABLEEXCEPT:9697:9703
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:9809:9823
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_TRANSFORMS_SUPPORTED:10041:10045
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#ifdef PNG_READ_GAMMA_SUPPORTED:10047:10050
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#if:#if defined(PNG_FLOATING_ARITHMETIC_SUPPORTED) || PNG_LIBPNG_VER < 10500:10072:10076
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/libtests/pngvalid.c:#ifdef:#ifdef PNG_READ_GAMMA_SUPPORTED:10047:10147

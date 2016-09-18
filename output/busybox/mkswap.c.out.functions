@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkswap.c:mkswap_main:88:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/mkswap.c:mkswap_selinux_setcontext:18:54

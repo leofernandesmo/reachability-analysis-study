@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:get_netmask:48:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:get_prefix:63:75
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:ipcalc_main:102:213

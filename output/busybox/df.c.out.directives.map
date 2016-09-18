@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/df.c:df_main:#if ENABLE_FEATURE_HUMAN_READABLE && ENABLE_FEATURE_DF_FANCY:#if ENABLE_FEATURE_HUMAN_READABLE:#ifdef WHY_WE_DO_IT_FOR_DEV_ROOT_ONLY:#if ENABLE_UNICODE_SUPPORT:#if ENABLE_FEATURE_HUMAN_READABLE
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/df.c:kscale:#if !ENABLE_FEATURE_HUMAN_READABLE

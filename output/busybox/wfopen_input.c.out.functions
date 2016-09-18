@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen_input.c:fopen_or_warn_stdin:17:27
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen_input.c:open_or_warn_stdin:37:48
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen_input.c:xfopen_stdin:29:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/wfopen_input.c:xopen_stdin:50:56

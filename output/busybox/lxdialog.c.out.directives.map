@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:Usage
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_infobox
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_inputbox
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_menu
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_msgbox
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_radiolist
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_textbox
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:j_yesno
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/lxdialog/lxdialog.c:main:#ifdef LOCALE:#ifdef TRACE

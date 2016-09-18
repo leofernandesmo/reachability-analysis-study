@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:add_new_file:135:139
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:add_new_symbol:127:132
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:adddep:154:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:adddep2:155:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:docfunctions:221:250
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:exec_kernel_doc:79:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:extfunc:252:283
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:filename_exist:141:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:find_export_symbols:167:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:intfunc:251:283
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:main:337:400
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:noaction:156:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:noaction2:157:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:parse_file:293:334
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:printline:160:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:singfunc:259:283
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/basic/docproc.c:usage:68:74

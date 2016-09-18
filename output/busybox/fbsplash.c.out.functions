@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_drawfullrectangle:262:283
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_drawimage:346:420
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_drawprogressbar:290:340
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_drawrectangle:221:253
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_open:123:161
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_pixel_value:168:193
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_setpal:84:117
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fb_write_pixel:198:215
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:fbsplash_main:460:537
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/fbsplash.c:init:427:456

@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:IF_NOT_FEATURE_TELNETD_STANDALONE:245:390
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:free_session:395:441
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:handle_sigchld:450:481
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:iac_safe_write:192:230
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:remove_iacs:111:187
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:telnetd_main:484:748

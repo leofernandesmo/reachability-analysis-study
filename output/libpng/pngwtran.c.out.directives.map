@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_pack:#ifdef PNG_WRITE_PACK_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_shift:#ifdef PNG_WRITE_SHIFT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_intrapixel:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_MNG_FEATURES_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_invert_alpha:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_swap_alpha:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED:#ifdef PNG_WRITE_16BIT_SUPPORTED
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngwtran.c:png_do_write_transformations:#ifdef PNG_WRITE_USER_TRANSFORM_SUPPORTED:#ifdef PNG_WRITE_FILLER_SUPPORTED:#ifdef PNG_WRITE_PACKSWAP_SUPPORTED:#ifdef PNG_WRITE_PACK_SUPPORTED:#ifdef PNG_WRITE_SWAP_SUPPORTED:#ifdef PNG_WRITE_SHIFT_SUPPORTED:#ifdef PNG_WRITE_SWAP_ALPHA_SUPPORTED:#ifdef PNG_WRITE_INVERT_ALPHA_SUPPORTED:#ifdef PNG_WRITE_BGR_SUPPORTED:#ifdef PNG_WRITE_INVERT_SUPPORTED

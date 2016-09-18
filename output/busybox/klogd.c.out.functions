@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_close:58:64
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_close:107:112
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_main:137:264
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_open:39:43
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_open:80:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_read:52:55
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_read:101:104
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_setloglevel:45:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/sysklogd/klogd.c:klogd_setloglevel:86:99

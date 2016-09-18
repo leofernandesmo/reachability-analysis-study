@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/legacy.c:#if:#ifdef HAVE_LIBGCRYPT:353:357
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/legacy.c:#if:#ifdef HAVE_LIBGCRYPT:361:365
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/legacy.c:#if:#ifdef HAVE_LIBGCRYPT:460:466
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/legacy.c:#if:#ifdef WITH_SERVER:710:728

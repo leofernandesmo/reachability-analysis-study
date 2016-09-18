@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_gpt.c:check_gpt_label:128:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_gpt.c:gpt_crc32:59:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_gpt.c:gpt_list_table:91:125
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_gpt.c:gpt_part:50:56
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_gpt.c:gpt_print_guid:65:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/fdisk_gpt.c:gpt_print_wide:78:88

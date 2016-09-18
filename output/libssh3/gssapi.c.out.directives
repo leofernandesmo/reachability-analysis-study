@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gssapi.c:#if:#ifdef HAVE_UNISTD_H:26:28
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gssapi.c:#if:#ifdef WITH_SERVER:105:108
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gssapi.c:#if:#ifdef WITH_SERVER:111:130
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gssapi.c:#if:#ifdef WITH_SERVER:139:369
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/gssapi.c:#if:#ifdef WITH_SERVER:398:494

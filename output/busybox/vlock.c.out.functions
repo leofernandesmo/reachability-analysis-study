@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:acquire_vt:36:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:release_vt:29:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/loginutils/vlock.c:vlock_main:44:119

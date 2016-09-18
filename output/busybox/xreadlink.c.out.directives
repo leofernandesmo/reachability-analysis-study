@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xreadlink.c:#if:#ifndef MAXSYMLINKS:13:15
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xreadlink.c:#if:#if defined(__GLIBC__) && \:114:124

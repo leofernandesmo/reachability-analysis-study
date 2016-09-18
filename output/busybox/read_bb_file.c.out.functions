@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/read_bb_file.c:call_compat_invalid:75:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/read_bb_file.c:ext2fs_read_bb_FILE:90:96
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/read_bb_file.c:ext2fs_read_bb_FILE2:33:73

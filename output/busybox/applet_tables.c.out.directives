@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/applets/applet_tables.c:#if:	printf("#ifndef SKIP_applet_main\n");:114:120
+/home/ubuntu-vm/workspace/busybox-1.23.1/applets/applet_tables.c:#if:#if ENABLE_FEATURE_PREFER_APPLETS:126:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/applets/applet_tables.c:#if:#if ENABLE_FEATURE_SUID:130:132
+/home/ubuntu-vm/workspace/busybox-1.23.1/applets/applet_tables.c:#if:#if ENABLE_FEATURE_INSTALLER:137:148

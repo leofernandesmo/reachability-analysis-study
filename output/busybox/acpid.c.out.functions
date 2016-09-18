@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:acpid_main:227:358
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:find_action:141:174
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:parse_conf_file:176:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:parse_map_file:197:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/acpid.c:process_event:118:139

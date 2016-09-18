@@ -1,0 +1,1816 @@
+Project: /home/ubuntu-vm/workspace/libssh-0.5.3-temp/ 
+Source directory: /home/ubuntu-vm/workspace/libssh-0.5.3-temp/src 
+Test directory: /home/ubuntu-vm/workspace/libssh-0.5.3-temp/tests/unittests  
+Test files: torture_buffer.c:torture_run_tests,torture_callbacks.c:torture_run_tests,torture_init.c:torture_run_tests,torture_isipaddr.c:torture_run_tests,torture_keyfiles.c:torture_run_tests,torture_list.c:torture_run_tests,torture_misc.c:torture_run_tests,torture_options.c:torture_run_tests,torture_rand.c:torture_run_tests 
+True	succeeded
+
+
+
+File: auth1.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: wait_auth1_status:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_auth1_handler:
+ ---def(WITH_SSH1)
+ -Funtion: send_username:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth1_none:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth1_offer_pubkey:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth1_password:
+ ---def(WITH_SSH1)
+/home/ubuntu-vm/workspace/VAA/libssh/src/auth1.pi:Functions-10:Directives(reaching functions)-6
+True	succeeded
+
+
+
+File: crc32.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: uint32_t:
+/home/ubuntu-vm/workspace/VAA/libssh/src/crc32.pi:Functions-3:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: init.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_init:
+ -Funtion: ssh_finalize:
+/home/ubuntu-vm/workspace/VAA/libssh/src/init.pi:Functions-4:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: options.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_options_copy:
+ -Funtion: ssh_options_set_algo:
+ -Funtion: ssh_options_set:
+ -Funtion: ssh_options_getopt:
+ ---def(WITH_SSH1)
+ ---!def(WITH_SSH1)
+ ---def(_MSC_VER)
+ ---!def(_MSC_VER)
+ -Funtion: ssh_options_parse_config:
+ -Funtion: ssh_options_apply:
+ -Funtion: ssh_bind_options_set_algo:
+ ---def(WITH_SERVER)
+ -Funtion: ssh_bind_options_set:
+ ---def(WITH_SERVER)
+/home/ubuntu-vm/workspace/VAA/libssh/src/options.pi:Functions-14:Directives(reaching functions)-6
+True	succeeded
+
+
+
+File: match.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: match_pattern:
+ -Funtion: match_pattern_list:
+ -Funtion: match_hostname:
+/home/ubuntu-vm/workspace/VAA/libssh/src/match.pi:Functions-9:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: channels1.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: channel_open_session1:
+ ---def(WITH_SSH1)
+ -Funtion: channel_request_pty_size1:
+ ---def(WITH_SSH1)
+ -Funtion: channel_change_pty_size1:
+ ---def(WITH_SSH1)
+ -Funtion: channel_request_shell1:
+ ---def(WITH_SSH1)
+ -Funtion: channel_request_exec1:
+ ---def(WITH_SSH1)
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+ -Funtion: channel_write1:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel:
+ ---def(WITH_SSH1)
+/home/ubuntu-vm/workspace/VAA/libssh/src/channels1.pi:Functions-16:Directives(reaching functions)-10
+Não avaliamos: known_hosts.pi
+True	succeeded
+
+
+
+File: threads.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: threads_noop:
+ -Funtion: threads_id_noop:
+ -Funtion: ssh_threads_callbacks_struct:
+ -Funtion: libgcrypt_thread_init:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: libcrypto_lock_callback:
+ ---!def(HAVE_LIBGCRYPT)
+ -Funtion: libcrypto_thread_init:
+ ---!def(HAVE_LIBGCRYPT)
+ -Funtion: libcrypto_thread_finalize:
+ ---!def(HAVE_LIBGCRYPT)
+ -Funtion: ssh_threads_init:
+ ---def(HAVE_LIBGCRYPT)
+ ---!def(HAVE_LIBGCRYPT)
+ -Funtion: ssh_threads_finalize:
+ ---!def(HAVE_LIBGCRYPT)
+ -Funtion: ssh_threads_set_callbacks:
+ -Funtion: ssh_threads_get_type:
+/home/ubuntu-vm/workspace/VAA/libssh/src/threads.pi:Functions-13:Directives(reaching functions)-7
+True	succeeded
+
+
+
+File: wrapper.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(WITH_LIBZ)
+ -Funtion: __uint64_t:
+ ---def(WITH_LIBZ)
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: crypto_struct:
+ -Funtion: cipher_free:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: ssh_crypto_struct:
+ -Funtion: crypto_free:
+ ---def(WITH_LIBZ)
+ -Funtion: crypt_set_algorithms2:
+ -Funtion: crypt_set_algorithms1:
+ -Funtion: crypt_set_algorithms:
+ -Funtion: crypt_set_algorithms_server:
+/home/ubuntu-vm/workspace/VAA/libssh/src/wrapper.pi:Functions-14:Directives(reaching functions)-8
+True	succeeded
+
+
+
+File: kex.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: tokenize:
+ -Funtion: space_tokenize:
+ -Funtion: ssh_find_matching:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: ssh_list_kex:
+ ---def(DEBUG_CRYPTO)
+ -Funtion: set_kex:
+ -Funtion: ssh_send_kex:
+ -Funtion: verify_existing_algo:
+ -Funtion: ssh_string:
+ ---def(WITH_SSH1)
+ -Funtion: build_session_id1:
+ ---def(WITH_SSH1)
+ ---(def(DEBUG_CRYPTO)&def(WITH_SSH1))
+ -Funtion: modulus_smaller:
+ ---def(WITH_SSH1)
+ ---(def(HAVE_LIBGCRYPT)&def(WITH_SSH1))
+ ---(def(WITH_SSH1)&((def(HAVE_LIBGCRYPT)&def(WITH_SSH1))|(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(WITH_SSH1)))&def(HAVE_LIBGCRYPT))
+ ---(def(WITH_SSH1)&!def(HAVE_LIBGCRYPT)&(!def(HAVE_LIBCRYPTO)|def(HAVE_LIBGCRYPT)|!def(WITH_SSH1))&(!def(HAVE_LIBGCRYPT)|!def(WITH_SSH1)))
+ ---(def(WITH_SSH1)&!def(HAVE_LIBGCRYPT)&(!def(HAVE_LIBCRYPTO)|def(HAVE_LIBGCRYPT)|!def(WITH_SSH1)))
+ ---(!def(HAVE_LIBGCRYPT)&(!def(HAVE_LIBGCRYPT)|!def(WITH_SSH1))&def(WITH_SSH1)&def(HAVE_LIBCRYPTO)&((def(HAVE_LIBGCRYPT)&def(WITH_SSH1))|(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(WITH_SSH1))))
+ ---(def(WITH_SSH1)&((def(HAVE_LIBGCRYPT)&def(WITH_SSH1))|(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(WITH_SSH1))))
+ -Funtion: ssh_string:
+ ---def(WITH_SSH1)
+ ---(def(DEBUG_CRYPTO)&def(WITH_SSH1))
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_get_kex1:
+ ---def(WITH_SSH1)
+/home/ubuntu-vm/workspace/VAA/libssh/src/kex.pi:Functions-20:Directives(reaching functions)-15
+True	succeeded
+
+
+
+File: sftpserver.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: sftp_client_message:
+ -Funtion: sftp_client_message_free:
+ -Funtion: sftp_reply_name:
+ -Funtion: sftp_reply_handle:
+ -Funtion: sftp_reply_attr:
+ -Funtion: sftp_reply_names_add:
+ -Funtion: sftp_reply_names:
+ -Funtion: sftp_reply_status:
+ -Funtion: sftp_reply_data:
+ -Funtion: ssh_string:
+ -Funtion: sftp_handle:
+ -Funtion: sftp_handle_remove:
+/home/ubuntu-vm/workspace/VAA/libssh/src/sftpserver.pi:Functions-22:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: legacy.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: buffer_free:
+ -Funtion: buffer_get:
+ -Funtion: uint32_t:
+ -Funtion: ssh_buffer:
+ -Funtion: ssh_channel:
+ -Funtion: channel_change_pty_size:
+ -Funtion: ssh_channel:
+ -Funtion: channel_close:
+ -Funtion: channel_forward_cancel:
+ -Funtion: channel_forward_listen:
+ -Funtion: channel_free:
+ -Funtion: channel_get_exit_status:
+ -Funtion: ssh_session:
+ -Funtion: channel_is_closed:
+ -Funtion: channel_is_eof:
+ -Funtion: channel_is_open:
+ -Funtion: ssh_channel:
+ -Funtion: channel_open_forward:
+ -Funtion: channel_open_session:
+ -Funtion: channel_poll:
+ -Funtion: channel_read:
+ -Funtion: channel_read_nonblocking:
+ -Funtion: channel_request_env:
+ -Funtion: channel_request_exec:
+ -Funtion: channel_request_pty:
+ -Funtion: channel_request_pty_size:
+ -Funtion: channel_request_shell:
+ -Funtion: channel_request_send_signal:
+ -Funtion: channel_request_sftp:
+ -Funtion: channel_request_subsystem:
+ -Funtion: channel_request_x11:
+ -Funtion: channel_send_eof:
+ -Funtion: channel_select:
+ -Funtion: channel_set_blocking:
+ -Funtion: channel_write:
+ -Funtion: string_burn:
+ -Funtion: ssh_string:
+ -Funtion: string_data:
+ -Funtion: string_fill:
+ -Funtion: string_free:
+ -Funtion: ssh_string:
+ -Funtion: size_t:
+ -Funtion: ssh_string:
+ -Funtion: string_to_char:
+ -Funtion: ssh_accept:
+ ---def(WITH_SERVER)
+ -Funtion: channel_write_stderr:
+ ---def(WITH_SERVER)
+ -Funtion: ssh_message:
+ ---def(WITH_SERVER)
+/home/ubuntu-vm/workspace/VAA/libssh/src/legacy.pi:Functions-49:Directives(reaching functions)-3
+True	succeeded
+
+
+
+File: connect.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_sock_set_nonblocking:
+ -Funtion: ssh_sock_set_blocking:
+ -Funtion: ssh_connect_socket_close:
+ -Funtion: getai:
+ ---def(AI_NUMERICSERV)
+ -Funtion: ssh_connect_ai_timeout:
+ -Funtion: socket_t:
+ -Funtion: socket_t:
+ -Funtion: ssh_select:
+/home/ubuntu-vm/workspace/VAA/libssh/src/connect.pi:Functions-18:Directives(reaching functions)-1
+True	succeeded
+
+
+
+File: gzip.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: __uint64_t:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: __bswap_32:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: __uint64_t:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: z_stream:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: ssh_buffer:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: compress_buffer:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: z_stream:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: ssh_buffer:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: decompress_buffer:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+/home/ubuntu-vm/workspace/VAA/libssh/src/gzip.pi:Functions-12:Directives(reaching functions)-10
+True	succeeded
+
+
+
+File: packet.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_packet_socket_callback:
+ ---def(DEBUG_CRYPTO)
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ -Funtion: ssh_packet_register_socket_callback:
+ -Funtion: ssh_packet_set_callbacks:
+ -Funtion: ssh_packet_set_default_callbacks:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_packet_process:
+ -Funtion: ssh_packet_send_unimplemented:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: ssh_packet_parse_type:
+ -Funtion: ssh_packet_write:
+ -Funtion: packet_send2:
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ ---def(WITH_PCAP)
+ -Funtion: packet_send:
+ ---def(WITH_SSH1)
+/home/ubuntu-vm/workspace/VAA/libssh/src/packet.pi:Functions-19:Directives(reaching functions)-6
+True	succeeded
+
+
+
+File: gcrypt_missing.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: my_gcry_dec2bn:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: my_gcry_bn2dec:
+ ---def(HAVE_LIBGCRYPT)
+/home/ubuntu-vm/workspace/VAA/libssh/src/gcrypt_missing.pi:Functions-6:Directives(reaching functions)-2
+True	succeeded
+
+
+
+File: pki.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_key:
+ -Funtion: ssh_key_clean:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ -Funtion: ssh_key_free:
+ -Funtion: ssh_keytypes_e:
+ -Funtion: ssh_key_import_private:
+/home/ubuntu-vm/workspace/VAA/libssh/src/pki.pi:Functions-7:Directives(reaching functions)-3
+True	succeeded
+
+
+
+File: getpass.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_gets:
+ -Funtion: ssh_getpass:
+/home/ubuntu-vm/workspace/VAA/libssh/src/getpass.pi:Functions-4:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: base64.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_buffer:
+ -Funtion: to_block4:
+ -Funtion: _base64_to_bin:
+ -Funtion: get_equals:
+ -Funtion: _bin_to_base64:
+ -Funtion: bin_to_base64:
+/home/ubuntu-vm/workspace/VAA/libssh/src/base64.pi:Functions-10:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: buffer.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: buffer_verify:
+ ---def(DEBUG_BUFFER)
+ -Funtion: ssh_buffer_struct:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: ssh_buffer_free:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: realloc_buffer:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: buffer_shift:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: buffer_reinit:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: buffer_add_data:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: buffer_add_ssh_string:
+ -Funtion: buffer_add_u32:
+ -Funtion: buffer_add_u16:
+ -Funtion: buffer_add_u64:
+ -Funtion: buffer_add_u8:
+ -Funtion: buffer_prepend_data:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: buffer_add_buffer:
+ -Funtion: ssh_buffer_get_begin:
+ -Funtion: buffer_get_rest:
+ -Funtion: uint32_t:
+ -Funtion: uint32_t:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: uint32_t:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: uint32_t:
+ ---def(DEBUG_BUFFER)
+ ---!def(DEBUG_BUFFER)
+ -Funtion: uint32_t:
+ -Funtion: buffer_get_u8:
+ -Funtion: buffer_get_u32:
+ -Funtion: buffer_get_u64:
+ -Funtion: ssh_string_struct:
+ -Funtion: ssh_string_struct:
+/home/ubuntu-vm/workspace/VAA/libssh/src/buffer.pi:Functions-34:Directives(reaching functions)-21
+True	succeeded
+
+
+
+File: pcap.pi
+ -Funtion: __bswap_32:
+ ---def(WITH_PCAP)
+ -Funtion: __uint64_t:
+ ---def(WITH_PCAP)
+ -Funtion: __bswap_32:
+ ---def(WITH_PCAP)
+ -Funtion: __uint64_t:
+ ---def(WITH_PCAP)
+ -Funtion: __bswap_32:
+ ---def(WITH_PCAP)
+ -Funtion: __uint64_t:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_file:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_write:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_write_packet:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_open:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_close:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_free:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_context:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_context_free:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_context_set_file:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_context_connect:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_pcap_context_write:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_set_pcap_file:
+ ---def(WITH_PCAP)
+ -Funtion: __bswap_32:
+ ---!def(WITH_PCAP)
+ -Funtion: __uint64_t:
+ ---!def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_close:
+ ---!def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_free:
+ ---!def(WITH_PCAP)
+ -Funtion: ssh_pcap_file:
+ ---!def(WITH_PCAP)
+ -Funtion: ssh_pcap_file_open:
+ ---!def(WITH_PCAP)
+ -Funtion: ssh_set_pcap_file:
+ ---!def(WITH_PCAP)
+/home/ubuntu-vm/workspace/VAA/libssh/src/pcap.pi:Functions-25:Directives(reaching functions)-25
+True	succeeded
+
+
+
+File: crypt.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(OPENSSL_CRYPTO)
+ -Funtion: __uint64_t:
+ ---def(OPENSSL_CRYPTO)
+ -Funtion: __bswap_32:
+ ---def(OPENSSL_CRYPTO)
+ -Funtion: __uint64_t:
+ ---def(OPENSSL_CRYPTO)
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: uint32_t:
+ -Funtion: packet_decrypt:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: packet_encrypt:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: packet_hmac_verify:
+ ---def(DEBUG_CRYPTO)
+/home/ubuntu-vm/workspace/VAA/libssh/src/crypt.pi:Functions-16:Directives(reaching functions)-17
+True	succeeded
+
+
+
+File: keys.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_type_to_char:
+ -Funtion: ssh_type_from_name:
+ -Funtion: ssh_public_key:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&!def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|!def(DEBUG_CRYPTO)))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&!def(DEBUG_CRYPTO))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)))
+ -Funtion: ssh_public_key:
+ ---def(HAVE_LIBGCRYPT)
+ ---def(DEBUG_CRYPTO)
+ -Funtion: publickey_free:
+ ---def(HAVE_LIBGCRYPT)
+ ---!def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ -Funtion: ssh_public_key:
+ -Funtion: ssh_public_key:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: dsa_public_to_string:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: rsa_public_to_string:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: ssh_string:
+ -Funtion: ssh_string:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: SIGNATURE:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&!def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|!def(DEBUG_CRYPTO)))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&!def(DEBUG_CRYPTO))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)))
+ -Funtion: signature_free:
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ -Funtion: ssh_string:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: ssh_string:
+ -Funtion: ssh_buffer:
+ -Funtion: ssh_string:
+ ---def(HAVE_LIBGCRYPT)
+ ---def(DEBUG_CRYPTO)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: ssh_string:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ -Funtion: ssh_string:
+ ---def(HAVE_LIBGCRYPT)
+ ---def(DEBUG_CRYPTO)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+/home/ubuntu-vm/workspace/VAA/libssh/src/keys.pi:Functions-27:Directives(reaching functions)-80
+True	succeeded
+
+
+
+File: string.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_string_struct:
+ -Funtion: ssh_string_fill:
+ -Funtion: ssh_string_struct:
+ -Funtion: size_t:
+ -Funtion: ssh_string_to_char:
+ -Funtion: ssh_string_free_char:
+ -Funtion: ssh_string_struct:
+ -Funtion: ssh_string_burn:
+ -Funtion: ssh_string_data:
+ -Funtion: ssh_string_free:
+/home/ubuntu-vm/workspace/VAA/libssh/src/string.pi:Functions-18:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: packet1.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_packet_set_default_callbacks1:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_packet_socket_callback1:
+ ---def(WITH_SSH1)
+ ---(def(DEBUG_CRYPTO)&def(WITH_SSH1))
+ -Funtion: packet_send1:
+ ---def(WITH_SSH1)
+ ---(def(DEBUG_CRYPTO)&def(WITH_SSH1))
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SSH1)
+/home/ubuntu-vm/workspace/VAA/libssh/src/packet1.pi:Functions-10:Directives(reaching functions)-8
+True	succeeded
+
+
+
+File: channels.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_channel:
+ -Funtion: uint32_t:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: channel_open:
+ -Funtion: ssh_channel:
+ -Funtion: grow_window:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel:
+ ---def(WITH_SSH1)
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: channel_default_bufferize:
+ -Funtion: ssh_channel_open_session:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel_open_forward:
+ -Funtion: ssh_channel_free:
+ -Funtion: ssh_channel_send_eof:
+ -Funtion: ssh_channel_close:
+ -Funtion: channel_write_common:
+ ---def(WITH_SSH1)
+ -Funtion: uint32_t:
+ -Funtion: ssh_channel_write:
+ -Funtion: ssh_channel_is_open:
+ -Funtion: ssh_channel_is_closed:
+ -Funtion: ssh_channel_is_eof:
+ -Funtion: ssh_channel_set_blocking:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: channel_request:
+ -Funtion: ssh_channel_request_pty_size:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel_request_pty:
+ -Funtion: ssh_channel_change_pty_size:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel_request_shell:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel_request_subsystem:
+ -Funtion: ssh_channel_request_sftp:
+ -Funtion: ssh_string:
+ -Funtion: ssh_channel_request_x11:
+ -Funtion: ssh_channel:
+ -Funtion: ssh_channel:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: global_request:
+ -Funtion: ssh_forward_listen:
+ -Funtion: ssh_channel:
+ -Funtion: ssh_forward_cancel:
+ -Funtion: ssh_channel_request_env:
+ -Funtion: ssh_channel_request_exec:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_channel_request_send_signal:
+ ---def(WITH_SSH1)
+ -Funtion: channel_read_buffer:
+ -Funtion: ssh_channel_read:
+ -Funtion: ssh_channel_read_nonblocking:
+ -Funtion: ssh_channel_poll:
+ -Funtion: ssh_session:
+ -Funtion: ssh_channel_get_exit_status:
+ -Funtion: channel_protocol_select:
+ -Funtion: count_ptrs:
+ -Funtion: ssh_channel_select:
+/home/ubuntu-vm/workspace/VAA/libssh/src/channels.pi:Functions-65:Directives(reaching functions)-9
+True	succeeded
+
+
+
+File: libcrypto.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ ---(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))
+ -Funtion: __uint64_t:
+ ---(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))
+ -Funtion: alloc_key:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: SHACTX:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: sha1_update:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: sha1_final:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: sha1:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: MD5CTX:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: md5_update:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: md5_final:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: HMACCTX:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: hmac_update:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: hmac_final:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: blowfish_set_key:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_BLOWFISH)|(def(HAVE_OPENSSL_BLOWFISH_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: blowfish_encrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_BLOWFISH)|(def(HAVE_OPENSSL_BLOWFISH_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: blowfish_decrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_BLOWFISH)|(def(HAVE_OPENSSL_BLOWFISH_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: aes_set_encrypt_key:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_AES)|(def(HAVE_OPENSSL_AES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: aes_set_decrypt_key:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_AES)|(def(HAVE_OPENSSL_AES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: aes_encrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_AES)|(def(HAVE_OPENSSL_AES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: aes_decrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_AES)|(def(HAVE_OPENSSL_AES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: aes_ctr128_encrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_AES)|(def(HAVE_OPENSSL_AES_H)&def(HAVE_LIBCRYPTO)))&!def(BROKEN_AES_CTR))
+ -Funtion: des3_set_key:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: des3_encrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: des3_decrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))))
+ -Funtion: des3_1_encrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO)))&def(DEBUG_CRYPTO))
+ -Funtion: des3_1_decrypt:
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&(def(HAS_DES)|(def(HAVE_OPENSSL_DES_H)&def(HAVE_LIBCRYPTO)))&def(DEBUG_CRYPTO))
+ -Funtion: crypto_struct:
+ ---def(HAVE_LIBCRYPTO)
+/home/ubuntu-vm/workspace/VAA/libssh/src/libcrypto.pi:Functions-37:Directives(reaching functions)-35
+True	succeeded
+
+
+
+File: error.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_set_error:
+ -Funtion: ssh_set_error_oom:
+ -Funtion: ssh_set_error_invalid:
+ -Funtion: ssh_get_error:
+ -Funtion: ssh_get_error_code:
+/home/ubuntu-vm/workspace/VAA/libssh/src/error.pi:Functions-7:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: poll.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_poll_init:
+ ---def(HAVE_POLL)
+ -Funtion: ssh_poll_cleanup:
+ ---def(HAVE_POLL)
+ -Funtion: ssh_poll:
+ ---def(HAVE_POLL)
+ -Funtion: __bswap_32:
+ ---!def(HAVE_POLL)
+ -Funtion: __uint64_t:
+ ---!def(HAVE_POLL)
+ -Funtion: __bswap_32:
+ ---!def(HAVE_POLL)
+ -Funtion: __uint64_t:
+ ---!def(HAVE_POLL)
+ -Funtion: bsd_poll:
+ ---!def(HAVE_POLL)
+ -Funtion: ssh_poll_init:
+ ---!def(HAVE_POLL)
+ -Funtion: ssh_poll_cleanup:
+ ---!def(HAVE_POLL)
+ -Funtion: ssh_poll:
+ ---!def(HAVE_POLL)
+ -Funtion: ssh_poll_handle:
+ -Funtion: ssh_poll_free:
+ -Funtion: ssh_poll_ctx:
+ -Funtion: ssh_poll_get_events:
+ -Funtion: ssh_poll_set_events:
+ -Funtion: ssh_poll_set_fd:
+ -Funtion: ssh_poll_add_events:
+ -Funtion: ssh_poll_remove_events:
+ -Funtion: socket_t:
+ -Funtion: ssh_poll_set_callback:
+ -Funtion: ssh_poll_ctx:
+ ---!def(SSH_POLL_CTX_CHUNK)
+ ---def(SSH_POLL_CTX_CHUNK)
+ -Funtion: ssh_poll_ctx_free:
+ -Funtion: ssh_poll_ctx_resize:
+ -Funtion: ssh_poll_ctx_add:
+ -Funtion: ssh_poll_ctx_add_socket:
+ -Funtion: ssh_poll_ctx_remove:
+ -Funtion: ssh_poll_ctx_dopoll:
+ -Funtion: ssh_poll_ctx:
+/home/ubuntu-vm/workspace/VAA/libssh/src/poll.pi:Functions-31:Directives(reaching functions)-13
+True	succeeded
+
+
+
+File: callbacks.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_set_callbacks:
+ -Funtion: ssh_set_channel_callbacks:
+/home/ubuntu-vm/workspace/VAA/libssh/src/callbacks.pi:Functions-4:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: server.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: server_set_kex:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: dh_handshake_server:
+ -Funtion: ssh_server_connection_callback:
+ ---def(WITH_SSH1)
+ ---!def(WITH_SSH1)
+ -Funtion: callback_receive_banner:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_handle_key_exchange:
+ -Funtion: ssh_message_auth_reply_default:
+ -Funtion: ssh_message_channel_request_open_reply_default:
+ -Funtion: ssh_message_channel_request_reply_default:
+ -Funtion: ssh_message_service_request_reply_default:
+ -Funtion: ssh_message_service_reply_success:
+ -Funtion: ssh_message_global_request_reply_success:
+ -Funtion: ssh_message_global_request_reply_default:
+ -Funtion: ssh_message_reply_default:
+ -Funtion: ssh_message_service_service:
+ -Funtion: ssh_message_auth_user:
+ -Funtion: ssh_message_auth_password:
+ -Funtion: ssh_public_key:
+ -Funtion: ssh_publickey_state_e:
+ -Funtion: ssh_message_auth_set_methods:
+ -Funtion: ssh_message_auth_reply_success:
+ -Funtion: ssh_message_auth_reply_pk_ok:
+ -Funtion: ssh_message_auth_reply_pk_ok_simple:
+ -Funtion: ssh_message_channel_request_open_originator:
+ -Funtion: ssh_message_channel_request_open_originator_port:
+ -Funtion: ssh_message_channel_request_open_destination:
+ -Funtion: ssh_message_channel_request_open_destination_port:
+ -Funtion: ssh_channel:
+ -Funtion: ssh_message_channel_request_pty_term:
+ -Funtion: ssh_message_channel_request_pty_width:
+ -Funtion: ssh_message_channel_request_pty_height:
+ -Funtion: ssh_message_channel_request_pty_pxwidth:
+ -Funtion: ssh_message_channel_request_pty_pxheight:
+ -Funtion: ssh_message_channel_request_env_name:
+ -Funtion: ssh_message_channel_request_env_value:
+ -Funtion: ssh_message_channel_request_command:
+ -Funtion: ssh_message_channel_request_subsystem:
+ -Funtion: ssh_message_global_request_address:
+ -Funtion: ssh_message_global_request_port:
+ -Funtion: ssh_set_message_callback:
+ -Funtion: ssh_execute_message_callbacks:
+/home/ubuntu-vm/workspace/VAA/libssh/src/server.pi:Functions-47:Directives(reaching functions)-3
+True	succeeded
+
+
+
+File: log.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: do_ssh_log:
+ -Funtion: ssh_log:
+ -Funtion: ssh_log_common:
+/home/ubuntu-vm/workspace/VAA/libssh/src/log.pi:Functions-5:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: misc.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_get_user_home_dir:
+ ---!def(NSS_BUFLEN_PASSWD)
+ ---def(NSS_BUFLEN_PASSWD)
+ -Funtion: ssh_file_readaccess_ok:
+ -Funtion: ssh_get_local_username:
+ ---!def(NSS_BUFLEN_PASSWD)
+ ---def(NSS_BUFLEN_PASSWD)
+ -Funtion: ssh_is_ipaddr_v4:
+ -Funtion: ssh_is_ipaddr:
+ -Funtion: uint64_t:
+ ---!def(HAVE_NTOHLL)
+ ---(def(WORDS_BIGENDIAN)&!def(HAVE_NTOHLL))
+ ---(!def(HAVE_NTOHLL)&!def(WORDS_BIGENDIAN)&(!def(WORDS_BIGENDIAN)|def(HAVE_NTOHLL)))
+ ---(!def(HAVE_NTOHLL)&!def(WORDS_BIGENDIAN))
+ -Funtion: ssh_lowercase:
+ -Funtion: ssh_hostport:
+ -Funtion: ssh_version:
+ ---def(HAVE_LIBGCRYPT)
+ ---!def(HAVE_LIBGCRYPT)
+ ---def(HAVE_LIBCRYPTO)
+ ---!def(HAVE_LIBCRYPTO)
+ ---(def(HAVE_LIBZ)&def(WITH_LIBZ))
+ ---(!def(HAVE_LIBZ)|!def(WITH_LIBZ))
+ -Funtion: ssh_list:
+ -Funtion: ssh_list_free:
+ -Funtion: ssh_iterator:
+ -Funtion: ssh_iterator:
+ -Funtion: ssh_iterator:
+ -Funtion: ssh_list_append:
+ -Funtion: ssh_list_prepend:
+ -Funtion: ssh_list_remove:
+ -Funtion: _ssh_list_pop_head:
+ -Funtion: ssh_dirname:
+ -Funtion: ssh_basename:
+ -Funtion: ssh_mkdir:
+ -Funtion: ssh_path_expand_tilde:
+ -Funtion: ssh_path_expand_escape:
+ -Funtion: ssh_analyze_banner:
+ -Funtion: ssh_timestamp_init:
+ ---def(HAVE_CLOCK_GETTIME)
+ ---(def(_POSIX_MONOTONIC_CLOCK)&def(HAVE_CLOCK_GETTIME))
+ ---(def(HAVE_CLOCK_GETTIME)&!def(_POSIX_MONOTONIC_CLOCK)&(!def(_POSIX_MONOTONIC_CLOCK)|!def(HAVE_CLOCK_GETTIME)))
+ ---!def(HAVE_CLOCK_GETTIME)
+ -Funtion: ssh_timestamp_difference:
+ -Funtion: ssh_make_milliseconds:
+ -Funtion: ssh_timeout_elapsed:
+ -Funtion: ssh_timeout_update:
+/home/ubuntu-vm/workspace/VAA/libssh/src/misc.pi:Functions-45:Directives(reaching functions)-18
+True	succeeded
+
+
+
+File: auth.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ask_userauth:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: auth_status_termination:
+ -Funtion: wait_auth_status:
+ -Funtion: ssh_auth_list:
+ -Funtion: ssh_userauth_list:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth_none:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth_offer_pubkey:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth_pubkey:
+ -Funtion: ssh_userauth_privatekey_file:
+ -Funtion: ssh_userauth_agent_pubkey:
+ -Funtion: ssh_userauth_password:
+ ---def(WITH_SSH1)
+ -Funtion: ssh_userauth_autopubkey:
+ -Funtion: ssh_kbdint:
+ -Funtion: kbdint_free:
+ -Funtion: kbdint_clean:
+ -Funtion: kbdauth_init:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: kbdauth_send:
+ -Funtion: ssh_userauth_kbdint:
+ -Funtion: ssh_userauth_kbdint_getnprompts:
+ -Funtion: ssh_userauth_kbdint_getname:
+ -Funtion: ssh_userauth_kbdint_getinstruction:
+ -Funtion: ssh_userauth_kbdint_getprompt:
+ -Funtion: ssh_userauth_kbdint_setanswer:
+/home/ubuntu-vm/workspace/VAA/libssh/src/auth.pi:Functions-36:Directives(reaching functions)-4
+True	succeeded
+
+
+
+File: agent.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: uint32_t:
+ -Funtion: agent_put_u32:
+ -Funtion: size_t:
+ ---def(EWOULDBLOCK)
+ ---!def(EWOULDBLOCK)
+ -Funtion: ssh_agent:
+ -Funtion: agent_close:
+ -Funtion: agent_free:
+ -Funtion: agent_connect:
+ -Funtion: agent_talk:
+ -Funtion: agent_get_ident_count:
+ -Funtion: ssh_public_key_struct:
+ -Funtion: ssh_public_key_struct:
+ -Funtion: ssh_string:
+ -Funtion: agent_is_running:
+/home/ubuntu-vm/workspace/VAA/libssh/src/agent.pi:Functions-21:Directives(reaching functions)-2
+True	succeeded
+
+
+
+File: config.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_config_opcode_e:
+ -Funtion: ssh_config_get_token:
+ -Funtion: ssh_config_get_int:
+ -Funtion: ssh_config_get_str:
+ -Funtion: ssh_config_get_yesno:
+ -Funtion: ssh_config_parse_line:
+ -Funtion: ssh_config_parse_file:
+/home/ubuntu-vm/workspace/VAA/libssh/src/config.pi:Functions-11:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: scp.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_scp:
+ -Funtion: ssh_scp_init:
+ -Funtion: ssh_scp_close:
+ -Funtion: ssh_scp_free:
+ -Funtion: ssh_scp_push_directory:
+ -Funtion: ssh_scp_leave_directory:
+ -Funtion: ssh_scp_push_file:
+ -Funtion: ssh_scp_response:
+ -Funtion: ssh_scp_write:
+ -Funtion: ssh_scp_read_string:
+ -Funtion: ssh_scp_pull_request:
+ -Funtion: ssh_scp_deny_request:
+ -Funtion: ssh_scp_accept_request:
+ -Funtion: ssh_scp_read:
+ -Funtion: ssh_scp_request_get_filename:
+ -Funtion: ssh_scp_request_get_permissions:
+ -Funtion: size_t:
+ -Funtion: ssh_scp_integer_mode:
+ -Funtion: ssh_scp_string_mode:
+ -Funtion: ssh_scp_request_get_warning:
+/home/ubuntu-vm/workspace/VAA/libssh/src/scp.pi:Functions-22:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: socket.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_socket_init:
+ -Funtion: ssh_socket_cleanup:
+ -Funtion: ssh_socket:
+ -Funtion: ssh_socket_reset:
+ -Funtion: ssh_socket_set_callbacks:
+ -Funtion: ssh_socket_pollcallback:
+ -Funtion: ssh_poll_handle:
+ -Funtion: ssh_poll_handle:
+ -Funtion: ssh_socket_free:
+ -Funtion: ssh_socket_unix:
+ -Funtion: ssh_socket_close:
+ -Funtion: ssh_socket_set_fd:
+ -Funtion: ssh_socket_set_fd_in:
+ -Funtion: ssh_socket_set_fd_out:
+ -Funtion: socket_t:
+ -Funtion: ssh_socket_is_open:
+ -Funtion: ssh_socket_unbuffered_read:
+ -Funtion: ssh_socket_unbuffered_write:
+ -Funtion: ssh_socket_fd_isset:
+ -Funtion: ssh_socket_fd_set:
+ -Funtion: ssh_socket_write:
+ -Funtion: ssh_socket_nonblocking_flush:
+ -Funtion: ssh_socket_set_write_wontblock:
+ -Funtion: ssh_socket_set_read_wontblock:
+ -Funtion: ssh_socket_set_except:
+ -Funtion: ssh_socket_data_available:
+ -Funtion: ssh_socket_data_writable:
+ -Funtion: ssh_socket_buffered_write_bytes:
+ -Funtion: ssh_socket_get_status:
+ -Funtion: ssh_socket_set_connecting:
+ -Funtion: ssh_socket_connect:
+ -Funtion: ssh_execute_command:
+ -Funtion: ssh_socket_connect_proxycommand:
+/home/ubuntu-vm/workspace/VAA/libssh/src/socket.pi:Functions-41:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: dh.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBCRYPTO)
+ -Funtion: ssh_get_random:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ -Funtion: ssh_crypto_init:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ -Funtion: ssh_crypto_finalize:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: ssh_print_bignum:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ -Funtion: ssh_get_hexa:
+ -Funtion: ssh_print_hexa:
+ -Funtion: dh_generate_x:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: dh_generate_y:
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: dh_generate_e:
+ ---def(HAVE_LIBCRYPTO)
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: dh_generate_f:
+ ---def(HAVE_LIBCRYPTO)
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: ssh_string:
+ ---def(DEBUG_CRYPTO)
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: bignum:
+ ---def(DEBUG_CRYPTO)
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ -Funtion: ssh_string:
+ -Funtion: ssh_string:
+ -Funtion: dh_import_pubkey:
+ -Funtion: dh_import_f:
+ ---def(DEBUG_CRYPTO)
+ -Funtion: dh_import_e:
+ ---def(DEBUG_CRYPTO)
+ -Funtion: dh_build_k:
+ ---def(HAVE_LIBCRYPTO)
+ ---def(HAVE_LIBGCRYPT)
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ ---(def(DEBUG_CRYPTO)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)|(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO)&def(DEBUG_CRYPTO))))
+ -Funtion: make_sessionid:
+ ---def(DEBUG_CRYPTO)
+ -Funtion: hashbufout_add_cookie:
+ -Funtion: hashbufin_add_cookie:
+ -Funtion: generate_one_key:
+ -Funtion: generate_session_keys:
+ ---def(DEBUG_CRYPTO)
+ -Funtion: ssh_get_pubkey_hash:
+ -Funtion: ssh_clean_pubkey_hash:
+ -Funtion: ssh_string:
+ -Funtion: match:
+ -Funtion: sig_verify:
+ ---def(HAVE_LIBGCRYPT)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT))
+ ---(!def(HAVE_LIBGCRYPT)&!def(HAVE_LIBCRYPTO))
+ ---(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO))
+ ---def(DEBUG_CRYPTO)
+ ---(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)))
+ -Funtion: signature_verify:
+/home/ubuntu-vm/workspace/VAA/libssh/src/dh.pi:Functions-43:Directives(reaching functions)-73
+Não avaliamos: keyfiles.pi
+True	succeeded
+
+
+
+File: messages.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_message:
+ -Funtion: ssh_message_reply_default:
+ ---!def(WITH_SERVER)
+ -Funtion: ssh_execute_message_callback:
+ -Funtion: ssh_message_queue:
+ -Funtion: ssh_message:
+ -Funtion: ssh_message:
+ -Funtion: ssh_message_type:
+ -Funtion: ssh_message_subtype:
+ -Funtion: ssh_message_free:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: ssh_channel:
+ -Funtion: ssh_message_handle_channel_request:
+ -Funtion: ssh_message_channel_request_reply_success:
+ -Funtion: SSH_PACKET_CALLBACK:
+ ---def(WITH_SERVER)
+/home/ubuntu-vm/workspace/VAA/libssh/src/messages.pi:Functions-24:Directives(reaching functions)-2
+True	succeeded
+
+
+
+File: session.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: ssh_session:
+ ---def(WITH_SSH1)
+ ---!def(WITH_SSH1)
+ -Funtion: ssh_free:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_silent_disconnect:
+ -Funtion: ssh_set_blocking:
+ -Funtion: ssh_is_blocking:
+ -Funtion: ssh_blocking_flush:
+ -Funtion: ssh_is_connected:
+ -Funtion: socket_t:
+ -Funtion: ssh_set_fd_toread:
+ -Funtion: ssh_set_fd_towrite:
+ -Funtion: ssh_set_fd_except:
+ -Funtion: ssh_handle_packets:
+ -Funtion: ssh_handle_packets_termination:
+ -Funtion: ssh_get_status:
+ -Funtion: ssh_get_disconnect_message:
+ -Funtion: ssh_get_version:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: ssh_socket_exception_callback:
+/home/ubuntu-vm/workspace/VAA/libssh/src/session.pi:Functions-23:Directives(reaching functions)-3
+True	succeeded
+
+
+
+File: bind.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: socket_t:
+ -Funtion: ssh_bind:
+ -Funtion: ssh_bind_listen:
+ -Funtion: ssh_bind_set_callbacks:
+ -Funtion: ssh_bind_poll_callback:
+ -Funtion: ssh_poll_handle:
+ -Funtion: ssh_bind_set_blocking:
+ -Funtion: socket_t:
+ -Funtion: ssh_bind_set_fd:
+ -Funtion: ssh_bind_fd_toaccept:
+ -Funtion: ssh_bind_free:
+ -Funtion: ssh_bind_accept:
+/home/ubuntu-vm/workspace/VAA/libssh/src/bind.pi:Functions-22:Directives(reaching functions)-0
+True	succeeded
+
+
+
+File: client.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: socket_callback_connected:
+ -Funtion: callback_receive_banner:
+ ---def(WITH_PCAP)
+ -Funtion: ssh_send_banner:
+ ---def(WITH_PCAP)
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: dh_handshake:
+ -Funtion: SSH_PACKET_CALLBACK:
+ -Funtion: ssh_service_request:
+ -Funtion: ssh_client_connection_callback:
+ ---def(WITH_SSH1)
+ ---!def(WITH_SSH1)
+ -Funtion: ssh_connect_termination:
+ -Funtion: ssh_connect:
+ -Funtion: ssh_get_issue_banner:
+ -Funtion: ssh_get_openssh_version:
+ -Funtion: ssh_disconnect:
+ -Funtion: ssh_copyright:
+/home/ubuntu-vm/workspace/VAA/libssh/src/client.pi:Functions-23:Directives(reaching functions)-4
+True	succeeded
+
+
+
+File: pthread.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(HAVE_PTHREAD)
+ -Funtion: __uint64_t:
+ ---def(HAVE_PTHREAD)
+ -Funtion: __bswap_32:
+ ---def(HAVE_PTHREAD)
+ -Funtion: __uint64_t:
+ ---def(HAVE_PTHREAD)
+ -Funtion: ssh_pthread_mutex_init:
+ ---def(HAVE_PTHREAD)
+ -Funtion: ssh_pthread_mutex_destroy:
+ ---def(HAVE_PTHREAD)
+ -Funtion: ssh_pthread_mutex_lock:
+ ---def(HAVE_PTHREAD)
+ -Funtion: ssh_pthread_mutex_unlock:
+ ---def(HAVE_PTHREAD)
+ -Funtion: ssh_pthread_thread_id:
+ ---def(HAVE_PTHREAD)
+ -Funtion: ssh_threads_callbacks_struct:
+ ---def(HAVE_PTHREAD)
+/home/ubuntu-vm/workspace/VAA/libssh/src/threads/pthread.pi:Functions-12:Directives(reaching functions)-10
+True	succeeded
+
+
+
+File: sftp.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: sftp_ext:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_ext_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_session:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_session:
+ ---(def(WITH_SERVER)&def(WITH_SFTP))
+ -Funtion: sftp_server_init:
+ ---(def(WITH_SERVER)&def(WITH_SFTP))
+ -Funtion: sftp_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_packet_write:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_packet:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_set_error:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_get_error:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_message:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_message_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_message:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_read_and_dispatch:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_packet_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_init:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_extensions_get_count:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_extensions_get_name:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_extensions_get_data:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_extension_supported:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_request_queue:
+ ---def(WITH_SFTP)
+ -Funtion: request_queue_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_enqueue:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_message:
+ ---def(WITH_SFTP)
+ -Funtion: uint32_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_status_message:
+ ---def(WITH_SFTP)
+ -Funtion: status_msg_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_file:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_dir:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_parse_longname:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: buffer_add_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_server_version:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_dir_eof:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_handle_close:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_close:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_closedir:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_file:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_file_set_nonblocking:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_file_set_blocking:
+ ---def(WITH_SFTP)
+ -Funtion: ssize_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_async_read_begin:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_async_read:
+ ---def(WITH_SFTP)
+ -Funtion: ssize_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_seek:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_seek64:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_tell:
+ ---def(WITH_SFTP)
+ -Funtion: uint64_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_rewind:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_unlink:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_rmdir:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_mkdir:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_rename:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_setstat:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_chown:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_chmod:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_utimes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_symlink:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_readlink:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_statvfs_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_statvfs_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_statvfs_t:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_statvfs_free:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_canonicalize_path:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+ -Funtion: sftp_attributes:
+ ---def(WITH_SFTP)
+/home/ubuntu-vm/workspace/VAA/libssh/src/sftp.pi:Functions-86:Directives(reaching functions)-72
+True	succeeded
+
+
+
+File: libgcrypt.pi
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ -Funtion: __uint64_t:
+ -Funtion: __bswap_32:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: __uint64_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_err_code_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_err_source_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gpg_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gcry_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gcry_error_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gcry_err_code_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: gcry_err_source_t:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: alloc_key:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: SHACTX:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: sha1_update:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: sha1_final:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: sha1:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: MD5CTX:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: md5_update:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: md5_final:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: HMACCTX:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: hmac_update:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: hmac_final:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: blowfish_set_key:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: blowfish_encrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: blowfish_decrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: aes_set_key:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: aes_encrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: aes_decrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: des3_set_key:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: des3_encrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: des3_decrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: des3_1_set_key:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: des3_1_encrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: des3_1_decrypt:
+ ---def(HAVE_LIBGCRYPT)
+ -Funtion: crypto_struct:
+ ---def(HAVE_LIBGCRYPT)
+/home/ubuntu-vm/workspace/VAA/libssh/src/libgcrypt.pi:Functions-41:Directives(reaching functions)-37
+Finished in 113.684 seconds

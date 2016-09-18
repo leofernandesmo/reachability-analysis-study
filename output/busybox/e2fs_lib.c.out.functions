@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:close_silently:21:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:fgetsetflags:86:126
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:fgetsetversion:50:82
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:iterate_on_dir:30:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:print_e2flags:181:213

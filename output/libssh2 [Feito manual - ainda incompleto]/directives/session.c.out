@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/session.c:#ifdef:#ifdef WITH_SSH1:98:102
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/session.c:#ifndef:#ifndef _WIN32:104:109
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/session.c:#ifdef:#ifdef WITH_PCAP:181:186
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/session.c:#ifndef:#ifndef _WIN32:196:198

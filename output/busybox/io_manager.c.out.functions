@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/io_manager.c:io_channel_set_options:23:58
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/io_manager.c:io_channel_write_byte:60:70

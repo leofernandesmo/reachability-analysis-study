@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/reset.c:#if:#if ENABLE_STTY:23:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/reset.c:#if:#if ENABLE_STTY:47:51

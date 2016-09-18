@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ind_block.c:#if:#if HAVE_UNISTD_H:16:18
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ind_block.c:#if:#if BB_BIG_ENDIAN:26:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ind_block.c:#if:#if BB_BIG_ENDIAN:40:46
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ind_block.c:#if:#if BB_BIG_ENDIAN:52:56
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/ind_block.c:#if:#if BB_BIG_ENDIAN:61:67

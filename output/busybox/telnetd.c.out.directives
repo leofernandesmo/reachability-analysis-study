@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if DEBUG:49:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if DEBUG:170:173
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if !ENABLE_FEATURE_TELNETD_STANDALONE:247:249
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_STANDALONE:269:284
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_STANDALONE:305:309
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if 0:412:418
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if 0:434:438
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_STANDALONE:392:448
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_STANDALONE:490:501
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_STANDALONE:530:550
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_INETD_WAIT:615:622
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/telnetd.c:#if:#if ENABLE_FEATURE_TELNETD_STANDALONE:630:650

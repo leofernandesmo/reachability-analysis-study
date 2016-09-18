@@ -1,0 +1,170 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef _POSIX_VDISABLE:36:38
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CINTR:42:44
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CQUIT:45:47
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CERASE:48:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CKILL:51:53
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CEOF:54:56
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CEOL:57:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CSTART:60:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CSTOP:63:65
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CSUSP:66:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VEOL2) && !defined(CEOL2):69:71
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VSWTC) && !defined(VSWTCH):73:75
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VSUSP) && !defined(VSWTCH):77:80
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VSWTCH) && !defined(CSWTCH):81:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(__sparc__) && defined(__svr4__):87:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VWERSE) && !defined(VWERASE)       /* AIX-3.2.5 */:92:94
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VDSUSP) && !defined(CDSUSP):95:97
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if !defined(VREPRINT) && defined(VRPRNT)       /* Irix 4.0.5 */:98:100
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VREPRINT) && !defined(CRPRNT):101:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VWERASE) && !defined(CWERASE):104:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VLNEXT) && !defined(CLNEXT):107:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VDISCARD) && !defined(VFLUSHO):110:112
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VFLUSH) && !defined(VFLUSHO)        /* Ultrix 4.2 */:113:115
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(CTLECH) && !defined(ECHOCTL)        /* Ultrix 4.3 */:116:118
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(TCTLECH) && !defined(ECHOCTL)       /* Ultrix 4.2 */:119:121
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(CRTKIL) && !defined(ECHOKE)         /* Ultrix 4.2 and 4.3 */:122:124
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VFLUSHO) && !defined(CFLUSHO):125:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if defined(VSTATUS) && !defined(CSTATUS):128:130
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef BSDLY:133:135
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CIBAUD:136:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CRDLY:139:141
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef CRTSCTS:142:144
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef ECHOCTL:145:147
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef ECHOKE:148:150
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef ECHOPRT:151:153
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef FFDLY:154:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef IEXTEN:157:159
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef IMAXBEL:160:162
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef IUCLC:163:165
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef IXANY:166:168
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef NLDLY:169:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef OCRNL:172:174
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef OFDEL:175:177
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef OFILL:178:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef OLCUC:181:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef ONLCR:184:186
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef ONLRET:187:189
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef ONOCR:190:192
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef OXTABS:193:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef TABDLY:196:198
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef TAB1:199:201
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef TAB2:202:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef TOSTOP:205:207
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VDSUSP:208:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VEOL2:211:213
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VFLUSHO:214:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VLNEXT:217:219
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VREPRINT:220:222
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VSTATUS:223:225
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VSWTCH:226:228
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VTDLY:229:231
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef VWERASE:232:234
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef XCASE:235:237
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifndef IUTF8:238:240
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if   (CSIZE | NLDLY | CRDLY | TABDLY | BSDLY | VTDLY | FFDLY) < 0x100:279:285
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IXANY:305:307
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TABDLY || OXTABS:308:310
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if XCASE && IUCLC && OLCUC:311:314
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IXANY:334:336
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TABDLY || OXTABS:337:339
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if XCASE && IUCLC && OLCUC:340:343
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if CRTSCTS:355:357
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IUCLC:370:372
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IXANY:373:375
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IMAXBEL:376:378
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IUTF8:379:381
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OLCUC:383:385
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OCRNL:386:388
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ONLCR:389:391
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ONOCR:392:394
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ONLRET:395:397
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OFILL:398:400
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OFDEL:401:403
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if NLDLY:404:407
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if CRDLY:408:413
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# if TAB2:417:419
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# if TAB1:420:422
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# if OXTABS:425:427
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TABDLY:415:428
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if BSDLY:430:433
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VTDLY:434:437
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if FFDLY:438:441
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IEXTEN:444:446
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if XCASE:453:455
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TOSTOP:456:458
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ECHOPRT:459:462
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ECHOCTL:463:466
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ECHOKE:467:470
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IXANY:491:493
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TABDLY || OXTABS:494:496
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if XCASE && IUCLC && OLCUC:497:500
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if CRTSCTS:512:514
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IUCLC:527:529
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IXANY:530:532
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IMAXBEL:533:535
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IUTF8:536:538
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OLCUC:540:542
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OCRNL:543:545
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ONLCR:546:548
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ONOCR:549:551
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ONLRET:552:554
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OFILL:555:557
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OFDEL:558:560
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if NLDLY:561:564
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if CRDLY:565:570
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# if TAB2:574:576
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# if TAB1:577:579
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# if OXTABS:582:584
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TABDLY:572:585
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if BSDLY:587:590
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VTDLY:591:594
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if FFDLY:595:598
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IEXTEN:601:603
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if XCASE:610:612
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TOSTOP:613:615
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ECHOPRT:616:619
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ECHOCTL:620:623
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if ECHOKE:624:627
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VEOL2:649:651
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSWTCH:652:654
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VDSUSP:658:660
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VREPRINT:661:663
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VWERASE:664:666
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VLNEXT:667:669
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VFLUSHO:670:672
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSTATUS:673:675
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VEOL2:690:692
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSWTCH:693:695
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VDSUSP:699:701
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VREPRINT:702:704
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VWERASE:705:707
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VLNEXT:708:710
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VFLUSHO:711:713
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSTATUS:714:716
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VEOL2:733:735
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSWTCH:736:738
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VDSUSP:742:744
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VREPRINT:745:747
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VWERASE:748:750
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VLNEXT:751:753
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VFLUSHO:754:756
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSTATUS:757:759
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifdef TIOCGWINSZ:847:868
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifdef __linux__:1004:1008
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VSWTCH == VSUSP:1013:1016
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VEOF == VMIN:1018:1024
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VEOF == VMIN:1032:1034
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VMIN == VEOF:1067:1070
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VMIN == VEOF:1161:1163
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if VTIME == VEOL:1164:1166
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if IXANY:1176:1183
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if TABDLY:1184:1191
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if OXTABS:1192:1199
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if XCASE && IUCLC && OLCUC:1200:1212
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# if:# ifndef TIOCGWINSZ:1347:1350
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:# ifndef:# ifndef TIOCGWINSZ:1347:1351
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifdef TIOCGWINSZ:1352:1359
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifdef __linux__:1451:1456
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#ifdef TIOCGWINSZ:1457:1468
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/stty.c:#if:#if 0 /* was "if CIBAUD" */:1516:1529

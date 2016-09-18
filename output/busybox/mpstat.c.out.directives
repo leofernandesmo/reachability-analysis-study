@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/mpstat.c:#if:#if 1:49:59
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/mpstat.c:#if:#if DATA_MAX > 0xffffffff:127:151

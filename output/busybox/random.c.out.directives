@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/random.c:#if:#if !defined RANDTEST:16:33
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/random.c:#if:#ifdef RANDTEST:142:160

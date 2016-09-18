@@ -1,0 +1,30 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:bb_lookup_port
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:create_and_bind_dgram_or_die
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:create_and_bind_or_die
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:create_and_bind_stream_or_die
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:create_and_connect_stream_or_die
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:get_lsa
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:get_nport:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:get_peer_lsa
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:get_sock_lsa
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:host2sockaddr
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:host_and_af2sockaddr:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:set_nport:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:setsockopt_bindtodevice:#ifdef SO_BINDTODEVICE
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:setsockopt_bindtodevice:#ifdef SO_BINDTODEVICE
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:setsockopt_broadcast
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:setsockopt_reuseaddr
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:sockaddr2str:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:str2sockaddr:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_PREFER_IPV4_ADDRESS
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xconnect
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xconnect_stream
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xdotted2sockaddr
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xhost2sockaddr
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xhost_and_af2sockaddr:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xmalloc_sockaddr2dotted
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xmalloc_sockaddr2dotted_noport
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xmalloc_sockaddr2host
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xmalloc_sockaddr2host_noport
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xmalloc_sockaddr2hostonly_noport
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xsocket_stream
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:xsocket_type:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_IPV6

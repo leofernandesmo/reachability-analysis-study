@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/progress.c:bb_progress_init:#if ENABLE_UNICODE_SUPPORT
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/progress.c:bb_progress_update
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/progress.c:get_tty2_width

@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:dealloc_bunzip:725:729
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:get_bits:116:154
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:get_next_block:157:531
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:main:818:828
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:read_bunzip:543:658
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:start_bunzip:667:723
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/decompress_bunzip2.c:unpack_bz2_stream:734:807

@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:ar_main:248:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:copy_data:130:140
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:filter_replaceable:79:85
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:header_verbose_list_ar:219:233
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:output_ar_header:87:124
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:write_ar_archive:174:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:write_ar_header:142:172

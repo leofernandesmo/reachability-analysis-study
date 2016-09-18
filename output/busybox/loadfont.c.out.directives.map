@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:ctoi:#if ENABLE_FEATURE_SETFONT_TEXTUAL_MAP:#if ENABLE_SETFONT
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:do_load:#if ENABLE_FEATURE_LOADFONT_PSF2:#if ENABLE_FEATURE_LOADFONT_RAW:#if !defined(PIO_FONTX) || defined(__sparc__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:do_loadfont
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:do_loadtable:#if !ENABLE_FEATURE_LOADFONT_PSF2:#if ENABLE_FEATURE_LOADFONT_PSF2
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:loadfont_main:#if ENABLE_LOADFONT
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:setfont_main:#if ENABLE_FEATURE_SETFONT_TEXTUAL_MAP:#if ENABLE_SETFONT

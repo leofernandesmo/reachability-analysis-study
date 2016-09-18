@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/mv.c:#if:#if ENABLE_FEATURE_MV_LONG_OPTIONS:31:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/mv.c:#if:#if ENABLE_FEATURE_MV_LONG_OPTIONS:59:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/mv.c:#if:#if ENABLE_SELINUX:141:143

@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs.c:#if:#ifndef IFNAMSIZ:53:55
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs.c:#if:#if UINT_MAX > 4294967295 /* prevents warning about "const too large" */:74:79
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs.c:#if:#ifdef UNUSED:183:222

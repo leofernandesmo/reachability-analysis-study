@@ -1,0 +1,12 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#ifndef IFNAMSIZ:78:80
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#ifndef ifr_newname:88:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:97:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:104:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:148:153
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:155:174
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if  ENABLE_FEATURE_NAMEIF_EXTENDED:179:186
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:207:210
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_CLEAN_UP:203:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if  ENABLE_FEATURE_NAMEIF_EXTENDED:255:258
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:266:279
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nameif.c:#if:#if ENABLE_FEATURE_NAMEIF_EXTENDED:284:291

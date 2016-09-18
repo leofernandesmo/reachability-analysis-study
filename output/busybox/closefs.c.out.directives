@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/closefs.c:#if:#if HAVE_UNISTD_H:14:16
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/closefs.c:#if:#if BB_BIG_ENDIAN:191:195
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/closefs.c:#if:#if BB_BIG_ENDIAN:213:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/closefs.c:#if:#if BB_BIG_ENDIAN:224:251
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/closefs.c:#if:#if BB_BIG_ENDIAN:267:272
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/closefs.c:#if:#if BB_BIG_ENDIAN:316:321

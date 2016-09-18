@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/parse_config.c:#if:#if defined ENABLE_PARSE && ENABLE_PARSE:35:66
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/parse_config.c:#if:#if 0 /* unused so far */:222:226

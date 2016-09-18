@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:add_MANPATH:150:183
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:man_main:186:306
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:run_pipe:35:116
+/home/ubuntu-vm/workspace/busybox-1.23.1/miscutils/man.c:show_manpage:119:148

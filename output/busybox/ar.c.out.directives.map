@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:ar_main:#if ENABLE_FEATURE_AR_CREATE:#if ENABLE_FEATURE_AR_CREATE
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:copy_data:#if ENABLE_FEATURE_AR_CREATE
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:filter_replaceable:#if ENABLE_FEATURE_AR_CREATE
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:header_verbose_list_ar
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:output_ar_header:#if ENABLE_FEATURE_AR_CREATE
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:write_ar_archive:#if ENABLE_FEATURE_AR_CREATE
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/ar.c:write_ar_header:#if ENABLE_FEATURE_AR_CREATE

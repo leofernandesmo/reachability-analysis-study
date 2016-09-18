@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:28:41
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:106:114
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:129:131
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:293:297
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifndef:#ifndef _WIN32:368:401
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:408:417
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:499:503
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:527:531
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifdef:#ifdef _WIN32:717:719
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/socket.c:#ifndef:#ifndef _WIN32:756:826

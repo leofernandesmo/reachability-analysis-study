@@ -1,0 +1,57 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_ioctl_or_warn:#if ENABLE_IOCTL_HEX2STR_ERROR
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_ioctl_or_warn:#if ENABLE_IOCTL_HEX2STR_ERROR
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_putchar
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_unsetenv
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_unsetenv_and_free
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_xioctl:#if ENABLE_IOCTL_HEX2STR_ERROR
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:bb_xioctl:#if ENABLE_IOCTL_HEX2STR_ERROR
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:die_if_ferror
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:die_if_ferror_stdout
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:fflush_all
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:generate_uuid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:ioctl_or_perror
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:ioctl_or_perror_and_die
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:malloc_or_warn:#ifndef DMALLOC
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:open3_or_warn
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:open_or_warn
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:rename_or_warn
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:selinux_or_die:#if ENABLE_SELINUX
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:warn_opendir
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xasprintf
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xbind
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xchdir
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xchroot
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xclose
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xdup2
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xfopen
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xfork:#if BB_MMU
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xfstat
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xlisten
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xlseek
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xmalloc:#ifndef DMALLOC
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xmalloc_ttyname
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xmkstemp
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xmove_fd
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xopen
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xopen3
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xopen_as_uid_gid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xopen_nonblocking
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xopendir
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xpipe
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xprint_and_close_file
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xrealloc:#ifndef DMALLOC
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xrename
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xsendto
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xsetegid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xsetenv
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xseteuid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xsetgid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xsetuid
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xsocket:# ifdef AF_PACKET:# ifdef AF_NETLINK:# ifdef AF_NETLINK
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xstat
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xstrdup
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xstrndup
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xunlink
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xwrite
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xwrite_str
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xfuncs_printf.c:xzalloc

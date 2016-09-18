@@ -1,0 +1,34 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_bKGD_SUPPORTED:23:36
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_CHECK_cHRM_SUPPORTED:50:53
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:100:133
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  ifdef:#  ifdef PNG_FLOATING_POINT_SUPPORTED:100:135
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:165:172
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  ifdef:#  ifdef PNG_FLOATING_POINT_SUPPORTED:165:173
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_hIST_SUPPORTED:175:216
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_oFFs_SUPPORTED:267:282
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_pCAL_SUPPORTED:284:374
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_FLOATING_POINT_SUPPORTED:439:467
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_FIXED_POINT_SUPPORTED:469:495
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  ifdef:#  ifdef PNG_FIXED_POINT_SUPPORTED:469:496
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_pHYs_SUPPORTED:498:513
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_sBIT_SUPPORTED:559:572
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_gAMA_SUPPORTED:598:600
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_cHRM_SUPPORTED:602:610
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  ifdef:#  ifdef PNG_cHRM_SUPPORTED:602:612
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_iCCP_SUPPORTED:615:664
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_iTXt_SUPPORTED:776:797
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_iTXt_SUPPORTED:802:807
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  if:#  ifdef PNG_iTXt_SUPPORTED:856:864
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#  ifdef:#  ifdef PNG_iTXt_SUPPORTED:856:875
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_tIME_SUPPORTED:877:899
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_tRNS_SUPPORTED:901:962
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_sPLT_SUPPORTED:964:1049
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_UNKNOWN_CHUNKS_SUPPORTED:1051:1133
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_MNG_FEATURES_SUPPORTED:1136:1150
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_HANDLE_AS_UNKNOWN_SUPPORTED:1152:1204
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_READ_USER_CHUNKS_SUPPORTED:1206:1219
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_INFO_IMAGE_SUPPORTED:1221:1238
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_SET_USER_LIMITS_SUPPORTED:1277:1311
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_BENIGN_ERRORS_SUPPORTED:1314:1326
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#if:#ifdef PNG_CHECK_FOR_INVALID_INDEX_SUPPORTED:1328:1343
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngset.c:#ifdef:#ifdef PNG_CHECK_FOR_INVALID_INDEX_SUPPORTED:1328:1345

@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:bb_show_usage:#ifdef TEST
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:main:#ifdef TEST
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process0_stdin:#if ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process_stdin:#if ENABLE_FEATURE_XARGS_SUPPORT_QUOTES
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process_stdin:#if ENABLE_FEATURE_XARGS_SUPPORT_QUOTES
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:process_stdin_with_replace:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:store_param
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:xargs_ask_confirmation:#if ENABLE_FEATURE_XARGS_SUPPORT_CONFIRMATION
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:xargs_exec
+/home/ubuntu-vm/workspace/busybox-1.23.1/findutils/xargs.c:xargs_main:#if ENABLE_FEATURE_XARGS_SUPPORT_ZERO_TERM \:#if ENABLE_DESKTOP && ENABLE_LONG_OPTS:#if ENABLE_FEATURE_XARGS_SUPPORT_REPL_STR

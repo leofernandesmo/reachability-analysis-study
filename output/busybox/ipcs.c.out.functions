@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:do_msg:367:472
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:do_sem:261:364
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:do_shm:134:258
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:ipcs_main:578:637
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:print_msg:502:531
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:print_perms:111:131
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:print_sem:533:575
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:print_shm:475:499

@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/rev.c:rev_main:#if ENABLE_UNICODE_SUPPORT
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/rev.c:strrev

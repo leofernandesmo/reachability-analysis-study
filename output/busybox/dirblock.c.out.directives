@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#if HAVE_UNISTD_H:14:16
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#if BB_BIG_ENDIAN:30:32
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#if BB_BIG_ENDIAN:37:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#if BB_BIG_ENDIAN:45:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#ifdef WORDS_BIGENDIAN:53:56
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#ifndef WORDS_BIGENDIAN:90:93
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#if:#ifdef WORDS_BIGENDIAN:114:117
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/dirblock.c:#ifdef:#ifdef WORDS_BIGENDIAN:114:124

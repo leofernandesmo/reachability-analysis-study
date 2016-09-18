@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_bbox.c:copy_lines
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_bbox.c:extract_filename
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch_bbox.c:patch_main:# if ENABLE_DESKTOP:# if ENABLE_DESKTOP:#if ENABLE_LONG_OPTS

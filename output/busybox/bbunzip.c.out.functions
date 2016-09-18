@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:append_ext:36:39
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:bbunpack:41:191
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:bunzip2_main:391:399
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:gunzip_main:338:351
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:make_new_name_generic:195:205
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:make_new_name_gunzip:300:323
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:open_to_or_warn:26:34
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:uncompress_main:232:238
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:unlzma_main:485:499
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/bbunzip.c:unxz_main:523:537

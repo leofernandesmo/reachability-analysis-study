@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:check_existence_through_netlink:449:515
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:detect_link:399:447
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:detect_link_ethtool:205:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:detect_link_iff:222:242
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:detect_link_mii:159:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:detect_link_priv:182:203
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:detect_link_wlan:244:268
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:ifplugd_main:534:748
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:maybe_up_new_iface:363:397
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:network_ioctl:149:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:read_pid:518:530
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:run_script:299:328
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:set_ifreq_to_ifname:143:147
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:strstatus:292:297
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ifplugd.c:up_iface:330:361

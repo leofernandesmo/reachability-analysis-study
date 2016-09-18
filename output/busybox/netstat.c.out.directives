@@ -1,0 +1,20 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_WIDE:127:133
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:150:153
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:154:156
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_WIDE:157:159
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:165:169
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_CLEAN_UP:211:225
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if 0 /* bb_strtol returns all-ones bit pattern on ERANGE anyway */:243:246
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:176:329
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:332:346
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:387:389
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:416:419
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:444:447
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:466:478
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:618:621
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_ROUTE:675:680
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_WIDE:681:686
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_NETSTAT_PRG:687:693
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:717:719
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:723:725
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/netstat.c:#if:#if ENABLE_FEATURE_IPV6:729:731

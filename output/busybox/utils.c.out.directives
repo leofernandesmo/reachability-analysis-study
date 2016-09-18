@@ -1,0 +1,2 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/utils.c:#if:#if 0 /* Doesn't handle e.g. "10.10", for example, "ip r l root 10.10/16" */:91:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/utils.c:#if:#ifdef RESOLVE_HOSTNAMES:269:296

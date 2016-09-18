@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:INET6_displayroutes:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:INET6_setroute:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:INET_setroute:#if HAVE_NEW_ADDRT:#if HAVE_NEW_ADDRT:#if 0:#ifdef RTF_IRTT:#ifdef RTF_REJECT
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:bb_displayroutes:#ifdef RTF_REJECT
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:kw_lookup
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:route_main:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_IPV6:#if ENABLE_FEATURE_IPV6
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/route.c:set_flags

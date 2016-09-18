@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_default_read_data:#  ifndef USE_FAR_KEYWORD:#  ifndef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_default_read_data:#  ifndef USE_FAR_KEYWORD:#  ifndef USE_FAR_KEYWORD
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_read_data
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngrio.c:png_set_read_fn:#ifdef PNG_STDIO_SUPPORTED:#ifdef PNG_WRITE_FLUSH_SUPPORTED:#ifdef PNG_WRITE_FLUSH_SUPPORTED

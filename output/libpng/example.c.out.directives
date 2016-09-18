@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifndef png_jmpbuf:38:40
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef open_file /* prototype 1 */:87:107
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef streams /* PNG file I/O method 1 */:148:158
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef PNG_READ_SCALE_16_TO_8_SUPPORTED:195:199
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef PNG_READ_QUANTIZE_SUPPORTED:286:315
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef PNG_READ_INTERLACING_SUPPORTED:345:353
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef sparkle /* Read the image using the "sparkle" effect. */:393:399
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#ifdef:#ifdef sparkle /* Read the image using the "sparkle" effect. */:393:403
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef single /* Read the image a single row at a time */:384:405
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#ifdef:#ifdef single /* Read the image a single row at a time */:384:409
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef PNG_READ_INTERLACING_SUPPORTED:536:565
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef streams /* I/O initialization method 1 */:631:642
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef entire /* Write out the entire image data in one call */:817:836
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#ifdef:#ifdef entire /* Write out the entire image data in one call */:817:846
+/home/ubuntu-vm/workspace/libpng-1.5.14/example.c:#if:#ifdef hilevel:644:879

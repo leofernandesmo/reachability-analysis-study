@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:#if:#if INT_MAX == LONG_MAX:13:19
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:#if:#if HAVE_EXT2_IOCTLS:52:81
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:#if:#if HAVE_EXT2_IOCTLS:88:123
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:#if:#ifdef ENABLE_COMPRESSION:131:136
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:#if:#ifdef ENABLE_COMPRESSION:153:155
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/e2fs_lib.c:#if:#ifdef ENABLE_COMPRESSION:160:165

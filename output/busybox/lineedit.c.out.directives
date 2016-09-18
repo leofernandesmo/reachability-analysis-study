@@ -1,0 +1,73 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#ifndef _POSIX_VDISABLE:52:54
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#ifdef TEST:57:61
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_USERNAME_OR_HOMEDIR:71:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_EDITING_VI:82:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:78:100
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_PRESERVE_BROKEN:101:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_USERNAME_OR_HOMEDIR:121:123
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_USERNAME_OR_HOMEDIR:145:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_TAB_COMPLETION:150:153
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:155:160
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL:161:163
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_FANCY_PROMPT:198:202
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_USERNAME_OR_HOMEDIR:203:207
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if !ENABLE_UNICODE_PRESERVE_BROKEN:235:273
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_UNICODE_COMBINING_WCHARS || ENABLE_UNICODE_WIDE_WCHARS:297:303
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_UNICODE_COMBINING_WCHARS || ENABLE_UNICODE_WIDE_WCHARS:323:325
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_TAB_COMPLETION:334:339
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:213:343
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if HACK_FOR_WRONG_WIDTH:379:400
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if !ENABLE_FEATURE_EDITING_VI:545:550
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:557:566
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:579:596
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_USERNAME_COMPLETION:639:695
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_USERNAME_COMPLETION:772:775
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_UNICODE_SUPPORT:1081:1084
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if !ENABLE_UNICODE_SUPPORT:1111:1121
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_USERNAME_COMPLETION:1127:1133
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if !ENABLE_UNICODE_SUPPORT:1204:1245
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_TAB_COMPLETION:614:1251
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if MAX_HISTORY > 0:1258:1260
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_UNICODE_SUPPORT:1286:1294
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#  if:#  if ENABLE_FEATURE_EDITING_SAVE_ON_EXIT:1415:1509
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_EDITING_SAVEHISTORY:1333:1513
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_EDITING_SAVE_ON_EXIT:1538:1541
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_EDITING_SAVEHISTORY && !ENABLE_FEATURE_EDITING_SAVE_ON_EXIT:1548:1550
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if MAX_HISTORY > 0:1265:1555
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:1558:1668
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL:1727:1770
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_USERNAME_OR_HOMEDIR:1787:1789
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_USERNAME_OR_HOMEDIR:1856:1860
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_USERNAME_OR_HOMEDIR:1878:1904
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if 0 /*ENABLE_UNICODE_SUPPORT*/:1945:1951
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_USERNAME_OR_HOMEDIR:1958:1961
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if !ENABLE_FEATURE_EDITING_FANCY_PROMPT:1773:1965
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:1994:1997
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:2009:2012
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL:2016:2041
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if !ENABLE_UNICODE_PRESERVE_BROKEN:2062:2066
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:2043:2072
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_BIDI_SUPPORT:2079:2090
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:2171:2182
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_REVERSE_SEARCH:2105:2234
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_TAB_COMPLETION:2245:2247
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:2249:2251
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:# if:# if ENABLE_FEATURE_EDITING_SAVEHISTORY:2286:2290
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if MAX_HISTORY > 0:2285:2293
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:2298:2303
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_USERNAME_OR_HOMEDIR:2320:2330
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if 0:2332:2336
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_REVERSE_SEARCH:2362:2364
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:2365:2372
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_TAB_COMPLETION:2417:2421
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if MAX_HISTORY > 0:2434:2449
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_REVERSE_SEARCH:2468:2472
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_VI:2474:2649
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if MAX_HISTORY > 0:2651:2668
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_TAB_COMPLETION:2770:2773
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_ASK_TERMINAL:2776:2789
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_UNICODE_SUPPORT:2794:2799
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_TAB_COMPLETION:2810:2812
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING:65:2838
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#if ENABLE_FEATURE_EDITING_FANCY_PROMPT:2855:2861
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/lineedit.c:#if:#ifdef TEST:2845:2875

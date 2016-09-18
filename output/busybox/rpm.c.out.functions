@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:bsearch_rpmtag:173:178
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:extract_cpio:99:128
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:fileaction_dobackup:235:251
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:fileaction_setowngrp:253:261
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:loop_through_files:263:273
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:rpm_getcount:180:187
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:rpm_getint:208:233
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:rpm_getstr:189:206
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:rpm_gettags:130:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/rpm.c:rpm_main:276:404

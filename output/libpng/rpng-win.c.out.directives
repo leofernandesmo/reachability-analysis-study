@@ -1,0 +1,10 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifdef __CYGWIN__:88:114
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:182:191
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#if defined(NeXT):201:229
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:309:311
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:325:327
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:329:333
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:369:371
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:374:378
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:382:386
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/gregbook/rpng-win.c:#if:#ifndef __CYGWIN__:459:463

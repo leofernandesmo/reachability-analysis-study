@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:   but inside #ifdef __KERNEL__ ... #endif */:40:40
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#ifndef SHM_DEST:41:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#ifndef MSG_STAT:48:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#ifndef SHM_STAT:53:64
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#ifndef SEM_STAT:66:69
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#ifndef IPC_INFO:72:74
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#if defined(__GNU_LIBRARY__) && !defined(_SEM_SEMUN_UNDEFINED):80:90
+/home/ubuntu-vm/workspace/busybox-1.23.1/util-linux/ipcs.c:#if:#if defined(__GNU_LIBRARY__) && __GNU_LIBRARY__ > 1:97:101

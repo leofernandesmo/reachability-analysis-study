@@ -1,0 +1,11 @@
+__bswap_32:
+__uint64_t:
+__bswap_32:
+__uint64_t:
+ssh_config_opcode_e:
+ssh_config_get_token:
+ssh_config_get_int:
+ssh_config_get_str:
+ssh_config_get_yesno:
+ssh_config_parse_line:
+ssh_config_parse_file:

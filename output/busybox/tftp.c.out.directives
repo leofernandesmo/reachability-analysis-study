@@ -1,0 +1,27 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_GET && !ENABLE_FEATURE_TFTP_PUT:98:110
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_PROGRESS_BAR:124:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_PROGRESS_BAR:140:161
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_TFTP_DEBUG:178:180
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_BLOCKSIZE:163:219
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if !ENABLE_TFTP:227:229
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if !ENABLE_FEATURE_TFTP_BLOCKSIZE:234:236
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_TFTPD:287:292
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_BLOCKSIZE:335:344
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_BLOCKSIZE:391:401
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_TFTP:359:402
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_PROGRESS_BAR:425:431
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_BLOCKSIZE:404:433
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_TFTP_DEBUG:470:475
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_PROGRESS_BAR:478:481
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_TFTP_DEBUG:538:540
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_PROGRESS_BAR:581:590
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_BLOCKSIZE:565:607
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if 0:626:632
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_BLOCKSIZE:684:687
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_BLOCKSIZE:705:713
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_TFTP_DEBUG:731:735
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_PROGRESS_BAR:737:739
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_TFTP:676:754
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:# if:# if ENABLE_FEATURE_TFTP_BLOCKSIZE:832:855
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_TFTPD:756:888
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/tftp.c:#if:#if ENABLE_FEATURE_TFTP_GET || ENABLE_FEATURE_TFTP_PUT:56:890

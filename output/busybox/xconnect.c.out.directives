@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#ifdef SO_BINDTODEVICE:26:49
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:125:129
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:139:145
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:243:256
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_PREFER_IPV4_ADDRESS:272:282
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if !ENABLE_FEATURE_IPV6:294:296
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:298:308
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:332:338
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:347:352
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:433:438
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/xconnect.c:#if:#if ENABLE_FEATURE_IPV6:450:457

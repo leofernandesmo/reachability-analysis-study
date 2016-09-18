@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:escape:13:58
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:file_line__new:66:78
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:main:220:227
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:menu__xgettext:210:218
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:menu_build_message_list:165:181
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:mesage__find:116:127
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:message__add:144:163
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:message__add_file_line:129:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:message__new:89:114
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:message__print_file_lineno:183:200
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/kxgettext.c:message__print_gettext_msgid_msgstr:202:208

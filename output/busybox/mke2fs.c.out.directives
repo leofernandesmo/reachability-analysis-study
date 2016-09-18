@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifndef __sparc__:39:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#if (!defined(_SC_PAGESIZE) && defined(_SC_PAGE_SIZE)):813:815
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifdef _SC_PAGESIZE:816:820
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifdef __linux__:829:837
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifdef EXT2_DYNAMIC_REV:911:915
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifdef CONFIG_TESTIO_DEBUG:984:989
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifdef CONFIG_TESTIO_DEBUG:1190:1195
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/mke2fs.c:#if:#ifdef ZAP_BOOTBLOCK:1290:1292

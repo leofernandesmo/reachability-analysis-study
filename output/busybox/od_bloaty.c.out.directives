@@ -1,0 +1,17 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LFS:79:83
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#ifndef FLT_DIG:89:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#ifndef DBL_DIG:94:96
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#ifndef LDBL_DIG:99:101
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LONG_OPTS:190:194
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if USHRT_MAX != UCHAR_MAX:213:215
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if UINT_MAX != USHRT_MAX:216:218
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ULONG_MAX != UINT_MAX:219:221
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ULLONG_MAX != ULONG_MAX:222:224
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if UINT_MAX == ULONG_MAX:310:323
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ULONG_MAX == ULLONG_MAX:325:338
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LONG_OPTS:846:862
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LONG_OPTS:1129:1164
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LONG_OPTS:1169:1183
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LONG_OPTS:1202:1204
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#if ENABLE_LONG_OPTS:1261:1317
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/od_bloaty.c:#if:#ifdef DEBUG:1362:1367

@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/sftp.c:#if:#ifdef _MSC_VER:45:48
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/sftp.c:#ifdef:#ifdef _MSC_VER:45:49
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/sftp.c:#if:#ifdef WITH_SERVER:182:256
+/home/ubuntu-vm/workspace/libssh-0.7.2-temp/src/sftp.c:#ifdef:#ifdef WITH_SERVER:182:3099

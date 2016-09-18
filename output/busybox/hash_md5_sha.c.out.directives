@@ -1,0 +1,19 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if CONFIG_MD5_SMALL < 0:112:118
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL > 1:165:167
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if MD5_SMALL > 0:137:172
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL == 3:197:271
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL == 1:284:288
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL == 1:306:331
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL == 1:346:371
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL == 1:374:398
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if MD5_SMALL == 1:401:426
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if MD5_SMALL >= 2  /* 2 or 3 */:179:432
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if 0:817:850
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if CONFIG_SHA3_SMALL < 0:921:927
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if 0 /* LONG_MAX == 0x7fffffff */:943:946
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if OPTIMIZE_SHA3_FOR_32:952:1002
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#  if:#  if SHA3_SMALL:1309:1311
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#  if:#  if SHA3_SMALL:1323:1339
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:# if:# if LONG_MAX > 0x7fffffff:1287:1341
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if OPTIMIZE_SHA3_FOR_32:1011:1353
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/hash_md5_sha.c:#if:#if SHA3_SMALL:1363:1433

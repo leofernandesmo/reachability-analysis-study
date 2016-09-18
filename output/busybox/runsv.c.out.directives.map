@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:ctrl
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:custom
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:fatal2_cannot
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:fatal2x_cannot
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:fatal_cannot
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:gettimeofday_ns:#if ENABLE_MONOTONIC_SYSCALL
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:gettimeofday_ns:#if ENABLE_MONOTONIC_SYSCALL
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:open_trunc_or_warn
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:runsv_main
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:s_child
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:s_term
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:startservice
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:stopservice
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:update_status
+/home/ubuntu-vm/workspace/busybox-1.23.1/runit/runsv.c:warn_cannot

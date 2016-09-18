@@ -1,0 +1,22 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if ENABLE_USE_BB_SHADOW:41:43
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if 0 //ENABLE_USE_BB_SHADOW:59:62
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_FOR_NOW:132:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#ifdef:#ifdef UNUSED_FOR_NOW:132:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS:157:179
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS:182:193
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_FOR_NOW:195:224
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#ifdef:#ifdef UNUSED_FOR_NOW:195:225
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if ENABLE_USE_BB_SHADOW:245:253
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if 0 //ENABLE_USE_BB_SHADOW:298:332
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if 0 //ENABLE_USE_BB_SHADOW:358:369
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if defined CONFIG_USE_BB_THREADSAFE_SHADOW && defined PTHREAD_MUTEX_INITIALIZER:375:382
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if ENABLE_USE_BB_SHADOW:482:529
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_FOR_NOW:481:530
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if ENABLE_USE_BB_SHADOW:553:573
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS:532:574
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if 0:640:646
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if 0:665:671
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_SINCE_WE_AVOID_STATIC_BUFS:635:704
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#ifdef UNUSED_FOR_NOW:707:753
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#ifdef:#ifdef UNUSED_FOR_NOW:707:754
+/home/ubuntu-vm/workspace/busybox-1.23.1/libpwdgrp/pwd_grp.c:#if:#if ENABLE_USE_BB_SHADOW:917:967

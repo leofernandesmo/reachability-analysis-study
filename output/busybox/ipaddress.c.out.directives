@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:#if:#ifndef IFF_LOWER_UP:19:22
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:#if:#if 0:58:68
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:#if:#ifdef IFLA_MASTER:159:164
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/libiproute/ipaddress.c:#if:#ifdef IFF_DORMANT:166:174

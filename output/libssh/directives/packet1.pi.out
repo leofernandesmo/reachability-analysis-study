@@ -1,0 +1,10 @@
+__bswap_32:
+__uint64_t:
+__bswap_32:
+__uint64_t:
+ssh_packet_set_default_callbacks1:def(WITH_SSH1);
+ssh_packet_socket_callback1:def(WITH_SSH1);(def(DEBUG_CRYPTO)&def(WITH_SSH1));
+packet_send1:def(WITH_SSH1);(def(DEBUG_CRYPTO)&def(WITH_SSH1));
+SSH_PACKET_CALLBACK:def(WITH_SSH1);
+SSH_PACKET_CALLBACK:def(WITH_SSH1);
+SSH_PACKET_CALLBACK:def(WITH_SSH1);

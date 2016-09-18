@@ -1,0 +1,8 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoi:142:159
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtol:108:123
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoll:73:91
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtou:127:140
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoul:94:106
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:bb_strtoull:55:71
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:handle_errors:39:52
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/bb_strtonum.c:ret_ERANGE:33:37

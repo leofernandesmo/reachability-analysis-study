@@ -1,0 +1,80 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_PAM:128:135
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_USE_SENDFILE:136:138
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#ifndef PIPE_BUF:140:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if PIPE_BUF >= IOBUF_SIZE:147:149
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if 0   /* future use */:197:209
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:214:216
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:220:222
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if 0   /* not implemented */:227:236
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:244:246
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:250:252
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if 0   /* not implemented */:257:266
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:296:300
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:302:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR:306:308
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES:313:315
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:316:318
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_GZIP:319:322
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:345:355
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_GZIP:365:369
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:529:531
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR:532:534
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:559:563
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES:666:686
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:688:719
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR:725:727
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR:742:748
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:752:794
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ENCODE_URL_STR:804:832
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:834:879
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES:930:932
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES:942:944
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:962:968
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ERROR_PAGES:976:988
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:992:1000
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:1002:1004
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if 0:1145:1155
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI || ENABLE_FEATURE_HTTPD_PROXY:1076:1264
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_SET_REMOTE_PORT_TO_ENV:1373:1375
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:1389:1394
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR:1441:1458
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI:1266:1489
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if 0  /* unpopular */:1557:1561
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:1602:1624
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_USE_SENDFILE:1627:1645
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if DEBUG:1669:1682
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:# if:# if ENABLE_PAM:1692:1739
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:# if:# if ENABLE_FEATURE_SHADOWPASSWDS && !ENABLE_PAM:1786:1788
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#  if:#  if ENABLE_FEATURE_SHADOWPASSWDS:1826:1829
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#  if:#  if ENABLE_FEATURE_SHADOWPASSWDS:1838:1847
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:# if:# if ENABLE_PAM:1808:1852
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:# if:# if !ENABLE_PAM:1858:1860
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:1690:1890
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:1892:1902
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI:1924:1933
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:1934:1936
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:1939:1944
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_IPV6:1954:1960
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI:1986:1999
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:2099:2103
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:2115:2128
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:# if:# if ENABLE_FEATURE_HTTPD_CGI:2135:2137
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI || ENABLE_FEATURE_HTTPD_PROXY:2130:2149
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI:2150:2166
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:2167:2181
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_RANGES:2182:2198
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_GZIP:2199:2215
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_BASIC_AUTH:2227:2234
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_PROXY:2240:2267
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI:2271:2279
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR:2292:2302
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_CGI:2306:2326
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if BB_MMU:2335:2417
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_LOCALE_SUPPORT:2479:2482
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_ENCODE_URL_STR:2508:2513
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_AUTH_MD5:2514:2524
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_SETUID:2525:2529
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if !BB_MMU:2531:2535
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if ENABLE_FEATURE_HTTPD_SETUID:2541:2551
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if 0:2554:2570
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/httpd.c:#if:#if BB_MMU:2579:2585

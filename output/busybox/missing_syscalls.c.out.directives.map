@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:adjtimex:#if defined(ANDROID) || defined(__ANDROID__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:getsid:#if defined(ANDROID) || defined(__ANDROID__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:pivot_root:#if defined(ANDROID) || defined(__ANDROID__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:sethostname:#if defined(ANDROID) || defined(__ANDROID__)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:stime:#if defined(ANDROID) || defined(__ANDROID__)

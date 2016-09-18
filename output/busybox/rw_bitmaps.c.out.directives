@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#if HAVE_UNISTD_H:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef HAVE_SYS_STAT_H:20:22
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef HAVE_SYS_TYPES_H:23:25
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#if defined(__powerpc__) && BB_BIG_ENDIAN:31:42
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef EXT2_BIG_ENDIAN_BITMAPS:44:53
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef EXT2_BIG_ENDIAN_BITMAPS:80:84
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef EXT2_BIG_ENDIAN_BITMAPS:132:136
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef EXT2_BIG_ENDIAN_BITMAPS:216:220
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/rw_bitmaps.c:#if:#ifdef EXT2_BIG_ENDIAN_BITMAPS:234:238

@@ -1,0 +1,45 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# if:# ifndef SOL_IPV6:277:279
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# ifndef:# ifndef SOL_IPV6:277:280
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifndef IPPROTO_ICMP:285:287
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifndef IPPROTO_IP:288:290
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:335:341
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:352:356
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:358:363
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:375:377
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:429:436
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if 0 //ENABLE_FEATURE_TRACEROUTE_VERBOSE:456:479
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:481:489
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if defined IP_TTL:491:495
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# if:# if ENABLE_TRACEROUTE6:524:540
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE:510:546
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if !ENABLE_FEATURE_TRACEROUTE_VERBOSE:548:551
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE:563:567
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_VERBOSE:621:634
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# if:# if !ENABLE_FEATURE_TRACEROUTE_VERBOSE:639:642
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# if:# if ENABLE_FEATURE_TRACEROUTE_VERBOSE:687:715
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:638:728
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:764:768
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifdef IP_TOS:794:796
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:811:814
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:815:819
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:833:835
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if 0 /* IGNORED */:839:842
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifdef IP_TOS:843:846
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE:868:882
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:888:900
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# if:# ifdef IPV6_RECVPKTINFO:911:919
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:# ifdef:# ifdef IPV6_RECVPKTINFO:911:921
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if TRACEROUTE_SO_DEBUG:926:930
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:935:942
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_FEATURE_TRACEROUTE_SOURCE_ROUTE && defined IP_OPTIONS:948:972
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifdef SO_SNDBUF:975:979
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifdef IP_TOS:980:984
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#ifdef IP_DONTFRAG:985:989
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if TRACEROUTE_SO_DEBUG:990:994
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:1018:1023
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:1034:1061
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:1136:1140
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6 && (ICMP6_DST_UNREACH_NOROUTE != ICMP_UNREACH_NET):1148:1150
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:1155:1157
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:1170:1172
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/traceroute.c:#if:#if ENABLE_TRACEROUTE6:1243:1249

@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_LONG_OPTS:35:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_FEATURE_UDHCP_RFC3397:105:112
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_FEATURE_UDHCPC_SANITIZEOPT:139:198
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_FEATURE_UDHCP_RFC3397:349:386
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if 0:804:811
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_FEATURE_UDHCPC_ARPING:792:820
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if 0 /* Several users reported breakage when BPF filter is used */:997:1048
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if BB_MMU:1137:1145
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_FEATURE_UDHCP_PORT:1309:1314
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if !BB_MMU:1369:1375
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if BB_MMU /* -b is not supported on NOMMU */:1476:1483
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if ENABLE_FEATURE_UDHCPC_ARPING:1719:1753
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/udhcp/dhcpc.c:#if:#if BB_MMU /* NOMMU case backgrounded earlier */:1772:1778

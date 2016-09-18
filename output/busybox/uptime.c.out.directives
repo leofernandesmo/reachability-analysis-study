@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/uptime.c:#if:#ifdef __linux__:43:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/uptime.c:#if:#ifndef FSHIFT:48:50
+/home/ubuntu-vm/workspace/busybox-1.23.1/procps/uptime.c:#if:#if ENABLE_FEATURE_UPTIME_UTMP_SUPPORT:82:92

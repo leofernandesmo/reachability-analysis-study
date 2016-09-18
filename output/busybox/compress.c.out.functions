@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:BZ2_bsInitWrite:41:45
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:BZ2_compressBlock:607:673
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:bsFinishWrite:50:58
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:bsPutU16:93:97
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:bsPutU32:82:88
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:bsW:67:77
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:generateMTFValues:121:242
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:makeMaps_e:106:116
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/libarchive/bz/compress.c:sendMTFValues:250:602

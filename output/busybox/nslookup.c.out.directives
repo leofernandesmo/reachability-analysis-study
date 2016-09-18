@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:#if:#if ENABLE_VERBOSE_RESOLUTION_ERRORS:105:109
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:#if:#if ENABLE_FEATURE_IPV6:122:125
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/nslookup.c:#if:#if ENABLE_FEATURE_IPV6:152:166

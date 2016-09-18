@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:check_conf:465:486
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:check_stdin:59:67
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:conf:403:463
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:conf_askvalue:69:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:conf_choice:276:401
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:conf_string:173:202
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:conf_sym:204:274
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:main:488:607
+/home/ubuntu-vm/workspace/busybox-1.23.1/scripts/kconfig/conf.c:strip:42:57

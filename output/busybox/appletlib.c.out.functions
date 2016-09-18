@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:applet_name_compare:143:147
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:bb_show_usage:97:140
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:busybox_main:616:738
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:check_suid:479:559
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:find_applet_by_name:149:172
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:get_trimmed_slice:254:269
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:ingroup:239:251
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:install_links:579:606
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:install_links:608:612
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:lbb_main:790:845
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:lbb_prepare:178:204
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:parse_config_file:271:469
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:run_applet_and_exit:776:783
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:run_applet_no_and_exit:740:774
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:unpack_usage_messages:66:86

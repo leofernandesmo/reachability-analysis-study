@@ -1,0 +1,3 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:get_netmask
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:get_prefix:#if ENABLE_FEATURE_IPCALC_FANCY
+/home/ubuntu-vm/workspace/busybox-1.23.1/networking/ipcalc.c:ipcalc_main:#if ENABLE_FEATURE_IPCALC_LONG_OPTIONS

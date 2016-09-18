@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:apply_one_hunk:215:339
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:dlist_add:85:103
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:dlist_free:73:82
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:do_line:146:158
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:fail_hunk:183:206
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:finish_oldfile:160:181
+/home/ubuntu-vm/workspace/busybox-1.23.1/editors/patch.c:patch_main:350:552

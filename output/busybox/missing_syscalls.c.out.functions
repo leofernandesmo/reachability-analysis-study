@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:adjtimex:33:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:getsid:14:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:pivot_root:38:41
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:sethostname:27:30
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/missing_syscalls.c:stime:19:25

@@ -1,0 +1,6 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:ctoi:370:382
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:do_load:244:304
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:do_loadfont:112:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:do_loadtable:167:242
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:loadfont_main:309:331
+/home/ubuntu-vm/workspace/busybox-1.23.1/console-tools/loadfont.c:setfont_main:386:491

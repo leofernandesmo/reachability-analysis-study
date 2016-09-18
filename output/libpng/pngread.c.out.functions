@@ -1,0 +1,13 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:PNG_FUNCTION:22:30
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:PNG_FUNCTION:35:165
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_destroy_read_struct:943:1012
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_destroy:1016:1107
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_end:795:938
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_image:730:786
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_info:178:336
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_png:1122:1302
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_row:375:646
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_rows:675:713
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_read_update_info:341:355
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_set_read_status_fn:1110:1116
+/home/ubuntu-vm/workspace/libpng-1.5.14/pngread.c:png_start_read_image:364:370

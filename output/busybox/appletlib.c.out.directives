@@ -1,0 +1,26 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if !(defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__) \:31:35
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#ifdef SINGLE_APPLET_MAIN:46:51
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if ENABLE_SHOW_USAGE && !ENABLE_FEATURE_COMPRESS_USAGE:56:60
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if ENABLE_FEATURE_COMPRESS_USAGE:62:94
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#ifdef SINGLE_APPLET_STR:100:137
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if NUM_APPLETS > 8:142:148
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if NUM_APPLETS > 8:151:171
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#ifdef __GLIBC__:181:184
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if ENABLE_FEATURE_INDIVIDUAL:190:203
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if !BB_MMU:216:218
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:# if:# if ENABLE_FEATURE_SUID_CONFIG:226:475
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#   if:#   if !ENABLE_FEATURE_SUID_CONFIG_QUIET:534:543
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#  if:#  if ENABLE_FEATURE_SUID_CONFIG:487:545
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#  if:#  if ENABLE_FEATURE_SUID_CONFIG:555:558
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:# if:# if ENABLE_FEATURE_SUID:478:562
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#  if:#  if !ENABLE_INSTALL_NO_USR:572:575
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:# if:# if ENABLE_FEATURE_INSTALLER:565:613
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:# if:# if ENABLE_FEATURE_INSTALLER:681:684
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if defined APPLET_NO_test:751:757
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if defined APPLET_NO_false:760:763
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if !defined(SINGLE_APPLET_MAIN):222:785
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if ENABLE_BUILD_LIBBUSYBOX:789:793
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#ifdef M_TRIM_THRESHOLD:796:802
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#ifdef M_MMAP_THRESHOLD:803:808
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if !BB_MMU:810:816
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:#if:#if defined(SINGLE_APPLET_MAIN):818:844

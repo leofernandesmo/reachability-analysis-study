@@ -1,0 +1,9 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if HAVE_UNISTD_H:15:17
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if HAVE_ERRNO_H:18:20
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if HAVE_SYS_STAT_H:21:23
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if HAVE_SYS_TYPES_H:24:26
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if 0:409:416
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if BB_BIG_ENDIAN:426:434
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if BB_BIG_ENDIAN:440:448
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if BB_BIG_ENDIAN:554:560
+/home/ubuntu-vm/workspace/busybox-1.23.1/e2fsprogs/old_e2fsprogs/ext2fs/inode.c:#if:#if BB_BIG_ENDIAN:626:633

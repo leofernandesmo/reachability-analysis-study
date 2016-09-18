@@ -1,0 +1,15 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:applet_name_compare:#if NUM_APPLETS > 8
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:bb_show_usage:#ifdef SINGLE_APPLET_STR
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:busybox_main:# if ENABLE_FEATURE_INSTALLER:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:check_suid:#   if !ENABLE_FEATURE_SUID_CONFIG_QUIET:#  if ENABLE_FEATURE_SUID_CONFIG:#  if ENABLE_FEATURE_SUID_CONFIG:# if ENABLE_FEATURE_SUID:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:find_applet_by_name:#if NUM_APPLETS > 8
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:get_trimmed_slice:# if ENABLE_FEATURE_SUID_CONFIG:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:ingroup:# if ENABLE_FEATURE_SUID_CONFIG:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:install_links:# if ENABLE_FEATURE_INSTALLER:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:install_links:# if ENABLE_FEATURE_INSTALLER:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:lbb_main:#if ENABLE_BUILD_LIBBUSYBOX:#ifdef M_TRIM_THRESHOLD:#ifdef M_MMAP_THRESHOLD:#if !BB_MMU:#if defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:lbb_prepare:#ifdef __GLIBC__:#if ENABLE_FEATURE_INDIVIDUAL
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:parse_config_file:# if ENABLE_FEATURE_SUID_CONFIG:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:run_applet_and_exit:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:run_applet_no_and_exit:#if defined APPLET_NO_test:#if defined APPLET_NO_false:#if !defined(SINGLE_APPLET_MAIN)
+/home/ubuntu-vm/workspace/busybox-1.23.1/libbb/appletlib.c:unpack_usage_messages:#if ENABLE_FEATURE_COMPRESS_USAGE

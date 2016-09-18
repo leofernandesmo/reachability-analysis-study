@@ -1,0 +1,4 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:is_well_formed_var_name:26:36
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:printlim:373:388
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:shell_builtin_read:49:272
+/home/ubuntu-vm/workspace/busybox-1.23.1/shell/shell_common.c:shell_builtin_ulimit:391:500

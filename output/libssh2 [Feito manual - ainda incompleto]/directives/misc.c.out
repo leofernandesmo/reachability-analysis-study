@@ -1,0 +1,14 @@
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifndef:#ifndef HAVE_CLOCK_GETTIME:36:38
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifndef:#ifndef _WIN32:27:39
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifndef:#ifndef _WIN32_IE:52:54
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef _WIN32:50:63
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef HAVE_LIBGCRYPT:71:75
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef HAVE_LIBCRYPTO:77:81
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifndef:#ifndef NSS_BUFLEN_PASSWD:205:207
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef _WIN32:98:288
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef WORDS_BIGENDIAN:292:301
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifndef:#ifndef HAVE_NTOHLL:290:303
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef _WIN32:621:625
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef _WIN32:651:669
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef _POSIX_MONOTONIC_CLOCK:884:888
+/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/misc.c:#ifdef:#ifdef HAVE_CLOCK_GETTIME:896:904

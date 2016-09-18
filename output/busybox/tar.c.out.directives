@@ -1,0 +1,37 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#ifndef FNM_LEADING_DIR:151:153
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:305:345
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:374:379
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:386:397
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ULLONG_MAX > 0xffffffffffffffffLL /* 2^64-1 */:427:429
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_GNU_EXTENSIONS:456:462
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_FROM:484:512
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if !ENABLE_FEATURE_TAR_GNU_EXTENSIONS:565:570
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if WAIT_FOR_CHILD:628:631
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if WAIT_FOR_CHILD:642:647
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if WAIT_FOR_CHILD:659:671
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if SEAMLESS_COMPRESSION:617:677
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if !SEAMLESS_COMPRESSION:680:684
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if SEAMLESS_COMPRESSION:701:704
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if SEAMLESS_COMPRESSION:736:745
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_CREATE:163:750
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_FROM:752:772
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_LONG_OPTIONS:857:863
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_TAR_CREATE:905:908
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_SEAMLESS_BZ2:909:911
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_SEAMLESS_LZMA:912:914
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_TAR_FROM:915:918
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_SEAMLESS_GZ:919:921
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_SEAMLESS_XZ:922:924
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_SEAMLESS_Z:925:927
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_TAR_NOPRESERVE_TIME:928:930
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_TAR_TO_COMMAND:932:934
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_TAR_FROM:943:945
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_LONG_OPTIONS:891:947
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_LONG_OPTIONS && ENABLE_FEATURE_TAR_FROM:957:959
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_LONG_OPTIONS && ENABLE_FEATURE_TAR_FROM:975:977
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_LONG_OPTIONS:981:983
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_DESKTOP:984:1010
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_LONG_OPTIONS && ENABLE_FEATURE_TAR_FROM:1026:1028
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:# if:# if ENABLE_FEATURE_TAR_LONG_OPTIONS:1073:1081
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if ENABLE_FEATURE_TAR_FROM:1071:1083
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/tar.c:#if:#if SEAMLESS_COMPRESSION:1140:1152

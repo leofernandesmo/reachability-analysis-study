@@ -1,0 +1,5 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:eat_num:133:142
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:head_main:154:258
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:print_except_N_last_bytes:61:87
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:print_except_N_last_lines:90:122
+/home/ubuntu-vm/workspace/busybox-1.23.1/coreutils/head.c:print_first_N:44:57

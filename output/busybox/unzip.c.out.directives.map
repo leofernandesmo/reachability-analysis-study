@@ -1,0 +1,7 @@
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:find_cdf_offset:#if ENABLE_DESKTOP
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:my_fgets80
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:read_next_cdf:#if ENABLE_DESKTOP
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:unzip_create_leading_dirs
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:unzip_extract
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:unzip_main:#if ENABLE_DESKTOP:#ifndef __GLIBC__:#if ENABLE_DESKTOP:#if ENABLE_DESKTOP:#if ENABLE_DESKTOP:#if !ENABLE_DESKTOP:#if ENABLE_DESKTOP
+/home/ubuntu-vm/workspace/busybox-1.23.1/archival/unzip.c:unzip_skip

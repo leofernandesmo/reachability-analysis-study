@@ -1,0 +1,11 @@
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifdef __TURBOC__:17:20
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifndef BOOL:22:24
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifndef TRUE:25:27
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifndef FALSE:28:30
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifdef __TURBOC__:32:36
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifndef PNG_DEBUG:39:41
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifndef png_jmpbuf:46:48
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifdef __TURBOC__:131:141
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifdef __TURBOC__:170:174
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifdef NJET:262:273
+/home/ubuntu-vm/workspace/libpng-1.5.14/contrib/pngminus/png2pnm.c:#if:#ifdef __TURBOC__:288:290
