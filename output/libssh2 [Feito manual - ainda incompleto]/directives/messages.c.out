@@ -1,3 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/messages.c:#ifndef:#ifndef _WIN32:29:32
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/messages.c:#ifndef:#ifndef WITH_SERVER:73:91
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/messages.c:#ifdef:#ifdef WITH_SERVER:906:989

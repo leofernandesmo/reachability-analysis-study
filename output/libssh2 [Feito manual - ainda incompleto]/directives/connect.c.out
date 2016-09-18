@@ -1,9 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef HAVE_WSPIAPI_H:43:51
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef _WIN32:35:57
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef HAVE_WSPIAPI_H:63:65
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifndef:#ifndef HAVE_GETADDRINFO:82:84
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifndef:#ifndef gai_strerror:97:105
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef _WIN32:86:116
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef _WIN32:119:123
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef AI_NUMERICSERV:143:145
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/connect.c:#ifdef:#ifdef _WIN32:183:185

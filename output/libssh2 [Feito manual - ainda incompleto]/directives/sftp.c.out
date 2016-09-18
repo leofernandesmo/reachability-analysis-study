@@ -1,4 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/sftp.c:#ifdef:#ifdef _MSC_VER:44:47
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/sftp.c:#ifndef:#ifndef _WIN32:37:48
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/sftp.c:#ifdef:#ifdef WITH_SERVER:155:237
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/sftp.c:#ifdef:#ifdef WITH_SFTP:58:3246

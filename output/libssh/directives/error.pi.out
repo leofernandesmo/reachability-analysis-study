@@ -1,7 +1,0 @@
-__bswap_32:
-__uint64_t:
-ssh_set_error:
-ssh_set_error_oom:
-ssh_set_error_invalid:
-ssh_get_error:
-ssh_get_error_code:

@@ -1,7 +1,0 @@
-__bswap_32:
-__uint64_t:
-ssh_key:
-ssh_key_clean:def(HAVE_LIBGCRYPT);(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT)&(def(HAVE_LIBGCRYPT)|def(HAVE_LIBCRYPTO)));(def(HAVE_LIBCRYPTO)&!def(HAVE_LIBGCRYPT));
-ssh_key_free:
-ssh_keytypes_e:
-ssh_key_import_private:

@@ -1,7 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifndef:#ifndef _WIN32:22:24
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:160:163
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:176:179
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:195:198
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifdef:#ifdef WITH_SSH1:35:216
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:297:300
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:305:308

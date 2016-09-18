@@ -1,7 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifndef:#ifndef _WIN32:29:32
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifdef:#ifdef OPENSSL_CRYPTO:34:38
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifdef:#ifdef HAVE_LIBGCRYPT:78:91
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifdef:#ifdef HAVE_LIBGCRYPT:126:137
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifdef:#ifdef DEBUG_CRYPTO:148:154
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifdef:#ifdef HAVE_LIBGCRYPT:157:162
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/crypt.c:#ifdef:#ifdef DEBUG_CRYPTO:205:209

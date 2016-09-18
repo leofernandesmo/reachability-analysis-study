@@ -1,2 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/pcap.c:#ifdef:#ifdef _WIN32:27:33
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/pcap.c:#ifdef:#ifdef WITH_PCAP:24:431

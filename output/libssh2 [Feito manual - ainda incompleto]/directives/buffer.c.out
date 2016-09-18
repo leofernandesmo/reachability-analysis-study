@@ -1,2 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/buffer.c:#ifndef:#ifndef _WIN32:28:31
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/buffer.c:#ifdef:#ifdef DEBUG_BUFFER:46:76

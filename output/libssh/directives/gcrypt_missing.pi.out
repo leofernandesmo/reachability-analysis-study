@@ -1,6 +1,0 @@
-__bswap_32:
-__uint64_t:
-__bswap_32:
-__uint64_t:
-my_gcry_dec2bn:def(HAVE_LIBGCRYPT);
-my_gcry_bn2dec:def(HAVE_LIBGCRYPT);

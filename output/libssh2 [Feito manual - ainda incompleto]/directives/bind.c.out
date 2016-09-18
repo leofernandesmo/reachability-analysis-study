@@ -1,3 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/bind.c:#ifdef:#ifdef HAVE_WSPIAPI_H:58:60
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/bind.c:#ifdef:#ifdef _WIN32:49:82
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/bind.c:#ifdef:#ifdef _WIN32:265:269

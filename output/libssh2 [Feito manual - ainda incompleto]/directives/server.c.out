@@ -1,6 +1,0 @@
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/server.c:# ifdef:# ifdef HAVE_WSPIAPI_H:40:42
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/server.c:#ifdef:#ifdef _WIN32:32:45
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/server.c:#ifdef:#ifdef WITH_SSH1:297:305
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/server.c:#ifdef:#ifdef WITH_SSH1:315:318
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/server.c:#ifdef:#ifdef WITH_SSH1:328:336
-/home/ubuntu-vm/workspace/casestudy/LibsshCaseStudy/libssh-0.5.3/src/server.c:#ifdef:#ifdef WITH_PCAP:410:418
