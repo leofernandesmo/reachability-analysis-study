@@ -4,7 +4,6 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
@@ -124,6 +123,7 @@ public class Main {
 					output += function.getID() + "\n";
 				}
 				os.write(output.getBytes());
+				os.close();
 				System.out.println("File: " + file.getName() + " has " + total + " functions.");
 
 			} catch (IOException ioe) {
@@ -183,7 +183,6 @@ public class Main {
 				List<Function> listResult = new ArrayList<Function>();
 				try {
 					BufferedReader br = new BufferedReader(new FileReader(fileWithDirective));
-					String output = fileWithDirective.getAbsolutePath() + "\n";
 					String lineDirective = "";
 					// Read Directive functions
 					while ((lineDirective = br.readLine()) != null) {
@@ -194,7 +193,6 @@ public class Main {
 							BufferedReader brFunctions = new BufferedReader(
 									new FileReader(strFunctionFile));
 
-							String input = "";
 							String lineFunction = "";
 							while ((lineFunction = brFunctions.readLine()) != null) {
 								Function function = Function.fromFunctionLine(lineFunction);
