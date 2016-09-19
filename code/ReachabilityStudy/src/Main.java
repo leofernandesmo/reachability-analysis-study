@@ -1,21 +1,26 @@
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Properties;
+import java.util.Scanner;
 
 public class Main {
 
+	private static final String TEMP_CTAGS_OUT = "/temp/ctags.out";
 	private static final String EXTENSION_OUT_DIRECTIVES = ".out.directives";
-	private static final String EXTENSION_MAP = ".map";
+	private static final String EXTENSION_OUT_MAP = ".out.map";
 	private static final String EXTENSION_OUT_FUNCTIONS = ".out.functions";
-	private static final String CTAGS_COMMAND = "ctags -x --c-kinds=f ";
+	private static final String CTAGS_COMMAND = "./bin/ctags_command.sh";
 	private static final String AWK_COMMAND = "./bin/awk_command.sh ";
-
 
 	public static void main(String[] args) {
 
@@ -42,9 +47,9 @@ public class Main {
 				// Count elapsed time
 				long tStart = System.currentTimeMillis();
 
-				//Execute the "scripts"
-				m.writeFileWithFunctions(inputPath, outputPath);
-				m.writeFileWithDirectives(inputPath, outputPath);
+				// Execute the "scripts"
+//				m.writeFileWithFunctions(inputPath, outputPath);
+//				m.writeFileWithDirectives(inputPath, outputPath);
 				m.writeFileWithMapping(inputPath, outputPath);
 
 				// print Elapsed time
@@ -66,71 +71,74 @@ public class Main {
 		}
 	}
 
-	
-	public void writeFileWithFunctions(String inputPath, String outputPath) {
+	public void writeFileWithFunctions(String inputPath, String outputPath) throws IOException {
 
-		List<File> files = new ArrayList<File>();
-		Utils.listFilesAndFilesSubDirectories(inputPath, files, ".c");
-		for (File file : files) {
-			String ctagsCommand = CTAGS_COMMAND + file.getAbsolutePath();
-			List<String> linesError = new ArrayList<String>();
-			List<String> linesOutput = new ArrayList<String>();
+		Map<File, ArrayList<Function>> funcList = new HashMap<File, ArrayList<Function>>();
+		File tempFile = new File(outputPath + TEMP_CTAGS_OUT);
+		tempFile.getParentFile().mkdirs();
+		tempFile.createNewFile();
 
-			Utils.cmdExec(ctagsCommand, linesOutput, linesError);
-			List<Function> funcList = new ArrayList<Function>();
+		Utils.cmdExec2WithoutReturn(CTAGS_COMMAND, inputPath, tempFile.getAbsolutePath());
 
-			int total = 0;
-			for (String line : linesOutput) {
-				Function f = new Function();
-				String subAux = line;
-				int indexAux = subAux.indexOf(" ");
-				String funcName = subAux.substring(0, indexAux).trim();
-				f.setName(funcName);
-				subAux = subAux.substring(indexAux).trim();
-				indexAux = subAux.indexOf(" ");
-				String type = subAux.substring(0, indexAux).trim();
-				subAux = subAux.substring(indexAux).trim();
-				indexAux = subAux.indexOf(" ");
-				String lineNumber = subAux.substring(0, indexAux).trim();
-				f.setStartLine(Integer.parseInt(lineNumber));
-				subAux = subAux.substring(indexAux).trim();
-				indexAux = subAux.indexOf(" ");
-				String filepath = subAux.substring(0, indexAux).trim();
-				f.setFile(new File(filepath));
-				subAux = subAux.substring(indexAux).trim();
-				String funcexpr = subAux.trim();
-				f.setSignature(funcexpr);
+		FileInputStream inputStream = null;
+		Scanner sc = null;
+		try {
+			inputStream = new FileInputStream(tempFile);
+			sc = new Scanner(inputStream, "UTF-8");
 
-				funcList.add(f);
-				total++;
-			}
+			while (sc.hasNextLine()) {
+				String line = sc.nextLine();
+				Function f = Function.fromCTags(line, inputPath);
+				System.out.println(f);
 
-			try {
-				FileOutputStream os = new FileOutputStream(
-						new File(outputPath + "/" + file.getName() + EXTENSION_OUT_FUNCTIONS));
-				String output = "";
-				for (Function function : funcList) {
-					linesOutput.clear();
-					linesError.clear();
-					String awkCommand = AWK_COMMAND + function.getStartLine() + " "
-							+ function.getFile().getAbsolutePath();
-					Utils.cmdExec(awkCommand, linesOutput, linesError);
-
-					if (!linesOutput.isEmpty()) {
-						int endLine = Integer.parseInt(linesOutput.get(0));
-						function.setEndline(endLine);
-					}
-					output += function.getID() + "\n";
+				if (funcList.containsKey(f.getFile())) {
+					funcList.get(f.getFile()).add(f);
+				} else {
+					ArrayList<Function> listTemp = new ArrayList<Function>();
+					listTemp.add(f);
+					funcList.put(f.getFile(), listTemp);
 				}
-				os.write(output.getBytes());
-				os.close();
-				System.out.println("File: " + file.getName() + " has " + total + " functions.");
-
-			} catch (IOException ioe) {
-				ioe.printStackTrace();
 			}
-
+			// note that Scanner suppresses exceptions
+			if (sc.ioException() != null) {
+				throw sc.ioException();
+			}
+		} finally {
+			if (inputStream != null) {
+				inputStream.close();
+			}
+			if (sc != null) {
+				sc.close();
+			}
 		}
+
+		// Write output...
+		for (File f : funcList.keySet()) {
+			ArrayList<Function> listTemp = funcList.get(f);
+
+			FileOutputStream os = new FileOutputStream(
+					new File(outputPath + "/" + f.getName() + EXTENSION_OUT_FUNCTIONS));
+			String output = "";
+
+			for (Function function : listTemp) {
+				List<String> linesError = new ArrayList<String>();
+				List<String> linesOutput = new ArrayList<String>();
+				String awkCommand = AWK_COMMAND + function.getStartLine() + " " + function.getFile().getAbsolutePath();
+				Utils.cmdExec(awkCommand, linesOutput, linesError);
+
+				if (!linesOutput.isEmpty()) {
+					int endLine = Integer.parseInt(linesOutput.get(0));
+					function.setEndline(endLine);
+				}
+				output += function.getID() + "\n";
+			}
+			os.write(output.getBytes());
+			os.close();
+		}
+
+		// Delete the tempfile.
+		// tempFile.delete();
+
 	}
 
 	public void writeFileWithDirectives(String inputPath, String outputPath) {
@@ -138,9 +146,9 @@ public class Main {
 		Utils.listFilesAndFilesSubDirectories(inputPath, files, ".c");
 		List<String> linesWithDirectives = new ArrayList<String>();
 		for (File file : files) {
-			//TODO Change to regex
+			// TODO Change to regex
 			String[] expStart = { "#ifdef", "# ifdef", "#  ifdef", "#   ifdef", "#ifndef", "# ifndef", "#  ifndef",
-					"#   ifndef", "#if", "# if", "#  if", "#   if" };
+					"#   ifndef", "#if ", "# if ", "#  if ", "#   if " };
 			String[] expEnd = { "#endif", "# endif", "#  endif", "#   endif" };
 			try {
 				// Escreve no arquivo....
@@ -166,83 +174,54 @@ public class Main {
 
 	}
 
-	
+	private void writeFileWithMapping(String inputPath, String outputPath) throws IOException {
 
-	
+		List<File> filesWithFunctions = new ArrayList<File>();
+		Utils.listFilesAndFilesSubDirectories(outputPath, filesWithFunctions, EXTENSION_OUT_FUNCTIONS);
 
-	private void writeFileWithMapping(String inputPath, String outputPath) {
-		try {
-			// List<File> filesWithFunctions = new ArrayList<File>();
-			List<File> filesWithDirectives = new ArrayList<File>();
-			// listFilesAndFilesSubDirectories(OUTPUT_DIRECTORY,
-			// filesWithFunctions, ".functions");
-			Utils.listFilesAndFilesSubDirectories(outputPath, 
-					filesWithDirectives, EXTENSION_OUT_DIRECTIVES);
+		for (File fileWithFunction : filesWithFunctions) {
+			List<Directive> directives = new ArrayList<Directive>();
+			List<Function> functions = new ArrayList<Function>();
 
-			for (File fileWithDirective : filesWithDirectives) {
-				List<Function> listResult = new ArrayList<Function>();
-				try {
-					BufferedReader br = new BufferedReader(new FileReader(fileWithDirective));
-					String lineDirective = "";
-					// Read Directive functions
-					while ((lineDirective = br.readLine()) != null) {
-						Directive directive = Directive.fromVariabilityLine(lineDirective);
-						String strFunctionFile = fileWithDirective.getAbsolutePath()
-								.replace(EXTENSION_OUT_DIRECTIVES, EXTENSION_OUT_FUNCTIONS);
-						try {
-							BufferedReader brFunctions = new BufferedReader(
-									new FileReader(strFunctionFile));
+			BufferedReader br = new BufferedReader(new FileReader(fileWithFunction));
+			String line = "";
+			// Read Directive functions
+			while ((line = br.readLine()) != null) {
+				Function function = Function.fromFunctionLine(line);
+				functions.add(function);
+			}
+			br.close();
+			br = new BufferedReader(new FileReader(
+					fileWithFunction.getAbsolutePath().replace(EXTENSION_OUT_FUNCTIONS, EXTENSION_OUT_DIRECTIVES)));
+			// Read Directive functions
+			while ((line = br.readLine()) != null) {
+				Directive directive = Directive.fromVariabilityLine(line);
+				directives.add(directive);
+			}
+			br.close();
 
-							String lineFunction = "";
-							while ((lineFunction = brFunctions.readLine()) != null) {
-								Function function = Function.fromFunctionLine(lineFunction);
-								if (listResult.contains(function)) {
-									int index = listResult.indexOf(function);
-									function = listResult.get(index);
-								} else {
-									listResult.add(function);
-								}
+			File mapFile = new File(
+					fileWithFunction.getAbsolutePath().replace(EXTENSION_OUT_FUNCTIONS, EXTENSION_OUT_MAP));
+			FileWriter fw = new FileWriter(mapFile);
 
-								int startLine = directive.getStartLine();
-								int endLine = directive.getEndLine();
-
-								int functionStartLine = function.getStartLine();
-								int functionEndLine = function.getEndline();
-								// Directive wrap function
-								if (functionStartLine >= startLine && 
-										functionStartLine <= endLine) {
-									function.addVariability(directive);
-									// Function wrap directive
-								} else if (startLine >= functionStartLine && 
-										startLine <= functionEndLine) {
-									function.addVariability(directive);
-								}
-							}
-
-							brFunctions.close();
-						} catch (IOException e) {
-							e.printStackTrace();
-						}
-					}
-					br.close();
-				} catch (IOException ioe) {
-					ioe.printStackTrace();
+			for (Function function : functions) {
+				for (Directive directive : directives) {
+					function.checkVariability(directive);
 				}
-
-				FileOutputStream os = new FileOutputStream(
-						new File(fileWithDirective.getAbsolutePath() + EXTENSION_MAP));
-				String output = "";
-				for (Function function : listResult) {
-					String line = function.getLineWithDrectives();
-					output += line + "\n";
-					System.out.println(line);
+				if (function.containsVariablity()) {
+					fw.write("0:" + function.getLineToWrite() + "\n");
+				} else {
+					fw.write("1:" + function.getLineToWrite() + "\n");
 				}
-				os.write(output.getBytes());
-				os.close();
 			}
 
-		} catch (Exception e) {
-			e.printStackTrace();
+			for (Directive directive : directives) {
+				if (!directive.containsFunction()) {
+					fw.write("2:" + directive.getLineToWrite() + "\n");
+				}
+			}
+
+			fw.close();			
 		}
 
 	}

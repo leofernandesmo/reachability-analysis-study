@@ -35,9 +35,60 @@ public class Function {
 		variabilities = new ArrayList<Directive>();
 	}
 	
-	public void addVariability(Directive vd){
+	
+	public static Function fromCTags(String line, String inputPath){
+		Function f = new Function();
+		String subAux = line;
+		int indexAux = subAux.indexOf(" ");
+		String funcName = subAux.substring(0, indexAux).trim();
+		f.setName(funcName);
+		subAux = subAux.substring(indexAux).trim();
+		indexAux = subAux.indexOf(" ");
+		String type = subAux.substring(0, indexAux).trim();
+		subAux = subAux.substring(indexAux).trim();
+		indexAux = subAux.indexOf(" ");
+		String lineNumber = subAux.substring(0, indexAux).trim();
+		f.setStartLine(Integer.parseInt(lineNumber));
+		subAux = subAux.substring(indexAux).trim();
+		indexAux = subAux.indexOf(" ");
+		String strFile = subAux.substring(0, indexAux).trim();
+		f.setFile(new File(inputPath + strFile.replace("./", "/")));
+		subAux = subAux.substring(indexAux).trim();
+		String funcexpr = subAux.trim();
+		f.setSignature(funcexpr);
+		return f;
+		
+	}
+	
+	public boolean containsVariablity(){
+		if(variabilities != null && variabilities.size() > 0){
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	private void addVariability(Directive vd){
     	variabilities.add(vd);
     }
+	
+	public void checkVariability(Directive directive){
+		int directiveStartLine = directive.getStartLine();
+		int directiveEndLine = directive.getEndLine();
+
+		int functionStartLine = getStartLine();
+		int functionEndLine = getEndline();
+		// Directive wrap function
+		if (functionStartLine >= directiveStartLine && functionStartLine <= directiveEndLine) {
+			this.addVariability(directive);
+			directive.addFunction(this);
+			// Function wrap directive
+		} else if (directiveStartLine >= functionStartLine && directiveStartLine <= functionEndLine) {
+			this.addVariability(directive);
+			directive.addFunction(this);
+		}
+		
+	}
 	
 	
 
@@ -103,7 +154,7 @@ public class Function {
 	}
 	
 	
-	public String getLineWithDrectives(){
+	public String getLineToWrite(){
 		String result = "";
 		result = getFile().getAbsolutePath() + ":" + getName();
 		for (Directive directive : getAllVariabilities()) {

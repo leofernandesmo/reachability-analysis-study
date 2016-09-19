@@ -1,5 +1,7 @@
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Directive {
 	private File file;
@@ -7,6 +9,16 @@ public class Directive {
 	private int startLine;
 	private int endLine;
 	private String name;
+	
+	private List<Function> functions;
+	
+	
+	
+
+	public Directive() {
+		super();
+		functions = new ArrayList<Function>();
+	}
 
 	public static Directive fromVariabilityLine(String line) {
 		Directive vd = new Directive();
@@ -62,6 +74,35 @@ public class Directive {
 
 	public void setEndLine(int endLine) {
 		this.endLine = endLine;
+	}
+	
+	
+	public void addFunction(Function f){
+    	functions.add(f);
+    }
+	
+	public void setFunctions(List<Function> functions) {
+		this.functions = functions;
+	}
+	
+	public List<Function> getAllFunctions(){
+    	return this.functions;
+    }
+	
+	
+	public boolean containsFunction(){
+		if(functions != null && functions.size() > 0){
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	
+	public String getLineToWrite(){
+		String result = "";
+		result = getFile().getAbsolutePath() + ":" + getName();
+		return result;
 	}
 
 	@Override

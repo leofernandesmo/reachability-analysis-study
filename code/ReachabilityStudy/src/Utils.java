@@ -15,7 +15,8 @@ public class Utils {
 	 * @param directoryName
 	 *            to be listed
 	 */
-	public static void listFilesAndFilesSubDirectories(String directoryName, List<File> filesOutput, String...extensions) {
+	public static void listFilesAndFilesSubDirectories(String directoryName, List<File> filesOutput,
+			String... extensions) {
 		File directory = new File(directoryName);
 		// get all the files from a directory
 		File[] fList = directory.listFiles();
@@ -24,18 +25,16 @@ public class Utils {
 				if (file.isFile() && file.getName().endsWith(ext)) {
 					filesOutput.add(file);
 				} else if (file.isDirectory()) {
-					listFilesAndFilesSubDirectories(file.getAbsolutePath(), filesOutput, extensions); 
+					listFilesAndFilesSubDirectories(file.getAbsolutePath(), filesOutput, extensions);
 				}
 			}
-			
-			
+
 		}
 	}
-	
-	
+
 	/**
-	 * Localize a expression and change it.
-	 * TODO Change to use Regex 
+	 * Localize a expression and change it. TODO Change to use Regex
+	 * 
 	 * @param file
 	 * @param exprStart
 	 * @param exprEnd
@@ -49,6 +48,7 @@ public class Utils {
 			reader = new LineNumberReader(new FileReader(file));
 			String line = "";
 			while ((line = reader.readLine()) != null) {
+				line = line.trim();
 				for (String es : exprStart) {
 					if (line.contains(es) && !line.trim().startsWith("//") && !line.trim().startsWith("/*")) { // evitar
 																												// comentarios
@@ -76,8 +76,7 @@ public class Utils {
 
 		return listResult;
 	}
-	
-	
+
 	/**
 	 * Function to execute the command of the parameter e return the result
 	 * 
@@ -120,31 +119,29 @@ public class Utils {
 		// return output;
 	}
 
-	// TODO Usar o codigo abaixo para execuatr o script shell
-	// ProcessBuilder pb = new ProcessBuilder("test_command.sh",
-	// ""+function.getStartLine(),
-	// function.getFile().getAbsolutePath());
-	// Map<String, String> env = pb.environment();
-	// env.put("VAR1", "myValue");
-	// env.remove("OTHERVAR");
-	// env.put("VAR2", env.get("VAR1") + "suffix");
-	// pb.directory(new
-	// File("/home/ubuntu-vm/workspace/static-analysis/TestRegex/src/"));
-	// try {
-	// Process p = pb.start();
-	// BufferedReader input = new BufferedReader(new
-	// InputStreamReader(p.getErrorStream()));
-	// String line = "";
-	// while ((line = input.readLine()) != null) {
-	// System.out.println(line);
-	// }
-	//// input.close();
-	//
-	//
-	// } catch (IOException e) {
-	//// TODO Auto-generated catch block
-	// e.printStackTrace();
-	// }
+	public static void cmdExec2WithoutReturn(String...cmdLine) {
+		String line = "";
+		
 
+			ProcessBuilder pb = new ProcessBuilder(cmdLine);
+//			Map<String, String> env = pb.environment();
+			// env.put("VAR1", "myValue");
+			// env.remove("OTHERVAR");
+			// env.put("VAR2", env.get("VAR1") + "suffix");
+			//pb.directory(new File("bin/"));
+			try {
+				Process p = pb.start();
+				BufferedReader input = new BufferedReader(new InputStreamReader(p.getErrorStream()));
+
+				while ((line = input.readLine()) != null) {
+					System.err.println(line);
+				}
+				input.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+	}
+
+			
 
 }
