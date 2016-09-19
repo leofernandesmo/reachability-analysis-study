@@ -1,0 +1,2 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gcrypt_missing.c:my_gcry_bn2dec:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gcrypt_missing.c:my_gcry_dec2bn:#ifdef HAVE_LIBGCRYPT

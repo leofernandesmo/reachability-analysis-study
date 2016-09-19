@@ -1,0 +1,3 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/init.c:ssh_finalize
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/init.c:ssh_init
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/init.c:#ifdef _WIN32

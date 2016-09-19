@@ -1,0 +1,2 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pcap.c:#ifdef:#ifdef _WIN32:27:34
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pcap.c:#ifdef:#ifdef WITH_PCAP:24:507

@@ -1,0 +1,6 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:SSH_PACKET_CALLBACK
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:SSH_PACKET_CALLBACK
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:SSH_PACKET_CALLBACK:#ifdef HAVE_ECDH:#ifdef HAVE_CURVE25519
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:SSH_PACKET_CALLBACK
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:SSH_PACKET_CALLBACK
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:#ifdef HAVE_ARPA_INET_H

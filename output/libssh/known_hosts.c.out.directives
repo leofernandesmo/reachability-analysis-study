@@ -1,0 +1,3 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:41:48
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/known_hosts.c:#ifndef:#ifndef _WIN32:50:53
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/known_hosts.c:#ifdef:#ifdef HAVE_LIBGCRYPT:241:245

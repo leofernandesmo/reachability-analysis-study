@@ -1,0 +1,17 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:SSH_PACKET_CALLBACK
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:packet_send:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:packet_send2:#ifdef WITH_ZLIB:#ifdef WITH_PCAP
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_parse_type
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_process
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_register_socket_callback
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_send_unimplemented
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_set_callbacks
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_set_default_callbacks:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_socket_callback:#if 0:#ifdef WITH_ZLIB
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:ssh_packet_write
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:#if WITH_SERVER
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:#if WITH_SERVER
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:#if WITH_SERVER
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:#if defined(WITH_GSSAPI) && defined(WITH_SERVER)
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet.c:#ifdef WITH_SERVER

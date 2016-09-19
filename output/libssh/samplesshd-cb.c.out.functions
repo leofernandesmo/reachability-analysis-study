@@ -1,0 +1,7 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:auth_gssapi_mic:63:74
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:auth_password:44:61
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:main:218:305
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:new_session_channel:102:112
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:parse_opt:172:212
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:pty_request:76:88
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:shell_request:90:96

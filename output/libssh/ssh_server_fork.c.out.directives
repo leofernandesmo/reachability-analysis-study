@@ -1,0 +1,9 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_ARGP_H:20:22
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_LIBUTIL_H:24:26
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_PTY_H:27:29
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_UTMP_H:32:34
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_UTIL_H:35:37
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef _WIN32:43:47
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifndef:#ifndef KEYS_FOLDER:42:48
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_ARGP_H:74:214
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/ssh_server_fork.c:#ifdef:#ifdef HAVE_ARGP_H:637:644

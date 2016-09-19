@@ -1,0 +1,29 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_build_k:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_LIBGCRYPT:#ifdef DEBUG_CRYPTO:#ifdef HAVE_LIBCRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_generate_e:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_LIBGCRYPT:#ifdef DEBUG_CRYPTO:#ifdef HAVE_LIBCRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_generate_f:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_LIBGCRYPT:#ifdef DEBUG_CRYPTO:#ifdef HAVE_LIBCRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_generate_x:#ifdef HAVE_LIBGCRYPT:#ifdef DEBUG_CRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_generate_y:#ifdef HAVE_LIBGCRYPT:#ifdef DEBUG_CRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_get_e
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_get_f
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_import_e:#ifdef DEBUG_CRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_import_f:#ifdef DEBUG_CRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:dh_import_pubkey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:generate_one_key
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:generate_session_keys:#ifdef DEBUG_CRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:hashbufin_add_cookie
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:hashbufout_add_cookie
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:make_sessionid:#ifdef HAVE_ECDH:#ifdef HAVE_CURVE25519:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:select_p
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_clean_pubkey_hash
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_client_dh_init
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_client_dh_reply
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_crypto_finalize:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_crypto_init:#ifdef HAVE_LIBGCRYPT:#ifdef HAVE_LIBGCRYPT
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_get_hexa
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_get_pubkey_hash
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_get_publickey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_get_publickey_hash
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_get_random:#ifdef HAVE_LIBGCRYPT
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:ssh_print_hexa
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/dh.c:#ifdef HAVE_LIBCRYPTO

@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifdef:#ifdef HAVE_ARGP_H:21:23
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifdef:#ifdef _WIN32:29:33
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifndef:#ifndef KEYS_FOLDER:28:34
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifdef:#ifdef HAVE_ARGP_H:115:216
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifdef:#ifdef HAVE_ARGP_H:239:248

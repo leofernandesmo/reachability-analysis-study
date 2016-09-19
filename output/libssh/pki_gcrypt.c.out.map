@@ -1,0 +1,31 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:_bignum_cmp:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:asn1_check_sequence:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:asn1_get_int:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:asn1_get_len:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:b64decode_dsa_privatekey:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:b64decode_rsa_privatekey:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:char_to_u32:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:load_iv:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:passphrase_to_key:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_do_sign:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_do_sign_sessionid:#ifdef WITH_SERVER:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_export_pubkey_rsa1:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_compare:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_dup:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_ecdsa_nid_from_name:#ifdef HAVE_GCRYPT_ECC:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_generate:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_generate_dss:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_generate_ecdsa:#ifdef HAVE_GCRYPT_ECC:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_key_generate_rsa:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_private_key_from_base64:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_private_key_to_pem:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_pubkey_build_dss:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_pubkey_build_ecdsa:#ifdef HAVE_GCRYPT_ECC:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_pubkey_build_rsa:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_publickey_to_blob:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_signature_from_blob:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_signature_to_blob:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:pki_signature_verify:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:privatekey_decrypt:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:privatekey_dek_header:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:privatekey_string_to_buffer:#ifdef HAVE_LIBGCRYPT

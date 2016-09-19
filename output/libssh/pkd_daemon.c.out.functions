@@ -1,0 +1,16 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_accept_fd:118:128
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_auth_pubkey_cb:171:188
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_chan_close:140:148
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_channel_openreq_cb:199:224
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_eof:130:138
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_exec_hello:232:397
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_init_libssh:75:78
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_init_server_fd:80:116
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_main:403:462
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_req_exec:150:162
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_service_request_cb:190:197
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_sighandler:71:73
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_start:468:485
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkd_stop:487:502
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkderr:44:51
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_daemon.c:pkdout:35:42

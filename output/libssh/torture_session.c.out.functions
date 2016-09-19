@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_session.c:setup:32:40
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_session.c:teardown:42:45
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_session.c:torture_channel_read_error:47:98
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_session.c:torture_run_tests:100:113

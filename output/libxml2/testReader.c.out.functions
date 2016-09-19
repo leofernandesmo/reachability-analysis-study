@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testReader.c:handleFile:66:102
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testReader.c:main:104:139
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testReader.c:main:141:144
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testReader.c:processNode:54:64
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testReader.c:usage:44:51

@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xmlcatalog.c:main:327:608
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xmlcatalog.c:main:610:613
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xmlcatalog.c:usage:309:326
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xmlcatalog.c:usershell:95:302
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xmlcatalog.c:xmlShellReadline:64:93

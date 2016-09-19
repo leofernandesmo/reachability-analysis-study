@@ -1,0 +1,8 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_key_cmp
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_key_dup
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_public_key_to_blob
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_sig_from_blob
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_sig_to_blob
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_sign
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_ed25519_verify
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_ed25519.c:pki_key_generate_ed25519

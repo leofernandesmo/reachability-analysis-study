@@ -1,0 +1,7 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:auth_gssapi_mic:59:71
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:auth_password:38:57
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:main:215:346
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:new_session_channel:99:109
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:parse_opt:169:209
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:pty_request:73:85
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/proxy.c:shell_request:87:93

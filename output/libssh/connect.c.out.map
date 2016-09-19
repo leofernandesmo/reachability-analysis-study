@@ -1,0 +1,14 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:gai_strerrorA:#ifndef gai_strerror:#ifdef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:getai:#ifdef AI_NUMERICSERV
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:ssh_connect_ai_timeout:#ifdef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:ssh_connect_host
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:ssh_connect_host_nonblocking
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:ssh_connect_socket_close:#ifdef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:ssh_select
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:ssh_select_cb
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef HAVE_WSPIAPI_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#if _MSC_VER >= 1400
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef HAVE_WSPIAPI_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifndef EINPROGRESS
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifndef HAVE_GETADDRINFO

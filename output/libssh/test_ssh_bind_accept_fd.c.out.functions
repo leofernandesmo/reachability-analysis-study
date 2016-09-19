@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_ssh_bind_accept_fd.c:get_connection:27:60
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_ssh_bind_accept_fd.c:main:117:139
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_ssh_bind_accept_fd.c:ssh_client:97:115
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_ssh_bind_accept_fd.c:ssh_server:62:95

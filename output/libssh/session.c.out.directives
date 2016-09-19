@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/session.c:#ifndef:#ifndef _WIN32:94:99
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/session.c:#ifdef:#ifdef WITH_SSH1:107:111
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/session.c:#ifdef:#ifdef HAVE_ECC:118:127
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/session.c:#ifdef:#ifdef WITH_PCAP:196:201
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/session.c:#ifndef:#ifndef _WIN32:224:226

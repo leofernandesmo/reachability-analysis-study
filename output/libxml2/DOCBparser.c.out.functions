@@ -1,0 +1,10 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbCreateFileParserCtxt:231:243
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbCreatePushParserCtxt:143:159
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbEncodeEntities:37:51
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbFreeParserCtxt:86:96
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbParseChunk:110:124
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbParseDoc:204:216
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbParseDocument:65:75
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbParseFile:290:302
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbSAXParseDoc:176:191
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/DOCBparser.c:docbSAXParseFile:261:275

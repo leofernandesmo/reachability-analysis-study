@@ -1,0 +1,12 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_bind_options_set:#ifdef HAVE_ECC:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_bind_set_key:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_apply
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_copy
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_get
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_get_port
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_getopt:#ifdef WITH_SSH1:#ifdef _MSC_VER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_parse_config
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_set
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:ssh_options_set_algo
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifdef WITH_SERVER

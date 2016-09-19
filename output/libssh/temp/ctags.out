@@ -1,0 +1,1558 @@
+Blowfish_decipher function     98 ./src/external/blowfish.c Blowfish_decipher(blf_ctx *c, uint32_t *xl, uint32_t *xr)
+Blowfish_encipher function     73 ./src/external/blowfish.c Blowfish_encipher(blf_ctx *c, uint32_t *xl, uint32_t *xr)
+Blowfish_expand0state function    423 ./src/external/blowfish.c Blowfish_expand0state(blf_ctx *c, const uint8_t *key, uint16_t keybytes)
+Blowfish_expandstate function    461 ./src/external/blowfish.c Blowfish_expandstate(blf_ctx *c, const uint8_t *data, uint16_t databytes,
+Blowfish_initstate function    123 ./src/external/blowfish.c Blowfish_initstate(blf_ctx *c)
+Blowfish_stream2word function    402 ./src/external/blowfish.c Blowfish_stream2word(const uint8_t *data, uint16_t databytes,
+PKDTESTS_DEFAULT function    301 ./tests/pkd/pkd_hello.c PKDTESTS_DEFAULT(emit_keytest, openssh_dsa, OPENSSH_CMD)
+SSH_PACKET_CALLBACK function     48 ./src/packet_cb.c SSH_PACKET_CALLBACK(ssh_packet_disconnect_callback){
+SSH_PACKET_CALLBACK function     85 ./src/packet_cb.c SSH_PACKET_CALLBACK(ssh_packet_ignore_callback){
+SSH_PACKET_CALLBACK function     95 ./src/packet_cb.c SSH_PACKET_CALLBACK(ssh_packet_dh_reply){
+SSH_PACKET_CALLBACK function    104 ./src/gssapi.c   SSH_PACKET_CALLBACK(ssh_packet_userauth_gssapi_token){
+SSH_PACKET_CALLBACK function    134 ./src/packet_cb.c SSH_PACKET_CALLBACK(ssh_packet_newkeys){
+SSH_PACKET_CALLBACK function    140 ./src/channels.c SSH_PACKET_CALLBACK(ssh_packet_channel_open_conf){
+SSH_PACKET_CALLBACK function    156 ./src/auth.c     SSH_PACKET_CALLBACK(ssh_packet_userauth_banner){
+SSH_PACKET_CALLBACK function    174 ./src/server.c   SSH_PACKET_CALLBACK(ssh_packet_kexdh_init){
+SSH_PACKET_CALLBACK function    183 ./src/auth.c     SSH_PACKET_CALLBACK(ssh_packet_userauth_failure){
+SSH_PACKET_CALLBACK function    192 ./src/channels.c SSH_PACKET_CALLBACK(ssh_packet_channel_open_fail){
+SSH_PACKET_CALLBACK function    243 ./src/auth.c     SSH_PACKET_CALLBACK(ssh_packet_userauth_success){
+SSH_PACKET_CALLBACK function    254 ./src/packet_cb.c SSH_PACKET_CALLBACK(ssh_packet_service_accept){
+SSH_PACKET_CALLBACK function    261 ./src/channels1.c SSH_PACKET_CALLBACK(ssh_packet_data1){
+SSH_PACKET_CALLBACK function    275 ./src/auth.c     SSH_PACKET_CALLBACK(ssh_packet_userauth_pk_ok){
+SSH_PACKET_CALLBACK function    278 ./src/gssapi.c   SSH_PACKET_CALLBACK(ssh_packet_userauth_gssapi_token_server){
+SSH_PACKET_CALLBACK function    291 ./src/channels1.c SSH_PACKET_CALLBACK(ssh_packet_close1){
+SSH_PACKET_CALLBACK function    301 ./src/kex1.c     SSH_PACKET_CALLBACK(ssh_packet_publickey1){
+SSH_PACKET_CALLBACK function    322 ./src/channels1.c SSH_PACKET_CALLBACK(ssh_packet_exist_status1){
+SSH_PACKET_CALLBACK function    327 ./src/kex.c      SSH_PACKET_CALLBACK(ssh_packet_kexinit){
+SSH_PACKET_CALLBACK function    333 ./src/packet1.c  SSH_PACKET_CALLBACK(ssh_packet_disconnect1){
+SSH_PACKET_CALLBACK function    345 ./src/packet1.c  SSH_PACKET_CALLBACK(ssh_packet_smsg_success1){
+SSH_PACKET_CALLBACK function    357 ./src/packet1.c  SSH_PACKET_CALLBACK(ssh_packet_smsg_failure1){
+SSH_PACKET_CALLBACK function    400 ./src/gssapi.c   SSH_PACKET_CALLBACK(ssh_packet_userauth_gssapi_mic)
+SSH_PACKET_CALLBACK function    437 ./src/channels.c SSH_PACKET_CALLBACK(channel_rcv_change_window) {
+SSH_PACKET_CALLBACK function    463 ./src/packet.c   SSH_PACKET_CALLBACK(ssh_packet_unimplemented){
+SSH_PACKET_CALLBACK function    470 ./src/channels.c SSH_PACKET_CALLBACK(channel_rcv_data){
+SSH_PACKET_CALLBACK function    560 ./src/messages.c SSH_PACKET_CALLBACK(ssh_packet_service_request){
+SSH_PACKET_CALLBACK function    569 ./src/channels.c SSH_PACKET_CALLBACK(channel_rcv_eof) {
+SSH_PACKET_CALLBACK function    597 ./src/channels.c SSH_PACKET_CALLBACK(channel_rcv_close) {
+SSH_PACKET_CALLBACK function    644 ./src/channels.c SSH_PACKET_CALLBACK(channel_rcv_request) {
+SSH_PACKET_CALLBACK function    648 ./src/messages.c SSH_PACKET_CALLBACK(ssh_packet_userauth_request){
+SSH_PACKET_CALLBACK function    721 ./src/gssapi.c   SSH_PACKET_CALLBACK(ssh_packet_userauth_gssapi_response){
+SSH_PACKET_CALLBACK function    818 ./src/gssapi.c   SSH_PACKET_CALLBACK(ssh_packet_userauth_gssapi_token_client){
+SSH_PACKET_CALLBACK function    870 ./src/messages.c SSH_PACKET_CALLBACK(ssh_packet_userauth_info_response){
+SSH_PACKET_CALLBACK function    878 ./src/messages.c SSH_PACKET_CALLBACK(ssh_packet_userauth_info_response){
+SSH_PACKET_CALLBACK function    989 ./src/messages.c SSH_PACKET_CALLBACK(ssh_packet_channel_open){
+SSH_PACKET_CALLBACK function   1312 ./src/messages.c SSH_PACKET_CALLBACK(ssh_packet_global_request){
+SSH_PACKET_CALLBACK function   1407 ./src/auth.c     SSH_PACKET_CALLBACK(ssh_packet_userauth_info_request) {
+SSH_PACKET_CALLBACK function   1451 ./src/channels.c SSH_PACKET_CALLBACK(ssh_packet_channel_success){
+SSH_PACKET_CALLBACK function   1483 ./src/channels.c SSH_PACKET_CALLBACK(ssh_packet_channel_failure){
+SSH_PACKET_CALLBACK function   1990 ./src/channels.c SSH_PACKET_CALLBACK(ssh_request_success){
+SSH_PACKET_CALLBACK function   2013 ./src/channels.c SSH_PACKET_CALLBACK(ssh_request_denied){
+_RSA_do_sign     function   1102 ./src/pki_crypto.c static ssh_string _RSA_do_sign(const unsigned char *digest,
+_base64_to_bin   function    209 ./src/base64.c   static int _base64_to_bin(unsigned char dest[3], const char *source, int num) {
+_bignum_cmp      function   1043 ./src/pki_gcrypt.c static int _bignum_cmp(const gcry_sexp_t s1,
+_bin_to_base64   function    238 ./src/base64.c   static void _bin_to_base64(unsigned char *dest, const unsigned char source[3],
+_ssh_buffer_pack function    831 ./src/buffer.c   int _ssh_buffer_pack(struct ssh_buffer_struct *buffer,
+_ssh_buffer_unpack function   1041 ./src/buffer.c   int _ssh_buffer_unpack(struct ssh_buffer_struct *buffer,
+_ssh_list_pop_head function    488 ./src/misc.c     const void *_ssh_list_pop_head(struct ssh_list *list){
+_ssh_log         function    114 ./src/log.c      void _ssh_log(int verbosity,
+_ssh_pki_log     function     67 ./src/pki.c      void _ssh_pki_log(const char *function, const char *format, ...)
+_ssh_set_error   function     51 ./src/error.c    void _ssh_set_error(void *error,
+_ssh_set_error_invalid function     98 ./src/error.c    void _ssh_set_error_invalid(void *error, const char *function)
+_ssh_set_error_oom function     79 ./src/error.c    void _ssh_set_error_oom(void *error, const char *function)
+_torture_auth_kbdint function    226 ./tests/torture.c static int _torture_auth_kbdint(ssh_session session,
+_torture_filter_tests function    654 ./tests/torture.c void _torture_filter_tests(UnitTest *tests, size_t ntests){
+add              function     17 ./src/external/curve25519_ref.c static void add(unsigned int out[32],const unsigned int a[32],const unsigned int b[32])
+add_cmd          function     68 ./examples/sample.c static void add_cmd(char *cmd){
+add_p1p1         function    125 ./src/external/ge25519.c static void add_p1p1(ge25519_p1p1 *r, const ge25519_p3 *p, const ge25519_p3 *q)
+add_p1p1         function   2329 ./ge25519_pp.c   static void add_p1p1(ge25519_p1p1 *r, const crypto_sign_ed25519_ref_ge25519 *p, const crypto_sign_ed25519_ref_ge25519 *q)
+aes_ctr128_encrypt function    448 ./src/libcrypto.c static void aes_ctr128_encrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+aes_decrypt      function    335 ./src/libgcrypt.c static void aes_decrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+aes_decrypt      function    433 ./src/libcrypto.c static void aes_decrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+aes_encrypt      function    330 ./src/libgcrypt.c static void aes_encrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+aes_encrypt      function    428 ./src/libcrypto.c static void aes_encrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+aes_set_decrypt_key function    413 ./src/libcrypto.c static int aes_set_decrypt_key(struct ssh_cipher_struct *cipher, void *key,
+aes_set_encrypt_key function    399 ./src/libcrypto.c static int aes_set_encrypt_key(struct ssh_cipher_struct *cipher, void *key,
+aes_set_key      function    278 ./src/libgcrypt.c static int aes_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV) {
+agent_close      function    208 ./src/agent.c    void agent_close(struct ssh_agent_struct *agent) {
+agent_connect    function    229 ./src/agent.c    static int agent_connect(ssh_session session) {
+agent_free       function    216 ./src/agent.c    void agent_free(ssh_agent agent) {
+agent_get_u32    function     65 ./src/agent.c    static uint32_t agent_get_u32(const void *vp) {
+agent_is_running function    484 ./src/agent.c    int agent_is_running(ssh_session session) {
+agent_new        function    146 ./src/agent.c    ssh_agent agent_new(struct ssh_session_struct *session) {
+agent_put_u32    function     77 ./src/agent.c    static void agent_put_u32(void *vp, uint32_t v) {
+agent_set_channel function    165 ./src/agent.c    static void agent_set_channel(struct ssh_agent_struct *agent, ssh_channel channel){
+agent_talk       function    271 ./src/agent.c    static int agent_talk(struct ssh_session_struct *session,
+alldigits        function     61 ./src/known_hosts.c static int alldigits(const char *s) {
+alloc_key        function     39 ./src/libgcrypt.c static int alloc_key(struct ssh_cipher_struct *cipher) {
+alloc_key        function     76 ./src/libcrypto.c static int alloc_key(struct ssh_cipher_struct *cipher) {
+arguments_init   function    269 ./tests/benchmarks/benchmarks.c static void arguments_init(struct argument_s *arguments){
+asn1_check_sequence function    141 ./src/pki_gcrypt.c static int asn1_check_sequence(ssh_buffer buffer) {
+asn1_get_int     function    115 ./src/pki_gcrypt.c static ssh_string asn1_get_int(ssh_buffer buffer) {
+asn1_get_len     function     91 ./src/pki_gcrypt.c static uint32_t asn1_get_len(ssh_buffer buffer) {
+atomicio         function     86 ./src/agent.c    static size_t atomicio(struct ssh_agent_struct *agent, void *buf, size_t n, int do_read) {
+auth_callback    function     55 ./examples/sample.c static int auth_callback(const char *prompt, char *buf, size_t len,
+auth_gssapi_mic  function     59 ./examples/proxy.c static int auth_gssapi_mic(ssh_session session, const char *user, const char *principal, void *userdata){
+auth_gssapi_mic  function     63 ./examples/samplesshd-cb.c static int auth_gssapi_mic(ssh_session session, const char *user, const char *principal, void *userdata){
+auth_kbdint      function     15 ./tests/authentication.c static int auth_kbdint(SSH_SESSION *session){
+auth_password    function     38 ./examples/proxy.c static int auth_password(ssh_session session, const char *user,
+auth_password    function     44 ./examples/samplesshd-cb.c static int auth_password(ssh_session session, const char *user,
+auth_password    function     64 ./examples/samplesshd-kbdint.c static int auth_password(const char *user, const char *password){
+auth_password    function    422 ./examples/ssh_server_fork.c static int auth_password(ssh_session session, const char *user,
+auth_password_accept function     84 ./tests/unittests/torture_server_x11.c static int auth_password_accept(ssh_session session,
+authenticate     function     49 ./tests/authentication.c int authenticate (SSH_SESSION *session){
+authenticate     function    206 ./examples/samplesshd-kbdint.c static int authenticate(ssh_session session) {
+authenticate_console function    106 ./examples/authentication.c int authenticate_console(ssh_session session){
+authenticate_kbdint function     27 ./examples/authentication.c int authenticate_kbdint(ssh_session session, const char *password) {
+b64decode_dsa_privatekey function    520 ./src/pki_gcrypt.c static int b64decode_dsa_privatekey(const char *pkey, gcry_sexp_t *r, ssh_auth_callback cb,
+b64decode_rsa_privatekey function    441 ./src/pki_gcrypt.c static int b64decode_rsa_privatekey(const char *pkey, gcry_sexp_t *r,
+barrett_reduce   function     58 ./src/external/sc25519.c static void barrett_reduce(sc25519 *r, const uint32_t x[64])
+base64_to_bin    function     59 ./src/base64.c   ssh_buffer base64_to_bin(const char *source) {
+batch_shell      function    416 ./examples/sample.c static void batch_shell(ssh_session session){
+bcrypt_hash      function     64 ./src/external/bcrypt_pbkdf.c bcrypt_hash(uint8_t *sha2pass, uint8_t *sha2salt, uint8_t *out)
+bcrypt_pbkdf     function    105 ./src/external/bcrypt_pbkdf.c bcrypt_pbkdf(const char *pass, size_t passlen, const uint8_t *salt, size_t saltlen,
+benchmarks_async_sftp_down function    159 ./tests/benchmarks/bench_sftp.c int benchmarks_async_sftp_down (ssh_session session, struct argument_s *args,
+benchmarks_ping_latency function     42 ./tests/benchmarks/latency.c int benchmarks_ping_latency (const char *host, float *average){
+benchmarks_raw_down function    227 ./tests/benchmarks/bench_raw.c int benchmarks_raw_down (ssh_session session, struct argument_s *args,
+benchmarks_raw_up function    107 ./tests/benchmarks/bench_raw.c int benchmarks_raw_up (ssh_session session, struct argument_s *args,
+benchmarks_scp_down function     92 ./tests/benchmarks/bench_scp.c int benchmarks_scp_down (ssh_session session, struct argument_s *args,
+benchmarks_scp_up function     38 ./tests/benchmarks/bench_scp.c int benchmarks_scp_up (ssh_session session, struct argument_s *args,
+benchmarks_ssh_latency function    119 ./tests/benchmarks/latency.c int benchmarks_ssh_latency(ssh_session session, float *average){
+benchmarks_sync_sftp_down function     97 ./tests/benchmarks/bench_sftp.c int benchmarks_sync_sftp_down (ssh_session session, struct argument_s *args,
+benchmarks_sync_sftp_up function     41 ./tests/benchmarks/bench_sftp.c int benchmarks_sync_sftp_up (ssh_session session, struct argument_s *args,
+bin_exists       function     34 ./tests/pkd/pkd_util.c static int bin_exists(const char *binary) {
+bin_to_base64    function    269 ./src/base64.c   unsigned char *bin_to_base64(const unsigned char *source, int len) {
+bind_socket      function     73 ./src/bind.c     static socket_t bind_socket(ssh_bind sshbind, const char *hostname,
+blf_cbc_decrypt  function    609 ./src/external/blowfish.c blf_cbc_decrypt(blf_ctx *c, uint8_t *iva, uint8_t *data, uint32_t len)
+blf_cbc_encrypt  function    584 ./src/external/blowfish.c blf_cbc_encrypt(blf_ctx *c, uint8_t *iv, uint8_t *data, uint32_t len)
+blf_dec          function    527 ./src/external/blowfish.c blf_dec(blf_ctx *c, uint32_t *data, uint16_t blocks)
+blf_ecb_decrypt  function    562 ./src/external/blowfish.c blf_ecb_decrypt(blf_ctx *c, uint8_t *data, uint32_t len)
+blf_ecb_encrypt  function    540 ./src/external/blowfish.c blf_ecb_encrypt(blf_ctx *c, uint8_t *data, uint32_t len)
+blf_enc          function    514 ./src/external/blowfish.c blf_enc(blf_ctx *c, uint32_t *data, uint16_t blocks)
+blf_key          function    504 ./src/external/blowfish.c blf_key(blf_ctx *c, const uint8_t *k, uint16_t len)
+blowfish_decrypt function    273 ./src/libgcrypt.c static void blowfish_decrypt(struct ssh_cipher_struct *cipher, void *in,
+blowfish_decrypt function    392 ./src/libcrypto.c static void blowfish_decrypt(struct ssh_cipher_struct *cipher, void *in,
+blowfish_encrypt function    268 ./src/libgcrypt.c static void blowfish_encrypt(struct ssh_cipher_struct *cipher, void *in,
+blowfish_encrypt function    387 ./src/libcrypto.c static void blowfish_encrypt(struct ssh_cipher_struct *cipher, void *in,
+blowfish_set_key function    244 ./src/libgcrypt.c static int blowfish_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV){
+blowfish_set_key function    376 ./src/libcrypto.c static int blowfish_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV){
+bsd_poll         function    140 ./src/poll.c     static int bsd_poll(ssh_pollfd_t *fds, nfds_t nfds, int timeout) {
+buffer_add_attributes function   1329 ./src/sftp.c     int buffer_add_attributes(ssh_buffer buffer, sftp_attributes attr) {
+buffer_add_buffer function    422 ./src/buffer.c   int buffer_add_buffer(struct ssh_buffer_struct *buffer,
+buffer_add_ssh_string function    260 ./src/buffer.c   int buffer_add_ssh_string(struct ssh_buffer_struct *buffer,
+buffer_add_u16   function    310 ./src/buffer.c   int buffer_add_u16(struct ssh_buffer_struct *buffer,uint16_t data)
+buffer_add_u32   function    287 ./src/buffer.c   int buffer_add_u32(struct ssh_buffer_struct *buffer,uint32_t data)
+buffer_add_u64   function    333 ./src/buffer.c   int buffer_add_u64(struct ssh_buffer_struct *buffer, uint64_t data)
+buffer_add_u8    function    356 ./src/buffer.c   int buffer_add_u8(struct ssh_buffer_struct *buffer,uint8_t data)
+buffer_free      function    144 ./src/legacy.c   void buffer_free(ssh_buffer buffer){
+buffer_get       function    147 ./src/legacy.c   void *buffer_get(ssh_buffer buffer){
+buffer_get_data  function    565 ./src/buffer.c   uint32_t buffer_get_data(struct ssh_buffer_struct *buffer, void *data, uint32_t len){
+buffer_get_len   function    150 ./src/legacy.c   uint32_t buffer_get_len(ssh_buffer buffer){
+buffer_get_mpint function    666 ./src/buffer.c   struct ssh_string_struct *buffer_get_mpint(struct ssh_buffer_struct *buffer) {
+buffer_get_rest  function    466 ./src/buffer.c   void *buffer_get_rest(struct ssh_buffer_struct *buffer){
+buffer_get_rest_len function    494 ./src/buffer.c   uint32_t buffer_get_rest_len(struct ssh_buffer_struct *buffer){
+buffer_get_ssh_string function    629 ./src/buffer.c   struct ssh_string_struct *buffer_get_ssh_string(struct ssh_buffer_struct *buffer) {
+buffer_get_u32   function    601 ./src/buffer.c   int buffer_get_u32(struct ssh_buffer_struct *buffer, uint32_t *data){
+buffer_get_u64   function    616 ./src/buffer.c   int buffer_get_u64(struct ssh_buffer_struct *buffer, uint64_t *data){
+buffer_get_u8    function    590 ./src/buffer.c   int buffer_get_u8(struct ssh_buffer_struct *buffer, uint8_t *data){
+buffer_new       function    153 ./src/legacy.c   ssh_buffer buffer_new(void){
+buffer_pass_bytes function    512 ./src/buffer.c   uint32_t buffer_pass_bytes(struct ssh_buffer_struct *buffer, uint32_t len){
+buffer_pass_bytes_end function    540 ./src/buffer.c   uint32_t buffer_pass_bytes_end(struct ssh_buffer_struct *buffer, uint32_t len){
+buffer_prepend_data function    381 ./src/buffer.c   int buffer_prepend_data(struct ssh_buffer_struct *buffer, const void *data,
+buffer_shift     function    168 ./src/buffer.c   static void buffer_shift(ssh_buffer buffer){
+buffer_verify    function     57 ./src/buffer.c   static void buffer_verify(ssh_buffer buf){
+build_session_id1 function     77 ./src/kex1.c     static int build_session_id1(ssh_session session, ssh_string servern,
+c_select         function    116 ./src/external/curve25519_ref.c static void c_select(unsigned int p[64],unsigned int q[64],const unsigned int r[64],const unsigned int s[64],unsigned int b)
+callback_receive_banner function     93 ./src/client.c   static int callback_receive_banner(const void *data, size_t len, void *user) {
+callback_receive_banner function    494 ./src/server.c   static int callback_receive_banner(const void *data, size_t len, void *user) {
+cfmakeraw        function    128 ./examples/sample.c static void cfmakeraw(struct termios *termios_p){
+channel_accept_x11 function    157 ./src/legacy.c   ssh_channel channel_accept_x11(ssh_channel channel, int timeout_ms){
+channel_change_pty_size function    161 ./src/legacy.c   int channel_change_pty_size(ssh_channel channel,int cols,int rows){
+channel_change_pty_size1 function    161 ./src/channels1.c int channel_change_pty_size1(ssh_channel channel, int cols, int rows) {
+channel_close    function    169 ./src/legacy.c   int channel_close(ssh_channel channel){
+channel_default_bufferize function    791 ./src/channels.c int channel_default_bufferize(ssh_channel channel, void *data, int len,
+channel_forward_accept function    165 ./src/legacy.c   ssh_channel channel_forward_accept(ssh_session session, int timeout_ms){
+channel_forward_cancel function    173 ./src/legacy.c   int channel_forward_cancel(ssh_session session, const char *address, int port){
+channel_forward_listen function    177 ./src/legacy.c   int channel_forward_listen(ssh_session session, const char *address,
+channel_free     function    182 ./src/legacy.c   void channel_free(ssh_channel channel){
+channel_from_msg function    411 ./src/channels.c static ssh_channel channel_from_msg(ssh_session session, ssh_buffer packet) {
+channel_get_exit_status function    186 ./src/legacy.c   int channel_get_exit_status(ssh_channel channel){
+channel_get_session function    190 ./src/legacy.c   ssh_session channel_get_session(ssh_channel channel){
+channel_is_closed function    194 ./src/legacy.c   int channel_is_closed(ssh_channel channel){
+channel_is_eof   function    198 ./src/legacy.c   int channel_is_eof(ssh_channel channel){
+channel_is_open  function    202 ./src/legacy.c   int channel_is_open(ssh_channel channel){
+channel_new      function    206 ./src/legacy.c   ssh_channel channel_new(ssh_session session){
+channel_open     function    123 ./tests/unittests/torture_server_x11.c static ssh_channel channel_open(ssh_session session, void *userdata) {
+channel_open     function    250 ./src/channels.c static int channel_open(ssh_channel channel, const char *type, int window,
+channel_open     function    437 ./examples/ssh_server_fork.c static ssh_channel channel_open(ssh_session session, void *userdata) {
+channel_open_forward function    210 ./src/legacy.c   int channel_open_forward(ssh_channel channel, const char *remotehost,
+channel_open_session function    216 ./src/legacy.c   int channel_open_session(ssh_channel channel){
+channel_open_session1 function     54 ./src/channels1.c int channel_open_session1(ssh_channel chan) {
+channel_poll     function    220 ./src/legacy.c   int channel_poll(ssh_channel channel, int is_stderr){
+channel_protocol_select function   2942 ./src/channels.c static int channel_protocol_select(ssh_channel *rchans, ssh_channel *wchans,
+channel_read     function    224 ./src/legacy.c   int channel_read(ssh_channel channel, void *dest, uint32_t count, int is_stderr){
+channel_read_buffer function   2499 ./src/channels.c int channel_read_buffer(ssh_channel channel, ssh_buffer buffer, uint32_t count,
+channel_read_nonblocking function    235 ./src/legacy.c   int channel_read_nonblocking(ssh_channel channel, void *dest, uint32_t count,
+channel_request  function   1518 ./src/channels.c static int channel_request(ssh_channel channel, const char *request,
+channel_request_env function    240 ./src/legacy.c   int channel_request_env(ssh_channel channel, const char *name, const char *value){
+channel_request_exec function    244 ./src/legacy.c   int channel_request_exec(ssh_channel channel, const char *cmd){
+channel_request_exec1 function    231 ./src/channels1.c int channel_request_exec1(ssh_channel channel, const char *cmd) {
+channel_request_pty function    248 ./src/legacy.c   int channel_request_pty(ssh_channel channel){
+channel_request_pty_size function    252 ./src/legacy.c   int channel_request_pty_size(ssh_channel channel, const char *term,
+channel_request_pty_size1 function     94 ./src/channels1.c int channel_request_pty_size1(ssh_channel channel, const char *terminal, int col,
+channel_request_send_signal function    261 ./src/legacy.c   int channel_request_send_signal(ssh_channel channel, const char *signum){
+channel_request_sftp function    265 ./src/legacy.c   int channel_request_sftp(ssh_channel channel){
+channel_request_shell function    257 ./src/legacy.c   int channel_request_shell(ssh_channel channel){
+channel_request_shell1 function    210 ./src/channels1.c int channel_request_shell1(ssh_channel channel) {
+channel_request_subsystem function    269 ./src/legacy.c   int channel_request_subsystem(ssh_channel channel, const char *subsystem){
+channel_request_x11 function    273 ./src/legacy.c   int channel_request_x11(ssh_channel channel, int single_connection, const char *protocol,
+channel_select   function    283 ./src/legacy.c   int channel_select(ssh_channel *readchans, ssh_channel *writechans, ssh_channel *exceptchans, struct
+channel_send_eof function    279 ./src/legacy.c   int channel_send_eof(ssh_channel channel){
+channel_set_blocking function    288 ./src/legacy.c   void channel_set_blocking(ssh_channel channel, int blocking){
+channel_write    function    292 ./src/legacy.c   int channel_write(ssh_channel channel, const void *data, uint32_t len){
+channel_write1   function    341 ./src/channels1.c int channel_write1(ssh_channel channel, const void *data, int len) {
+channel_write_common function   1203 ./src/channels.c static int channel_write_common(ssh_channel channel,
+channel_write_stderr function    715 ./src/legacy.c   int channel_write_stderr(ssh_channel channel, const void *data, uint32_t len) {
+char_to_u32      function     82 ./src/pki_gcrypt.c static uint32_t char_to_u32(unsigned char *data, uint32_t size) {
+check_public_key function    190 ./src/known_hosts.c static int check_public_key(ssh_session session, char **tokens) {
+choose_t         function    193 ./src/external/ge25519.c static void choose_t(ge25519_aff *t, unsigned long long pos, signed char b)
+choose_t         function   2397 ./ge25519_pp.c   static void choose_t(ge25519_aff *t, unsigned long long pos, signed char b)
+cipher_free      function    128 ./src/wrapper.c  static void cipher_free(struct ssh_cipher_struct *cipher) {
+cipher_new       function     92 ./src/wrapper.c  static struct ssh_cipher_struct *cipher_new(int offset) {
+cleanup_dropbear_client_rsa_key function    136 ./tests/pkd/pkd_keyutil.c void cleanup_dropbear_client_rsa_key() {
+cleanup_dsa_key  function     68 ./tests/pkd/pkd_keyutil.c void cleanup_dsa_key() {
+cleanup_ecdsa_keys function     72 ./tests/pkd/pkd_keyutil.c void cleanup_ecdsa_keys() {
+cleanup_key      function     59 ./tests/pkd/pkd_keyutil.c static void cleanup_key(const char *privkey, const char *pubkey) {
+cleanup_openssh_client_keys function    118 ./tests/pkd/pkd_keyutil.c void cleanup_openssh_client_keys() {
+cleanup_pcap     function     57 ./examples/samplesshd-kbdint.c static void cleanup_pcap(void) {
+cleanup_pcap     function    234 ./examples/sshnetcat.c void cleanup_pcap(){
+cleanup_pcap     function    491 ./examples/sample.c void cleanup_pcap(){
+cleanup_rsa_key  function     64 ./tests/pkd/pkd_keyutil.c void cleanup_rsa_key() {
+client           function    187 ./examples/sshnetcat.c static int client(ssh_session session){
+client           function    434 ./examples/sample.c static int client(ssh_session session){
+client_thread    function     56 ./tests/unittests/torture_server_x11.c static void *client_thread(void *arg) {
+cmdline_parse    function    254 ./tests/benchmarks/benchmarks.c static void cmdline_parse(int argc, char **argv, struct argument_s *arguments) {
+cmov_aff         function    165 ./src/external/ge25519.c static void cmov_aff(ge25519_aff *r, const ge25519_aff *p, unsigned char b)
+cmov_aff         function   2369 ./ge25519_pp.c   static void cmov_aff(ge25519_aff *r, const ge25519_aff *p, unsigned char b)
+cmp_first_kex_algo function    291 ./src/kex.c      static int cmp_first_kex_algo(const char *client_str,
+compress_buffer  function    103 ./src/gzip.c     int compress_buffer(ssh_session session, ssh_buffer buf) {
+connect_host     function     76 ./tests/sftp_stress/main.c SSH_SESSION *connect_host(const char *hostname){
+connect_host     function    276 ./tests/benchmarks/benchmarks.c static ssh_session connect_host(const char *host, int verbose, char *cipher){
+connect_ssh      function     24 ./examples/connect_ssh.c ssh_session connect_ssh(const char *host, const char *user,int verbosity){
+connected        function     54 ./tests/test_socket.c static void connected(int code, int errno_code,void *user){
+controlflow      function     45 ./tests/test_socket.c static void controlflow(int code,void *user){
+count_ptrs       function   2991 ./src/channels.c static int count_ptrs(ssh_channel *ptrs) {
+create_files     function     58 ./examples/scp_download.c static void create_files(ssh_session session){
+crypt_set_algorithms function    344 ./src/wrapper.c  int crypt_set_algorithms(ssh_session session, enum ssh_des_e des_type) {
+crypt_set_algorithms1 function    314 ./src/wrapper.c  static int crypt_set_algorithms1(ssh_session session, enum ssh_des_e des_type) {
+crypt_set_algorithms2 function    213 ./src/wrapper.c  static int crypt_set_algorithms2(ssh_session session){
+crypt_set_algorithms_server function    350 ./src/wrapper.c  int crypt_set_algorithms_server(ssh_session session){
+crypto_free      function    144 ./src/wrapper.c  void crypto_free(struct ssh_crypto_struct *crypto){
+crypto_new       function    133 ./src/wrapper.c  struct ssh_crypto_struct *crypto_new(void) {
+crypto_scalarmult function    253 ./src/external/curve25519_ref.c int crypto_scalarmult(unsigned char *q,
+crypto_scalarmult_base function     11 ./src/external/curve25519_ref.c int crypto_scalarmult_base(unsigned char *q,
+crypto_sign_ed25519 function    113 ./src/external/ed25519.c int crypto_sign_ed25519(unsigned char *sm,
+crypto_sign_ed25519_keypair function     80 ./src/external/ed25519.c int crypto_sign_ed25519_keypair(unsigned char *pk,
+crypto_sign_ed25519_open function    176 ./src/external/ed25519.c int crypto_sign_ed25519_open(unsigned char *m,
+crypto_sign_ed25519_ref_double_scalarmult_vartime function   2510 ./ge25519_pp.c   void crypto_sign_ed25519_ref_double_scalarmult_vartime(crypto_sign_ed25519_ref_ge25519 *r, const crypto_sign_ed25519_ref_ge25519 *p1, const crypto_sign_ed25519_ref_sc25519 *s1, const crypto_sign_ed25519_ref_ge25519 *p2, const crypto_sign_ed25519_ref_sc25519 *s2)
+crypto_sign_ed25519_ref_isneutral_vartime function   2494 ./ge25519_pp.c   int crypto_sign_ed25519_ref_isneutral_vartime(const crypto_sign_ed25519_ref_ge25519 *p)
+crypto_sign_ed25519_ref_pack function   2482 ./ge25519_pp.c   void crypto_sign_ed25519_ref_pack(unsigned char r[32], const crypto_sign_ed25519_ref_ge25519 *p)
+crypto_sign_ed25519_ref_scalarmult_base function   2556 ./ge25519_pp.c   void crypto_sign_ed25519_ref_scalarmult_base(crypto_sign_ed25519_ref_ge25519 *r, const crypto_sign_ed25519_ref_sc25519 *s)
+crypto_sign_ed25519_ref_unpackneg_vartime function   2430 ./ge25519_pp.c   int crypto_sign_ed25519_ref_unpackneg_vartime(crypto_sign_ed25519_ref_ge25519 *r, const unsigned char p[32])
+crypto_verify_32 function     22 ./src/external/ed25519.c static int crypto_verify_32(const unsigned char *x,const unsigned char *y)
+current_timestring function     51 ./src/log.c      static int current_timestring(int hires, char *buf, size_t len)
+data_function    function    242 ./examples/ssh_server_fork.c static int data_function(ssh_session session, ssh_channel channel, void *data,
+data_rcv         function     36 ./tests/test_socket.c static int data_rcv(const void *data, size_t len, void *user){
+dbl_p1p1         function    146 ./src/external/ge25519.c static void dbl_p1p1(ge25519_p1p1 *r, const ge25519_p2 *p)
+dbl_p1p1         function   2350 ./ge25519_pp.c   static void dbl_p1p1(ge25519_p1p1 *r, const ge25519_p2 *p)
+decompress_buffer function    199 ./src/gzip.c     int decompress_buffer(ssh_session session,ssh_buffer buf, size_t maxlen){
+des1_1_decrypt   function    391 ./src/libgcrypt.c static void des1_1_decrypt(struct ssh_cipher_struct *cipher, void *in,
+des1_1_decrypt   function    547 ./src/libcrypto.c static void des1_1_decrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+des1_1_encrypt   function    386 ./src/libgcrypt.c static void des1_1_encrypt(struct ssh_cipher_struct *cipher, void *in,
+des1_1_encrypt   function    541 ./src/libcrypto.c static void des1_1_encrypt(struct ssh_cipher_struct *cipher, void *in, void *out,
+des1_set_key     function    340 ./src/libgcrypt.c static int des1_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV){
+des1_set_key     function    529 ./src/libcrypto.c static int des1_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV){
+des3_1_decrypt   function    464 ./src/libgcrypt.c static void des3_1_decrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_1_decrypt   function    512 ./src/libcrypto.c static void des3_1_decrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_1_encrypt   function    457 ./src/libgcrypt.c static void des3_1_encrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_1_encrypt   function    497 ./src/libcrypto.c static void des3_1_encrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_1_set_key   function    406 ./src/libgcrypt.c static int des3_1_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV) {
+des3_decrypt     function    401 ./src/libgcrypt.c static void des3_decrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_decrypt     function    489 ./src/libcrypto.c static void des3_decrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_encrypt     function    396 ./src/libgcrypt.c static void des3_encrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_encrypt     function    481 ./src/libcrypto.c static void des3_encrypt(struct ssh_cipher_struct *cipher, void *in,
+des3_set_key     function    362 ./src/libgcrypt.c static int des3_set_key(struct ssh_cipher_struct *cipher, void *key, void *IV) {
+des3_set_key     function    464 ./src/libcrypto.c static int des3_set_key(struct ssh_cipher_struct *cipher, void *key,void *IV) {
+dh_build_k       function    381 ./src/dh.c       int dh_build_k(ssh_session session) {
+dh_generate_e    function    271 ./src/dh.c       int dh_generate_e(ssh_session session) {
+dh_generate_f    function    306 ./src/dh.c       int dh_generate_f(ssh_session session) {
+dh_generate_x    function    229 ./src/dh.c       int dh_generate_x(ssh_session session) {
+dh_generate_y    function    250 ./src/dh.c       int dh_generate_y(ssh_session session) {
+dh_get_e         function    341 ./src/dh.c       ssh_string dh_get_e(ssh_session session) {
+dh_get_f         function    346 ./src/dh.c       ssh_string dh_get_f(ssh_session session) {
+dh_handshake     function    199 ./src/client.c   static int dh_handshake(ssh_session session) {
+dh_handshake_server function    265 ./src/server.c   static int dh_handshake_server(ssh_session session) {
+dh_import_e      function    368 ./src/dh.c       int dh_import_e(ssh_session session, ssh_string e_string) {
+dh_import_f      function    354 ./src/dh.c       int dh_import_f(ssh_session session, ssh_string f_string) {
+dh_import_pubkey function    350 ./src/dh.c       void dh_import_pubkey(ssh_session session, ssh_string pubkey_string) {
+do_benchmarks    function    317 ./tests/benchmarks/benchmarks.c static void do_benchmarks(ssh_session session, struct argument_s *arguments,
+do_cleanup       function    138 ./examples/sample.c static void do_cleanup(int i) {
+do_connect       function     10 ./tests/test_exec.c void do_connect(SSH_SESSION *session) {
+do_connect       function     10 ./tests/test_tunnel.c void do_connect(SSH_SESSION *session){
+do_copy          function    177 ./examples/libssh_scp.c static int do_copy(struct location *src, struct location *dest, int recursive){
+do_exit          function    145 ./examples/sample.c static void do_exit(int i) {
+do_sftp          function     36 ./examples/samplesftp.c static void do_sftp(ssh_session session){
+docycle          function     31 ./tests/sftp_stress/main.c int docycle(const char *host, int test){
+ecdh_build_k     function     99 ./src/ecdh.c     static int ecdh_build_k(ssh_session session) {
+ecdh_import_pubkey function     95 ./src/ecdh.c     static void ecdh_import_pubkey(ssh_session session, ssh_string pubkey_string) {
+elapsed_time     function    100 ./tests/benchmarks/latency.c float elapsed_time(struct timestamp_struct *ts){
+encrypt_session_key function    204 ./src/kex1.c     static ssh_string encrypt_session_key(ssh_session session, ssh_public_key srvkey,
+equal            function     12 ./src/external/fe25519.c static uint32_t equal(uint32_t a,uint32_t b) /* 16-bit inputs */
+equal            function    171 ./src/external/ge25519.c static unsigned char equal(signed char b,signed char c)
+equal            function   2375 ./ge25519_pp.c   static unsigned char equal(signed char b,signed char c)
+error            function    102 ./examples/authentication.c static void error(ssh_session session){
+evp              function    133 ./src/libcrypto.c void evp(int nid, unsigned char *digest, int len, unsigned char *hash, unsigned int *hlen)
+evp_final        function    162 ./src/libcrypto.c void evp_final(EVPCTX ctx, unsigned char *md, unsigned int *mdlen)
+evp_init         function    143 ./src/libcrypto.c EVPCTX evp_init(int nid)
+evp_update       function    157 ./src/libcrypto.c void evp_update(EVPCTX ctx, const void *data, unsigned long len)
+exception        function     49 ./tests/test_socket.c static void exception(int code, int errno_code,void *user){
+exec_nopty       function    321 ./examples/ssh_server_fork.c static int exec_nopty(const char *command, struct channel_data_struct *cdata) {
+exec_pty         function    298 ./examples/ssh_server_fork.c static int exec_pty(const char *mode, const char *command,
+exec_request     function    377 ./examples/ssh_server_fork.c static int exec_request(ssh_session session, ssh_channel channel,
+fe25519_add      function    207 ./src/external/fe25519.c void fe25519_add(fe25519 *r, const fe25519 *x, const fe25519 *y)
+fe25519_cmov     function    155 ./src/external/fe25519.c void fe25519_cmov(fe25519 *r, const fe25519 *x, unsigned char b)
+fe25519_freeze   function     78 ./src/external/fe25519.c void fe25519_freeze(fe25519 *r)
+fe25519_getparity function    167 ./src/external/fe25519.c unsigned char fe25519_getparity(const fe25519 *x)
+fe25519_invert   function    265 ./src/external/fe25519.c void fe25519_invert(fe25519 *r, const fe25519 *x)
+fe25519_iseq_vartime function    137 ./src/external/fe25519.c int fe25519_iseq_vartime(const fe25519 *x, const fe25519 *y)
+fe25519_iszero   function    121 ./src/external/fe25519.c int fe25519_iszero(const fe25519 *x)
+fe25519_mul      function    237 ./src/external/fe25519.c void fe25519_mul(fe25519 *r, const fe25519 *x, const fe25519 *y)
+fe25519_neg      function    194 ./src/external/fe25519.c void fe25519_neg(fe25519 *r, const fe25519 *x)
+fe25519_pack     function    109 ./src/external/fe25519.c void fe25519_pack(unsigned char r[32], const fe25519 *x)
+fe25519_pow2523  function    350 ./src/external/fe25519.c void fe25519_pow2523(fe25519 *r, const fe25519 *x)
+fe25519_setone   function    175 ./src/external/fe25519.c void fe25519_setone(fe25519 *r)
+fe25519_setzero  function    185 ./src/external/fe25519.c void fe25519_setzero(fe25519 *r)
+fe25519_square   function    260 ./src/external/fe25519.c void fe25519_square(fe25519 *r, const fe25519 *x)
+fe25519_sub      function    218 ./src/external/fe25519.c void fe25519_sub(fe25519 *r, const fe25519 *x, const fe25519 *y)
+fe25519_unpack   function     97 ./src/external/fe25519.c void fe25519_unpack(fe25519 *r, const unsigned char x[32])
+fetch_files      function    100 ./examples/scp_download.c static int fetch_files(ssh_session session){
+foo              function      1 ./utils/internal/constptr.c void foo(char * const * arg) {
+foo2             function      6 ./utils/internal/constptr.c void foo2(char ** const arg) {
+forwarding       function    175 ./examples/sshnetcat.c static void forwarding(ssh_session session){
+freeze           function     56 ./src/external/curve25519_ref.c static void freeze(unsigned int a[32])
+gai_strerrorA    function     92 ./src/connect.c  char WSAAPI *gai_strerrorA(int code) {
+ge               function     20 ./src/external/fe25519.c static uint32_t ge(uint32_t a,uint32_t b) /* 16-bit inputs */
+ge25519_double_scalarmult_vartime function    306 ./src/external/ge25519.c void ge25519_double_scalarmult_vartime(ge25519_p3 *r, const ge25519_p3 *p1, const sc25519 *s1, const ge25519_p3 *p2, const sc25519 *s2)
+ge25519_isneutral_vartime function    290 ./src/external/ge25519.c int ge25519_isneutral_vartime(const ge25519_p3 *p)
+ge25519_mixadd2  function    102 ./src/external/ge25519.c static void ge25519_mixadd2(ge25519_p3 *r, const ge25519_aff *q)
+ge25519_mixadd2  function   2306 ./ge25519_pp.c   static void ge25519_mixadd2(crypto_sign_ed25519_ref_ge25519 *r, const ge25519_aff *q)
+ge25519_pack     function    278 ./src/external/ge25519.c void ge25519_pack(unsigned char r[32], const ge25519_p3 *p)
+ge25519_scalarmult_base function    352 ./src/external/ge25519.c void ge25519_scalarmult_base(ge25519_p3 *r, const sc25519 *s)
+ge25519_unpackneg_vartime function    226 ./src/external/ge25519.c int ge25519_unpackneg_vartime(ge25519_p3 *r, const unsigned char p[32])
+generate_cookie  function   1824 ./src/channels.c static char *generate_cookie(void) {
+generate_one_key function    741 ./src/dh.c       static int generate_one_key(ssh_string k,
+generate_session_keys function    780 ./src/dh.c       int generate_session_keys(ssh_session session) {
+get_connection   function     27 ./tests/test_ssh_bind_accept_fd.c int get_connection() {
+get_equals       function    223 ./src/base64.c   static int get_equals(char *string) {
+get_hram         function     62 ./src/external/ed25519.c static void get_hram(unsigned char *hram,
+get_python_eater function     47 ./tests/benchmarks/bench_raw.c static char *get_python_eater(unsigned long bytes){
+get_python_giver function    203 ./tests/benchmarks/bench_raw.c static char *get_python_giver(unsigned long bytes){
+getai            function    111 ./src/connect.c  static int getai(const char *host, int port, struct addrinfo **ai) {
+gettimeofday     function    129 ./src/misc.c     int gettimeofday(struct timeval *__p, void *__t) {
+global_request   function   2059 ./src/channels.c static int global_request(ssh_session session, const char *request,
+grow_window      function    345 ./src/channels.c static int grow_window(ssh_session session, ssh_channel channel, int minimumsize) {
+gzip_compress    function     59 ./src/gzip.c     static ssh_buffer gzip_compress(ssh_session session,ssh_buffer source,int level){
+gzip_decompress  function    148 ./src/gzip.c     static ssh_buffer gzip_decompress(ssh_session session, ssh_buffer source, size_t maxlen) {
+handle_session   function    474 ./examples/ssh_server_fork.c static void handle_session(ssh_event event, ssh_session session) {
+hashbufin_add_cookie function    723 ./src/dh.c       int hashbufin_add_cookie(ssh_session session, unsigned char *cookie) {
+hashbufout_add_cookie function    695 ./src/dh.c       int hashbufout_add_cookie(ssh_session session) {
+hmac_digest_len  function     64 ./src/wrapper.c  size_t hmac_digest_len(enum ssh_hmac_e type) {
+hmac_final       function    237 ./src/libgcrypt.c void hmac_final(HMACCTX c, unsigned char *hashmacbuf, unsigned int *len) {
+hmac_final       function    362 ./src/libcrypto.c void hmac_final(HMACCTX ctx, unsigned char *hashmacbuf, unsigned int *len) {
+hmac_init        function    205 ./src/libgcrypt.c HMACCTX hmac_init(const void *key, int len, enum ssh_hmac_e type) {
+hmac_init        function    322 ./src/libcrypto.c HMACCTX hmac_init(const void *key, int len, enum ssh_hmac_e type) {
+hmac_update      function    233 ./src/libgcrypt.c void hmac_update(HMACCTX c, const void *data, unsigned long len) {
+hmac_update      function    358 ./src/libcrypto.c void hmac_update(HMACCTX ctx, const void *data, unsigned long len) {
+initcompress     function     38 ./src/gzip.c     static z_stream *initcompress(ssh_session session, int level) {
+initdecompress   function    127 ./src/gzip.c     static z_stream *initdecompress(ssh_session session) {
+is_dropbear_client_enabled function     44 ./tests/pkd/pkd_util.c int is_dropbear_client_enabled(void) {
+is_openssh_client_enabled function     40 ./tests/pkd/pkd_util.c int is_openssh_client_enabled(void) {
+kbdint_check_response function    180 ./examples/samplesshd-kbdint.c static int kbdint_check_response(ssh_session session) {
+libcrypto_lock_callback function    109 ./src/threads.c  static void libcrypto_lock_callback(int mode, int i, const char *file, int line){
+libcrypto_thread_finalize function    136 ./src/threads.c  static void libcrypto_thread_finalize(void){
+libcrypto_thread_init function    119 ./src/threads.c  static int libcrypto_thread_init(void){
+libgcrypt_thread_init function     66 ./src/threads.c  static int libgcrypt_thread_init(void){
+libgcrypt_thread_init function     87 ./src/threads.c  static int libgcrypt_thread_init(void){
+load_iv          function     54 ./src/pki_gcrypt.c static int load_iv(const char *header, unsigned char *iv, int iv_len) {
+lt               function     26 ./src/external/sc25519.c static uint32_t lt(uint32_t a,uint32_t b) /* 16-bit inputs */
+main             function      7 ./examples/exec.c int main(void) {
+main             function      7 ./tests/chmodtest.c int main(void) {
+main             function      8 ./examples/senddata.c int main(void) {
+main             function     14 ./utils/internal/zc.c int main (int argc, char *argv[]) {
+main             function     17 ./utils/internal/example_c_file.c int main()
+main             function     31 ./build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c int main(argc, argv) int argc; char *argv[];
+main             function     32 ./tests/test_pcap.c int main(int argc, char **argv){
+main             function     34 ./build/CMakeFiles/feature_tests.c int main(int argc, char** argv) { (void)argv; return features[argc]; }
+main             function     51 ./tests/test_exec.c int main(int argc, char **argv){
+main             function     54 ./tests/sftp_stress/main.c int main(int argc, char **argv){
+main             function     65 ./tests/test_tunnel.c int main(int argc, char **argv){
+main             function     70 ./tests/test_socket.c int main(int argc, char **argv){
+main             function    117 ./tests/test_ssh_bind_accept_fd.c int main(int argc, const char *argv[]) {
+main             function    162 ./examples/scp_download.c int main(int argc, char **argv){
+main             function    215 ./examples/proxy.c int main(int argc, char **argv){
+main             function    218 ./examples/samplesshd-cb.c int main(int argc, char **argv){
+main             function    240 ./examples/sshnetcat.c int main(int argc, char **argv){
+main             function    253 ./examples/samplesftp.c int main(int argc, char **argv){
+main             function    279 ./examples/samplesshd-kbdint.c int main(int argc, char **argv){
+main             function    295 ./examples/libssh_scp.c int main(int argc, char **argv){
+main             function    497 ./examples/sample.c int main(int argc, char **argv){
+main             function    502 ./tests/pkd/pkd_hello.c int main(int argc, char **argv) {
+main             function    520 ./build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c void main() {}
+main             function    522 ./build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c int main(int argc, char* argv[])
+main             function    619 ./examples/ssh_server_fork.c int main(int argc, char **argv) {
+main             function    688 ./tests/torture.c int main(int argc, char **argv) {
+main_1           function    349 ./tests/benchmarks/benchmarks.c int main_1(int argc, char **argv){
+mainloop         function    130 ./src/external/curve25519_ref.c static void mainloop(unsigned int work[64],const unsigned char e[32])
+make_bignum_string function     28 ./src/bignum.c   ssh_string make_bignum_string(bignum num) {
+make_ecpoint_string function    137 ./src/pki_crypto.c static ssh_string make_ecpoint_string(const EC_GROUP *g,
+make_rsa1_string function     43 ./src/kex1.c     static ssh_string make_rsa1_string(ssh_string e, ssh_string n){
+make_sessionid   function    519 ./src/dh.c       int make_sessionid(ssh_session session) {
+make_string_bn   function     66 ./src/bignum.c   bignum make_string_bn(ssh_string string){
+make_string_bn_inplace function     84 ./src/bignum.c   void make_string_bn_inplace(ssh_string string, bignum bnout) {
+match_hashed_host function    292 ./src/known_hosts.c static int match_hashed_host(const char *host, const char *sourcehash)
+match_hostname   function    185 ./src/match.c    int match_hostname(const char *host, const char *pattern, unsigned int len) {
+match_pattern    function     48 ./src/match.c    static int match_pattern(const char *s, const char *pattern) {
+match_pattern_list function    120 ./src/match.c    static int match_pattern_list(const char *string, const char *pattern,
+md5_final        function    146 ./src/libgcrypt.c void md5_final(unsigned char *md, MD5CTX c) {
+md5_final        function    252 ./src/libcrypto.c void md5_final(unsigned char *md, MD5CTX c) {
+md5_init         function    135 ./src/libgcrypt.c MD5CTX md5_init(void) {
+md5_init         function    237 ./src/libcrypto.c MD5CTX md5_init(void) {
+md5_update       function    142 ./src/libgcrypt.c void md5_update(MD5CTX c, const void *data, unsigned long len) {
+md5_update       function    248 ./src/libcrypto.c void md5_update(MD5CTX c, const void *data, unsigned long len) {
+modulus_smaller  function    109 ./src/kex1.c     static int modulus_smaller(ssh_public_key k1, ssh_public_key k2){
+mult             function     68 ./src/external/curve25519_ref.c static void mult(unsigned int out[32],const unsigned int a[32],const unsigned int b[32])
+mult121665       function     83 ./src/external/curve25519_ref.c static void mult121665(unsigned int out[32],const unsigned int a[32])
+my_gcry_bn2dec   function     46 ./src/gcrypt_missing.c char *my_gcry_bn2dec(bignum bn) {
+my_gcry_dec2bn   function     30 ./src/gcrypt_missing.c int my_gcry_dec2bn(bignum *bn, const char *data) {
+myauthcallback   function      7 ./tests/unittests/torture_callbacks.c static int myauthcallback (const char *prompt, char *buf, size_t len,
+negative         function    184 ./src/external/ge25519.c static unsigned char negative(signed char b)
+negative         function   2388 ./ge25519_pp.c   static unsigned char negative(signed char b)
+network_speed    function    301 ./tests/benchmarks/benchmarks.c static char *network_speed(float bps){
+new_session_channel function     99 ./examples/proxy.c static ssh_channel new_session_channel(ssh_session session, void *userdata){
+new_session_channel function    102 ./examples/samplesshd-cb.c static ssh_channel new_session_channel(ssh_session session, void *userdata){
+nid_to_evpmd     function    117 ./src/libcrypto.c static const EVP_MD *nid_to_evpmd(int nid)
+ntohll           function    294 ./src/misc.c     uint64_t ntohll(uint64_t a) {
+open_location    function    117 ./examples/libssh_scp.c static int open_location(struct location *loc, int flag){
+opts             function     39 ./examples/scp_download.c static int opts(int argc, char **argv){
+opts             function     51 ./examples/sshnetcat.c static int opts(int argc, char **argv){
+opts             function     56 ./examples/libssh_scp.c static int opts(int argc, char **argv){
+opts             function     98 ./examples/sample.c static int opts(int argc, char **argv){
+opts             function    231 ./examples/samplesftp.c static int opts(int argc, char **argv){
+p1p1_to_p2       function     89 ./src/external/ge25519.c static void p1p1_to_p2(ge25519_p2 *r, const ge25519_p1p1 *p)
+p1p1_to_p2       function   2293 ./ge25519_pp.c   static void p1p1_to_p2(ge25519_p2 *r, const ge25519_p1p1 *p)
+p1p1_to_p3       function     96 ./src/external/ge25519.c static void p1p1_to_p3(ge25519_p3 *r, const ge25519_p1p1 *p)
+p1p1_to_p3       function   2300 ./ge25519_pp.c   static void p1p1_to_p3(crypto_sign_ed25519_ref_ge25519 *r, const ge25519_p1p1 *p)
+packet_decrypt   function     60 ./src/packet_crypt.c int packet_decrypt(ssh_session session, void *data,uint32_t len) {
+packet_decrypt_len function     47 ./src/packet_crypt.c uint32_t packet_decrypt_len(ssh_session session, char *crypted){
+packet_encrypt   function     88 ./src/packet_crypt.c unsigned char *packet_encrypt(ssh_session session, void *data, uint32_t len) {
+packet_hmac_verify function    163 ./src/packet_crypt.c int packet_hmac_verify(ssh_session session, ssh_buffer buffer,
+packet_send      function    598 ./src/packet.c   int packet_send(ssh_session session) {
+packet_send1     function    255 ./src/packet1.c  int packet_send1(ssh_session session) {
+packet_send2     function    516 ./src/packet.c   static int packet_send2(ssh_session session) {
+parse_handle_msg function    827 ./src/sftp.c     static sftp_file parse_handle_msg(sftp_message msg){
+parse_location   function     86 ./examples/libssh_scp.c static struct location *parse_location(char *loc){
+parse_opt        function     29 ./tests/cmdline.c static error_t parse_opt (int key, char *arg, struct argp_state *state) {
+parse_opt        function     60 ./tests/pkd/pkd_hello.c static error_t parse_opt(int key, char *arg, struct argp_state *state) {
+parse_opt        function    128 ./examples/samplesshd-kbdint.c static error_t parse_opt (int key, char *arg, struct argp_state *state) {
+parse_opt        function    148 ./examples/ssh_server_fork.c static error_t parse_opt (int key, char *arg, struct argp_state *state) {
+parse_opt        function    169 ./examples/proxy.c static error_t parse_opt (int key, char *arg, struct argp_state *state) {
+parse_opt        function    172 ./examples/samplesshd-cb.c static error_t parse_opt (int key, char *arg, struct argp_state *state) {
+parse_opt        function    194 ./tests/benchmarks/benchmarks.c static error_t parse_opt (int key, char *arg, struct argp_state *state) {
+parse_status_msg function    767 ./src/sftp.c     static sftp_status_message parse_status_msg(sftp_message msg){
+passphrase_to_key function    168 ./src/pki_gcrypt.c static int passphrase_to_key(char *data, unsigned int datalen,
+pem_get_password function     54 ./src/pki_crypto.c static int pem_get_password(char *buf, int size, int rwflag, void *userdata) {
+pkd_accept_fd    function    118 ./tests/pkd/pkd_daemon.c static int pkd_accept_fd() {
+pkd_auth_pubkey_cb function    171 ./tests/pkd/pkd_daemon.c static int pkd_auth_pubkey_cb(ssh_session s,
+pkd_chan_close   function    140 ./tests/pkd/pkd_daemon.c static void pkd_chan_close(ssh_session session,
+pkd_channel_openreq_cb function    199 ./tests/pkd/pkd_daemon.c static ssh_channel pkd_channel_openreq_cb(ssh_session s,
+pkd_eof          function    130 ./tests/pkd/pkd_daemon.c static void pkd_eof(ssh_session session,
+pkd_exec_hello   function    232 ./tests/pkd/pkd_daemon.c static int pkd_exec_hello(int fd, struct pkd_daemon_args *args) {
+pkd_init_libssh  function     75 ./tests/pkd/pkd_daemon.c static int pkd_init_libssh() {
+pkd_init_server_fd function     80 ./tests/pkd/pkd_daemon.c static int pkd_init_server_fd(short port) {
+pkd_main         function    403 ./tests/pkd/pkd_daemon.c static void *pkd_main(void *args) {
+pkd_req_exec     function    150 ./tests/pkd/pkd_daemon.c static int pkd_req_exec(ssh_session s,
+pkd_run_tests    function    401 ./tests/pkd/pkd_hello.c static int pkd_run_tests(void) {
+pkd_service_request_cb function    190 ./tests/pkd/pkd_daemon.c static int pkd_service_request_cb(ssh_session session,
+pkd_sighandler   function     71 ./tests/pkd/pkd_daemon.c static void pkd_sighandler(int signum) {
+pkd_start        function    468 ./tests/pkd/pkd_daemon.c int pkd_start(struct pkd_daemon_args *args) {
+pkd_stop         function    487 ./tests/pkd/pkd_daemon.c void pkd_stop(struct pkd_result *out) {
+pkderr           function     44 ./tests/pkd/pkd_daemon.c static void pkderr(const char *fmt, ...) {
+pkdout           function     35 ./tests/pkd/pkd_daemon.c static void pkdout(const char *fmt, ...) {
+pki_do_sign      function   1558 ./src/pki_crypto.c ssh_signature pki_do_sign(const ssh_key privkey,
+pki_do_sign      function   1649 ./src/pki_gcrypt.c ssh_signature pki_do_sign(const ssh_key privkey,
+pki_do_sign_sessionid function   1627 ./src/pki_crypto.c ssh_signature pki_do_sign_sessionid(const ssh_key key,
+pki_do_sign_sessionid function   1723 ./src/pki_gcrypt.c ssh_signature pki_do_sign_sessionid(const ssh_key key,
+pki_dsa_signature_to_blob function   1135 ./src/pki_crypto.c static ssh_string pki_dsa_signature_to_blob(const ssh_signature sig)
+pki_ed25519_key_cmp function    160 ./src/pki_ed25519.c int pki_ed25519_key_cmp(const ssh_key k1,
+pki_ed25519_key_dup function    200 ./src/pki_ed25519.c int pki_ed25519_key_dup(ssh_key new, const ssh_key key)
+pki_ed25519_public_key_to_blob function    234 ./src/pki_ed25519.c int pki_ed25519_public_key_to_blob(ssh_buffer buffer, ssh_key key)
+pki_ed25519_sig_from_blob function    287 ./src/pki_ed25519.c int pki_ed25519_sig_from_blob(ssh_signature sig, ssh_string sig_blob)
+pki_ed25519_sig_to_blob function    259 ./src/pki_ed25519.c ssh_string pki_ed25519_sig_to_blob(ssh_signature sig)
+pki_ed25519_sign function     57 ./src/pki_ed25519.c int pki_ed25519_sign(const ssh_key privkey,
+pki_ed25519_verify function     97 ./src/pki_ed25519.c int pki_ed25519_verify(const ssh_key pubkey,
+pki_export_pubkey_rsa1 function   1060 ./src/pki_crypto.c int pki_export_pubkey_rsa1(const ssh_key key,
+pki_export_pubkey_rsa1 function   1331 ./src/pki_gcrypt.c int pki_export_pubkey_rsa1(const ssh_key key,
+pki_import_pubkey_buffer function    647 ./src/pki.c      static int pki_import_pubkey_buffer(ssh_buffer buffer,
+pki_key_compare  function    464 ./src/pki_crypto.c int pki_key_compare(const ssh_key k1,
+pki_key_compare  function   1078 ./src/pki_gcrypt.c int pki_key_compare(const ssh_key k1,
+pki_key_dup      function    214 ./src/pki_crypto.c ssh_key pki_key_dup(const ssh_key key, int demote)
+pki_key_dup      function    737 ./src/pki_gcrypt.c ssh_key pki_key_dup(const ssh_key key, int demote)
+pki_key_ecdsa_nid_from_name function    124 ./src/pki_crypto.c int pki_key_ecdsa_nid_from_name(const char *name)
+pki_key_ecdsa_nid_from_name function    588 ./src/pki_gcrypt.c int pki_key_ecdsa_nid_from_name(const char *name)
+pki_key_ecdsa_nid_to_char function    108 ./src/pki_crypto.c static const char *pki_key_ecdsa_nid_to_char(int nid)
+pki_key_ecdsa_nid_to_name function     92 ./src/pki_crypto.c const char *pki_key_ecdsa_nid_to_name(int nid)
+pki_key_ecdsa_to_nid function     79 ./src/pki_crypto.c static int pki_key_ecdsa_to_nid(EC_KEY *k)
+pki_key_generate function   1010 ./src/pki_gcrypt.c static int pki_key_generate(ssh_key key, int parameter, const char *type_s, int type){
+pki_key_generate_dss function    410 ./src/pki_crypto.c int pki_key_generate_dss(ssh_key key, int parameter){
+pki_key_generate_dss function   1033 ./src/pki_gcrypt.c int pki_key_generate_dss(ssh_key key, int parameter){
+pki_key_generate_ecdsa function    427 ./src/pki_crypto.c int pki_key_generate_ecdsa(ssh_key key, int parameter) {
+pki_key_generate_ecdsa function   1038 ./src/pki_gcrypt.c int pki_key_generate_ecdsa(ssh_key key, int parameter) {
+pki_key_generate_ed25519 function     29 ./src/pki_ed25519.c int pki_key_generate_ed25519(ssh_key key)
+pki_key_generate_rsa function    393 ./src/pki_crypto.c int pki_key_generate_rsa(ssh_key key, int parameter){
+pki_key_generate_rsa function   1030 ./src/pki_gcrypt.c int pki_key_generate_rsa(ssh_key key, int parameter){
+pki_openssh_export_privkey_blob function    416 ./src/pki_container_openssh.c static int pki_openssh_export_privkey_blob(const ssh_key privkey,
+pki_openssh_import_privkey_blob function     57 ./src/pki_container_openssh.c static int pki_openssh_import_privkey_blob(ssh_buffer key_blob_buffer,
+pki_private_key_decrypt function    147 ./src/pki_container_openssh.c static int pki_private_key_decrypt(ssh_string blob,
+pki_private_key_encrypt function    443 ./src/pki_container_openssh.c static int pki_private_key_encrypt(ssh_buffer privkey_buffer,
+pki_private_key_from_base64 function    607 ./src/pki_gcrypt.c ssh_key pki_private_key_from_base64(const char *b64_key,
+pki_private_key_from_base64 function    676 ./src/pki_crypto.c ssh_key pki_private_key_from_base64(const char *b64_key,
+pki_private_key_to_pem function    554 ./src/pki_crypto.c ssh_string pki_private_key_to_pem(const ssh_key key,
+pki_private_key_to_pem function    594 ./src/pki_gcrypt.c ssh_string pki_private_key_to_pem(const ssh_key key,
+pki_privatekey_type_from_string function     85 ./src/pki.c      enum ssh_keytypes_e pki_privatekey_type_from_string(const char *privkey) {
+pki_pubkey_build_dss function    698 ./src/pki_gcrypt.c int pki_pubkey_build_dss(ssh_key key,
+pki_pubkey_build_dss function    817 ./src/pki_crypto.c int pki_pubkey_build_dss(ssh_key key,
+pki_pubkey_build_ecdsa function    172 ./src/pki_crypto.c int pki_pubkey_build_ecdsa(ssh_key key, int nid, ssh_string e)
+pki_pubkey_build_ecdsa function    731 ./src/pki_gcrypt.c int pki_pubkey_build_ecdsa(ssh_key key, int nid, ssh_string e)
+pki_pubkey_build_rsa function    716 ./src/pki_gcrypt.c int pki_pubkey_build_rsa(ssh_key key,
+pki_pubkey_build_rsa function    842 ./src/pki_crypto.c int pki_pubkey_build_rsa(ssh_key key,
+pki_publickey_to_blob function    861 ./src/pki_crypto.c ssh_string pki_publickey_to_blob(const ssh_key key)
+pki_publickey_to_blob function   1145 ./src/pki_gcrypt.c ssh_string pki_publickey_to_blob(const ssh_key key)
+pki_signature_from_blob function   1318 ./src/pki_crypto.c ssh_signature pki_signature_from_blob(const ssh_key pubkey,
+pki_signature_from_blob function   1472 ./src/pki_gcrypt.c ssh_signature pki_signature_from_blob(const ssh_key pubkey,
+pki_signature_from_rsa_blob function   1257 ./src/pki_crypto.c static ssh_signature pki_signature_from_rsa_blob(const ssh_key pubkey,
+pki_signature_to_blob function   1185 ./src/pki_crypto.c ssh_string pki_signature_to_blob(const ssh_signature sig)
+pki_signature_to_blob function   1376 ./src/pki_gcrypt.c ssh_string pki_signature_to_blob(const ssh_signature sig)
+pki_signature_verify function   1487 ./src/pki_crypto.c int pki_signature_verify(ssh_session session,
+pki_signature_verify function   1566 ./src/pki_gcrypt.c int pki_signature_verify(ssh_session session,
+print_help       function     96 ./utils/internal/zc.c void print_help(int exval) {
+privatekey_decrypt function    204 ./src/pki_gcrypt.c static int privatekey_decrypt(int algo, int mode, unsigned int key_len,
+privatekey_dek_header function    251 ./src/pki_gcrypt.c static int privatekey_dek_header(const char *header, unsigned int header_len,
+privatekey_free  function    455 ./src/legacy.c   void privatekey_free(ssh_private_key prv) {
+privatekey_from_file function    404 ./src/legacy.c   ssh_private_key privatekey_from_file(ssh_session session,
+privatekey_string_to_buffer function    317 ./src/pki_gcrypt.c static ssh_buffer privatekey_string_to_buffer(const char *pkey, int type,
+process_stderr   function    459 ./examples/ssh_server_fork.c static int process_stderr(socket_t fd, int revents, void *userdata) {
+process_stdout   function    444 ./examples/ssh_server_fork.c static int process_stdout(socket_t fd, int revents, void *userdata) {
+pty_request      function     73 ./examples/proxy.c static int pty_request(ssh_session session, ssh_channel channel, const char *term,
+pty_request      function     76 ./examples/samplesshd-cb.c static int pty_request(ssh_session session, ssh_channel channel, const char *term,
+pty_request      function    257 ./examples/ssh_server_fork.c static int pty_request(ssh_session session, ssh_channel channel,
+pty_resize       function    279 ./examples/ssh_server_fork.c static int pty_resize(ssh_session session, ssh_channel channel, int cols,
+publickey_free   function    346 ./src/legacy.c   void publickey_free(ssh_public_key key) {
+publickey_from_file function    471 ./src/legacy.c   ssh_string publickey_from_file(ssh_session session, const char *filename,
+publickey_from_privatekey function    373 ./src/legacy.c   ssh_public_key publickey_from_privatekey(ssh_private_key prv) {
+publickey_from_string function    506 ./src/legacy.c   ssh_public_key publickey_from_string(ssh_session session, ssh_string pubkey_s) {
+publickey_to_string function    537 ./src/legacy.c   ssh_string publickey_to_string(ssh_public_key pubkey) {
+read_file        function     99 ./tests/unittests/torture_pki.c static char *read_file(const char *filename) {
+realloc_buffer   function    129 ./src/buffer.c   static int realloc_buffer(struct ssh_buffer_struct *buffer, size_t needed) {
+recip            function    186 ./src/external/curve25519_ref.c static void recip(unsigned int out[32],const unsigned int z[32])
+reduce_add_sub   function     37 ./src/external/sc25519.c static void reduce_add_sub(sc25519 *r)
+reduce_add_sub   function     41 ./src/external/fe25519.c static void reduce_add_sub(fe25519 *r)
+reduce_mul       function     59 ./src/external/fe25519.c static void reduce_mul(fe25519 *r)
+request_queue_free function    686 ./src/sftp.c     static void request_queue_free(sftp_request_queue queue) {
+request_queue_new function    671 ./src/sftp.c     static sftp_request_queue request_queue_new(sftp_message msg) {
+sc25519_2interleave2 function    358 ./src/external/sc25519.c void sc25519_2interleave2(unsigned char r[127],
+sc25519_add      function    222 ./src/external/sc25519.c void sc25519_add(sc25519 *r, const sc25519 *x, const sc25519 *y)
+sc25519_from32bytes function    123 ./src/external/sc25519.c void sc25519_from32bytes(sc25519 *r, const unsigned char x[32])
+sc25519_from64bytes function    147 ./src/external/sc25519.c void sc25519_from64bytes(sc25519 *r, const unsigned char x[64])
+sc25519_from_shortsc function    159 ./src/external/sc25519.c void sc25519_from_shortsc(sc25519 *r, const shortsc25519 *x)
+sc25519_isshort_vartime function    193 ./src/external/sc25519.c int sc25519_isshort_vartime(const sc25519 *x)
+sc25519_iszero_vartime function    180 ./src/external/sc25519.c int sc25519_iszero_vartime(const sc25519 *x)
+sc25519_lt_vartime function    206 ./src/external/sc25519.c int sc25519_lt_vartime(const sc25519 *x, const sc25519 *y)
+sc25519_mul      function    252 ./src/external/sc25519.c void sc25519_mul(sc25519 *r, const sc25519 *x, const sc25519 *y)
+sc25519_mul_shortsc function    277 ./src/external/sc25519.c void sc25519_mul_shortsc(sc25519 *r, const sc25519 *x, const shortsc25519 *y)
+sc25519_sub_nored function    239 ./src/external/sc25519.c void sc25519_sub_nored(sc25519 *r, const sc25519 *x, const sc25519 *y)
+sc25519_to32bytes function    171 ./src/external/sc25519.c void sc25519_to32bytes(unsigned char r[32], const sc25519 *x)
+sc25519_window3  function    284 ./src/external/sc25519.c void sc25519_window3(signed char r[85], const sc25519 *s)
+sc25519_window5  function    321 ./src/external/sc25519.c void sc25519_window5(signed char r[51], const sc25519 *s)
+select_loop      function     76 ./examples/sshnetcat.c static void select_loop(ssh_session session,ssh_channel channel){
+select_loop      function    188 ./examples/sample.c static void select_loop(ssh_session session,ssh_channel channel){
+select_loop      function    286 ./examples/sample.c static void select_loop(ssh_session session,ssh_channel channel){
+select_p         function    120 ./src/dh.c       static bignum select_p(enum ssh_key_exchange_e type) {
+send_username    function     78 ./src/auth1.c    static int send_username(ssh_session session, const char *username) {
+server_set_kex   function     86 ./src/server.c   static int server_set_kex(ssh_session session) {
+set_client_kex   function    542 ./src/kex.c      int set_client_kex(ssh_session session){
+set_default_keys function     56 ./examples/ssh_server_fork.c static void set_default_keys(ssh_bind sshbind,
+set_opts         function      9 ./tests/connection.c SSH_OPTIONS *set_opts(int argc, char **argv){
+set_pcap         function     44 ./examples/samplesshd-kbdint.c static void set_pcap(ssh_session session){
+set_pcap         function    220 ./examples/sshnetcat.c void set_pcap(ssh_session session){
+set_pcap         function    475 ./examples/sample.c void set_pcap(ssh_session session){
+setneutral       function    213 ./src/external/ge25519.c static void setneutral(ge25519 *r)
+setneutral       function   2417 ./ge25519_pp.c   static void setneutral(crypto_sign_ed25519_ref_ge25519 *r)
+setsignal        function    161 ./examples/sample.c static void setsignal(void){
+setup            function      6 ./tests/client/torture_sftp_dir.c static void setup(void **state) {
+setup            function      7 ./tests/client/torture_proxycommand.c static void setup(void **state) {
+setup            function      8 ./tests/client/torture_sftp_read.c static void setup(void **state) {
+setup            function      9 ./tests/unittests/torture_buffer.c static void setup(void **state) {
+setup            function     12 ./tests/unittests/torture_options.c static void setup(void **state) {
+setup            function     16 ./tests/unittests/torture_rand.c static void setup(void **state) {
+setup            function     18 ./tests/unittests/torture_callbacks.c static void setup(void **state) {
+setup            function     19 ./tests/unittests/torture_misc.c static void setup(void **state) {
+setup            function     21 ./tests/unittests/torture_server_x11.c static void setup(void **state) {
+setup            function     27 ./tests/client/torture_forward.c static void setup(void **state)
+setup            function     27 ./tests/client/torture_request_env.c static void setup(void **state)
+setup            function     29 ./tests/client/torture_algorithms.c static void setup(void **state) {
+setup            function     30 ./tests/client/torture_auth.c static void setup(void **state) {
+setup            function     32 ./tests/client/torture_session.c static void setup(void **state) {
+setup            function     35 ./tests/client/torture_connect.c static void setup(void **state) {
+setup            function     47 ./tests/client/torture_knownhosts.c static void setup(void **state) {
+setup_both_keys  function     39 ./tests/unittests/torture_keyfiles.c static void setup_both_keys(void **state) {
+setup_both_keys  function     79 ./tests/unittests/torture_pki.c static void setup_both_keys(void **state) {
+setup_both_keys_passphrase function     45 ./tests/unittests/torture_keyfiles.c static void setup_both_keys_passphrase(void **state) {
+setup_dropbear_client_rsa_key function    127 ./tests/pkd/pkd_keyutil.c void setup_dropbear_client_rsa_key() {
+setup_dsa_key    function     24 ./tests/unittests/torture_keyfiles.c static void setup_dsa_key(void **state) {
+setup_dsa_key    function     27 ./tests/unittests/torture_pki.c static void setup_dsa_key(void **state) {
+setup_dsa_key    function     30 ./tests/pkd/pkd_keyutil.c void setup_dsa_key() {
+setup_ecdsa_key  function     40 ./tests/unittests/torture_pki.c static void setup_ecdsa_key(void **state, int ecdsa_bits) {
+setup_ecdsa_key_256 function     61 ./tests/unittests/torture_pki.c static void setup_ecdsa_key_256(void **state) {
+setup_ecdsa_key_384 function     57 ./tests/unittests/torture_pki.c static void setup_ecdsa_key_384(void **state) {
+setup_ecdsa_key_521 function     53 ./tests/unittests/torture_pki.c static void setup_ecdsa_key_521(void **state) {
+setup_ecdsa_keys function     39 ./tests/pkd/pkd_keyutil.c void setup_ecdsa_keys() {
+setup_ed25519_key function     66 ./tests/unittests/torture_pki.c static void setup_ed25519_key(void **state) {
+setup_openssh_client_keys function     78 ./tests/pkd/pkd_keyutil.c void setup_openssh_client_keys() {
+setup_rsa_key    function      9 ./tests/unittests/torture_keyfiles.c static void setup_rsa_key(void **state) {
+setup_rsa_key    function     15 ./tests/unittests/torture_pki.c static void setup_rsa_key(void **state) {
+setup_rsa_key    function     21 ./tests/pkd/pkd_keyutil.c void setup_rsa_key() {
+sftp_async_read  function   1868 ./src/sftp.c     int sftp_async_read(sftp_file file, void *data, uint32_t size, uint32_t id){
+sftp_async_read_begin function   1831 ./src/sftp.c     int sftp_async_read_begin(sftp_file file, uint32_t len){
+sftp_attributes_free function   1508 ./src/sftp.c     void sftp_attributes_free(sftp_attributes file){
+sftp_canonicalize_path function   2883 ./src/sftp.c     char *sftp_canonicalize_path(sftp_session sftp, const char *path) {
+sftp_chmod       function   2470 ./src/sftp.c     int sftp_chmod(sftp_session sftp, const char *file, mode_t mode) {
+sftp_chown       function   2457 ./src/sftp.c     int sftp_chown(sftp_session sftp, const char *file, uid_t owner, gid_t group) {
+sftp_client_message_free function    246 ./src/sftpserver.c void sftp_client_message_free(sftp_client_message msg) {
+sftp_client_message_get_data function    236 ./src/sftpserver.c const char *sftp_client_message_get_data(sftp_client_message msg){
+sftp_client_message_get_filename function    227 ./src/sftpserver.c const char *sftp_client_message_get_filename(sftp_client_message msg){
+sftp_client_message_get_flags function    242 ./src/sftpserver.c uint32_t sftp_client_message_get_flags(sftp_client_message msg){
+sftp_client_message_get_type function    223 ./src/sftpserver.c uint8_t sftp_client_message_get_type(sftp_client_message msg){
+sftp_client_message_set_filename function    231 ./src/sftpserver.c void sftp_client_message_set_filename(sftp_client_message msg, const char *newname){
+sftp_close       function   1588 ./src/sftp.c     int sftp_close(sftp_file file){
+sftp_closedir    function   1603 ./src/sftp.c     int sftp_closedir(sftp_dir dir){
+sftp_dequeue     function    725 ./src/sftp.c     static sftp_message sftp_dequeue(sftp_session sftp, uint32_t id){
+sftp_dir_eof     function   1503 ./src/sftp.c     int sftp_dir_eof(sftp_dir dir) {
+sftp_enqueue     function    695 ./src/sftp.c     static int sftp_enqueue(sftp_session sftp, sftp_message msg) {
+sftp_ext_free    function     85 ./src/sftp.c     static void sftp_ext_free(sftp_ext ext) {
+sftp_ext_new     function     73 ./src/sftp.c     static sftp_ext sftp_ext_new(void) {
+sftp_extension_supported function    648 ./src/sftp.c     int sftp_extension_supported(sftp_session sftp, const char *name,
+sftp_extensions_get_count function    608 ./src/sftp.c     unsigned int sftp_extensions_get_count(sftp_session sftp) {
+sftp_extensions_get_data function    632 ./src/sftp.c     const char *sftp_extensions_get_data(sftp_session sftp, unsigned int idx) {
+sftp_extensions_get_name function    616 ./src/sftp.c     const char *sftp_extensions_get_name(sftp_session sftp, unsigned int idx) {
+sftp_file_set_blocking function   1720 ./src/sftp.c     void sftp_file_set_blocking(sftp_file handle){
+sftp_file_set_nonblocking function   1717 ./src/sftp.c     void sftp_file_set_nonblocking(sftp_file handle){
+sftp_free        function    258 ./src/sftp.c     void sftp_free(sftp_session sftp){
+sftp_fstat       function   3046 ./src/sftp.c     sftp_attributes sftp_fstat(sftp_file file) {
+sftp_fstatvfs    function   2798 ./src/sftp.c     sftp_statvfs_t sftp_fstatvfs(sftp_file file) {
+sftp_get_client_message function     40 ./src/sftpserver.c sftp_client_message sftp_get_client_message(sftp_session sftp) {
+sftp_get_error   function    398 ./src/sftp.c     int sftp_get_error(sftp_session sftp) {
+sftp_get_message function    436 ./src/sftp.c     static sftp_message sftp_get_message(sftp_packet packet) {
+sftp_get_new_id  function    763 ./src/sftp.c     static inline uint32_t sftp_get_new_id(sftp_session session) {
+sftp_handle      function    490 ./src/sftpserver.c void *sftp_handle(sftp_session sftp, ssh_string handle){
+sftp_handle_alloc function    455 ./src/sftpserver.c ssh_string sftp_handle_alloc(sftp_session sftp, void *info) {
+sftp_handle_close function   1525 ./src/sftp.c     static int sftp_handle_close(sftp_session sftp, ssh_string handle) {
+sftp_handle_remove function    510 ./src/sftpserver.c void sftp_handle_remove(sftp_session sftp, void *handle) {
+sftp_init        function    514 ./src/sftp.c     int sftp_init(sftp_session sftp) {
+sftp_lstat       function   3042 ./src/sftp.c     sftp_attributes sftp_lstat(sftp_session session, const char *path) {
+sftp_message_free function    427 ./src/sftp.c     static void sftp_message_free(sftp_message msg) {
+sftp_message_new function    406 ./src/sftp.c     static sftp_message sftp_message_new(sftp_session sftp){
+sftp_mkdir       function   2208 ./src/sftp.c     int sftp_mkdir(sftp_session sftp, const char *directory, mode_t mode) {
+sftp_new         function    104 ./src/sftp.c     sftp_session sftp_new(ssh_session session){
+sftp_new_channel function    153 ./src/sftp.c     sftp_session sftp_new_channel(ssh_session session, ssh_channel channel){
+sftp_open        function   1619 ./src/sftp.c     sftp_file sftp_open(sftp_session sftp, const char *file, int flags,
+sftp_opendir     function    859 ./src/sftp.c     sftp_dir sftp_opendir(sftp_session sftp, const char *path){
+sftp_packet_free function    504 ./src/sftp.c     void sftp_packet_free(sftp_packet packet) {
+sftp_packet_read function    313 ./src/sftp.c     sftp_packet sftp_packet_read(sftp_session sftp) {
+sftp_packet_write function    285 ./src/sftp.c     int sftp_packet_write(sftp_session sftp, uint8_t type, ssh_buffer payload){
+sftp_parse_attr  function   1374 ./src/sftp.c     sftp_attributes sftp_parse_attr(sftp_session session, ssh_buffer buf,
+sftp_parse_attr_3 function   1186 ./src/sftp.c     static sftp_attributes sftp_parse_attr_3(sftp_session sftp, ssh_buffer buf,
+sftp_parse_attr_4 function    954 ./src/sftp.c     static sftp_attributes sftp_parse_attr_4(sftp_session sftp, ssh_buffer buf,
+sftp_parse_longname function   1134 ./src/sftp.c     static char *sftp_parse_longname(const char *longname,
+sftp_parse_statvfs function   2672 ./src/sftp.c     static sftp_statvfs_t sftp_parse_statvfs(sftp_session sftp, ssh_buffer buf) {
+sftp_read        function   1725 ./src/sftp.c     ssize_t sftp_read(sftp_file handle, void *buf, size_t count) {
+sftp_read_and_dispatch function    481 ./src/sftp.c     static int sftp_read_and_dispatch(sftp_session sftp) {
+sftp_readdir     function   1399 ./src/sftp.c     sftp_attributes sftp_readdir(sftp_session sftp, sftp_dir dir) {
+sftp_readlink    function   2584 ./src/sftp.c     char *sftp_readlink(sftp_session sftp, const char *path) {
+sftp_rename      function   2300 ./src/sftp.c     int sftp_rename(sftp_session sftp, const char *original, const char *newname) {
+sftp_reply_attr  function    312 ./src/sftpserver.c int sftp_reply_attr(sftp_client_message msg, sftp_attributes attr) {
+sftp_reply_data  function    429 ./src/sftpserver.c int sftp_reply_data(sftp_client_message msg, const void *data, int len) {
+sftp_reply_handle function    293 ./src/sftpserver.c int sftp_reply_handle(sftp_client_message msg, ssh_string handle){
+sftp_reply_name  function    261 ./src/sftpserver.c int sftp_reply_name(sftp_client_message msg, const char *name,
+sftp_reply_names function    369 ./src/sftpserver.c int sftp_reply_names(sftp_client_message msg) {
+sftp_reply_names_add function    331 ./src/sftpserver.c int sftp_reply_names_add(sftp_client_message msg, const char *file,
+sftp_reply_status function    397 ./src/sftpserver.c int sftp_reply_status(sftp_client_message msg, uint32_t status,
+sftp_rewind      function   2062 ./src/sftp.c     void sftp_rewind(sftp_file file) {
+sftp_rmdir       function   2140 ./src/sftp.c     int sftp_rmdir(sftp_session sftp, const char *directory) {
+sftp_seek        function   2030 ./src/sftp.c     int sftp_seek(sftp_file file, uint32_t new_offset) {
+sftp_seek64      function   2041 ./src/sftp.c     int sftp_seek64(sftp_file file, uint64_t new_offset) {
+sftp_send_client_message function    219 ./src/sftpserver.c int sftp_send_client_message(sftp_session sftp, sftp_client_message msg){
+sftp_server_init function    199 ./src/sftp.c     int sftp_server_init(sftp_session sftp){
+sftp_server_new  function    183 ./src/sftp.c     sftp_session sftp_server_new(ssh_session session, ssh_channel chan){
+sftp_server_version function   1394 ./src/sftp.c     int sftp_server_version(sftp_session sftp) {
+sftp_set_error   function    391 ./src/sftp.c     static void sftp_set_error(sftp_session sftp, int errnum) {
+sftp_setstat     function   2380 ./src/sftp.c     int sftp_setstat(sftp_session sftp, const char *file, sftp_attributes attr) {
+sftp_stat        function   3038 ./src/sftp.c     sftp_attributes sftp_stat(sftp_session session, const char *path) {
+sftp_statvfs     function   2705 ./src/sftp.c     sftp_statvfs_t sftp_statvfs(sftp_session sftp, const char *path) {
+sftp_statvfs_free function   2874 ./src/sftp.c     void sftp_statvfs_free(sftp_statvfs_t statvfs) {
+sftp_symlink     function   2497 ./src/sftp.c     int sftp_symlink(sftp_session sftp, const char *target, const char *dest) {
+sftp_tell        function   2053 ./src/sftp.c     unsigned long sftp_tell(sftp_file file) {
+sftp_tell64      function   2057 ./src/sftp.c     uint64_t sftp_tell64(sftp_file file) {
+sftp_test        function    137 ./tests/sftp_stress/main.c int sftp_test(SSH_SESSION *session, int test){
+sftp_unlink      function   2068 ./src/sftp.c     int sftp_unlink(sftp_session sftp, const char *file) {
+sftp_utimes      function   2480 ./src/sftp.c     int sftp_utimes(sftp_session sftp, const char *file,
+sftp_write       function   1950 ./src/sftp.c     ssize_t sftp_write(sftp_file file, const void *buf, size_t count) {
+sftp_xstat       function   2970 ./src/sftp.c     static sftp_attributes sftp_xstat(sftp_session sftp, const char *path,
+sha1             function     68 ./src/libgcrypt.c void sha1(unsigned char *digest, int len, unsigned char *hash) {
+sha1             function    112 ./src/libcrypto.c void sha1(unsigned char *digest, int len, unsigned char *hash) {
+sha1_final       function     62 ./src/libgcrypt.c void sha1_final(unsigned char *md, SHACTX c) {
+sha1_final       function    107 ./src/libcrypto.c void sha1_final(unsigned char *md, SHACTX c) {
+sha1_init        function     51 ./src/libgcrypt.c SHACTX sha1_init(void) {
+sha1_init        function     93 ./src/libcrypto.c SHACTX sha1_init(void) {
+sha1_update      function     58 ./src/libgcrypt.c void sha1_update(SHACTX c, const void *data, unsigned long len) {
+sha1_update      function    103 ./src/libcrypto.c void sha1_update(SHACTX c, const void *data, unsigned long len) {
+sha256           function     89 ./src/libgcrypt.c void sha256(unsigned char *digest, int len, unsigned char *hash){
+sha256           function    187 ./src/libcrypto.c void sha256(unsigned char *digest, int len, unsigned char *hash) {
+sha256_final     function     83 ./src/libgcrypt.c void sha256_final(unsigned char *md, SHACTX c) {
+sha256_final     function    182 ./src/libcrypto.c void sha256_final(unsigned char *md, SHA256CTX c) {
+sha256_init      function     72 ./src/libgcrypt.c SHA256CTX sha256_init(void) {
+sha256_init      function    168 ./src/libcrypto.c SHA256CTX sha256_init(void){
+sha256_update    function     79 ./src/libgcrypt.c void sha256_update(SHACTX c, const void *data, unsigned long len) {
+sha256_update    function    178 ./src/libcrypto.c void sha256_update(SHA256CTX c, const void *data, unsigned long len){
+sha384           function    110 ./src/libgcrypt.c void sha384(unsigned char *digest, int len, unsigned char *hash) {
+sha384           function    210 ./src/libcrypto.c void sha384(unsigned char *digest, int len, unsigned char *hash) {
+sha384_final     function    104 ./src/libgcrypt.c void sha384_final(unsigned char *md, SHACTX c) {
+sha384_final     function    205 ./src/libcrypto.c void sha384_final(unsigned char *md, SHA384CTX c) {
+sha384_init      function     93 ./src/libgcrypt.c SHA384CTX sha384_init(void) {
+sha384_init      function    191 ./src/libcrypto.c SHA384CTX sha384_init(void){
+sha384_update    function    100 ./src/libgcrypt.c void sha384_update(SHACTX c, const void *data, unsigned long len) {
+sha384_update    function    201 ./src/libcrypto.c void sha384_update(SHA384CTX c, const void *data, unsigned long len){
+sha512           function    131 ./src/libgcrypt.c void sha512(unsigned char *digest, int len, unsigned char *hash) {
+sha512           function    233 ./src/libcrypto.c void sha512(unsigned char *digest, int len, unsigned char *hash) {
+sha512_final     function    125 ./src/libgcrypt.c void sha512_final(unsigned char *md, SHACTX c) {
+sha512_final     function    228 ./src/libcrypto.c void sha512_final(unsigned char *md, SHA512CTX c) {
+sha512_init      function    114 ./src/libgcrypt.c SHA512CTX sha512_init(void) {
+sha512_init      function    214 ./src/libcrypto.c SHA512CTX sha512_init(void){
+sha512_update    function    121 ./src/libgcrypt.c void sha512_update(SHACTX c, const void *data, unsigned long len) {
+sha512_update    function    224 ./src/libcrypto.c void sha512_update(SHA512CTX c, const void *data, unsigned long len){
+shell            function    383 ./examples/sample.c static void shell(ssh_session session){
+shell_request    function     87 ./examples/proxy.c static int shell_request(ssh_session session, ssh_channel channel, void *userdata){
+shell_request    function     90 ./examples/samplesshd-cb.c static int shell_request(ssh_session session, ssh_channel channel, void *userdata){
+shell_request    function    395 ./examples/ssh_server_fork.c static int shell_request(ssh_session session, ssh_channel channel,
+shortsc25519_from16bytes function    138 ./src/external/sc25519.c void shortsc25519_from16bytes(shortsc25519 *r, const unsigned char x[16])
+sigchld_handler  function    614 ./examples/ssh_server_fork.c static void sigchld_handler(int signo) {
+signal_stop      function     23 ./tests/sftp_stress/main.c void signal_stop(){
+sigwindowchanged function    156 ./examples/sample.c static void sigwindowchanged(int i){
+sizechanged      function    166 ./examples/sample.c static void sizechanged(void){
+socket_callback_connected function     60 ./src/client.c   static void socket_callback_connected(int code, int errno_code, void *user){
+space_tokenize   function    175 ./src/kex.c      char **space_tokenize(const char *chain){
+square           function     96 ./src/external/curve25519_ref.c static void square(unsigned int out[32],const unsigned int a[32])
+squeeze          function     40 ./src/external/curve25519_ref.c static void squeeze(unsigned int a[32])
+ssh_accept       function    711 ./src/legacy.c   int ssh_accept(ssh_session session) {
+ssh_agent_get_first_ident function    421 ./src/agent.c    ssh_key ssh_agent_get_first_ident(struct ssh_session_struct *session,
+ssh_agent_get_ident_count function    330 ./src/agent.c    int ssh_agent_get_ident_count(struct ssh_session_struct *session) {
+ssh_agent_get_next_ident function    431 ./src/agent.c    ssh_key ssh_agent_get_next_ident(struct ssh_session_struct *session,
+ssh_agent_sign_data function    502 ./src/agent.c    ssh_string ssh_agent_sign_data(ssh_session session,
+ssh_analyze_banner function    812 ./src/misc.c     int ssh_analyze_banner(ssh_session session, int server, int *ssh1, int *ssh2) {
+ssh_auth1_handler function     66 ./src/auth1.c    void ssh_auth1_handler(ssh_session session, uint8_t type){
+ssh_auth_list    function     43 ./src/legacy.c   int ssh_auth_list(ssh_session session) {
+ssh_auth_reply_default function    606 ./src/server.c   int ssh_auth_reply_default(ssh_session session,int partial) {
+ssh_auth_reply_success function    983 ./src/server.c   int ssh_auth_reply_success(ssh_session session, int partial) {
+ssh_auth_response_termination function     80 ./src/auth.c     static int ssh_auth_response_termination(void *user){
+ssh_auth_status_termination function     38 ./src/auth1.c    static int ssh_auth_status_termination(void *s){
+ssh_basename     function    572 ./src/misc.c     char *ssh_basename (const char *path) {
+ssh_bind_accept  function    474 ./src/bind.c     int ssh_bind_accept(ssh_bind sshbind, ssh_session session) {
+ssh_bind_accept_fd function    384 ./src/bind.c     int ssh_bind_accept_fd(ssh_bind sshbind, ssh_session session, socket_t fd){
+ssh_bind_fd_toaccept function    341 ./src/bind.c     void ssh_bind_fd_toaccept(ssh_bind sshbind) {
+ssh_bind_free    function    345 ./src/bind.c     void ssh_bind_free(ssh_bind sshbind){
+ssh_bind_get_fd  function    333 ./src/bind.c     socket_t ssh_bind_get_fd(ssh_bind sshbind) {
+ssh_bind_get_poll function    321 ./src/bind.c     ssh_poll_handle ssh_bind_get_poll(ssh_bind sshbind){
+ssh_bind_import_keys function    147 ./src/bind.c     static int ssh_bind_import_keys(ssh_bind sshbind) {
+ssh_bind_listen  function    228 ./src/bind.c     int ssh_bind_listen(ssh_bind sshbind) {
+ssh_bind_new     function    132 ./src/bind.c     ssh_bind ssh_bind_new(void) {
+ssh_bind_options_set function   1387 ./src/options.c  int ssh_bind_options_set(ssh_bind sshbind, enum ssh_bind_options_e type,
+ssh_bind_poll_callback function    300 ./src/bind.c     static int ssh_bind_poll_callback(ssh_poll_handle sshpoll,
+ssh_bind_set_blocking function    329 ./src/bind.c     void ssh_bind_set_blocking(ssh_bind sshbind, int blocking) {
+ssh_bind_set_callbacks function    277 ./src/bind.c     int ssh_bind_set_callbacks(ssh_bind sshbind, ssh_bind_callbacks callbacks,
+ssh_bind_set_fd  function    337 ./src/bind.c     void ssh_bind_set_fd(ssh_bind sshbind, socket_t fd) {
+ssh_bind_set_key function   1304 ./src/options.c  static int ssh_bind_set_key(ssh_bind sshbind, char **key_loc,
+ssh_blocking_flush function    473 ./src/session.c  int ssh_blocking_flush(ssh_session session, int timeout){
+ssh_buffer_add_data function    223 ./src/buffer.c   int ssh_buffer_add_data(struct ssh_buffer_struct *buffer, const void *data, uint32_t len)
+ssh_buffer_free  function    102 ./src/buffer.c   void ssh_buffer_free(struct ssh_buffer_struct *buffer) {
+ssh_buffer_get_begin function    450 ./src/buffer.c   void *ssh_buffer_get_begin(struct ssh_buffer_struct *buffer){
+ssh_buffer_get_len function    479 ./src/buffer.c   uint32_t ssh_buffer_get_len(struct ssh_buffer_struct *buffer){
+ssh_buffer_new   function     86 ./src/buffer.c   struct ssh_buffer_struct *ssh_buffer_new(void) {
+ssh_buffer_pack_va function    699 ./src/buffer.c   int ssh_buffer_pack_va(struct ssh_buffer_struct *buffer,
+ssh_buffer_reinit function    195 ./src/buffer.c   int ssh_buffer_reinit(struct ssh_buffer_struct *buffer)
+ssh_buffer_set_secure function    125 ./src/buffer.c   void ssh_buffer_set_secure(ssh_buffer buffer){
+ssh_buffer_unpack_va function    854 ./src/buffer.c   int ssh_buffer_unpack_va(struct ssh_buffer_struct *buffer,
+ssh_channel_accept function   1915 ./src/channels.c static ssh_channel ssh_channel_accept(ssh_session session, int channeltype,
+ssh_channel_accept_forward function   2228 ./src/channels.c ssh_channel ssh_channel_accept_forward(ssh_session session, int timeout_ms, int* destination_port) {
+ssh_channel_accept_x11 function   1980 ./src/channels.c ssh_channel ssh_channel_accept_x11(ssh_channel channel, int timeout_ms) {
+ssh_channel_cancel_forward function   2247 ./src/channels.c int ssh_channel_cancel_forward(ssh_session session,
+ssh_channel_change_pty_size function   1707 ./src/channels.c int ssh_channel_change_pty_size(ssh_channel channel, int cols, int rows) {
+ssh_channel_close function   1117 ./src/channels.c int ssh_channel_close(ssh_channel channel){
+ssh_channel_do_free function   1022 ./src/channels.c void ssh_channel_do_free(ssh_channel channel){
+ssh_channel_exit_status_termination function   2890 ./src/channels.c static int ssh_channel_exit_status_termination(void *c){
+ssh_channel_flush function   1199 ./src/channels.c int ssh_channel_flush(ssh_channel channel){
+ssh_channel_free function    993 ./src/channels.c void ssh_channel_free(ssh_channel channel) {
+ssh_channel_from_local function    321 ./src/channels.c ssh_channel ssh_channel_from_local(ssh_session session, uint32_t id) {
+ssh_channel_get_exit_status function   2918 ./src/channels.c int ssh_channel_get_exit_status(ssh_channel channel) {
+ssh_channel_get_session function   2882 ./src/channels.c ssh_session ssh_channel_get_session(ssh_channel channel) {
+ssh_channel_is_closed function   1398 ./src/channels.c int ssh_channel_is_closed(ssh_channel channel) {
+ssh_channel_is_eof function   1412 ./src/channels.c int ssh_channel_is_eof(ssh_channel channel) {
+ssh_channel_is_open function   1382 ./src/channels.c int ssh_channel_is_open(ssh_channel channel) {
+ssh_channel_listen_forward function   2165 ./src/channels.c int ssh_channel_listen_forward(ssh_session session,
+ssh_channel_new  function     79 ./src/channels.c ssh_channel ssh_channel_new(ssh_session session) {
+ssh_channel_new_id function    129 ./src/channels.c uint32_t ssh_channel_new_id(ssh_session session) {
+ssh_channel_open_auth_agent function    893 ./src/channels.c int ssh_channel_open_auth_agent(ssh_channel channel){
+ssh_channel_open_forward function    937 ./src/channels.c int ssh_channel_open_forward(ssh_channel channel, const char *remotehost,
+ssh_channel_open_reverse_forward function   3204 ./src/channels.c int ssh_channel_open_reverse_forward(ssh_channel channel, const char *remotehost,
+ssh_channel_open_session function    860 ./src/channels.c int ssh_channel_open_session(ssh_channel channel) {
+ssh_channel_open_termination function    223 ./src/channels.c static int ssh_channel_open_termination(void *c){
+ssh_channel_open_x11 function   3267 ./src/channels.c int ssh_channel_open_x11(ssh_channel channel, 
+ssh_channel_poll function   2789 ./src/channels.c int ssh_channel_poll(ssh_channel channel, int is_stderr){
+ssh_channel_poll_timeout function   2841 ./src/channels.c int ssh_channel_poll_timeout(ssh_channel channel, int timeout, int is_stderr){
+ssh_channel_read function   2599 ./src/channels.c int ssh_channel_read(ssh_channel channel, void *dest, uint32_t count, int is_stderr)
+ssh_channel_read_nonblocking function   2737 ./src/channels.c int ssh_channel_read_nonblocking(ssh_channel channel, void *dest, uint32_t count,
+ssh_channel_read_termination function   2566 ./src/channels.c static int ssh_channel_read_termination(void *s){
+ssh_channel_read_timeout function   2627 ./src/channels.c int ssh_channel_read_timeout(ssh_channel channel,
+ssh_channel_request_env function   2298 ./src/channels.c int ssh_channel_request_env(ssh_channel channel, const char *name, const char *value) {
+ssh_channel_request_exec function   2368 ./src/channels.c int ssh_channel_request_exec(ssh_channel channel, const char *cmd) {
+ssh_channel_request_pty function   1688 ./src/channels.c int ssh_channel_request_pty(ssh_channel channel) {
+ssh_channel_request_pty_size function   1618 ./src/channels.c int ssh_channel_request_pty_size(ssh_channel channel, const char *terminal,
+ssh_channel_request_send_exit_signal function   3377 ./src/channels.c int ssh_channel_request_send_exit_signal(ssh_channel channel, const char *sig,
+ssh_channel_request_send_exit_status function   3326 ./src/channels.c int ssh_channel_request_send_exit_status(ssh_channel channel, int exit_status) {
+ssh_channel_request_send_signal function   2443 ./src/channels.c int ssh_channel_request_send_signal(ssh_channel channel, const char *sig) {
+ssh_channel_request_sftp function   1817 ./src/channels.c int ssh_channel_request_sftp( ssh_channel channel){
+ssh_channel_request_shell function   1754 ./src/channels.c int ssh_channel_request_shell(ssh_channel channel) {
+ssh_channel_request_subsystem function   1780 ./src/channels.c int ssh_channel_request_subsystem(ssh_channel channel, const char *subsys) {
+ssh_channel_request_termination function   1509 ./src/channels.c static int ssh_channel_request_termination(void *c){
+ssh_channel_request_x11 function   1864 ./src/channels.c int ssh_channel_request_x11(ssh_channel channel, int single_connection, const char *protocol,
+ssh_channel_select function   3021 ./src/channels.c int ssh_channel_select(ssh_channel *readchans, ssh_channel *writechans,
+ssh_channel_send_eof function   1065 ./src/channels.c int ssh_channel_send_eof(ssh_channel channel){
+ssh_channel_set_blocking function   1437 ./src/channels.c void ssh_channel_set_blocking(ssh_channel channel, int blocking) {
+ssh_channel_set_counter function   3155 ./src/channels.c void ssh_channel_set_counter(ssh_channel channel,
+ssh_channel_waitwindow_termination function   1166 ./src/channels.c static int ssh_channel_waitwindow_termination(void *c){
+ssh_channel_window_size function   1352 ./src/channels.c uint32_t ssh_channel_window_size(ssh_channel channel) {
+ssh_channel_write function   1369 ./src/channels.c int ssh_channel_write(ssh_channel channel, const void *data, uint32_t len) {
+ssh_channel_write_stderr function   3176 ./src/channels.c int ssh_channel_write_stderr(ssh_channel channel, const void *data, uint32_t len) {
+ssh_channel_x11_req function    102 ./tests/unittests/torture_server_x11.c static void ssh_channel_x11_req(ssh_session session,
+ssh_cipher_clear function    106 ./src/wrapper.c  void ssh_cipher_clear(struct ssh_cipher_struct *cipher){
+ssh_clean_pubkey_hash function    935 ./src/dh.c       void ssh_clean_pubkey_hash(unsigned char **hash) {
+ssh_client       function     97 ./tests/test_ssh_bind_accept_fd.c void ssh_client() {
+ssh_client_connection_callback function    332 ./src/client.c   static void ssh_client_connection_callback(ssh_session session){
+ssh_client_curve25519_init function     45 ./src/curve25519.c int ssh_client_curve25519_init(ssh_session session){
+ssh_client_curve25519_reply function    104 ./src/curve25519.c int ssh_client_curve25519_reply(ssh_session session, ssh_buffer packet){
+ssh_client_dh_init function    434 ./src/dh.c       int ssh_client_dh_init(ssh_session session){
+ssh_client_dh_reply function    470 ./src/dh.c       int ssh_client_dh_reply(ssh_session session, ssh_buffer packet){
+ssh_client_ecdh_init function     41 ./src/ecdh.c     int ssh_client_ecdh_init(ssh_session session){
+ssh_client_ecdh_reply function    179 ./src/ecdh.c     int ssh_client_ecdh_reply(ssh_session session, ssh_buffer packet){
+ssh_client_select_hostkeys function    490 ./src/kex.c      static char *ssh_client_select_hostkeys(ssh_session session){
+ssh_config_get_cmd function     91 ./src/config.c   static char *ssh_config_get_cmd(char **str) {
+ssh_config_get_int function    143 ./src/config.c   static int ssh_config_get_int(char **str, int notfound) {
+ssh_config_get_opcode function     79 ./src/config.c   static enum ssh_config_opcode_e ssh_config_get_opcode(char *keyword) {
+ssh_config_get_str_tok function    159 ./src/config.c   static const char *ssh_config_get_str_tok(char **str, const char *def) {
+ssh_config_get_token function    124 ./src/config.c   static char *ssh_config_get_token(char **str) {
+ssh_config_get_yesno function    170 ./src/config.c   static int ssh_config_get_yesno(char **str, int notfound) {
+ssh_config_parse_file function    376 ./src/config.c   int ssh_config_parse_file(ssh_session session, const char *filename) {
+ssh_config_parse_line function    187 ./src/config.c   static int ssh_config_parse_line(ssh_session session, const char *line,
+ssh_connect      function    469 ./src/client.c   int ssh_connect(ssh_session session) {
+ssh_connect_ai_timeout function    141 ./src/connect.c  static int ssh_connect_ai_timeout(ssh_session session, const char *host,
+ssh_connect_host function    227 ./src/connect.c  socket_t ssh_connect_host(ssh_session session, const char *host,
+ssh_connect_host_nonblocking function    321 ./src/connect.c  socket_t ssh_connect_host_nonblocking(ssh_session session, const char *host,
+ssh_connect_socket_close function    102 ./src/connect.c  static int ssh_connect_socket_close(socket_t s){
+ssh_connect_termination function    445 ./src/client.c   static int ssh_connect_termination(void *user){
+ssh_copyright    function    697 ./src/client.c   const char *ssh_copyright(void) {
+ssh_crc32        function     84 ./src/crc32.c    uint32_t ssh_crc32(const char *buf, uint32_t len) {
+ssh_crypto_finalize function    211 ./src/dh.c       void ssh_crypto_finalize(void) {
+ssh_crypto_init  function    150 ./src/dh.c       int ssh_crypto_init(void) {
+ssh_curve25519_build_k function     72 ./src/curve25519.c static int ssh_curve25519_build_k(ssh_session session) {
+ssh_dirname      function    517 ./src/misc.c     char *ssh_dirname (const char *path) {
+ssh_disconnect   function    627 ./src/client.c   void ssh_disconnect(ssh_session session) {
+ssh_encrypt_rsa1 function    137 ./src/kex1.c     static ssh_string ssh_encrypt_rsa1(ssh_session session,
+ssh_event_add_fd function    745 ./src/poll.c     int ssh_event_add_fd(ssh_event event, socket_t fd, short events,
+ssh_event_add_session function    787 ./src/poll.c     int ssh_event_add_session(ssh_event event, ssh_session session) {
+ssh_event_dopoll function    839 ./src/poll.c     int ssh_event_dopoll(ssh_event event, int timeout) {
+ssh_event_fd_wrapper_callback function    717 ./src/poll.c     static int ssh_event_fd_wrapper_callback(ssh_poll_handle p, socket_t fd, int revents,
+ssh_event_free   function    950 ./src/poll.c     void ssh_event_free(ssh_event event) {
+ssh_event_new    function    690 ./src/poll.c     ssh_event ssh_event_new(void) {
+ssh_event_remove_fd function    858 ./src/poll.c     int ssh_event_remove_fd(ssh_event event, socket_t fd) {
+ssh_event_remove_session function    904 ./src/poll.c     int ssh_event_remove_session(ssh_event event, ssh_session session) {
+ssh_execute_client_request function    276 ./src/messages.c static int ssh_execute_client_request(ssh_session session, ssh_message msg)
+ssh_execute_command function    818 ./src/socket.c   void ssh_execute_command(const char *command, socket_t in, socket_t out){
+ssh_execute_message_callback function    322 ./src/messages.c static int ssh_execute_message_callback(ssh_session session, ssh_message msg) {
+ssh_execute_message_callbacks function   1160 ./src/server.c   int ssh_execute_message_callbacks(ssh_session session){
+ssh_execute_server_callbacks function    307 ./src/messages.c static int ssh_execute_server_callbacks(ssh_session session, ssh_message msg){
+ssh_execute_server_request function     98 ./src/messages.c static int ssh_execute_server_request(ssh_session session, ssh_message msg)
+ssh_file_readaccess_ok function    118 ./src/misc.c     int ssh_file_readaccess_ok(const char *file) {
+ssh_file_readaccess_ok function    234 ./src/misc.c     int ssh_file_readaccess_ok(const char *file) {
+ssh_finalize     function     73 ./src/init.c     int ssh_finalize(void) {
+ssh_find_matching function    242 ./src/kex.c      char *ssh_find_matching(const char *available_d, const char *preferred_d){
+ssh_flush_termination function    453 ./src/session.c  static int ssh_flush_termination(void *c){
+ssh_forward_accept function   2212 ./src/channels.c ssh_channel ssh_forward_accept(ssh_session session, int timeout_ms) {
+ssh_forward_cancel function   2279 ./src/channels.c int ssh_forward_cancel(ssh_session session, const char *address, int port) {
+ssh_forward_listen function   2207 ./src/channels.c int ssh_forward_listen(ssh_session session, const char *address, int port, int *bound_port) {
+ssh_free         function    172 ./src/session.c  void ssh_free(ssh_session session) {
+ssh_get_channel1 function    380 ./src/channels1.c ssh_channel ssh_get_channel1(ssh_session session){
+ssh_get_cipher_in function    355 ./src/session.c  const char* ssh_get_cipher_in(ssh_session session) {
+ssh_get_cipher_out function    371 ./src/session.c  const char* ssh_get_cipher_out(ssh_session session) {
+ssh_get_ciphertab function    596 ./src/libgcrypt.c struct ssh_cipher_struct *ssh_get_ciphertab(void)
+ssh_get_ciphertab function    705 ./src/libcrypto.c struct ssh_cipher_struct *ssh_get_ciphertab(void)
+ssh_get_clientbanner function    297 ./src/session.c  const char* ssh_get_clientbanner(ssh_session session) {
+ssh_get_disconnect_message function    758 ./src/session.c  const char *ssh_get_disconnect_message(ssh_session session) {
+ssh_get_error    function    111 ./src/error.c    const char *ssh_get_error(void *error) {
+ssh_get_error_code function    131 ./src/error.c    int ssh_get_error_code(void *error) {
+ssh_get_fd       function    516 ./src/session.c  socket_t ssh_get_fd(ssh_session session) {
+ssh_get_hexa     function   1077 ./src/dh.c       char *ssh_get_hexa(const unsigned char *what, size_t len) {
+ssh_get_hmac_in  function    387 ./src/session.c  const char* ssh_get_hmac_in(ssh_session session) {
+ssh_get_hmac_out function    402 ./src/session.c  const char* ssh_get_hmac_out(ssh_session session) {
+ssh_get_hmactab  function     60 ./src/wrapper.c  struct ssh_hmac_struct *ssh_get_hmactab(void) {
+ssh_get_issue_banner function    587 ./src/client.c   char *ssh_get_issue_banner(ssh_session session) {
+ssh_get_kex1     function    476 ./src/kex1.c     int ssh_get_kex1(ssh_session session) {
+ssh_get_kex_algo function    326 ./src/session.c  const char* ssh_get_kex_algo(ssh_session session) {
+ssh_get_key_params function    222 ./src/server.c   int ssh_get_key_params(ssh_session session, ssh_key *privkey){
+ssh_get_knownhost_line function    109 ./src/known_hosts.c static char **ssh_get_knownhost_line(FILE **file, const char *filename,
+ssh_get_local_username function    142 ./src/misc.c     char *ssh_get_local_username(void) {
+ssh_get_local_username function    242 ./src/misc.c     char *ssh_get_local_username(void) {
+ssh_get_log_callback function    207 ./src/log.c      ssh_logging_callback ssh_get_log_callback(void) {
+ssh_get_log_level function    193 ./src/log.c      int ssh_get_log_level(void) {
+ssh_get_log_userdata function    216 ./src/log.c      void *ssh_get_log_userdata(void)
+ssh_get_openssh_version function    613 ./src/client.c   int ssh_get_openssh_version(ssh_session session) {
+ssh_get_poll_flags function    738 ./src/session.c  int ssh_get_poll_flags(ssh_session session)
+ssh_get_pubkey   function    698 ./src/legacy.c   ssh_string ssh_get_pubkey(ssh_session session){
+ssh_get_pubkey_hash function    889 ./src/dh.c       int ssh_get_pubkey_hash(ssh_session session, unsigned char **hash) {
+ssh_get_publickey function    952 ./src/dh.c       int ssh_get_publickey(ssh_session session, ssh_key *key)
+ssh_get_publickey_hash function    992 ./src/dh.c       int ssh_get_publickey_hash(const ssh_key key,
+ssh_get_random   function    124 ./src/dh.c       int ssh_get_random(void *where, int len, int strong){
+ssh_get_serverbanner function    312 ./src/session.c  const char* ssh_get_serverbanner(ssh_session session) {
+ssh_get_status   function    700 ./src/session.c  int ssh_get_status(ssh_session session) {
+ssh_get_user_home_dir function    100 ./src/misc.c     char *ssh_get_user_home_dir(void) {
+ssh_get_user_home_dir function    209 ./src/misc.c     char *ssh_get_user_home_dir(void) {
+ssh_get_version  function    783 ./src/session.c  int ssh_get_version(ssh_session session) {
+ssh_getpass      function    122 ./src/getpass.c  int ssh_getpass(const char *prompt,
+ssh_getpass      function    214 ./src/getpass.c  int ssh_getpass(const char *prompt,
+ssh_gets         function     47 ./src/getpass.c  static int ssh_gets(const char *prompt, char *buf, size_t len, int verify) {
+ssh_global_request_termination function   2031 ./src/channels.c static int ssh_global_request_termination(void *s){
+ssh_gssapi_auth_mic function    627 ./src/gssapi.c   int ssh_gssapi_auth_mic(ssh_session session){
+ssh_gssapi_build_mic function    371 ./src/gssapi.c   static ssh_buffer ssh_gssapi_build_mic(ssh_session session){
+ssh_gssapi_free  function     90 ./src/gssapi.c   static void ssh_gssapi_free(ssh_session session){
+ssh_gssapi_get_creds function    488 ./src/gssapi.c   ssh_gssapi_creds ssh_gssapi_get_creds(ssh_session session){
+ssh_gssapi_handle_userauth function    144 ./src/gssapi.c   int ssh_gssapi_handle_userauth(ssh_session session, const char *user, uint32_t n_oid, ssh_string *oids){
+ssh_gssapi_init  function     71 ./src/gssapi.c   static int ssh_gssapi_init(ssh_session session){
+ssh_gssapi_log_error function    132 ./src/gssapi.c   static void ssh_gssapi_log_error(int verb, const char *msg, int maj_stat){
+ssh_gssapi_match function    551 ./src/gssapi.c   static int ssh_gssapi_match(ssh_session session, gss_OID_set *valid_oids)
+ssh_gssapi_name_to_char function    264 ./src/gssapi.c   static char *ssh_gssapi_name_to_char(gss_name_t name){
+ssh_gssapi_oid_from_string function    703 ./src/gssapi.c   static gss_OID ssh_gssapi_oid_from_string(ssh_string oid_s){
+ssh_gssapi_send_auth_mic function    518 ./src/gssapi.c   static int ssh_gssapi_send_auth_mic(ssh_session session, ssh_string *oid_set, int n_oid){
+ssh_gssapi_send_mic function    780 ./src/gssapi.c   static int ssh_gssapi_send_mic(ssh_session session){
+ssh_gssapi_send_response function    117 ./src/gssapi.c   static int ssh_gssapi_send_response(ssh_session session, ssh_string oid){
+ssh_gssapi_set_creds function    503 ./src/gssapi.c   void ssh_gssapi_set_creds(ssh_session session, const ssh_gssapi_creds creds)
+ssh_handle_key_exchange function    564 ./src/server.c   int ssh_handle_key_exchange(ssh_session session) {
+ssh_handle_packets function    583 ./src/session.c  int ssh_handle_packets(ssh_session session, int timeout) {
+ssh_handle_packets_termination function    644 ./src/session.c  int ssh_handle_packets_termination(ssh_session session,
+ssh_hmac_type_to_string function     81 ./src/wrapper.c  const char *ssh_hmac_type_to_string(enum ssh_hmac_e hmac_type)
+ssh_hostport     function    329 ./src/misc.c     char *ssh_hostport(const char *host, int port){
+ssh_init         function     53 ./src/init.c     int ssh_init(void) {
+ssh_is_blocking  function    448 ./src/session.c  int ssh_is_blocking(ssh_session session){
+ssh_is_connected function    498 ./src/session.c  int ssh_is_connected(ssh_session session) {
+ssh_is_ipaddr    function    183 ./src/misc.c     int ssh_is_ipaddr(const char *str) {
+ssh_is_ipaddr    function    275 ./src/misc.c     int ssh_is_ipaddr(const char *str) {
+ssh_is_ipaddr_v4 function    161 ./src/misc.c     int ssh_is_ipaddr_v4(const char *str) {
+ssh_is_ipaddr_v4 function    263 ./src/misc.c     int ssh_is_ipaddr_v4(const char *str) {
+ssh_is_server_known function    406 ./src/known_hosts.c int ssh_is_server_known(ssh_session session) {
+ssh_iterator_new function    410 ./src/misc.c     static struct ssh_iterator *ssh_iterator_new(const void *data){
+ssh_kbdint_clean function   1249 ./src/auth.c     void ssh_kbdint_clean(ssh_kbdint kbd) {
+ssh_kbdint_free  function   1217 ./src/auth.c     void ssh_kbdint_free(ssh_kbdint kbd) {
+ssh_kbdint_new   function   1204 ./src/auth.c     ssh_kbdint ssh_kbdint_new(void) {
+ssh_kex_get_description function    230 ./src/kex.c      const char *ssh_kex_get_description(uint32_t algo) {
+ssh_kex_get_supported_method function    222 ./src/kex.c      const char *ssh_kex_get_supported_method(uint32_t algo) {
+ssh_kex_select_methods function    570 ./src/kex.c      int ssh_kex_select_methods (ssh_session session){
+ssh_key_clean    function    146 ./src/pki.c      void ssh_key_clean (ssh_key key){
+ssh_key_cmp      function    303 ./src/pki.c      int ssh_key_cmp(const ssh_key k1,
+ssh_key_dup      function    133 ./src/pki.c      ssh_key ssh_key_dup(const ssh_key key)
+ssh_key_free     function    178 ./src/pki.c      void ssh_key_free (ssh_key key){
+ssh_key_is_private function    284 ./src/pki.c      int ssh_key_is_private(const ssh_key k) {
+ssh_key_is_public function    269 ./src/pki.c      int ssh_key_is_public(const ssh_key k) {
+ssh_key_new      function    124 ./src/pki.c      ssh_key ssh_key_new (void) {
+ssh_key_type     function    191 ./src/pki.c      enum ssh_keytypes_e ssh_key_type(const ssh_key key){
+ssh_key_type_from_name function    232 ./src/pki.c      enum ssh_keytypes_e ssh_key_type_from_name(const char *name) {
+ssh_key_type_to_char function    205 ./src/pki.c      const char *ssh_key_type_to_char(enum ssh_keytypes_e type) {
+ssh_knownhosts_algorithms function    662 ./src/known_hosts.c char **ssh_knownhosts_algorithms(ssh_session session) {
+ssh_legacy_log_callback function     31 ./src/callbacks.c static void ssh_legacy_log_callback(int priority,
+ssh_list_append  function    419 ./src/misc.c     int ssh_list_append(struct ssh_list *list,const void *data){
+ssh_list_find    function    402 ./src/misc.c     struct ssh_iterator *ssh_list_find(const struct ssh_list *list, void *value){
+ssh_list_free    function    383 ./src/misc.c     void ssh_list_free(struct ssh_list *list){
+ssh_list_get_iterator function    396 ./src/misc.c     struct ssh_iterator *ssh_list_get_iterator(const struct ssh_list *list){
+ssh_list_kex     function    467 ./src/kex.c      void ssh_list_kex(struct ssh_kex_struct *kex) {
+ssh_list_new     function    375 ./src/misc.c     struct ssh_list *ssh_list_new(void) {
+ssh_list_prepend function    434 ./src/misc.c     int ssh_list_prepend(struct ssh_list *list, const void *data){
+ssh_list_remove  function    453 ./src/misc.c     void ssh_list_remove(struct ssh_list *list, struct ssh_iterator *iterator){
+ssh_log          function    131 ./src/log.c      void ssh_log(ssh_session session,
+ssh_log_common   function    152 ./src/log.c      void ssh_log_common(struct ssh_common_struct *common,
+ssh_log_function function     94 ./src/log.c      void ssh_log_function(int verbosity,
+ssh_log_stderr   function     77 ./src/log.c      static void ssh_log_stderr(int verbosity,
+ssh_lowercase    function    310 ./src/misc.c     char *ssh_lowercase(const char* str) {
+ssh_mac_ctx_init function    152 ./src/libgcrypt.c ssh_mac_ctx ssh_mac_ctx_init(enum ssh_mac_e type){
+ssh_mac_ctx_init function    257 ./src/libcrypto.c ssh_mac_ctx ssh_mac_ctx_init(enum ssh_mac_e type){
+ssh_mac_final    function    183 ./src/libgcrypt.c void ssh_mac_final(unsigned char *md, ssh_mac_ctx ctx) {
+ssh_mac_final    function    302 ./src/libcrypto.c void ssh_mac_final(unsigned char *md, ssh_mac_ctx ctx) {
+ssh_mac_update   function    179 ./src/libgcrypt.c void ssh_mac_update(ssh_mac_ctx ctx, const void *data, unsigned long len) {
+ssh_mac_update   function    283 ./src/libcrypto.c void ssh_mac_update(ssh_mac_ctx ctx, const void *data, unsigned long len) {
+ssh_make_milliseconds function    943 ./src/misc.c     int ssh_make_milliseconds(long sec, long usec) {
+ssh_match_group  function   1009 ./src/misc.c     int ssh_match_group(const char *group, const char *object)
+ssh_message_auth_interactive_request function    878 ./src/server.c   int ssh_message_auth_interactive_request(ssh_message msg, const char *name,
+ssh_message_auth_kbdint_is_response function    860 ./src/server.c   int ssh_message_auth_kbdint_is_response(ssh_message msg) {
+ssh_message_auth_password function    828 ./src/server.c   const char *ssh_message_auth_password(ssh_message msg){
+ssh_message_auth_pubkey function    836 ./src/server.c   ssh_key ssh_message_auth_pubkey(ssh_message msg) {
+ssh_message_auth_publickey function    845 ./src/server.c   ssh_public_key ssh_message_auth_publickey(ssh_message msg){
+ssh_message_auth_publickey_state function    853 ./src/server.c   enum ssh_publickey_state_e ssh_message_auth_publickey_state(ssh_message msg){
+ssh_message_auth_reply_pk_ok function   1020 ./src/server.c   int ssh_message_auth_reply_pk_ok(ssh_message msg, ssh_string algo, ssh_string pubkey) {
+ssh_message_auth_reply_pk_ok_simple function   1040 ./src/server.c   int ssh_message_auth_reply_pk_ok_simple(ssh_message msg) {
+ssh_message_auth_reply_success function   1013 ./src/server.c   int ssh_message_auth_reply_success(ssh_message msg, int partial) {
+ssh_message_auth_set_methods function    868 ./src/server.c   int ssh_message_auth_set_methods(ssh_message msg, int methods) {
+ssh_message_auth_user function    820 ./src/server.c   const char *ssh_message_auth_user(ssh_message msg) {
+ssh_message_channel_request_channel function   1081 ./src/server.c   ssh_channel ssh_message_channel_request_channel(ssh_message msg){
+ssh_message_channel_request_command function   1113 ./src/server.c   const char *ssh_message_channel_request_command(ssh_message msg){
+ssh_message_channel_request_env_name function   1105 ./src/server.c   const char *ssh_message_channel_request_env_name(ssh_message msg){
+ssh_message_channel_request_env_value function   1109 ./src/server.c   const char *ssh_message_channel_request_env_value(ssh_message msg){
+ssh_message_channel_request_open_destination function   1073 ./src/server.c   const char *ssh_message_channel_request_open_destination(ssh_message msg){
+ssh_message_channel_request_open_destination_port function   1077 ./src/server.c   int ssh_message_channel_request_open_destination_port(ssh_message msg){
+ssh_message_channel_request_open_originator function   1065 ./src/server.c   const char *ssh_message_channel_request_open_originator(ssh_message msg){
+ssh_message_channel_request_open_originator_port function   1069 ./src/server.c   int ssh_message_channel_request_open_originator_port(ssh_message msg){
+ssh_message_channel_request_open_reply_accept function   1127 ./src/messages.c ssh_channel ssh_message_channel_request_open_reply_accept(ssh_message msg) {
+ssh_message_channel_request_open_reply_accept_channel function   1087 ./src/messages.c int ssh_message_channel_request_open_reply_accept_channel(ssh_message msg, ssh_channel chan) {
+ssh_message_channel_request_open_reply_default function    658 ./src/server.c   static int ssh_message_channel_request_open_reply_default(ssh_message msg) {
+ssh_message_channel_request_pty_height function   1093 ./src/server.c   int ssh_message_channel_request_pty_height(ssh_message msg){
+ssh_message_channel_request_pty_pxheight function   1101 ./src/server.c   int ssh_message_channel_request_pty_pxheight(ssh_message msg){
+ssh_message_channel_request_pty_pxwidth function   1097 ./src/server.c   int ssh_message_channel_request_pty_pxwidth(ssh_message msg){
+ssh_message_channel_request_pty_term function   1085 ./src/server.c   const char *ssh_message_channel_request_pty_term(ssh_message msg){
+ssh_message_channel_request_pty_width function   1089 ./src/server.c   int ssh_message_channel_request_pty_width(ssh_message msg){
+ssh_message_channel_request_reply_default function    679 ./src/server.c   static int ssh_message_channel_request_reply_default(ssh_message msg) {
+ssh_message_channel_request_reply_success function   1279 ./src/messages.c int ssh_message_channel_request_reply_success(ssh_message msg) {
+ssh_message_channel_request_subsystem function   1117 ./src/server.c   const char *ssh_message_channel_request_subsystem(ssh_message msg){
+ssh_message_channel_request_x11_auth_cookie function   1129 ./src/server.c   const char *ssh_message_channel_request_x11_auth_cookie(ssh_message msg){
+ssh_message_channel_request_x11_auth_protocol function   1125 ./src/server.c   const char *ssh_message_channel_request_x11_auth_protocol(ssh_message msg){
+ssh_message_channel_request_x11_screen_number function   1133 ./src/server.c   int ssh_message_channel_request_x11_screen_number(ssh_message msg){
+ssh_message_channel_request_x11_single_connection function   1121 ./src/server.c   int ssh_message_channel_request_x11_single_connection(ssh_message msg){
+ssh_message_free function    502 ./src/messages.c void ssh_message_free(ssh_message msg){
+ssh_message_get  function    436 ./src/messages.c ssh_message ssh_message_get(ssh_session session) {
+ssh_message_global_request_address function   1137 ./src/server.c   const char *ssh_message_global_request_address(ssh_message msg){
+ssh_message_global_request_port function   1141 ./src/server.c   int ssh_message_global_request_port(ssh_message msg){
+ssh_message_global_request_reply_default function    769 ./src/server.c   static int ssh_message_global_request_reply_default(ssh_message msg) {
+ssh_message_global_request_reply_success function    735 ./src/server.c   int ssh_message_global_request_reply_success(ssh_message msg, uint16_t bound_port) {
+ssh_message_handle_channel_request function   1167 ./src/messages.c int ssh_message_handle_channel_request(ssh_session session, ssh_channel channel, ssh_buffer packet,
+ssh_message_new  function     66 ./src/messages.c static ssh_message ssh_message_new(ssh_session session){
+ssh_message_pop_head function    400 ./src/messages.c ssh_message ssh_message_pop_head(ssh_session session){
+ssh_message_queue function    356 ./src/messages.c void ssh_message_queue(ssh_session session, ssh_message message){
+ssh_message_reply_default function     81 ./src/messages.c static int ssh_message_reply_default(ssh_message msg) {
+ssh_message_reply_default function    787 ./src/server.c   int ssh_message_reply_default(ssh_message msg) {
+ssh_message_retrieve function    722 ./src/legacy.c   ssh_message ssh_message_retrieve(ssh_session session, uint32_t packettype){
+ssh_message_service_reply_success function    711 ./src/server.c   int ssh_message_service_reply_success(ssh_message msg) {
+ssh_message_service_request_reply_default function    706 ./src/server.c   static int ssh_message_service_request_reply_default(ssh_message msg) {
+ssh_message_service_service function    813 ./src/server.c   const char *ssh_message_service_service(ssh_message msg){
+ssh_message_subtype function    478 ./src/messages.c int ssh_message_subtype(ssh_message msg) {
+ssh_message_termination function    414 ./src/messages.c static int ssh_message_termination(void *s){
+ssh_message_type function    463 ./src/messages.c int ssh_message_type(ssh_message msg) {
+ssh_mkdir        function    623 ./src/misc.c     int ssh_mkdir(const char *pathname, mode_t mode) {
+ssh_msg_userauth_build_digest function    599 ./src/messages.c static ssh_buffer ssh_msg_userauth_build_digest(ssh_session session,
+ssh_new          function     58 ./src/session.c  ssh_session ssh_new(void) {
+ssh_options_apply function   1243 ./src/options.c  int ssh_options_apply(ssh_session session) {
+ssh_options_copy function     64 ./src/options.c  int ssh_options_copy(ssh_session src, ssh_session *dest) {
+ssh_options_get  function    940 ./src/options.c  int ssh_options_get(ssh_session session, enum ssh_options_e type, char** value)
+ssh_options_get_port function    884 ./src/options.c  int ssh_options_get_port(ssh_session session, unsigned int* port_target) {
+ssh_options_getopt function   1012 ./src/options.c  int ssh_options_getopt(ssh_session session, int *argcptr, char **argv) {
+ssh_options_parse_config function   1200 ./src/options.c  int ssh_options_parse_config(ssh_session session, const char *filename) {
+ssh_options_set  function    382 ./src/options.c  int ssh_options_set(ssh_session session, enum ssh_options_e type,
+ssh_options_set_algo function    165 ./src/options.c  int ssh_options_set_algo(ssh_session session, int algo,
+ssh_packet_parse_type function    486 ./src/packet.c   int ssh_packet_parse_type(ssh_session session) {
+ssh_packet_process function    405 ./src/packet.c   void ssh_packet_process(ssh_session session, uint8_t type){
+ssh_packet_register_socket_callback function    363 ./src/packet.c   void ssh_packet_register_socket_callback(ssh_session session, ssh_socket s){
+ssh_packet_send_unimplemented function    444 ./src/packet.c   int ssh_packet_send_unimplemented(ssh_session session, uint32_t seqnum){
+ssh_packet_set_callbacks function    375 ./src/packet.c   void ssh_packet_set_callbacks(ssh_session session, ssh_packet_callbacks callbacks){
+ssh_packet_set_default_callbacks function    387 ./src/packet.c   void ssh_packet_set_default_callbacks(ssh_session session){
+ssh_packet_set_default_callbacks1 function     85 ./src/packet1.c  void ssh_packet_set_default_callbacks1(ssh_session session){
+ssh_packet_socket_callback function    142 ./src/packet.c   int ssh_packet_socket_callback(const void *data, size_t receivedlen, void *user)
+ssh_packet_socket_callback1 function    103 ./src/packet1.c  int ssh_packet_socket_callback1(const void *data, size_t receivedlen, void *user) {
+ssh_packet_write function    506 ./src/packet.c   static int ssh_packet_write(ssh_session session) {
+ssh_path_expand_escape function    700 ./src/misc.c     char *ssh_path_expand_escape(ssh_session session, const char *s) {
+ssh_path_expand_tilde function    642 ./src/misc.c     char *ssh_path_expand_tilde(const char *d) {
+ssh_pcap_context_connect function    292 ./src/pcap.c     static int ssh_pcap_context_connect(ssh_pcap_context ctx){
+ssh_pcap_context_free function    281 ./src/pcap.c     void ssh_pcap_context_free(ssh_pcap_context ctx){
+ssh_pcap_context_new function    270 ./src/pcap.c     ssh_pcap_context ssh_pcap_context_new(ssh_session session){
+ssh_pcap_context_set_file function    285 ./src/pcap.c     void ssh_pcap_context_set_file(ssh_pcap_context ctx, ssh_pcap_file pcap){
+ssh_pcap_context_write function    342 ./src/pcap.c     int ssh_pcap_context_write(ssh_pcap_context ctx,enum ssh_pcap_direction direction
+ssh_pcap_file_close function    248 ./src/pcap.c     int ssh_pcap_file_close(ssh_pcap_file pcap){
+ssh_pcap_file_close function    483 ./src/pcap.c     int ssh_pcap_file_close(ssh_pcap_file pcap){
+ssh_pcap_file_free function    260 ./src/pcap.c     void ssh_pcap_file_free(ssh_pcap_file pcap){
+ssh_pcap_file_free function    488 ./src/pcap.c     void ssh_pcap_file_free(ssh_pcap_file pcap){
+ssh_pcap_file_new function    127 ./src/pcap.c     ssh_pcap_file ssh_pcap_file_new(void) {
+ssh_pcap_file_new function    492 ./src/pcap.c     ssh_pcap_file ssh_pcap_file_new(void){
+ssh_pcap_file_open function    195 ./src/pcap.c     int ssh_pcap_file_open(ssh_pcap_file pcap, const char *filename){
+ssh_pcap_file_open function    495 ./src/pcap.c     int ssh_pcap_file_open(ssh_pcap_file pcap, const char *filename){
+ssh_pcap_file_write function    142 ./src/pcap.c     static int ssh_pcap_file_write(ssh_pcap_file pcap, ssh_buffer packet){
+ssh_pcap_file_write_packet function    159 ./src/pcap.c     int ssh_pcap_file_write_packet(ssh_pcap_file pcap, ssh_buffer packet, uint32_t original_len){
+ssh_pki_convert_key_to_privatekey function    631 ./src/pki.c      ssh_private_key ssh_pki_convert_key_to_privatekey(const ssh_key key) {
+ssh_pki_convert_key_to_publickey function    598 ./src/pki.c      ssh_public_key ssh_pki_convert_key_to_publickey(const ssh_key key) {
+ssh_pki_do_sign  function   1429 ./src/pki.c      ssh_string ssh_pki_do_sign(ssh_session session,
+ssh_pki_do_sign_agent function   1531 ./src/pki.c      ssh_string ssh_pki_do_sign_agent(ssh_session session,
+ssh_pki_export_privkey_file function    548 ./src/pki.c      int ssh_pki_export_privkey_file(const ssh_key privkey,
+ssh_pki_export_privkey_to_pubkey function   1101 ./src/pki.c      int ssh_pki_export_privkey_to_pubkey(const ssh_key privkey,
+ssh_pki_export_pubkey_base64 function   1167 ./src/pki.c      int ssh_pki_export_pubkey_base64(const ssh_key key,
+ssh_pki_export_pubkey_blob function   1137 ./src/pki.c      int ssh_pki_export_pubkey_blob(const ssh_key key,
+ssh_pki_export_pubkey_file function   1193 ./src/pki.c      int ssh_pki_export_pubkey_file(const ssh_key key,
+ssh_pki_export_pubkey_rsa1 function   1251 ./src/pki.c      int ssh_pki_export_pubkey_rsa1(const ssh_key key,
+ssh_pki_export_signature_blob function   1259 ./src/pki.c      int ssh_pki_export_signature_blob(const ssh_signature sig,
+ssh_pki_generate function   1036 ./src/pki.c      int ssh_pki_generate(enum ssh_keytypes_e type, int parameter,
+ssh_pki_import_privkey_base64 function    398 ./src/pki.c      int ssh_pki_import_privkey_base64(const char *b64_key,
+ssh_pki_import_privkey_file function    461 ./src/pki.c      int ssh_pki_import_privkey_file(const char *filename,
+ssh_pki_import_pubkey_base64 function    838 ./src/pki.c      int ssh_pki_import_pubkey_base64(const char *b64_key,
+ssh_pki_import_pubkey_blob function    882 ./src/pki.c      int ssh_pki_import_pubkey_blob(const ssh_string key_blob,
+ssh_pki_import_pubkey_file function    944 ./src/pki.c      int ssh_pki_import_pubkey_file(const char *filename, ssh_key *pkey)
+ssh_pki_import_signature_blob function   1315 ./src/pki.c      int ssh_pki_import_signature_blob(const ssh_string sig_blob,
+ssh_pki_key_ecdsa_name function    110 ./src/pki.c      const char *ssh_pki_key_ecdsa_name(const ssh_key key)
+ssh_pki_openssh_privkey_export function    554 ./src/pki_container_openssh.c ssh_string ssh_pki_openssh_privkey_export(const ssh_key privkey,
+ssh_pki_openssh_privkey_import function    272 ./src/pki_container_openssh.c ssh_key ssh_pki_openssh_privkey_import(const char *text_key,
+ssh_pki_signature_verify_blob function   1367 ./src/pki.c      int ssh_pki_signature_verify_blob(ssh_session session,
+ssh_poll         function     97 ./src/poll.c     int ssh_poll(ssh_pollfd_t *fds, nfds_t nfds, int timeout) {
+ssh_poll         function    262 ./src/poll.c     int ssh_poll(ssh_pollfd_t *fds, nfds_t nfds, int timeout) {
+ssh_poll_add_events function    375 ./src/poll.c     void ssh_poll_add_events(ssh_poll_handle p, short events) {
+ssh_poll_cleanup function     93 ./src/poll.c     void ssh_poll_cleanup(void) {
+ssh_poll_cleanup function    258 ./src/poll.c     void ssh_poll_cleanup(void) {
+ssh_poll_ctx_add function    506 ./src/poll.c     int ssh_poll_ctx_add(ssh_poll_ctx ctx, ssh_poll_handle p) {
+ssh_poll_ctx_add_socket function    538 ./src/poll.c     int ssh_poll_ctx_add_socket (ssh_poll_ctx ctx, ssh_socket s) {
+ssh_poll_ctx_dopoll function    598 ./src/poll.c     int ssh_poll_ctx_dopoll(ssh_poll_ctx ctx, int timeout) {
+ssh_poll_ctx_free function    454 ./src/poll.c     void ssh_poll_ctx_free(ssh_poll_ctx ctx) {
+ssh_poll_ctx_new function    431 ./src/poll.c     ssh_poll_ctx ssh_poll_ctx_new(size_t chunk_size) {
+ssh_poll_ctx_remove function    560 ./src/poll.c     void ssh_poll_ctx_remove(ssh_poll_ctx ctx, ssh_poll_handle p) {
+ssh_poll_ctx_resize function    472 ./src/poll.c     static int ssh_poll_ctx_resize(ssh_poll_ctx ctx, size_t new_size) {
+ssh_poll_free    function    309 ./src/poll.c     void ssh_poll_free(ssh_poll_handle p) {
+ssh_poll_get_ctx function    324 ./src/poll.c     ssh_poll_ctx ssh_poll_get_ctx(ssh_poll_handle p) {
+ssh_poll_get_default_ctx function    660 ./src/poll.c     ssh_poll_ctx ssh_poll_get_default_ctx(ssh_session session){
+ssh_poll_get_events function    335 ./src/poll.c     short ssh_poll_get_events(ssh_poll_handle p) {
+ssh_poll_get_fd  function    398 ./src/poll.c     socket_t ssh_poll_get_fd(ssh_poll_handle p) {
+ssh_poll_init    function     89 ./src/poll.c     void ssh_poll_init(void) {
+ssh_poll_init    function    254 ./src/poll.c     void ssh_poll_init(void) {
+ssh_poll_new     function    284 ./src/poll.c     ssh_poll_handle ssh_poll_new(socket_t fd, short events, ssh_poll_callback cb,
+ssh_poll_remove_events function    386 ./src/poll.c     void ssh_poll_remove_events(ssh_poll_handle p, short events) {
+ssh_poll_set_callback function    413 ./src/poll.c     void ssh_poll_set_callback(ssh_poll_handle p, ssh_poll_callback cb, void *userdata) {
+ssh_poll_set_events function    346 ./src/poll.c     void ssh_poll_set_events(ssh_poll_handle p, short events) {
+ssh_poll_set_fd  function    360 ./src/poll.c     void ssh_poll_set_fd(ssh_poll_handle p, socket_t fd) {
+ssh_print_bignum function     96 ./src/bignum.c   void ssh_print_bignum(const char *which, bignum num) {
+ssh_print_hexa   function   1111 ./src/dh.c       void ssh_print_hexa(const char *descr, const unsigned char *what, size_t len) {
+ssh_privatekey_type function    449 ./src/legacy.c   enum ssh_keytypes_e ssh_privatekey_type(ssh_private_key privatekey){
+ssh_pthread_mutex_destroy function     62 ./src/threads/pthread.c static int ssh_pthread_mutex_destroy (void **lock) {
+ssh_pthread_mutex_init function     49 ./src/threads/pthread.c static int ssh_pthread_mutex_init (void **priv){
+ssh_pthread_mutex_lock function     69 ./src/threads/pthread.c static int ssh_pthread_mutex_lock (void **lock) {
+ssh_pthread_mutex_unlock function     73 ./src/threads/pthread.c static int ssh_pthread_mutex_unlock (void **lock){
+ssh_pthread_thread_id function     77 ./src/threads/pthread.c static unsigned long ssh_pthread_thread_id (void){
+ssh_publickey_to_file function    565 ./src/legacy.c   int ssh_publickey_to_file(ssh_session session,
+ssh_reseed       function     48 ./src/libgcrypt.c void ssh_reseed(void){
+ssh_reseed       function     85 ./src/libcrypto.c void ssh_reseed(void){
+ssh_scp_accept_request function    673 ./src/scp.c      int ssh_scp_accept_request(ssh_scp scp){
+ssh_scp_close    function    161 ./src/scp.c      int ssh_scp_close(ssh_scp scp)
+ssh_scp_deny_request function    644 ./src/scp.c      int ssh_scp_deny_request(ssh_scp scp, const char *reason){
+ssh_scp_free     function    199 ./src/scp.c      void ssh_scp_free(ssh_scp scp)
+ssh_scp_init     function     95 ./src/scp.c      int ssh_scp_init(ssh_scp scp)
+ssh_scp_integer_mode function    802 ./src/scp.c      int ssh_scp_integer_mode(const char *mode){
+ssh_scp_leave_directory function    271 ./src/scp.c      int ssh_scp_leave_directory(ssh_scp scp){
+ssh_scp_new      function     60 ./src/scp.c      ssh_scp ssh_scp_new(ssh_session session, int mode, const char *location){
+ssh_scp_pull_request function    547 ./src/scp.c      int ssh_scp_pull_request(ssh_scp scp){
+ssh_scp_push_directory function    227 ./src/scp.c      int ssh_scp_push_directory(ssh_scp scp, const char *dirname, int mode){
+ssh_scp_push_file function    372 ./src/scp.c      int ssh_scp_push_file(ssh_scp scp, const char *filename, size_t size, int mode){
+ssh_scp_push_file64 function    317 ./src/scp.c      int ssh_scp_push_file64(ssh_scp scp, const char *filename, uint64_t size, int mode){
+ssh_scp_read     function    703 ./src/scp.c      int ssh_scp_read(ssh_scp scp, void *buffer, size_t size){
+ssh_scp_read_string function    504 ./src/scp.c      int ssh_scp_read_string(ssh_scp scp, char *buffer, size_t len){
+ssh_scp_request_get_filename function    754 ./src/scp.c      const char *ssh_scp_request_get_filename(ssh_scp scp){
+ssh_scp_request_get_permissions function    766 ./src/scp.c      int ssh_scp_request_get_permissions(ssh_scp scp){
+ssh_scp_request_get_size function    779 ./src/scp.c      size_t ssh_scp_request_get_size(ssh_scp scp){
+ssh_scp_request_get_size64 function    789 ./src/scp.c      uint64_t ssh_scp_request_get_size64(ssh_scp scp){
+ssh_scp_request_get_warning function    829 ./src/scp.c      const char *ssh_scp_request_get_warning(ssh_scp scp){
+ssh_scp_response function    388 ./src/scp.c      int ssh_scp_response(ssh_scp scp, char **response){
+ssh_scp_string_mode function    815 ./src/scp.c      char *ssh_scp_string_mode(int mode){
+ssh_scp_write    function    437 ./src/scp.c      int ssh_scp_write(ssh_scp scp, const void *buffer, size_t len){
+ssh_select       function    451 ./src/connect.c  int ssh_select(ssh_channel *channels, ssh_channel *outchannels, socket_t maxfd,
+ssh_select_cb    function    414 ./src/connect.c  static int ssh_select_cb (socket_t fd, int revents, void *userdata){
+ssh_send_banner  function    150 ./src/client.c   int ssh_send_banner(ssh_session session, int server) {
+ssh_send_debug   function    853 ./src/session.c  int ssh_send_debug (ssh_session session, const char *message, int always_display) {
+ssh_send_ignore  function    818 ./src/session.c  int ssh_send_ignore (ssh_session session, const char *data) {
+ssh_send_keepalive function   1190 ./src/server.c   int ssh_send_keepalive(ssh_session session)
+ssh_send_kex     function    601 ./src/kex.c      int ssh_send_kex(ssh_session session, int server_kex) {
+ssh_server       function     62 ./tests/test_ssh_bind_accept_fd.c void ssh_server() {
+ssh_server_connection_callback function    348 ./src/server.c   static void ssh_server_connection_callback(ssh_session session){
+ssh_server_curve25519_init function    162 ./src/curve25519.c int ssh_server_curve25519_init(ssh_session session, ssh_buffer packet){
+ssh_server_ecdh_init function    228 ./src/ecdh.c     int ssh_server_ecdh_init(ssh_session session, ssh_buffer packet){
+ssh_server_kex_termination function    542 ./src/server.c   static int ssh_server_kex_termination(void *s){
+ssh_server_kexdh_init function    156 ./src/server.c   static int ssh_server_kexdh_init(ssh_session session, ssh_buffer packet){
+ssh_service_request function    271 ./src/client.c   int ssh_service_request(ssh_session session, const char *service) {
+ssh_service_request_termination function    247 ./src/client.c   static int ssh_service_request_termination(void *s){
+ssh_set_agent_channel function    177 ./src/agent.c    int ssh_set_agent_channel(ssh_session session, ssh_channel channel){
+ssh_set_agent_socket function    196 ./src/agent.c    int ssh_set_agent_socket(ssh_session session, socket_t fd){
+ssh_set_auth_methods function    558 ./src/server.c   void ssh_set_auth_methods(ssh_session session, int auth_methods){
+ssh_set_blocking function    434 ./src/session.c  void ssh_set_blocking(ssh_session session, int blocking) {
+ssh_set_callbacks function     45 ./src/callbacks.c int ssh_set_callbacks(ssh_session session, ssh_callbacks cb) {
+ssh_set_channel_callbacks function     67 ./src/callbacks.c int ssh_set_channel_callbacks(ssh_channel channel, ssh_channel_callbacks cb) {
+ssh_set_counters function    909 ./src/session.c  void ssh_set_counters(ssh_session session, ssh_counter scounter,
+ssh_set_fd_except function    556 ./src/session.c  void ssh_set_fd_except(ssh_session session) {
+ssh_set_fd_toread function    530 ./src/session.c  void ssh_set_fd_toread(ssh_session session) {
+ssh_set_fd_towrite function    543 ./src/session.c  void ssh_set_fd_towrite(ssh_session session) {
+ssh_set_log_callback function    197 ./src/log.c      int ssh_set_log_callback(ssh_logging_callback cb) {
+ssh_set_log_level function    178 ./src/log.c      int ssh_set_log_level(int level) {
+ssh_set_log_userdata function    232 ./src/log.c      int ssh_set_log_userdata(void *data)
+ssh_set_message_callback function   1153 ./src/server.c   void ssh_set_message_callback(ssh_session session,
+ssh_set_pcap_file function    462 ./src/pcap.c     int ssh_set_pcap_file(ssh_session session, ssh_pcap_file pcap){
+ssh_set_pcap_file function    501 ./src/pcap.c     int ssh_set_pcap_file(ssh_session session, ssh_pcap_file pcapfile){
+ssh_set_server_callbacks function     85 ./src/callbacks.c int ssh_set_server_callbacks(ssh_session session, ssh_server_callbacks cb){
+ssh_signature_free function    343 ./src/pki.c      void ssh_signature_free(ssh_signature sig)
+ssh_signature_new function    330 ./src/pki.c      ssh_signature ssh_signature_new(void)
+ssh_silent_disconnect function    417 ./src/session.c  void ssh_silent_disconnect(ssh_session session) {
+ssh_socket_buffered_write_bytes function    721 ./src/socket.c   int ssh_socket_buffered_write_bytes(ssh_socket s){
+ssh_socket_cleanup function    126 ./src/socket.c   void ssh_socket_cleanup(void) {
+ssh_socket_close function    425 ./src/socket.c   void ssh_socket_close(ssh_socket s){
+ssh_socket_connect function    793 ./src/socket.c   int ssh_socket_connect(ssh_socket s, const char *host, int port, const char *bind_addr){
+ssh_socket_connect_proxycommand function    840 ./src/socket.c   int ssh_socket_connect_proxycommand(ssh_socket s, const char *command){
+ssh_socket_data_available function    708 ./src/socket.c   int ssh_socket_data_available(ssh_socket s) {
+ssh_socket_data_writable function    712 ./src/socket.c   int ssh_socket_data_writable(ssh_socket s) {
+ssh_socket_exception_callback function    796 ./src/session.c  void ssh_socket_exception_callback(int code, int errno_code, void *user){
+ssh_socket_fd_isset function    580 ./src/socket.c   int ssh_socket_fd_isset(ssh_socket s, fd_set *set) {
+ssh_socket_fd_set function    591 ./src/socket.c   void ssh_socket_fd_set(ssh_socket s, fd_set *set, socket_t *max_fd) {
+ssh_socket_free  function    377 ./src/socket.c   void ssh_socket_free(ssh_socket s){
+ssh_socket_get_fd_in function    507 ./src/socket.c   socket_t ssh_socket_get_fd_in(ssh_socket s) {
+ssh_socket_get_poll_flags function    746 ./src/socket.c   int ssh_socket_get_poll_flags(ssh_socket s) {
+ssh_socket_get_poll_handle_in function    351 ./src/socket.c   ssh_poll_handle ssh_socket_get_poll_handle_in(ssh_socket s){
+ssh_socket_get_poll_handle_out function    365 ./src/socket.c   ssh_poll_handle ssh_socket_get_poll_handle_out(ssh_socket s){
+ssh_socket_get_status function    728 ./src/socket.c   int ssh_socket_get_status(ssh_socket s) {
+ssh_socket_init  function    104 ./src/socket.c   int ssh_socket_init(void) {
+ssh_socket_is_open function    514 ./src/socket.c   int ssh_socket_is_open(ssh_socket s) {
+ssh_socket_new   function    141 ./src/socket.c   ssh_socket ssh_socket_new(ssh_session session) {
+ssh_socket_nonblocking_flush function    633 ./src/socket.c   int ssh_socket_nonblocking_flush(ssh_socket s) {
+ssh_socket_pollcallback function    219 ./src/socket.c   int ssh_socket_pollcallback(struct ssh_poll_handle_struct *p, socket_t fd,
+ssh_socket_reset function    180 ./src/socket.c   void ssh_socket_reset(ssh_socket s){
+ssh_socket_set_blocking function    763 ./src/socket.c   int ssh_socket_set_blocking(socket_t fd) {
+ssh_socket_set_blocking function    773 ./src/socket.c   int ssh_socket_set_blocking(socket_t fd) {
+ssh_socket_set_callbacks function    202 ./src/socket.c   void ssh_socket_set_callbacks(ssh_socket s, ssh_socket_callbacks callbacks){
+ssh_socket_set_except function    704 ./src/socket.c   void ssh_socket_set_except(ssh_socket s) {
+ssh_socket_set_fd function    462 ./src/socket.c   void ssh_socket_set_fd(ssh_socket s, socket_t fd) {
+ssh_socket_set_fd_in function    484 ./src/socket.c   void ssh_socket_set_fd_in(ssh_socket s, socket_t fd) {
+ssh_socket_set_fd_out function    496 ./src/socket.c   void ssh_socket_set_fd_out(ssh_socket s, socket_t fd) {
+ssh_socket_set_nonblocking function    758 ./src/socket.c   int ssh_socket_set_nonblocking(socket_t fd) {
+ssh_socket_set_nonblocking function    769 ./src/socket.c   int ssh_socket_set_nonblocking(socket_t fd) {
+ssh_socket_set_read_wontblock function    700 ./src/socket.c   void ssh_socket_set_read_wontblock(ssh_socket s) {
+ssh_socket_set_write_wontblock function    696 ./src/socket.c   void ssh_socket_set_write_wontblock(ssh_socket s) {
+ssh_socket_unbuffered_read function    521 ./src/socket.c   static int ssh_socket_unbuffered_read(ssh_socket s, void *buffer, uint32_t len) {
+ssh_socket_unbuffered_write function    548 ./src/socket.c   static int ssh_socket_unbuffered_write(ssh_socket s, const void *buffer,
+ssh_socket_unix  function    388 ./src/socket.c   int ssh_socket_unix(ssh_socket s, const char *path) {
+ssh_socket_write function    616 ./src/socket.c   int ssh_socket_write(ssh_socket s, const void *buffer, int len) {
+ssh_srv_pki_do_sign_sessionid function   1583 ./src/pki.c      ssh_string ssh_srv_pki_do_sign_sessionid(ssh_session session,
+ssh_string_burn  function    244 ./src/string.c   void ssh_string_burn(struct ssh_string_struct *s) {
+ssh_string_copy  function    216 ./src/string.c   struct ssh_string_struct *ssh_string_copy(struct ssh_string_struct *s) {
+ssh_string_data  function    259 ./src/string.c   void *ssh_string_data(struct ssh_string_struct *s) {
+ssh_string_fill  function     82 ./src/string.c   int ssh_string_fill(struct ssh_string_struct *s, const void *data, size_t len) {
+ssh_string_free  function    272 ./src/string.c   void ssh_string_free(struct ssh_string_struct *s) {
+ssh_string_free_char function    204 ./src/string.c   void ssh_string_free_char(char *s) {
+ssh_string_from_char function    103 ./src/string.c   struct ssh_string_struct *ssh_string_from_char(const char *what) {
+ssh_string_get_char function    155 ./src/string.c   const char *ssh_string_get_char(struct ssh_string_struct *s)
+ssh_string_len   function    131 ./src/string.c   size_t ssh_string_len(struct ssh_string_struct *s) {
+ssh_string_new   function     53 ./src/string.c   struct ssh_string_struct *ssh_string_new(size_t size) {
+ssh_string_to_char function    176 ./src/string.c   char *ssh_string_to_char(struct ssh_string_struct *s) {
+ssh_threads_finalize function    177 ./src/threads.c  void ssh_threads_finalize(void){
+ssh_threads_get_noop function     55 ./src/threads.c  struct ssh_threads_callbacks_struct *ssh_threads_get_noop(void) {
+ssh_threads_get_pthread function     95 ./src/threads/pthread.c struct ssh_threads_callbacks_struct *ssh_threads_get_pthread(void) {
+ssh_threads_get_type function    189 ./src/threads.c  const char *ssh_threads_get_type(void) {
+ssh_threads_init function    154 ./src/threads.c  int ssh_threads_init(void){
+ssh_threads_set_callbacks function    184 ./src/threads.c  int ssh_threads_set_callbacks(struct ssh_threads_callbacks_struct *cb){
+ssh_timeout_elapsed function    963 ./src/misc.c     int ssh_timeout_elapsed(struct ssh_timestamp *ts, int timeout) {
+ssh_timeout_update function    994 ./src/misc.c     int ssh_timeout_update(struct ssh_timestamp *ts, int timeout){
+ssh_timestamp_difference function    922 ./src/misc.c     static int ssh_timestamp_difference(struct ssh_timestamp *old,
+ssh_timestamp_init function    899 ./src/misc.c     void ssh_timestamp_init(struct ssh_timestamp *ts){
+ssh_try_publickey_from_file function    633 ./src/legacy.c   int ssh_try_publickey_from_file(ssh_session session,
+ssh_type_from_name function    502 ./src/legacy.c   int ssh_type_from_name(const char *name) {
+ssh_type_to_char function    498 ./src/legacy.c   const char *ssh_type_to_char(int type) {
+ssh_userauth1_none function    142 ./src/auth1.c    int ssh_userauth1_none(ssh_session session, const char *username){
+ssh_userauth1_offer_pubkey function    149 ./src/auth1.c    int ssh_userauth1_offer_pubkey(ssh_session session, const char *username,
+ssh_userauth1_password function    159 ./src/auth1.c    int ssh_userauth1_password(ssh_session session, const char *username,
+ssh_userauth_agent function    766 ./src/auth.c     int ssh_userauth_agent(ssh_session session,
+ssh_userauth_agent_pubkey function   1176 ./src/auth.c     int ssh_userauth_agent_pubkey(ssh_session session,
+ssh_userauth_agent_publickey function    648 ./src/auth.c     static int ssh_userauth_agent_publickey(ssh_session session,
+ssh_userauth_autopubkey function     96 ./src/legacy.c   int ssh_userauth_autopubkey(ssh_session session, const char *passphrase) {
+ssh_userauth_get_response function    107 ./src/auth.c     static int ssh_userauth_get_response(ssh_session session) {
+ssh_userauth_gssapi function   1769 ./src/auth.c     int ssh_userauth_gssapi(ssh_session session) {
+ssh_userauth_kbdint function   1523 ./src/auth.c     int ssh_userauth_kbdint(ssh_session session, const char *user,
+ssh_userauth_kbdint_getanswer function   1692 ./src/auth.c     const char *ssh_userauth_kbdint_getanswer(ssh_session session, unsigned int i) {
+ssh_userauth_kbdint_getinstruction function   1614 ./src/auth.c     const char *ssh_userauth_kbdint_getinstruction(ssh_session session) {
+ssh_userauth_kbdint_getname function   1592 ./src/auth.c     const char *ssh_userauth_kbdint_getname(ssh_session session) {
+ssh_userauth_kbdint_getnanswers function   1677 ./src/auth.c     int ssh_userauth_kbdint_getnanswers(ssh_session session) {
+ssh_userauth_kbdint_getnprompts function   1571 ./src/auth.c     int ssh_userauth_kbdint_getnprompts(ssh_session session) {
+ssh_userauth_kbdint_getprompt function   1649 ./src/auth.c     const char *ssh_userauth_kbdint_getprompt(ssh_session session, unsigned int i,
+ssh_userauth_kbdint_init function   1286 ./src/auth.c     static int ssh_userauth_kbdint_init(ssh_session session,
+ssh_userauth_kbdint_send function   1351 ./src/auth.c     static int ssh_userauth_kbdint_send(ssh_session session)
+ssh_userauth_kbdint_setanswer function   1723 ./src/auth.c     int ssh_userauth_kbdint_setanswer(ssh_session session, unsigned int i,
+ssh_userauth_list function    318 ./src/auth.c     int ssh_userauth_list(ssh_session session, const char *username)
+ssh_userauth_none function    354 ./src/auth.c     int ssh_userauth_none(ssh_session session, const char *username) {
+ssh_userauth_offer_pubkey function     47 ./src/legacy.c   int ssh_userauth_offer_pubkey(ssh_session session, const char *username,
+ssh_userauth_password function   1109 ./src/auth.c     int ssh_userauth_password(ssh_session session,
+ssh_userauth_privatekey_file function    100 ./src/legacy.c   int ssh_userauth_privatekey_file(ssh_session session,
+ssh_userauth_pubkey function     67 ./src/legacy.c   int ssh_userauth_pubkey(ssh_session session,
+ssh_userauth_publickey function    550 ./src/auth.c     int ssh_userauth_publickey(ssh_session session,
+ssh_userauth_publickey_auto function    893 ./src/auth.c     int ssh_userauth_publickey_auto(ssh_session session,
+ssh_userauth_request_service function     68 ./src/auth.c     static int ssh_userauth_request_service(ssh_session session) {
+ssh_userauth_try_publickey function    441 ./src/auth.c     int ssh_userauth_try_publickey(ssh_session session,
+ssh_version      function    366 ./src/misc.c     const char *ssh_version(int req_version) {
+ssh_waitsession_unblocked function   1179 ./src/channels.c static int ssh_waitsession_unblocked(void *s){
+ssh_write_knownhost function    526 ./src/known_hosts.c int ssh_write_knownhost(ssh_session session) {
+status_msg_free  function    817 ./src/sftp.c     static void status_msg_free(sftp_status_message status){
+string_burn      function    308 ./src/legacy.c   void string_burn(ssh_string str){
+string_copy      function    312 ./src/legacy.c   ssh_string string_copy(ssh_string str){
+string_data      function    316 ./src/legacy.c   void *string_data(ssh_string str){
+string_fill      function    320 ./src/legacy.c   int string_fill(ssh_string str, const void *data, size_t len){
+string_free      function    324 ./src/legacy.c   void string_free(ssh_string str){
+string_from_char function    328 ./src/legacy.c   ssh_string string_from_char(const char *what){
+string_len       function    332 ./src/legacy.c   size_t string_len(ssh_string str){
+string_new       function    336 ./src/legacy.c   ssh_string string_new(size_t size){
+string_to_char   function    340 ./src/legacy.c   char *string_to_char(ssh_string str){
+sub              function     26 ./src/external/curve25519_ref.c static void sub(unsigned int out[32],const unsigned int a[32],const unsigned int b[32])
+subsystem_request function    413 ./examples/ssh_server_fork.c static int subsystem_request(ssh_session session, ssh_channel channel,
+system_checked   function     19 ./tests/pkd/pkd_util.c int system_checked(const char *cmd) {
+teardown         function     13 ./tests/client/torture_proxycommand.c static void teardown(void **state) {
+teardown         function     16 ./tests/unittests/torture_buffer.c static void teardown(void **state) {
+teardown         function     17 ./tests/unittests/torture_options.c static void teardown(void **state) {
+teardown         function     23 ./tests/unittests/torture_rand.c static void teardown(void **state) {
+teardown         function     24 ./tests/unittests/torture_misc.c static void teardown(void **state) {
+teardown         function     29 ./tests/client/torture_sftp_dir.c static void teardown(void **state) {
+teardown         function     31 ./tests/client/torture_sftp_read.c static void teardown(void **state) {
+teardown         function     32 ./tests/unittests/torture_callbacks.c static void teardown(void **state) {
+teardown         function     36 ./tests/client/torture_algorithms.c static void teardown(void **state) {
+teardown         function     40 ./tests/client/torture_auth.c static void teardown(void **state) {
+teardown         function     42 ./tests/client/torture_session.c static void teardown(void **state) {
+teardown         function     44 ./tests/client/torture_connect.c static void teardown(void **state) {
+teardown         function     44 ./tests/unittests/torture_server_x11.c static void teardown(void **state) {
+teardown         function     48 ./tests/client/torture_forward.c static void teardown(void **state)
+teardown         function     48 ./tests/client/torture_request_env.c static void teardown(void **state)
+teardown         function     56 ./tests/client/torture_knownhosts.c static void teardown(void **state) {
+teardown         function     61 ./tests/unittests/torture_keyfiles.c static void teardown(void **state) {
+teardown         function     86 ./tests/unittests/torture_pki.c static void teardown(void **state) {
+test_algorithm   function     40 ./tests/client/torture_algorithms.c static void test_algorithm(ssh_session session, const char *algo, const char *hmac) {
+test_mock_ssh_logging_callback function     64 ./tests/unittests/torture_callbacks.c static void test_mock_ssh_logging_callback(int priority,
+test_ssh_channel_request_x11 function    140 ./tests/unittests/torture_server_x11.c static void test_ssh_channel_request_x11(void **state) {
+thread           function     47 ./tests/sftp_stress/main.c int thread(){
+threads_id_noop  function     41 ./src/threads.c  static unsigned long threads_id_noop (void){
+threads_noop     function     36 ./src/threads.c  static int threads_noop (void **lock){
+times19          function     31 ./src/external/fe25519.c static uint32_t times19(uint32_t a)
+times38          function     36 ./src/external/fe25519.c static uint32_t times38(uint32_t a)
+timestamp_init   function     91 ./tests/benchmarks/latency.c void timestamp_init(struct timestamp_struct *ts){
+to_block4        function    181 ./src/base64.c   static int to_block4(unsigned long *block, const char *source, int num) {
+tokenize         function    137 ./src/kex.c      static char **tokenize(const char *chain){
+tokens_free      function     78 ./src/known_hosts.c static void tokens_free(char **tokens) {
+torture_algorithms_3des_cbc_hmac_sha1 function    142 ./tests/client/torture_algorithms.c static void torture_algorithms_3des_cbc_hmac_sha1(void **state) {
+torture_algorithms_3des_cbc_hmac_sha2_256 function    146 ./tests/client/torture_algorithms.c static void torture_algorithms_3des_cbc_hmac_sha2_256(void **state) {
+torture_algorithms_3des_cbc_hmac_sha2_512 function    150 ./tests/client/torture_algorithms.c static void torture_algorithms_3des_cbc_hmac_sha2_512(void **state) {
+torture_algorithms_aes128_cbc_hmac_sha1 function     70 ./tests/client/torture_algorithms.c static void torture_algorithms_aes128_cbc_hmac_sha1(void **state) {
+torture_algorithms_aes128_cbc_hmac_sha2_256 function     74 ./tests/client/torture_algorithms.c static void torture_algorithms_aes128_cbc_hmac_sha2_256(void **state) {
+torture_algorithms_aes128_cbc_hmac_sha2_512 function     78 ./tests/client/torture_algorithms.c static void torture_algorithms_aes128_cbc_hmac_sha2_512(void **state) {
+torture_algorithms_aes128_ctr_hmac_sha1 function    106 ./tests/client/torture_algorithms.c static void torture_algorithms_aes128_ctr_hmac_sha1(void **state) {
+torture_algorithms_aes128_ctr_hmac_sha2_256 function    110 ./tests/client/torture_algorithms.c static void torture_algorithms_aes128_ctr_hmac_sha2_256(void **state) {
+torture_algorithms_aes128_ctr_hmac_sha2_512 function    114 ./tests/client/torture_algorithms.c static void torture_algorithms_aes128_ctr_hmac_sha2_512(void **state) {
+torture_algorithms_aes192_cbc_hmac_sha1 function     82 ./tests/client/torture_algorithms.c static void torture_algorithms_aes192_cbc_hmac_sha1(void **state) {
+torture_algorithms_aes192_cbc_hmac_sha2_256 function     86 ./tests/client/torture_algorithms.c static void torture_algorithms_aes192_cbc_hmac_sha2_256(void **state) {
+torture_algorithms_aes192_cbc_hmac_sha2_512 function     90 ./tests/client/torture_algorithms.c static void torture_algorithms_aes192_cbc_hmac_sha2_512(void **state) {
+torture_algorithms_aes192_ctr_hmac_sha1 function    118 ./tests/client/torture_algorithms.c static void torture_algorithms_aes192_ctr_hmac_sha1(void **state) {
+torture_algorithms_aes192_ctr_hmac_sha2_256 function    122 ./tests/client/torture_algorithms.c static void torture_algorithms_aes192_ctr_hmac_sha2_256(void **state) {
+torture_algorithms_aes192_ctr_hmac_sha2_512 function    126 ./tests/client/torture_algorithms.c static void torture_algorithms_aes192_ctr_hmac_sha2_512(void **state) {
+torture_algorithms_aes256_cbc_hmac_sha1 function     94 ./tests/client/torture_algorithms.c static void torture_algorithms_aes256_cbc_hmac_sha1(void **state) {
+torture_algorithms_aes256_cbc_hmac_sha2_256 function     98 ./tests/client/torture_algorithms.c static void torture_algorithms_aes256_cbc_hmac_sha2_256(void **state) {
+torture_algorithms_aes256_cbc_hmac_sha2_512 function    102 ./tests/client/torture_algorithms.c static void torture_algorithms_aes256_cbc_hmac_sha2_512(void **state) {
+torture_algorithms_aes256_ctr_hmac_sha1 function    130 ./tests/client/torture_algorithms.c static void torture_algorithms_aes256_ctr_hmac_sha1(void **state) {
+torture_algorithms_aes256_ctr_hmac_sha2_256 function    134 ./tests/client/torture_algorithms.c static void torture_algorithms_aes256_ctr_hmac_sha2_256(void **state) {
+torture_algorithms_aes256_ctr_hmac_sha2_512 function    138 ./tests/client/torture_algorithms.c static void torture_algorithms_aes256_ctr_hmac_sha2_512(void **state) {
+torture_algorithms_blowfish_cbc_hmac_sha1 function    154 ./tests/client/torture_algorithms.c static void torture_algorithms_blowfish_cbc_hmac_sha1(void **state) {
+torture_algorithms_blowfish_cbc_hmac_sha2_256 function    158 ./tests/client/torture_algorithms.c static void torture_algorithms_blowfish_cbc_hmac_sha2_256(void **state) {
+torture_algorithms_blowfish_cbc_hmac_sha2_512 function    162 ./tests/client/torture_algorithms.c static void torture_algorithms_blowfish_cbc_hmac_sha2_512(void **state) {
+torture_algorithms_dh_group1 function    270 ./tests/client/torture_algorithms.c static void torture_algorithms_dh_group1(void **state) {
+torture_algorithms_ecdh_sha2_nistp256 function    248 ./tests/client/torture_algorithms.c static void torture_algorithms_ecdh_sha2_nistp256(void **state) {
+torture_algorithms_zlib function    166 ./tests/client/torture_algorithms.c static void torture_algorithms_zlib(void **state) {
+torture_algorithms_zlib_openssh function    206 ./tests/client/torture_algorithms.c static void torture_algorithms_zlib_openssh(void **state) {
+torture_auth_agent function    297 ./tests/client/torture_auth.c static void torture_auth_agent(void **state) {
+torture_auth_agent_nonblocking function    329 ./tests/client/torture_auth.c static void torture_auth_agent_nonblocking(void **state) {
+torture_auth_autopubkey function     45 ./tests/client/torture_auth.c static void torture_auth_autopubkey(void **state) {
+torture_auth_autopubkey_nonblocking function     74 ./tests/client/torture_auth.c static void torture_auth_autopubkey_nonblocking(void **state) {
+torture_auth_kbdint function    110 ./tests/client/torture_auth.c static void torture_auth_kbdint(void **state) {
+torture_auth_kbdint_nonblocking function    158 ./tests/client/torture_auth.c static void torture_auth_kbdint_nonblocking(void **state) {
+torture_auth_none function    366 ./tests/client/torture_auth.c static void torture_auth_none(void **state) {
+torture_auth_none_nonblocking function    391 ./tests/client/torture_auth.c static void torture_auth_none_nonblocking(void **state) {
+torture_auth_password function    217 ./tests/client/torture_auth.c static void torture_auth_password(void **state) {
+torture_auth_password_nonblocking function    253 ./tests/client/torture_auth.c static void torture_auth_password_nonblocking(void **state) {
+torture_basename function     45 ./tests/unittests/torture_misc.c static void torture_basename(void **state) {
+torture_buffer_add_format function    126 ./tests/unittests/torture_buffer.c static void torture_buffer_add_format(void **state) {
+torture_buffer_get_format function    157 ./tests/unittests/torture_buffer.c static void torture_buffer_get_format(void **state) {
+torture_buffer_get_format_error function    201 ./tests/unittests/torture_buffer.c static void torture_buffer_get_format_error(void **state) {
+torture_buffer_get_ssh_string function     94 ./tests/unittests/torture_buffer.c static void torture_buffer_get_ssh_string(void **state) {
+torture_buffer_pack_badformat function    226 ./tests/unittests/torture_buffer.c static void torture_buffer_pack_badformat(void **state){
+torture_buffer_prepend function     64 ./tests/unittests/torture_buffer.c static void torture_buffer_prepend(void **state) {
+torture_callbacks_exists function     42 ./tests/unittests/torture_callbacks.c static void torture_callbacks_exists(void **state) {
+torture_callbacks_size function     36 ./tests/unittests/torture_callbacks.c static void torture_callbacks_size(void **state) {
+torture_channel_read_error function     47 ./tests/client/torture_session.c static void torture_channel_read_error(void **state) {
+torture_channel_select function     11 ./tests/unittests/torture_channel.c static void torture_channel_select(void **state)
+torture_cmdline_parse function     60 ./tests/cmdline.c void torture_cmdline_parse(int argc, char **argv, struct argument_s *arguments) {
+torture_connect_double function     94 ./tests/client/torture_connect.c static void torture_connect_double(void **state) {
+torture_connect_failure function    109 ./tests/client/torture_connect.c static void torture_connect_failure(void **state) {
+torture_connect_nonblocking function     50 ./tests/client/torture_connect.c static void torture_connect_nonblocking(void **state) {
+torture_connect_socket function    119 ./tests/client/torture_connect.c static void torture_connect_socket(void **state) {
+torture_connect_timeout function     67 ./tests/client/torture_connect.c static void torture_connect_timeout(void **state) {
+torture_dirname  function     60 ./tests/unittests/torture_misc.c static void torture_dirname(void **state) {
+torture_generate_pubkey_from_privkey_dsa function    709 ./tests/unittests/torture_pki.c static void torture_generate_pubkey_from_privkey_dsa(void **state) {
+torture_generate_pubkey_from_privkey_ecdsa function    788 ./tests/unittests/torture_pki.c static void torture_generate_pubkey_from_privkey_ecdsa(void **state) {
+torture_generate_pubkey_from_privkey_ed25519 function    748 ./tests/unittests/torture_pki.c static void torture_generate_pubkey_from_privkey_ed25519(void **state){
+torture_generate_pubkey_from_privkey_rsa function    670 ./tests/unittests/torture_pki.c static void torture_generate_pubkey_from_privkey_rsa(void **state) {
+torture_get_testkey function    633 ./tests/torture.c const char *torture_get_testkey(enum ssh_keytypes_e type,
+torture_get_testkey_internal function    575 ./tests/torture.c static const char *torture_get_testkey_internal(enum ssh_keytypes_e type,
+torture_get_testkey_passphrase function    645 ./tests/torture.c const char *torture_get_testkey_passphrase(void)
+torture_get_testkey_pub function    640 ./tests/torture.c const char *torture_get_testkey_pub(enum ssh_keytypes_e type, int ecda_bits)
+torture_get_user_home_dir function     28 ./tests/unittests/torture_misc.c static void torture_get_user_home_dir(void **state) {
+torture_growing_buffer function     24 ./tests/unittests/torture_buffer.c static void torture_growing_buffer(void **state) {
+torture_growing_buffer_shifting function     42 ./tests/unittests/torture_buffer.c static void torture_growing_buffer_shifting(void **state) {
+torture_isdir    function    331 ./tests/torture.c int torture_isdir(const char *path) {
+torture_knownhosts_conflict function    208 ./tests/client/torture_knownhosts.c static void torture_knownhosts_conflict(void **state) {
+torture_knownhosts_fail function    114 ./tests/client/torture_knownhosts.c static void torture_knownhosts_fail(void **state) {
+torture_knownhosts_other function    140 ./tests/client/torture_knownhosts.c static void torture_knownhosts_other(void **state) {
+torture_knownhosts_other_auto function    166 ./tests/client/torture_knownhosts.c static void torture_knownhosts_other_auto(void **state) {
+torture_knownhosts_port function     65 ./tests/client/torture_knownhosts.c static void torture_knownhosts_port(void **state) {
+torture_knownhosts_precheck function    255 ./tests/client/torture_knownhosts.c static void torture_knownhosts_precheck(void **state) {
+torture_libssh_verbosity function    650 ./tests/torture.c int torture_libssh_verbosity(void){
+torture_log_callback function     78 ./tests/unittests/torture_callbacks.c static void torture_log_callback(void **state)
+torture_ntohll   function     75 ./tests/unittests/torture_misc.c static void torture_ntohll(void **state) {
+torture_options_get_host function     35 ./tests/unittests/torture_options.c static void torture_options_get_host(void **state) {
+torture_options_get_identity function    158 ./tests/unittests/torture_options.c static void torture_options_get_identity(void **state) {
+torture_options_get_port function     70 ./tests/unittests/torture_options.c static void torture_options_get_port(void **state) {
+torture_options_get_user function     82 ./tests/unittests/torture_options.c static void torture_options_get_user(void **state) {
+torture_options_proxycommand function    179 ./tests/unittests/torture_options.c static void torture_options_proxycommand(void **state) {
+torture_options_set_fd function     93 ./tests/unittests/torture_options.c static void torture_options_set_fd(void **state) {
+torture_options_set_host function     21 ./tests/unittests/torture_options.c static void torture_options_set_host(void **state) {
+torture_options_set_identity function    144 ./tests/unittests/torture_options.c static void torture_options_set_identity(void **state) {
+torture_options_set_port function     50 ./tests/unittests/torture_options.c static void torture_options_set_port(void **state) {
+torture_options_set_proxycommand function     17 ./tests/client/torture_proxycommand.c static void torture_options_set_proxycommand(void **state) {
+torture_options_set_proxycommand_notexist function     30 ./tests/client/torture_proxycommand.c static void torture_options_set_proxycommand_notexist(void **state) {
+torture_options_set_user function    107 ./tests/unittests/torture_options.c static void torture_options_set_user(void **state) {
+torture_path_expand_escape function    151 ./tests/unittests/torture_misc.c static void torture_path_expand_escape(void **state) {
+torture_path_expand_known_hosts function    166 ./tests/unittests/torture_misc.c static void torture_path_expand_known_hosts(void **state) {
+torture_path_expand_tilde_unix function    113 ./tests/unittests/torture_misc.c static void torture_path_expand_tilde_unix(void **state) {
+torture_path_expand_tilde_win function     96 ./tests/unittests/torture_misc.c static void torture_path_expand_tilde_win(void **state) {
+torture_pkd_client_noop function    255 ./tests/pkd/pkd_hello.c static void torture_pkd_client_noop(void **state) {
+torture_pkd_runtest function    261 ./tests/pkd/pkd_hello.c static void torture_pkd_runtest(const char *testname,
+torture_pkd_setup function    101 ./tests/pkd/pkd_hello.c static struct pkd_state *torture_pkd_setup(enum pkd_hostkey_type_e type,
+torture_pkd_setup_dsa function    136 ./tests/pkd/pkd_hello.c static void torture_pkd_setup_dsa(void **state) {
+torture_pkd_setup_ecdsa_256 function    141 ./tests/pkd/pkd_hello.c static void torture_pkd_setup_ecdsa_256(void **state) {
+torture_pkd_setup_ecdsa_384 function    146 ./tests/pkd/pkd_hello.c static void torture_pkd_setup_ecdsa_384(void **state) {
+torture_pkd_setup_ecdsa_521 function    151 ./tests/pkd/pkd_hello.c static void torture_pkd_setup_ecdsa_521(void **state) {
+torture_pkd_setup_noop function    127 ./tests/pkd/pkd_hello.c static void torture_pkd_setup_noop(void **state) {
+torture_pkd_setup_rsa function    131 ./tests/pkd/pkd_hello.c static void torture_pkd_setup_rsa(void **state) {
+torture_pkd_teardown function    114 ./tests/pkd/pkd_hello.c static void torture_pkd_teardown(void **state) {
+torture_pki_duplicate_key_dsa function    877 ./tests/unittests/torture_pki.c static void torture_pki_duplicate_key_dsa(void **state)
+torture_pki_duplicate_key_ecdsa function    924 ./tests/unittests/torture_pki.c static void torture_pki_duplicate_key_ecdsa(void **state)
+torture_pki_duplicate_key_rsa function    831 ./tests/unittests/torture_pki.c static void torture_pki_duplicate_key_rsa(void **state)
+torture_pki_ecdsa_duplicate_then_demote function    974 ./tests/unittests/torture_pki.c static void torture_pki_ecdsa_duplicate_then_demote(void **state)
+torture_pki_ecdsa_name function   1433 ./tests/unittests/torture_pki.c static void torture_pki_ecdsa_name(void **state, const char *expected_name)
+torture_pki_ecdsa_name256 function   1452 ./tests/unittests/torture_pki.c static void torture_pki_ecdsa_name256(void **state)
+torture_pki_ecdsa_name384 function   1457 ./tests/unittests/torture_pki.c static void torture_pki_ecdsa_name384(void **state)
+torture_pki_ecdsa_name521 function   1462 ./tests/unittests/torture_pki.c static void torture_pki_ecdsa_name521(void **state)
+torture_pki_ed25519_sign function     17 ./tests/unittests/torture_pki_ed25519.c static void torture_pki_ed25519_sign(void **state){
+torture_pki_ed25519_verify function     43 ./tests/unittests/torture_pki_ed25519.c static void torture_pki_ed25519_verify(void **state){
+torture_pki_ed25519_verify_bad function     75 ./tests/unittests/torture_pki_ed25519.c static void torture_pki_ed25519_verify_bad(void **state){
+torture_pki_generate_key_dsa function   1092 ./tests/unittests/torture_pki.c static void torture_pki_generate_key_dsa(void **state)
+torture_pki_generate_key_ecdsa function   1137 ./tests/unittests/torture_pki.c static void torture_pki_generate_key_ecdsa(void **state)
+torture_pki_generate_key_ed25519 function   1206 ./tests/unittests/torture_pki.c static void torture_pki_generate_key_ed25519(void **state)
+torture_pki_generate_key_rsa function   1004 ./tests/unittests/torture_pki.c static void torture_pki_generate_key_rsa(void **state)
+torture_pki_generate_key_rsa1 function   1048 ./tests/unittests/torture_pki.c static void torture_pki_generate_key_rsa1(void **state)
+torture_pki_import_privkey_base64_DSA function    255 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_DSA(void **state) {
+torture_pki_import_privkey_base64_ECDSA function    273 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_ECDSA(void **state) {
+torture_pki_import_privkey_base64_NULL_key function    225 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_NULL_key(void **state) {
+torture_pki_import_privkey_base64_NULL_str function    241 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_NULL_str(void **state) {
+torture_pki_import_privkey_base64_RSA function    197 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_RSA(void **state) {
+torture_pki_import_privkey_base64_ed25519 function    391 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_ed25519(void **state){
+torture_pki_import_privkey_base64_passphrase function    295 ./tests/unittests/torture_pki.c static void torture_pki_import_privkey_base64_passphrase(void **state) {
+torture_pki_keytype function    163 ./tests/unittests/torture_pki.c static void torture_pki_keytype(void **state) {
+torture_pki_pki_publickey_from_privatekey_DSA function    445 ./tests/unittests/torture_pki.c static void torture_pki_pki_publickey_from_privatekey_DSA(void **state) {
+torture_pki_pki_publickey_from_privatekey_RSA function    420 ./tests/unittests/torture_pki.c static void torture_pki_pki_publickey_from_privatekey_RSA(void **state) {
+torture_pki_pki_publickey_from_privatekey_ed25519 function    470 ./tests/unittests/torture_pki.c static void torture_pki_pki_publickey_from_privatekey_ed25519(void **state){
+torture_pki_publickey_dsa_base64 function    520 ./tests/unittests/torture_pki.c static void torture_pki_publickey_dsa_base64(void **state)
+torture_pki_publickey_ecdsa_base64 function    558 ./tests/unittests/torture_pki.c static void torture_pki_publickey_ecdsa_base64(void **state)
+torture_pki_publickey_ed25519_base64 function    634 ./tests/unittests/torture_pki.c static void torture_pki_publickey_ed25519_base64(void **state){
+torture_pki_publickey_from_privatekey_ECDSA function    496 ./tests/unittests/torture_pki.c static void torture_pki_publickey_from_privatekey_ECDSA(void **state) {
+torture_pki_publickey_rsa_base64 function    596 ./tests/unittests/torture_pki.c static void torture_pki_publickey_rsa_base64(void **state)
+torture_pki_signature function    185 ./tests/unittests/torture_pki.c static void torture_pki_signature(void **state)
+torture_pki_write_privkey_dsa function   1281 ./tests/unittests/torture_pki.c static void torture_pki_write_privkey_dsa(void **state)
+torture_pki_write_privkey_ecdsa function   1322 ./tests/unittests/torture_pki.c static void torture_pki_write_privkey_ecdsa(void **state)
+torture_pki_write_privkey_ed25519 function   1364 ./tests/unittests/torture_pki.c static void torture_pki_write_privkey_ed25519(void **state){
+torture_pki_write_privkey_rsa function   1241 ./tests/unittests/torture_pki.c static void torture_pki_write_privkey_rsa(void **state)
+torture_privatekey_from_file function    185 ./tests/unittests/torture_keyfiles.c static void torture_privatekey_from_file(void **state) {
+torture_privatekey_from_file_passphrase function    222 ./tests/unittests/torture_keyfiles.c static void torture_privatekey_from_file_passphrase(void **state) {
+torture_pubkey_from_file function     71 ./tests/unittests/torture_keyfiles.c static void torture_pubkey_from_file(void **state) {
+torture_pubkey_generate_from_privkey function    115 ./tests/unittests/torture_keyfiles.c static void torture_pubkey_generate_from_privkey(void **state) {
+torture_pubkey_len function    151 ./tests/unittests/torture_pki.c static int torture_pubkey_len(const char *pubkey){
+torture_rand_thread function     29 ./tests/unittests/torture_rand.c static void *torture_rand_thread(void *threadid) {
+torture_rand_threading function     45 ./tests/unittests/torture_rand.c static void torture_rand_threading(void **state) {
+torture_read_one_line function     95 ./tests/unittests/torture_keyfiles.c static int torture_read_one_line(const char *filename, char *buffer, size_t len) {
+torture_read_one_line function    127 ./tests/unittests/torture_pki.c static int torture_read_one_line(const char *filename, char *buffer, size_t len) {
+torture_request_env function     60 ./tests/client/torture_request_env.c static void torture_request_env(void **state)
+torture_rmdirs   function    264 ./tests/torture.c int torture_rmdirs(const char *path) {
+torture_run_tests function     20 ./tests/client/torture_sftp_static.c int torture_run_tests(void) {
+torture_run_tests function     43 ./tests/client/torture_proxycommand.c int torture_run_tests(void) {
+torture_run_tests function     62 ./tests/client/torture_sftp_dir.c int torture_run_tests(void) {
+torture_run_tests function     73 ./tests/client/torture_sftp_read.c int torture_run_tests(void) {
+torture_run_tests function     81 ./tests/client/torture_forward.c int torture_run_tests(void) {
+torture_run_tests function    100 ./tests/client/torture_request_env.c int torture_run_tests(void) {
+torture_run_tests function    100 ./tests/client/torture_session.c int torture_run_tests(void) {
+torture_run_tests function    142 ./tests/client/torture_connect.c int torture_run_tests(void) {
+torture_run_tests function    283 ./tests/client/torture_knownhosts.c int torture_run_tests(void) {
+torture_run_tests function    290 ./tests/client/torture_algorithms.c int torture_run_tests(void) {
+torture_run_tests function    422 ./tests/client/torture_auth.c int torture_run_tests(void) {
+torture_run_tests_1 function    251 ./tests/unittests/torture_buffer.c int torture_run_tests_1(void) {
+torture_run_tests_10 function   1468 ./tests/unittests/torture_pki.c int torture_run_tests_10(void) {
+torture_run_tests_11 function    111 ./tests/unittests/torture_pki_ed25519.c int torture_run_tests_11(void) {
+torture_run_tests_12 function     62 ./tests/unittests/torture_rand.c int torture_run_tests_12(void) {
+torture_run_tests_13 function    209 ./tests/unittests/torture_server_x11.c int torture_run_tests_13(void) {
+torture_run_tests_2 function     99 ./tests/unittests/torture_callbacks.c int torture_run_tests_2(void) {
+torture_run_tests_3 function     38 ./tests/unittests/torture_channel.c int torture_run_tests_3(void) {
+torture_run_tests_4 function     17 ./tests/unittests/torture_init.c int torture_run_tests_4(void) {
+torture_run_tests_5 function     46 ./tests/unittests/torture_isipaddr.c int torture_run_tests_5(void) {
+torture_run_tests_6 function    256 ./tests/unittests/torture_keyfiles.c int torture_run_tests_6(void) {
+torture_run_tests_7 function     79 ./tests/unittests/torture_list.c int torture_run_tests_7(void) {
+torture_run_tests_8 function    202 ./tests/unittests/torture_misc.c int torture_run_tests_8(void) {
+torture_run_tests_9 function    196 ./tests/unittests/torture_options.c int torture_run_tests_9(void) {
+torture_sftp_close function    535 ./tests/torture.c void torture_sftp_close(struct torture_sftp *t) {
+torture_sftp_ext_new function      6 ./tests/client/torture_sftp_static.c static void torture_sftp_ext_new(void **state) {
+torture_sftp_mkdir function     38 ./tests/client/torture_sftp_dir.c static void torture_sftp_mkdir(void **state) {
+torture_sftp_read_blocking function     40 ./tests/client/torture_sftp_read.c static void torture_sftp_read_blocking(void **state) {
+torture_sftp_session function    486 ./tests/torture.c struct torture_sftp *torture_sftp_session(ssh_session session) {
+torture_ssh_bind function    427 ./tests/torture.c ssh_bind torture_ssh_bind(const char *addr,
+torture_ssh_forward function     60 ./tests/client/torture_forward.c static void torture_ssh_forward(void **state)
+torture_ssh_init function      6 ./tests/unittests/torture_init.c static void torture_ssh_init(void **state) {
+torture_ssh_is_ipaddr function     11 ./tests/unittests/torture_isipaddr.c static void torture_ssh_is_ipaddr(void **state) {
+torture_ssh_list_append function     21 ./tests/unittests/torture_list.c static void torture_ssh_list_append(void **state) {
+torture_ssh_list_new function      7 ./tests/unittests/torture_list.c static void torture_ssh_list_new(void **state) {
+torture_ssh_list_prepend function     50 ./tests/unittests/torture_list.c static void torture_ssh_list_prepend(void **state) {
+torture_ssh_session function    341 ./tests/torture.c ssh_session torture_ssh_session(const char *host,
+torture_timeout_elapsed function    178 ./tests/unittests/torture_misc.c static void torture_timeout_elapsed(void **state){
+torture_timeout_update function    190 ./tests/unittests/torture_misc.c static void torture_timeout_update(void **state){
+torture_write_file function    558 ./tests/torture.c void torture_write_file(const char *filename, const char *data){
+upload_script    function     71 ./tests/benchmarks/bench_raw.c static int upload_script(ssh_session session, const char *path,
+usage            function     28 ./examples/scp_download.c static void usage(const char *argv0){
+usage            function     45 ./examples/libssh_scp.c static void usage(const char *argv0){
+usage            function     46 ./examples/sshnetcat.c static void usage(){
+usage            function     79 ./examples/sample.c static void usage(){
+usage            function    221 ./examples/samplesftp.c static void usage(const char *argv0){
+verify_existing_algo function    659 ./src/kex.c      int verify_existing_algo(int algo, const char *name){
+verify_knownhost function     32 ./examples/knownhosts.c int verify_knownhost(ssh_session session){
+wait_auth1_status function     46 ./src/auth1.c    static int wait_auth1_status(ssh_session session) {

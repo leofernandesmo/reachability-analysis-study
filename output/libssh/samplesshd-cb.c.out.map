@@ -1,0 +1,10 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:auth_gssapi_mic
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:auth_password
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:main:#ifdef HAVE_ARGP_H
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:new_session_channel
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:parse_opt:#ifdef HAVE_ARGP_H
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:pty_request
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:shell_request
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifdef HAVE_ARGP_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifdef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-cb.c:#ifndef KEYS_FOLDER

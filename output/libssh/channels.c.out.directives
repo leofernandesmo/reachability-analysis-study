@@ -1,0 +1,18 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifndef:#ifndef _WIN32:32:35
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#if :#if WITH_SERVER:46:48
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:349:355
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:415:419
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SERVER:770:778
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:865:869
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:898:902
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:1251:1257
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:1634:1640
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:1712:1718
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:1758:1762
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifndef:#ifndef _WIN32:1917:1922
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef _WIN32:1958:1962
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:2380:2384
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:2455:2459
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:3334:3338
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#ifdef:#ifdef WITH_SSH1:3389:3393
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels.c:#if :#if WITH_SERVER:3162:3418

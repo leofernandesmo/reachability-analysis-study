@@ -1,0 +1,10 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:SSH_PACKET_CALLBACK:261:289
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:SSH_PACKET_CALLBACK:291:320
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:SSH_PACKET_CALLBACK:322:338
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:channel_change_pty_size1:161:208
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:channel_open_session1:54:80
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:channel_request_exec1:231:259
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:channel_request_pty_size1:94:159
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:channel_request_shell1:210:229
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:channel_write1:341:378
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:ssh_get_channel1:380:394

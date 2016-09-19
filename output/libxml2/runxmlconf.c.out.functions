@@ -1,0 +1,17 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:checkTestFile:50:65
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:composeDir:67:75
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:initializeLibxml2:155:174
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:main:551:599
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:main:604:606
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:testErrorHandler:129:150
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:testExternalEntityLoader:93:100
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:test_log:111:126
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfInfo:506:511
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTest:514:542
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestCases:441:477
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestInvalid:183:210
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestItem:289:438
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestNotNSWF:245:270
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestNotWF:273:286
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestSuite:480:503
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/runxmlconf.c:xmlconfTestValid:213:242

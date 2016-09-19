@@ -1,0 +1,32 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:SSH_PACKET_CALLBACK
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:SSH_PACKET_CALLBACK
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:SSH_PACKET_CALLBACK
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:SSH_PACKET_CALLBACK:#ifdef WITH_GSSAPI
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:SSH_PACKET_CALLBACK
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_auth_response_termination
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_kbdint_clean
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_kbdint_free
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_kbdint_new
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_agent:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_agent_pubkey:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_agent_publickey:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_get_response
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_gssapi:#ifdef WITH_GSSAPI
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_getanswer:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_getinstruction
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_getname
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_getnanswers:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_getnprompts
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_getprompt
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_init
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_send
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_kbdint_setanswer
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_list:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_none:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_password:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_publickey:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_publickey_auto:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_request_service
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:ssh_userauth_try_publickey:#ifdef WITH_SSH1
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifndef _WIN32

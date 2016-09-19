@@ -1,0 +1,7 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:send_username:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:ssh_auth1_handler:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:ssh_auth_status_termination:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:ssh_userauth1_none:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:ssh_userauth1_offer_pubkey:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:ssh_userauth1_password:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth1.c:wait_auth1_status:#ifdef WITH_SSH1

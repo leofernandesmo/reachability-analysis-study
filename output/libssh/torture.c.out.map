@@ -1,0 +1,17 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:_torture_auth_kbdint:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:_torture_filter_tests
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:main
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_get_testkey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_get_testkey_internal
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_get_testkey_passphrase
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_get_testkey_pub
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_isdir:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_libssh_verbosity
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_rmdirs:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_sftp_close:#ifdef WITH_SFTP:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_sftp_session:#ifdef WITH_SFTP:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_ssh_bind:#ifdef WITH_SERVER:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_ssh_session:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:torture_write_file
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifdef HAVE_UNISTD_H

@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:SSH_PACKET_CALLBACK:333:343
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:SSH_PACKET_CALLBACK:345:355
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:SSH_PACKET_CALLBACK:357:368
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:packet_send1:255:331
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:ssh_packet_set_default_callbacks1:85:91
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:ssh_packet_socket_callback1:103:252

@@ -1,0 +1,7 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef HAVE_TERMIOS_H:18:20
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef HAVE_UNISTD_H:21:23
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef WITH_PCAP:41:44
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef WITH_PCAP:55:59
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef WITH_PCAP:217:238
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef WITH_PCAP:251:253
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:#ifdef:#ifdef WITH_PCAP:258:260

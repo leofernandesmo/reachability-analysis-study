@@ -1,0 +1,5 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/getpass.c:ssh_getpass:#ifdef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/getpass.c:ssh_getpass:#ifdef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/getpass.c:ssh_gets
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/getpass.c:#ifdef HAVE_TERMIOS_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/getpass.c:#ifdef HAVE_UNISTD_H

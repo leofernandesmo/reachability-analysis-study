@@ -1,0 +1,7 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:SSH_PACKET_CALLBACK:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:SSH_PACKET_CALLBACK:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:SSH_PACKET_CALLBACK:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:packet_send1:#ifdef WITH_ZLIB:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:ssh_packet_set_default_callbacks1:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:ssh_packet_socket_callback1:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef WITH_ZLIB:#ifdef WITH_SSH1
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifndef _WIN32

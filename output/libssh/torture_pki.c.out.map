@@ -1,0 +1,51 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:read_file
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_both_keys
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_dsa_key
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_ecdsa_key:#ifdef HAVE_OPENSSL_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_ecdsa_key_256:#ifdef HAVE_OPENSSL_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_ecdsa_key_384:#ifdef HAVE_OPENSSL_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_ecdsa_key_521:#ifdef HAVE_OPENSSL_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_ed25519_key
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:setup_rsa_key
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:teardown
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_generate_pubkey_from_privkey_dsa
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_generate_pubkey_from_privkey_ecdsa:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_generate_pubkey_from_privkey_ed25519
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_generate_pubkey_from_privkey_rsa
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_duplicate_key_dsa
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_duplicate_key_ecdsa:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_duplicate_key_rsa
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_ecdsa_duplicate_then_demote:#ifdef HAVE_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_ecdsa_name:#ifdef HAVE_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_ecdsa_name256:#ifdef HAVE_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_ecdsa_name384:#ifdef HAVE_ECC
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_ecdsa_name521:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_generate_key_dsa
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_generate_key_ecdsa:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_generate_key_ed25519
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_generate_key_rsa
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_generate_key_rsa1
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_DSA
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_ECDSA:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_NULL_key
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_NULL_str
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_RSA
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_ed25519
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_import_privkey_base64_passphrase:#ifndef HAVE_LIBCRYPTO:#ifndef HAVE_LIBCRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_keytype
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_pki_publickey_from_privatekey_DSA
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_pki_publickey_from_privatekey_RSA
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_pki_publickey_from_privatekey_ed25519
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_publickey_dsa_base64
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_publickey_ecdsa_base64:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_publickey_ed25519_base64
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_publickey_from_privatekey_ECDSA:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_publickey_rsa_base64
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_signature
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_write_privkey_dsa:#ifdef HAVE_LIBCRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_write_privkey_ecdsa:#ifdef HAVE_ECC:#ifdef HAVE_LIBCRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_write_privkey_ed25519
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pki_write_privkey_rsa:#ifdef HAVE_LIBCRYPTO
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_pubkey_len
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_read_one_line
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki.c:torture_run_tests_10:#ifdef HAVE_ECC:#ifdef HAVE_ECC:#ifdef HAVE_ECC:#ifdef HAVE_ECC:#ifdef HAVE_ECC:#ifdef HAVE_ECC:#ifdef HAVE_ECC:#ifdef HAVE_LIBCRYPTO:#ifdef HAVE_ECC

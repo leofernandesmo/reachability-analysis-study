@@ -1,0 +1,3 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:#ifdef:#ifdef HAVE_ARPA_INET_H:27:29
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:#ifdef:#ifdef HAVE_ECDH:111:115
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_cb.c:#ifdef:#ifdef HAVE_CURVE25519:116:120

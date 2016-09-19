@@ -1,0 +1,8 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:cleanup_pcap:234:237
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:client:187:215
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:forwarding:175:185
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:main:240:265
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:opts:51:74
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:select_loop:76:173
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:set_pcap:220:231
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sshnetcat.c:usage:46:49

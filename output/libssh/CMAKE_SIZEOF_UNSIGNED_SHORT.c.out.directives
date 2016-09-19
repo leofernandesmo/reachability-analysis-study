@@ -1,0 +1,3 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c:#if :#if defined(__i386):7:15
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c:#ifdef:#ifdef KEY:25:27
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c:#ifdef:#ifdef __CLASSIC_C__:30:34

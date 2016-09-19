@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/callbacks.c:ssh_legacy_log_callback:31:43
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/callbacks.c:ssh_set_callbacks:45:65
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/callbacks.c:ssh_set_channel_callbacks:67:83
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/callbacks.c:ssh_set_server_callbacks:85:99

@@ -1,0 +1,16 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:__libxml2_xzclose:729:754
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:__libxml2_xzdopen:192:203
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:__libxml2_xzopen:186:189
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:__libxml2_xzread:640:726
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:gz_next4:321:336
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:is_format_lzma:257:309
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:is_format_xz:249:254
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_avail:228:246
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_decomp:485:582
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_error:87:118
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_head:340:482
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_load:206:225
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_make:585:607
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_open:137:183
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_reset:121:134
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xzlib.c:xz_skip:610:637

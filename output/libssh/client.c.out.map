@@ -1,0 +1,14 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:callback_receive_banner:#ifdef WITH_PCAP
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:dh_handshake:#ifdef HAVE_ECDH:#ifdef HAVE_CURVE25519
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:socket_callback_connected
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_client_connection_callback:#ifdef WITH_SSH1:#ifdef WITH_SSH1:#ifdef WITH_SSH1:#ifdef WITH_SSH1
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_connect:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_connect_termination
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_copyright
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_disconnect
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_get_issue_banner
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_get_openssh_version
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_send_banner:#ifdef WITH_PCAP
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_service_request
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:ssh_service_request_termination
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/client.c:#ifndef _WIN32

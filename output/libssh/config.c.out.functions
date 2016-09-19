@@ -1,0 +1,8 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_get_cmd:91:122
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_get_int:143:157
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_get_opcode:79:89
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_get_str_tok:159:168
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_get_token:124:141
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_get_yesno:170:185
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_parse_file:376:399
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/config.c:ssh_config_parse_line:187:373

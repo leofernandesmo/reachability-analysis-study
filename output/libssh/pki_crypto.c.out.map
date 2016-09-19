@@ -1,0 +1,28 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:_RSA_do_sign:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:make_ecpoint_string:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pem_get_password:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_do_sign:#ifdef DEBUG_CRYPTO:# ifdef DEBUG_CRYPTO:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_do_sign_sessionid:#ifdef HAVE_OPENSSL_ECC:#ifdef WITH_SERVER:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_dsa_signature_to_blob:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_export_pubkey_rsa1:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_compare:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_dup:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_ecdsa_nid_from_name:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_ecdsa_nid_to_char:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_ecdsa_nid_to_name:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_ecdsa_to_nid:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_generate_dss:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_generate_ecdsa:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_key_generate_rsa:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_private_key_from_base64:#ifdef HAVE_OPENSSL_ECC:#ifdef HAVE_OPENSSL_ECC:#ifdef HAVE_OPENSSL_ECC:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_private_key_to_pem:#ifdef HAVE_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_pubkey_build_dss:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_pubkey_build_ecdsa:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_pubkey_build_rsa:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_publickey_to_blob:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_signature_from_blob:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_signature_from_rsa_blob:#ifdef DEBUG_CRYPTO:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_signature_to_blob:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:pki_signature_verify:#ifdef HAVE_OPENSSL_ECC:#ifndef _PKI_CRYPTO_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:#ifdef HAVE_OPENSSL_EC_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_crypto.c:#ifdef HAVE_OPENSSL_ECDSA_H

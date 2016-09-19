@@ -1,0 +1,4 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki_ed25519.c:torture_pki_ed25519_sign
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki_ed25519.c:torture_pki_ed25519_verify
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki_ed25519.c:torture_pki_ed25519_verify_bad
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_pki_ed25519.c:torture_run_tests_11

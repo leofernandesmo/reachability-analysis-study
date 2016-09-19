@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_sftp_dir.c:setup:6:27
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_sftp_dir.c:teardown:29:36
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_sftp_dir.c:torture_run_tests:62:75
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_sftp_dir.c:torture_sftp_mkdir:38:60

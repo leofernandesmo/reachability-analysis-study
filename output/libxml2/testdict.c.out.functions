@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testdict.c:clean_strings:133:144
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testdict.c:fill_strings:35:118
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testdict.c:main:425:444
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testdict.c:print_strings:121:130
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testdict.c:run_test1:312:423
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testdict.c:run_test2:149:307

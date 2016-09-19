@@ -1,0 +1,7 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:close:43:46
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:getcwd:49:55
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:getenv:57:60
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:open:32:41
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:read:22:25
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:strerror:62:68
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/win32/wince/wincecompat.c:write:27:30

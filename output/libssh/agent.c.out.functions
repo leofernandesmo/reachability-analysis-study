@@ -1,0 +1,16 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_close:208:214
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_connect:229:249
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_free:216:227
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_get_u32:65:75
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_is_running:484:500
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_new:146:163
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_put_u32:77:84
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_set_channel:165:167
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:agent_talk:271:328
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:atomicio:86:144
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:ssh_agent_get_first_ident:421:428
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:ssh_agent_get_ident_count:330:418
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:ssh_agent_get_next_ident:431:482
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:ssh_agent_sign_data:502:590
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:ssh_set_agent_channel:177:186
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:ssh_set_agent_socket:196:206

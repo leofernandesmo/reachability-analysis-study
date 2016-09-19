@@ -1,0 +1,15 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:add_p1p1:125:143
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:choose_t:193:211
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:cmov_aff:165:169
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:dbl_p1p1:146:162
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:equal:171:182
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:ge25519_double_scalarmult_vartime:306:350
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:ge25519_isneutral_vartime:290:303
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:ge25519_mixadd2:102:123
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:ge25519_pack:278:288
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:ge25519_scalarmult_base:352:367
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:ge25519_unpackneg_vartime:226:276
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:negative:184:191
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:p1p1_to_p2:89:94
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:p1p1_to_p3:96:100
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ge25519.c:setneutral:213:219

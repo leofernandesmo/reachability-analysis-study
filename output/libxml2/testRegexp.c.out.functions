@@ -1,0 +1,8 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:exprDebug:217:255
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:main:270:394
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:main:398:401
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:runFileTest:91:182
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:testReduce:185:214
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:testRegexp:19:34
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:testRegexpFile:37:87
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testRegexp.c:usage:258:268

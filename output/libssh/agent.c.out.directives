@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:#ifdef:#ifdef HAVE_UNISTD_H:45:47
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:#ifdef:#ifdef EWOULDBLOCK:111:115
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:#if :#if 0:251:269
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/agent.c:#ifndef:#ifndef _WIN32:36:592

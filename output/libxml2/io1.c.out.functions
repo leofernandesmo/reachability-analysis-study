@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/io1.c:main:104:160
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/io1.c:main:162:165
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/io1.c:sqlClose:68:73
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/io1.c:sqlMatch:35:39
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/io1.c:sqlOpen:51:57
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/io1.c:sqlRead:86:96

@@ -1,0 +1,11 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifndef:#ifndef _WIN32:29:32
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_SERVER:45:48
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifndef:#ifndef WITH_SERVER:76:94
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_SERVER:96:320
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_SERVER:358:368
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_GSSAPI:792:841
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_SERVER:558:862
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_GSSAPI:887:891
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#if :#if 0 // should we wipe the username ?:906:908
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifndef:#ifndef WITH_SERVER:869:987
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef:#ifdef WITH_SERVER:1311:1394

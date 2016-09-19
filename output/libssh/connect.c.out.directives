@@ -1,0 +1,11 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef HAVE_WSPIAPI_H:43:51
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#if :#if _MSC_VER >= 1400:53:57
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef HAVE_WSPIAPI_H:63:65
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifndef:#ifndef EINPROGRESS:67:69
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef _WIN32:35:78
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifndef:#ifndef HAVE_GETADDRINFO:86:88
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifndef:#ifndef gai_strerror:91:99
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef _WIN32:90:100
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef _WIN32:103:107
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef AI_NUMERICSERV:127:129
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/connect.c:#ifdef:#ifdef _WIN32:172:174

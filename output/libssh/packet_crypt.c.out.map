@@ -1,0 +1,6 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_crypt.c:packet_decrypt
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_crypt.c:packet_decrypt_len
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_crypt.c:packet_encrypt:#ifdef DEBUG_CRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_crypt.c:packet_hmac_verify:#ifdef DEBUG_CRYPTO
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_crypt.c:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet_crypt.c:#ifdef OPENSSL_CRYPTO

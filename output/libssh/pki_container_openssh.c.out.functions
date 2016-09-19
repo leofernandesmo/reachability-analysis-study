@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_container_openssh.c:pki_openssh_export_privkey_blob:416:437
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_container_openssh.c:pki_openssh_import_privkey_blob:57:141
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_container_openssh.c:pki_private_key_decrypt:147:265
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_container_openssh.c:pki_private_key_encrypt:443:544
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_container_openssh.c:ssh_pki_openssh_privkey_export:554:718
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_container_openssh.c:ssh_pki_openssh_privkey_import:272:406

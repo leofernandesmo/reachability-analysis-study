@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads.c:#if :#if (GCRYPT_VERSION_NUMBER >= 0x010600):62:102
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads.c:#ifdef:#ifdef HAVE_LIBGCRYPT:61:148
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads.c:#ifdef:#ifdef HAVE_LIBGCRYPT:167:171
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads.c:#ifdef:#ifdef HAVE_LIBGCRYPT:178:181

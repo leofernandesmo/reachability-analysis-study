@@ -1,0 +1,14 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:getClassification:776:794
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:main:809:913
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:print_class:797:807
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_fpclassify_and_signbit:560:722
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_is_negative:218:230
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_is_special_quantity:194:212
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_isinf:442:509
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_isnan:371:433
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_make_double:177:188
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_nan:323:362
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_ninf:302:315
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_nzero:241:250
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_pinf:258:294
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/trionan.c:trio_signbit:732:740

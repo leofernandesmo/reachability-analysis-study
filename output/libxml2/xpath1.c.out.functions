@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/xpath1.c:execute_xpath_expression:85:134
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/xpath1.c:main:30:56
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/xpath1.c:main:246:249
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/xpath1.c:print_xpath_nodes:205:243
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/xpath1.c:register_namespaces:147:195
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/xpath1.c:usage:65:71

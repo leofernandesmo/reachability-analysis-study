@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/sftp.c:#ifdef:#ifdef _MSC_VER:45:48
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/sftp.c:#ifndef:#ifndef _WIN32:38:49
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/sftp.c:#ifdef:#ifdef WITH_SERVER:182:256
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/sftp.c:#ifdef:#ifdef WITH_SFTP:59:3099

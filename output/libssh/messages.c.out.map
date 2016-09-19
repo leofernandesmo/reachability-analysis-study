@@ -1,0 +1,26 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:SSH_PACKET_CALLBACK:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:SSH_PACKET_CALLBACK:#ifdef WITH_GSSAPI:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:SSH_PACKET_CALLBACK:#ifndef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:SSH_PACKET_CALLBACK:#ifdef WITH_GSSAPI:#if 0 // should we wipe the username ?:#ifndef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:SSH_PACKET_CALLBACK
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:SSH_PACKET_CALLBACK:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_execute_client_request:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_execute_message_callback
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_execute_server_callbacks:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_execute_server_request:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_channel_request_open_reply_accept
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_channel_request_open_reply_accept_channel
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_channel_request_reply_success
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_free
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_get
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_handle_channel_request
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_new
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_pop_head
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_queue:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_reply_default:#ifndef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_subtype
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_termination
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_message_type
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:ssh_msg_userauth_build_digest:#ifdef WITH_SERVER
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/messages.c:#ifdef WITH_SERVER

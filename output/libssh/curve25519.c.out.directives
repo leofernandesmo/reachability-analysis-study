@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:#ifdef:#ifdef WITH_NACL:29:31
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:#ifdef:#ifdef DEBUG_CRYPTO:89:95
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:#ifdef:#ifdef WITH_SERVER:157:284
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:#ifdef:#ifdef HAVE_CURVE25519:27:286

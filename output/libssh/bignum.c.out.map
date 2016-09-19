@@ -1,0 +1,4 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:make_bignum_string:#ifdef DEBUG_CRYPTO:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:make_string_bn:#ifdef DEBUG_CRYPTO:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:make_string_bn_inplace:#ifdef HAVE_LIBGCRYPT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:ssh_print_bignum:#ifdef HAVE_LIBGCRYPT:#ifdef HAVE_LIBGCRYPT

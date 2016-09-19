@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bind.c:#ifdef:#ifdef HAVE_WSPIAPI_H:58:60
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bind.c:#ifdef:#ifdef _WIN32:49:71
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bind.c:#ifdef:#ifdef HAVE_ECC:158:179
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bind.c:#ifdef:#ifdef HAVE_ECC:438:446

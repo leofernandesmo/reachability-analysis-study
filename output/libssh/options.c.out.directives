@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifndef:#ifndef _WIN32:29:33
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifdef:#ifdef WITH_SERVER:39:42
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifdef:#ifdef WITH_SSH1:1027:1031
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifdef:#ifdef _MSC_VER:1033:1181
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifdef:#ifdef HAVE_ECC:1418:1426
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/options.c:#ifdef:#ifdef WITH_SERVER:1299:1565

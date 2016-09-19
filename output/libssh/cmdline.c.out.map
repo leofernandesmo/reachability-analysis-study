@@ -1,0 +1,2 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/cmdline.c:parse_opt:#ifdef HAVE_ARGP_H
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/cmdline.c:torture_cmdline_parse:#ifdef HAVE_ARGP_H

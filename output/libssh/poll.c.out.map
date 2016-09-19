@@ -1,0 +1,40 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:bsd_poll:#ifndef _WIN32:#ifdef _WIN32:#ifdef HAVE_POLL
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_add_fd
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_add_session:#ifdef WITH_SERVER:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_dopoll
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_fd_wrapper_callback
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_free:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_new:#ifdef WITH_SERVER
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_remove_fd
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_event_remove_session:#ifdef WITH_SERVER:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll:#ifdef HAVE_POLL
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll:#ifdef HAVE_POLL
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_add_events
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_cleanup:#ifdef HAVE_POLL
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_cleanup:#ifdef HAVE_POLL
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_add
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_add_socket
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_dopoll
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_free
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_new
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_remove
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_ctx_resize
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_free
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_get_ctx
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_get_default_ctx
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_get_events
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_get_fd
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_init:#ifdef HAVE_POLL
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_init:#ifdef HAVE_POLL
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_new
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_remove_events
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_set_callback
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_set_events
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:ssh_poll_set_fd
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:#ifdef WITH_SERVER
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:#ifndef SSH_POLL_CTX_CHUNK
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:#ifndef STRICT
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:# ifdef HAVE_SYS_TIME_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:#ifdef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:#ifdef HAVE_UNISTD_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/poll.c:#ifdef WITH_SERVER

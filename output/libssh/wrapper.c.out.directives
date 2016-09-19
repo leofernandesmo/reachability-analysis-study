@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef:#ifdef WITH_ZLIB:41:43
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef:#ifdef HAVE_LIBGCRYPT:107:109
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef:#ifdef HAVE_LIBGCRYPT:116:123
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef:#ifdef HAVE_ECDH:160:163
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef:#ifdef WITH_ZLIB:172:184
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef:#ifdef WITH_SERVER:349:469

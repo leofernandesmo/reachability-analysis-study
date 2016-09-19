@@ -1,0 +1,2 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:#if :#if defined(_WIN32) && !defined(__WINPTHREADS_VERSION):78:82
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:#ifdef:#ifdef HAVE_PTHREAD:25:99

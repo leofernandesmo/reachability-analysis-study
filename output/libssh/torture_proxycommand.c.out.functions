@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_proxycommand.c:setup:7:11
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_proxycommand.c:teardown:13:15
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_proxycommand.c:torture_options_set_proxycommand:17:28
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_proxycommand.c:torture_options_set_proxycommand_notexist:30:41
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_proxycommand.c:torture_run_tests:43:58

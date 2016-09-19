@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gssapi.c:#ifdef:#ifdef HAVE_UNISTD_H:26:28
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gssapi.c:#ifdef:#ifdef WITH_SERVER:105:108
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gssapi.c:#ifdef:#ifdef WITH_SERVER:111:130
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gssapi.c:#ifdef:#ifdef WITH_SERVER:139:369
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gssapi.c:#ifdef:#ifdef WITH_SERVER:398:494

@@ -1,0 +1,5 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/feature_tests.c:main
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/feature_tests.c:#if (__GNUC__ * 100 + __GNUC_MINOR__) >= 404
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/feature_tests.c:#if (__GNUC__ * 100 + __GNUC_MINOR__) >= 404 && defined(__STDC_VERSION__) && __STDC_VERSION__ >= 199901L
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/feature_tests.c:#if (__GNUC__ * 100 + __GNUC_MINOR__) >= 406 && defined(__STDC_VERSION__) && __STDC_VERSION__ >= 201000L
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/build/CMakeFiles/feature_tests.c:#if (__GNUC__ * 100 + __GNUC_MINOR__) >= 404 && defined(__STDC_VERSION__) && __STDC_VERSION__ >= 199901L

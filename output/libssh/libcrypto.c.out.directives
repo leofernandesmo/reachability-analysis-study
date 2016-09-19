@@ -1,0 +1,22 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAVE_SYS_TIME_H:27:29
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAVE_OPENSSL_AES_H:47:50
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAVE_OPENSSL_BLOWFISH_H:51:54
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAVE_OPENSSL_DES_H:55:58
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#if :#if (OPENSSL_VERSION_NUMBER<0x00907000L):60:62
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifndef:#ifndef _WIN32:86:90
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAVE_OPENSSL_ECC:116:166
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifndef:#ifndef OLD_CRYPTO:330:332
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifndef:#ifndef OLD_CRYPTO:365:369
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAS_BLOWFISH:374:396
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifndef:#ifndef BROKEN_AES_CTR:438:460
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAS_AES:398:461
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef DEBUG_CRYPTO:499:501
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef DEBUG_CRYPTO:507:509
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef DEBUG_CRYPTO:514:516
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef DEBUG_CRYPTO:524:526
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAS_DES:463:553
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAS_BLOWFISH:562:575
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifndef:#ifndef BROKEN_AES_CTR:577:614
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAS_AES:576:651
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAS_DES:652:689
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/libcrypto.c:#ifdef:#ifdef HAVE_LIBCRYPTO:37:710

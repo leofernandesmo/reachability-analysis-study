@@ -1,0 +1,8 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef:#ifdef HAVE_TERMIOS_H:23:25
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef:#ifdef HAVE_UNISTD_H:26:28
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef:#ifdef HAVE_PTY_H:29:31
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef:#ifdef WITH_PCAP:87:89
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifndef:#ifndef _WIN32:90:92
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifndef:#ifndef _WIN32:108:112
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifndef:#ifndef HAVE_CFMAKERAW:127:135
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef:#ifdef USE_CHANNEL_SELECT:184:381

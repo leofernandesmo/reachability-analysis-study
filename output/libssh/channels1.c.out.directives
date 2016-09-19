@@ -1,0 +1,3 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:#ifndef:#ifndef _WIN32:28:30
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:#ifdef:#ifdef HAVE_UNISTD_H:31:33
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/channels1.c:#ifdef:#ifdef WITH_SSH1:43:395

@@ -1,0 +1,7 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:ConvertInput:1144:1191
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:main:30:60
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:main:1194:1197
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:testXmlwriterDoc:623:866
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:testXmlwriterFilename:69:328
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:testXmlwriterMemory:337:614
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/doc/examples/testWriter.c:testXmlwriterTree:875:1132

@@ -1,0 +1,11 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_burn:244:250
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_copy:216:237
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_data:259:265
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_fill:82:91
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_free:272:274
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_free_char:204:206
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_from_char:103:122
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_get_char:155:163
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_len:131:144
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_new:53:69
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/string.c:ssh_string_to_char:176:197

@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/error.c:_ssh_set_error:51:69
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/error.c:_ssh_set_error_invalid:98:102
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/error.c:_ssh_set_error_oom:79:86
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/error.c:ssh_get_error:111:115
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/error.c:ssh_get_error_code:131:135

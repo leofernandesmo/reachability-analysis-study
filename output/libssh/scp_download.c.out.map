@@ -1,0 +1,5 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/scp_download.c:create_files
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/scp_download.c:fetch_files
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/scp_download.c:main
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/scp_download.c:opts
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/scp_download.c:usage

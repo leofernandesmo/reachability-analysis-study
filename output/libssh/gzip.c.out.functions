@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gzip.c:compress_buffer:103:123
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gzip.c:decompress_buffer:199:219
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gzip.c:gzip_compress:59:101
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gzip.c:gzip_decompress:148:197
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gzip.c:initcompress:38:57
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/gzip.c:initdecompress:127:146

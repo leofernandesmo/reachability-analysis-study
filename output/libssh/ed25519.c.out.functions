@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ed25519.c:crypto_sign_ed25519:113:174
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ed25519.c:crypto_sign_ed25519_keypair:80:111
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ed25519.c:crypto_sign_ed25519_open:176:222
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ed25519.c:crypto_verify_32:22:60
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/ed25519.c:get_hram:62:77

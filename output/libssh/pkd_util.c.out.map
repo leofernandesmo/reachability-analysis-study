@@ -1,0 +1,4 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_util.c:bin_exists
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_util.c:is_dropbear_client_enabled
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_util.c:is_openssh_client_enabled
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/pkd/pkd_util.c:system_checked

@@ -1,0 +1,5 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:ssh_client_curve25519_init:#ifdef HAVE_CURVE25519
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:ssh_client_curve25519_reply:#ifdef HAVE_CURVE25519
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:ssh_curve25519_build_k:#ifdef DEBUG_CRYPTO:#ifdef HAVE_CURVE25519
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:ssh_server_curve25519_init:#ifdef WITH_SERVER:#ifdef HAVE_CURVE25519
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/curve25519.c:#ifdef WITH_NACL

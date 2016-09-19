@@ -1,0 +1,9 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:# ifdef:# ifdef HAVE_WSPIAPI_H:40:42
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef _WIN32:32:45
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef HAVE_ECC:103:109
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef HAVE_ECDH:199:203
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef HAVE_CURVE25519:204:208
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef WITH_SSH1:374:382
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef WITH_SSH1:392:395
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef WITH_SSH1:405:413
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef:#ifdef WITH_PCAP:502:510

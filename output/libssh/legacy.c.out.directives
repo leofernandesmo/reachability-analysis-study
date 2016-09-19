@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/legacy.c:#ifdef:#ifdef HAVE_LIBGCRYPT:353:357
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/legacy.c:#ifdef:#ifdef HAVE_LIBGCRYPT:361:365
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/legacy.c:#ifdef:#ifdef HAVE_LIBGCRYPT:460:466
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/legacy.c:#ifdef:#ifdef WITH_SERVER:710:728

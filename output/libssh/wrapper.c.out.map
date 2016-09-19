@@ -1,0 +1,13 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:cipher_free
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:cipher_new
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:crypt_set_algorithms
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:crypt_set_algorithms1
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:crypt_set_algorithms2
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:crypt_set_algorithms_server:#ifdef WITH_SERVER
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:crypto_free:#ifdef HAVE_ECDH:#ifdef WITH_ZLIB
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:crypto_new
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:hmac_digest_len
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:ssh_cipher_clear:#ifdef HAVE_LIBGCRYPT:#ifdef HAVE_LIBGCRYPT
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:ssh_get_hmactab
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:ssh_hmac_type_to_string
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/wrapper.c:#ifdef WITH_ZLIB

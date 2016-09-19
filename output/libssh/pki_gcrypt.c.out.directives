@@ -1,0 +1,7 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef HAVE_GCRYPT_ECC:587:592
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef HAVE_GCRYPT_ECC:730:735
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef HAVE_GCRYPT_ECC:1037:1041
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef DEBUG_CRYPTO:1501:1504
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef DEBUG_CRYPTO:1534:1537
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef WITH_SERVER:1722:1789
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki_gcrypt.c:#ifdef:#ifdef HAVE_LIBGCRYPT:27:1791

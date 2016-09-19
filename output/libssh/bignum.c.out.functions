@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:make_bignum_string:28:64
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:make_string_bn:66:82
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:make_string_bn_inplace:84:93
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/bignum.c:ssh_print_bignum:96:111

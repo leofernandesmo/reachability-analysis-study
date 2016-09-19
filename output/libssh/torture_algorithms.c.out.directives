@@ -1,0 +1,8 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#ifdef:#ifdef WITH_ZLIB:174:178
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#ifdef:#ifdef WITH_ZLIB:181:185
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#ifdef:#ifdef WITH_ZLIB:188:194
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#ifdef:#ifdef WITH_ZLIB:214:218
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#ifdef:#ifdef WITH_ZLIB:221:225
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#ifdef:#ifdef WITH_ZLIB:228:242
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#if :#if defined(HAVE_LIBCRYPTO) && defined(HAVE_ECC):247:268
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/client/torture_algorithms.c:#if :#if defined(HAVE_LIBCRYPTO) && defined(HAVE_ECC):320:322

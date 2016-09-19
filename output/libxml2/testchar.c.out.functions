@@ -1,0 +1,10 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:errorHandler:17:21
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:main:587:617
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testCharRangeByte1:243:268
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testCharRangeByte2:270:344
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testCharRangeByte3:346:430
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testCharRangeByte4:432:523
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testCharRanges:533:585
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testDocumentRangeByte1:26:64
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testDocumentRangeByte2:66:133
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/testchar.c:testDocumentRanges:144:241

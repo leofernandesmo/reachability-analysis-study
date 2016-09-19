@@ -1,0 +1,16 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef HAVE_SYS_TIME_H:36:38
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifndef:#ifndef _WIN32:27:40
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifndef:#ifndef _WIN32_IE:53:55
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#if :#if _MSC_VER >= 1400:62:64
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef _WIN32:51:66
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef HAVE_LIBGCRYPT:72:76
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef HAVE_LIBCRYPTO:78:82
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef WITH_ZLIB:84:88
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifndef:#ifndef NSS_BUFLEN_PASSWD:205:207
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef _WIN32:99:291
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef WORDS_BIGENDIAN:295:306
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifndef:#ifndef HAVE_NTOHLL:293:308
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef _WIN32:626:630
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef _WIN32:656:674
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef _POSIX_MONOTONIC_CLOCK:888:892
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/misc.c:#ifdef:#ifdef HAVE_CLOCK_GETTIME:900:908

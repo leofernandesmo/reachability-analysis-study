@@ -1,0 +1,8 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef HAVE_ARGP_H:20:22
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef _WIN32:31:35
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifndef:#ifndef KEYS_FOLDER:30:36
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef WITH_PCAP:40:61
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef HAVE_ARGP_H:71:173
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef HAVE_ARGP_H:298:307
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef WITH_PCAP:308:310
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesshd-kbdint.c:#ifdef:#ifdef WITH_PCAP:407:409

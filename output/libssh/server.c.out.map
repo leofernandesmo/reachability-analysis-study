@@ -1,0 +1,56 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:SSH_PACKET_CALLBACK:#ifdef HAVE_ECDH:#ifdef HAVE_CURVE25519
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:callback_receive_banner:#ifdef WITH_PCAP
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:dh_handshake_server
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:server_set_kex:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_auth_reply_default
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_auth_reply_success
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_execute_message_callbacks
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_get_key_params
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_handle_key_exchange
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_interactive_request
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_kbdint_is_response
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_password
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_pubkey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_publickey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_publickey_state
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_reply_pk_ok
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_reply_pk_ok_simple
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_reply_success
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_set_methods
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_auth_user
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_channel
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_command
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_env_name
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_env_value
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_open_destination
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_open_destination_port
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_open_originator
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_open_originator_port
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_open_reply_default
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_pty_height
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_pty_pxheight
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_pty_pxwidth
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_pty_term
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_pty_width
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_reply_default
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_subsystem
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_x11_auth_cookie
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_x11_auth_protocol
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_x11_screen_number
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_channel_request_x11_single_connection
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_global_request_address
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_global_request_port
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_global_request_reply_default
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_global_request_reply_success
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_reply_default
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_service_reply_success
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_service_request_reply_default
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_message_service_service
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_send_keepalive
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_server_connection_callback:#ifdef WITH_SSH1:#ifdef WITH_SSH1:#ifdef WITH_SSH1
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_server_kex_termination
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_server_kexdh_init
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_set_auth_methods
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:ssh_set_message_callback
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:# ifdef HAVE_WSPIAPI_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/server.c:#ifdef _WIN32

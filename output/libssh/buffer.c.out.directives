@@ -1,0 +1,2 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/buffer.c:#ifndef:#ifndef _WIN32:29:32
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/buffer.c:#ifdef:#ifdef DEBUG_BUFFER:49:79

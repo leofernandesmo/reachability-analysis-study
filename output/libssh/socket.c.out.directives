@@ -1,0 +1,12 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#if :#if _MSC_VER >= 1400:31:41
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:28:47
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:106:114
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:129:131
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:304:308
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifndef:#ifndef _WIN32:387:420
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:427:437
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:472:474
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:531:535
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:559:563
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifdef:#ifdef _WIN32:757:776
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/socket.c:#ifndef:#ifndef _WIN32:810:879

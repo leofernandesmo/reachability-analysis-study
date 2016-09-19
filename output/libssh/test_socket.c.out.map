@@ -1,0 +1,5 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_socket.c:connected
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_socket.c:controlflow
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_socket.c:data_rcv
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_socket.c:exception
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/test_socket.c:main

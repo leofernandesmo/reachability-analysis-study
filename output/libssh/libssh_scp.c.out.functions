@@ -1,0 +1,6 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/libssh_scp.c:do_copy:177:293
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/libssh_scp.c:main:295:328
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/libssh_scp.c:open_location:117:170
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/libssh_scp.c:opts:56:84
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/libssh_scp.c:parse_location:86:115
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/libssh_scp.c:usage:45:54

@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_options.c:#ifndef:#ifndef _WIN32:3:6
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_options.c:# ifndef:# ifndef NSS_BUFLEN_PASSWD:111:113
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_options.c:#ifndef:#ifndef _WIN32:110:121
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_options.c:#ifndef:#ifndef _WIN32:131:133
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/unittests/torture_options.c:#if :#if 0:137:142

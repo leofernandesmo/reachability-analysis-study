@@ -1,0 +1,4 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/blowfish.c:#if :#if 0:46:49
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/blowfish.c:#ifdef:#ifdef __GNUC__:57:61
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/blowfish.c:#if :#if 0:649:691
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/external/blowfish.c:#if :#if !defined(HAVE_BCRYPT_PBKDF) && (!defined(HAVE_BLOWFISH_INITSTATE) || \:43:693

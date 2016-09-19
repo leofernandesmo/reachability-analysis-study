@@ -1,0 +1,6 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:ssh_pthread_mutex_destroy:#ifdef HAVE_PTHREAD
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:ssh_pthread_mutex_init:#ifdef HAVE_PTHREAD
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:ssh_pthread_mutex_lock:#ifdef HAVE_PTHREAD
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:ssh_pthread_mutex_unlock:#ifdef HAVE_PTHREAD
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:ssh_pthread_thread_id:#if defined(_WIN32) && !defined(__WINPTHREADS_VERSION):#ifdef HAVE_PTHREAD
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/threads/pthread.c:ssh_threads_get_pthread:#ifdef HAVE_PTHREAD

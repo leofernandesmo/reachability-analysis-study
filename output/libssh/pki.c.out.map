@@ -1,0 +1,38 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:_ssh_pki_log:#ifdef DEBUG_CRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:pki_import_pubkey_buffer:#ifdef DEBUG_CRYPTO:#ifdef DEBUG_CRYPTO:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:pki_privatekey_type_from_string
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_clean:#ifdef HAVE_OPENSSL_ECC:#ifdef HAVE_LIBGCRYPT
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_cmp
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_dup
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_free
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_is_private
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_is_public
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_new
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_type
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_type_from_name
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_key_type_to_char
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_convert_key_to_privatekey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_convert_key_to_publickey
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_do_sign:#ifdef DEBUG_CRYPTO:#ifdef HAVE_ECC:#ifdef DEBUG_CRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_do_sign_agent:#ifndef _WIN32
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_privkey_file
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_privkey_to_pubkey
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_pubkey_base64
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_pubkey_blob
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_pubkey_file
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_pubkey_rsa1
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_export_signature_blob
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_generate:#ifdef HAVE_ECC
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_import_privkey_base64
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_import_privkey_file
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_import_pubkey_base64
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_import_pubkey_blob
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_import_pubkey_file
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_import_signature_blob
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_key_ecdsa_name:#ifdef HAVE_OPENSSL_ECC /* FIXME Better ECC check needed */
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_pki_signature_verify_blob:#ifdef DEBUG_CRYPTO:#if HAVE_ECC:#ifdef DEBUG_CRYPTO
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_signature_free:#ifdef HAVE_LIBGCRYPT:#ifdef HAVE_LIBGCRYPT:#if defined(HAVE_LIBCRYPTO) && defined(HAVE_OPENSSL_ECC)
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_signature_new
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:ssh_srv_pki_do_sign_sessionid:#ifdef DEBUG_CRYPTO:#ifdef HAVE_ECC:#ifdef DEBUG_CRYPTO:#ifdef WITH_SERVER
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:# if _MSC_VER >= 1400
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef _WIN32

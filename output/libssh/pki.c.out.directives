@@ -1,0 +1,24 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:# if :# if _MSC_VER >= 1400:44:54
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef _WIN32:43:55
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:69:81
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_OPENSSL_ECC /* FIXME Better ECC check needed */:112:117
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_OPENSSL_ECC:156:158
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_LIBGCRYPT:149:159
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_LIBGCRYPT:351:355
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_LIBGCRYPT:359:363
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#if :#if defined(HAVE_LIBCRYPTO) && defined(HAVE_OPENSSL_ECC):366:368
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:703:707
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:740:743
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_ECC:754:787
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_ECC:1062:1071
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1393:1396
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#if :#if HAVE_ECC:1387:1403
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1410:1412
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1466:1468
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_ECC:1451:1471
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1510:1512
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifndef:#ifndef _WIN32:1530:1580
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1610:1612
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef HAVE_ECC:1603:1618
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef DEBUG_CRYPTO:1647:1649
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/pki.c:#ifdef:#ifdef WITH_SERVER:1582:1665

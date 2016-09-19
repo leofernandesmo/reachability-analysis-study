@@ -1,0 +1,5 @@
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/ecdh.c:ecdh_build_k:#ifdef DEBUG_CRYPTO:#ifdef HAVE_ECDH
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/ecdh.c:ecdh_import_pubkey:#ifdef HAVE_ECDH
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/ecdh.c:ssh_client_ecdh_init:#ifdef HAVE_ECDH
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/ecdh.c:ssh_client_ecdh_reply:#ifdef HAVE_ECDH
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/ecdh.c:ssh_server_ecdh_init:#ifdef WITH_SERVER:#ifdef HAVE_ECDH

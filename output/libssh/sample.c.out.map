@@ -1,0 +1,21 @@
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:add_cmd
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:auth_callback
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:batch_shell
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:cfmakeraw:#ifndef HAVE_CFMAKERAW
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:cleanup_pcap
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:client
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:do_cleanup
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:do_exit
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:main
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:opts:#ifndef _WIN32
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:select_loop:#ifdef USE_CHANNEL_SELECT
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:select_loop:#ifdef USE_CHANNEL_SELECT
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:set_pcap
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:setsignal
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:shell
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:sigwindowchanged
+1:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:sizechanged
+0:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:usage:#ifdef WITH_PCAP:#ifndef _WIN32
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef HAVE_TERMIOS_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef HAVE_UNISTD_H
+2:/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/sample.c:#ifdef HAVE_PTY_H

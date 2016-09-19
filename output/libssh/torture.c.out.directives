@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifndef:#ifndef _WIN32:32:35
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifdef:#ifdef HAVE_UNISTD_H:37:39
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifdef:#ifdef WITH_SERVER:425:482
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifdef:#ifdef WITH_SFTP:484:554
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/tests/torture.c:#ifndef:#ifndef _WIN32:225:556

@@ -1,0 +1,9 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifndef:#ifndef _WIN32:26:28
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:162:165
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:183:186
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:202:205
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef WITH_ZLIB:219:223
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef WITH_ZLIB:268:275
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:303:306
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef DEBUG_CRYPTO:313:316
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/packet1.c:#ifdef:#ifdef WITH_SSH1:40:371

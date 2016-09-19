@@ -1,0 +1,13 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifndef:#ifndef _WIN32:29:32
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_GSSAPI:285:288
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SSH1:326:330
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SSH1:357:361
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SSH1:457:461
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SSH1:566:570
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifndef:#ifndef _WIN32:647:848
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifndef:#ifndef _WIN32:921:927
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SSH1:1114:1119
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifndef:#ifndef _WIN32:1174:1202
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SSH1:1531:1535
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_SERVER:1669:1703
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/src/auth.c:#ifdef:#ifdef WITH_GSSAPI:1771:1808

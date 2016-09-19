@@ -1,0 +1,2 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesftp.c:#ifdef:#ifdef HAVE_UNISTD_H:22:24
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libssh-0.7.2/examples/samplesftp.c:#ifdef:#ifdef WITH_SFTP:30:268

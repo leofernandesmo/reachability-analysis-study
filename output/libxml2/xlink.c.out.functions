@@ -1,0 +1,5 @@
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xlink.c:xlinkGetDefaultDetect:86:88
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xlink.c:xlinkGetDefaultHandler:62:64
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xlink.c:xlinkIsLink:123:180
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xlink.c:xlinkSetDefaultDetect:97:99
+/home/leofernandesmo/workspace/reachability-analysis-study/subjects/libxml2-2.9.0/xlink.c:xlinkSetDefaultHandler:74:76
