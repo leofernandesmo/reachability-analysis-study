@@ -15,12 +15,18 @@ import java.util.Scanner;
 
 public class Main {
 
+	private static final String CODE_DIRECTIVE_WITHOUT_FUNCTION = "2:";
+	private static final String CODE_FUNCTION_WITHOUT_DIRECTIVE = "1:";
+	private static final String CODE_FUNCTION_WITH_DIRECTIVE = "0:";
 	private static final String TEMP_CTAGS_OUT = "/temp/ctags.out";
+	private static final String TEMP_SUMMARY_OUT = "/temp/summary.out";
 	private static final String EXTENSION_OUT_DIRECTIVES = ".out.directives";
 	private static final String EXTENSION_OUT_MAP = ".out.map";
 	private static final String EXTENSION_OUT_FUNCTIONS = ".out.functions";
 	private static final String CTAGS_COMMAND = "./bin/ctags_command.sh";
 	private static final String AWK_COMMAND = "./bin/awk_command.sh ";
+	
+	public static final String LOG_FILE = "/home/leofernandesmo/workspace/reachability-analysis-study/output/logerror.log";
 
 	public static void main(String[] args) {
 
@@ -48,9 +54,10 @@ public class Main {
 				long tStart = System.currentTimeMillis();
 
 				// Execute the "scripts"
-//				m.writeFileWithFunctions(inputPath, outputPath);
-//				m.writeFileWithDirectives(inputPath, outputPath);
+				m.writeFileWithFunctions(inputPath, outputPath);
+				m.writeFileWithDirectives(inputPath, outputPath);
 				m.writeFileWithMapping(inputPath, outputPath);
+				m.summary(outputPath);
 
 				// print Elapsed time
 				long tEnd = System.currentTimeMillis();
@@ -209,21 +216,60 @@ public class Main {
 					function.checkVariability(directive);
 				}
 				if (function.containsVariablity()) {
-					fw.write("0:" + function.getLineToWrite() + "\n");
+					fw.write(CODE_FUNCTION_WITH_DIRECTIVE + function.getLineToWrite() + "\n");
 				} else {
-					fw.write("1:" + function.getLineToWrite() + "\n");
+					fw.write(CODE_FUNCTION_WITHOUT_DIRECTIVE + function.getLineToWrite() + "\n");
 				}
 			}
 
 			for (Directive directive : directives) {
 				if (!directive.containsFunction()) {
-					fw.write("2:" + directive.getLineToWrite() + "\n");
+					fw.write(CODE_DIRECTIVE_WITHOUT_FUNCTION + directive.getLineToWrite() + "\n");
 				}
 			}
 
-			fw.close();			
+			fw.close();
 		}
 
+	}
+
+	public void summary(String outputPath) throws IOException {
+		List<File> files = new ArrayList<File>();
+		Utils.listFilesAndFilesSubDirectories(outputPath, files, EXTENSION_OUT_MAP);
+
+		FileWriter fw = new FileWriter(outputPath + TEMP_SUMMARY_OUT);
+		
+		int totalFunctions = 0;
+		int totalFunctionsWithDirectives = 0;
+		int totalFunctionsWithoutDirectives = 0;
+		int totalDirectivesWithoutFunction = 0;
+
+		for (File file : files) {
+			FileInputStream inputStream = new FileInputStream(file);
+			Scanner sc = new Scanner(inputStream, "UTF-8");
+			while (sc.hasNextLine()) {
+				String line = sc.nextLine();
+				if(line.startsWith(CODE_FUNCTION_WITH_DIRECTIVE)){
+					totalFunctions++;
+					totalFunctionsWithDirectives++;
+				} else if(line.startsWith(CODE_FUNCTION_WITHOUT_DIRECTIVE)){
+					totalFunctions++;
+					totalFunctionsWithoutDirectives++;
+				} else if(line.startsWith(CODE_DIRECTIVE_WITHOUT_FUNCTION)){
+					totalDirectivesWithoutFunction++;
+				}
+			}
+			
+			sc.close();
+			inputStream.close();
+		}
+		
+		fw.write("Total Funtions: " + totalFunctions + "\n");
+		fw.write("Total Funtions With Directives: " + totalFunctionsWithDirectives + "\n");
+		fw.write("Total Funtions Without Directives: " + totalFunctionsWithoutDirectives + "\n");
+		fw.write("Total Directives Without Function: " + totalDirectivesWithoutFunction + "\n");
+		
+		fw.close();
 	}
 
 }

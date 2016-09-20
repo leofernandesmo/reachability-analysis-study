@@ -1,11 +1,14 @@
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.LineNumberReader;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 import java.util.Stack;
 
 public class Utils {
@@ -68,7 +71,9 @@ public class Utils {
 			}
 			reader.close();
 			if (!exprStack.isEmpty()) {
-				System.err.println("---> ERRO em " + file.getAbsolutePath() + ". Verificar diretivas.");
+				String lineError = "---> ERRO em " + file.getAbsolutePath() + ". Verificar diretivas: " + exprStack.pop();
+				System.err.println(lineError);
+				logError(lineError);
 			}
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
@@ -142,6 +147,19 @@ public class Utils {
 			}
 	}
 
+	public static void logError(String line){
+		
+			FileWriter fw;
+			try {
+				fw = new FileWriter(Main.LOG_FILE, true);
+				fw.write("ERRO: " + line + "\n");
+				fw.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+				System.exit(1);
+			}
+			
+	}
 			
 
 }
