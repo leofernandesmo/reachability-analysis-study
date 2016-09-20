@@ -47,9 +47,6 @@ public class Main {
 				if (inputPath == null || outputPath == null)
 					throw new Exception("Config file is invalid.");
 
-				System.out.format("Project: %s %n", inputPath);
-				System.out.format("Resulted in: %s %n", outputPath);
-
 				// Count elapsed time
 				long tStart = System.currentTimeMillis();
 
@@ -64,6 +61,8 @@ public class Main {
 				long tDelta = tEnd - tStart;
 				double elapsedSeconds = tDelta / 1000.0;
 				System.out.format("Finished in %s seconds", elapsedSeconds);
+				System.out.format("Project: %s %n", inputPath);
+				System.out.format("Resulted in: %s %n", outputPath);
 
 			} catch (IOException ioe) {
 				ioe.printStackTrace();
@@ -96,8 +95,7 @@ public class Main {
 			while (sc.hasNextLine()) {
 				String line = sc.nextLine();
 				Function f = Function.fromCTags(line, inputPath);
-				System.out.println(f);
-
+				
 				if (funcList.containsKey(f.getFile())) {
 					funcList.get(f.getFile()).add(f);
 				} else {
@@ -127,6 +125,7 @@ public class Main {
 					new File(outputPath + "/" + f.getName() + EXTENSION_OUT_FUNCTIONS));
 			String output = "";
 
+			int total = 0;
 			for (Function function : listTemp) {
 				List<String> linesError = new ArrayList<String>();
 				List<String> linesOutput = new ArrayList<String>();
@@ -138,7 +137,9 @@ public class Main {
 					function.setEndline(endLine);
 				}
 				output += function.getID() + "\n";
+				total++;
 			}
+			System.out.println("File:" + f.getName() + " has " + total + " functions.");
 			os.write(output.getBytes());
 			os.close();
 		}
@@ -243,6 +244,7 @@ public class Main {
 		int totalFunctionsWithDirectives = 0;
 		int totalFunctionsWithoutDirectives = 0;
 		int totalDirectivesWithoutFunction = 0;
+		int totalDirectives = 0;
 
 		for (File file : files) {
 			FileInputStream inputStream = new FileInputStream(file);
@@ -269,7 +271,27 @@ public class Main {
 		fw.write("Total Funtions Without Directives: " + totalFunctionsWithoutDirectives + "\n");
 		fw.write("Total Directives Without Function: " + totalDirectivesWithoutFunction + "\n");
 		
+		
+		
+		//Get total directives
+		files.clear();
+		Utils.listFilesAndFilesSubDirectories(outputPath, files, EXTENSION_OUT_DIRECTIVES);
+		
+		for (File file : files) {
+			FileInputStream inputStream = new FileInputStream(file);
+			Scanner sc = new Scanner(inputStream, "UTF-8");
+			while (sc.hasNextLine()) {
+				totalDirectives++;
+			}
+			sc.close();
+			inputStream.close();
+		}
+		
+		fw.write("Total Directives: " + totalDirectives + "\n");
 		fw.close();
+		
+		
+		
 	}
 
 }

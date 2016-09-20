@@ -9,11 +9,8 @@ public class Directive {
 	private int startLine;
 	private int endLine;
 	private String name;
-	
+
 	private List<Function> functions;
-	
-	
-	
 
 	public Directive() {
 		super();
@@ -22,17 +19,17 @@ public class Directive {
 
 	public static Directive fromVariabilityLine(String line) {
 		Directive vd = new Directive();
-		// try {
-		String[] info = line.split(":");
-		vd.setType(info[1]);
-		vd.setName(info[2]);
-		vd.setStartLine(Integer.parseInt(info[3]));
-		vd.setEndLine(Integer.parseInt(info[4]));
-		vd.setFile(new File(info[0]));
-		// } catch (NumberFormatException e) {
-		// // TODO Auto-generated catch block
-		// e.printStackTrace();
-		// }
+		try {
+			String[] info = line.split(":");
+			vd.setType(info[1]);
+			vd.setName(info[2]);
+			vd.setStartLine(Integer.parseInt(info[3]));
+			vd.setEndLine(Integer.parseInt(info[4]));
+			vd.setFile(new File(info[0]));
+		} catch (NumberFormatException e) {
+			Utils.logError("NumberFormatException:" + e.getMessage() + line);
+			e.printStackTrace();
+		}
 		return vd;
 	}
 
@@ -75,31 +72,28 @@ public class Directive {
 	public void setEndLine(int endLine) {
 		this.endLine = endLine;
 	}
-	
-	
-	public void addFunction(Function f){
-    	functions.add(f);
-    }
-	
+
+	public void addFunction(Function f) {
+		functions.add(f);
+	}
+
 	public void setFunctions(List<Function> functions) {
 		this.functions = functions;
 	}
-	
-	public List<Function> getAllFunctions(){
-    	return this.functions;
-    }
-	
-	
-	public boolean containsFunction(){
-		if(functions != null && functions.size() > 0){
+
+	public List<Function> getAllFunctions() {
+		return this.functions;
+	}
+
+	public boolean containsFunction() {
+		if (functions != null && functions.size() > 0) {
 			return true;
 		} else {
 			return false;
 		}
 	}
-	
-	
-	public String getLineToWrite(){
+
+	public String getLineToWrite() {
 		String result = "";
 		result = getFile().getAbsolutePath() + ":" + getName();
 		return result;
