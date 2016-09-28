@@ -71,7 +71,8 @@ public class Utils {
 			}
 			reader.close();
 			if (!exprStack.isEmpty()) {
-				String lineError = "---> ERRO em " + file.getAbsolutePath() + ". Verificar diretivas: " + exprStack.pop();
+				String lineError = "---> ERRO em " + file.getAbsolutePath() + ". Verificar diretivas: "
+						+ exprStack.pop();
 				System.err.println(lineError);
 				logError(lineError);
 			}
@@ -80,6 +81,54 @@ public class Utils {
 		}
 
 		return listResult;
+	}
+
+	public static int localizeEndDirective(Directive directive) {
+		Stack<String> exprStack = new Stack<String>();
+		LineNumberReader reader;
+		String[] exprStart = { "#ifdef", "# ifdef", "#  ifdef", "#   ifdef", "#ifndef", "# ifndef", "#  ifndef",
+				"#   ifndef", "#if ", "# if ", "#  if ", "#   if " };
+		String[] exprEnd = { "#endif", "# endif", "#  endif", "#   endif" };
+		
+		try {
+			reader = new LineNumberReader(new FileReader(directive.getFile()));
+			String line = "";
+			int lineNumber = 0;
+			exprStack.push(directive.getID());
+			while ((line = reader.readLine()) != null) {
+				lineNumber++;
+				if (lineNumber > directive.getStartLine()) { //A partir desta linha que começa a procurar
+					line = line.trim();
+					for (String es : exprStart) {
+						if (line.contains(es) && !line.trim().startsWith("//") && !line.trim().startsWith("/*")) { // evitar
+							exprStack.push(line);
+						}
+					}
+					for (String ee : exprEnd) {
+						if (line.contains(ee) && !exprStack.isEmpty() 
+								&& !line.trim().startsWith("//") // evitar comentarios
+								&& !line.trim().startsWith("/*")) { 
+							exprStack.pop();
+							//Se a pilha esta vazia, é pq achou o fim
+							if(exprStack.isEmpty()){
+								return reader.getLineNumber();
+							}
+						}
+					}
+				}
+			}
+			reader.close();
+			if (!exprStack.isEmpty()) {
+				String lineError = "---> ERRO em " + directive.getFile().getAbsolutePath() + ". Verificar diretivas: "
+						+ exprStack.pop();
+				System.err.println(lineError);
+				logError(lineError);
+			}
+		} catch (IOException ioe) {
+			ioe.printStackTrace();
+		}
+
+		return -1;
 	}
 
 	/**
@@ -124,42 +173,40 @@ public class Utils {
 		// return output;
 	}
 
-	public static void cmdExec2WithoutReturn(String...cmdLine) {
+	public static void cmdExec2WithoutReturn(String... cmdLine) {
 		String line = "";
-		
 
-			ProcessBuilder pb = new ProcessBuilder(cmdLine);
-//			Map<String, String> env = pb.environment();
-			// env.put("VAR1", "myValue");
-			// env.remove("OTHERVAR");
-			// env.put("VAR2", env.get("VAR1") + "suffix");
-			//pb.directory(new File("bin/"));
-			try {
-				Process p = pb.start();
-				BufferedReader input = new BufferedReader(new InputStreamReader(p.getErrorStream()));
+		ProcessBuilder pb = new ProcessBuilder(cmdLine);
+		// Map<String, String> env = pb.environment();
+		// env.put("VAR1", "myValue");
+		// env.remove("OTHERVAR");
+		// env.put("VAR2", env.get("VAR1") + "suffix");
+		// pb.directory(new File("bin/"));
+		try {
+			Process p = pb.start();
+			BufferedReader input = new BufferedReader(new InputStreamReader(p.getErrorStream()));
 
-				while ((line = input.readLine()) != null) {
-					System.err.println(line);
-				}
-				input.close();
-			} catch (IOException e) {
-				e.printStackTrace();
+			while ((line = input.readLine()) != null) {
+				System.err.println(line);
 			}
+			input.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
-	public static void logError(String line){
-		
-			FileWriter fw;
-			try {
-				fw = new FileWriter(Main.LOG_FILE, true);
-				fw.write("ERRO: " + line + "\n");
-				fw.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-				System.exit(1);
-			}
-			
+	public static void logError(String line) {
+
+		FileWriter fw;
+		try {
+			fw = new FileWriter(Main.LOG_FILE, true);
+			fw.write("ERRO: " + line + "\n");
+			fw.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+			System.exit(1);
+		}
+
 	}
-			
 
 }

@@ -6,12 +6,15 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Scanner;
+import java.util.stream.Stream;
 
 public class Main {
 
@@ -19,11 +22,13 @@ public class Main {
 	private static final String CODE_FUNCTION_WITHOUT_DIRECTIVE = "1:";
 	private static final String CODE_FUNCTION_WITH_DIRECTIVE = "0:";
 	private static final String TEMP_CTAGS_OUT = "/temp/ctags.out";
+	private static final String TEMP_COAN_OUT = "/temp/coan.out";
 	private static final String TEMP_SUMMARY_OUT = "/temp/summary.out";
 	private static final String EXTENSION_OUT_DIRECTIVES = ".out.directives";
 	private static final String EXTENSION_OUT_MAP = ".out.map";
 	private static final String EXTENSION_OUT_FUNCTIONS = ".out.functions";
 	private static final String CTAGS_COMMAND = "./bin/ctags_command.sh";
+	private static final String COAN_COMMAND = "./bin/coan_command.sh";
 	private static final String AWK_COMMAND = "./bin/awk_command.sh ";
 	
 	public static final String LOG_FILE = "/home/leofernandesmo/workspace/reachability-analysis-study/output/logerror.log";
@@ -52,7 +57,7 @@ public class Main {
 
 				// Execute the "scripts"
 				m.writeFileWithFunctions(inputPath, outputPath);
-				m.writeFileWithDirectives(inputPath, outputPath);
+				m.writeFileWithDirectives2(inputPath, outputPath);
 				m.writeFileWithMapping(inputPath, outputPath);
 				m.summary(outputPath);
 
@@ -60,7 +65,7 @@ public class Main {
 				long tEnd = System.currentTimeMillis();
 				long tDelta = tEnd - tStart;
 				double elapsedSeconds = tDelta / 1000.0;
-				System.out.format("Finished in %s seconds", elapsedSeconds);
+				System.out.format("Finished in %s seconds %n", elapsedSeconds);
 				System.out.format("Project: %s %n", inputPath);
 				System.out.format("Resulted in: %s %n", outputPath);
 
@@ -149,6 +154,74 @@ public class Main {
 
 	}
 
+	
+	
+	public void writeFileWithDirectives2(String inputPath, String outputPath) throws IOException{
+		Map<File, ArrayList<Directive>> directiveList = new HashMap<File, ArrayList<Directive>>();
+		File tempFile = new File(outputPath + TEMP_COAN_OUT);
+		tempFile.getParentFile().mkdirs();
+		tempFile.createNewFile();
+
+		Utils.cmdExec2WithoutReturn(COAN_COMMAND, inputPath, tempFile.getAbsolutePath());
+
+		FileInputStream inputStream = null;
+		Scanner sc = null;
+		try {
+			inputStream = new FileInputStream(tempFile);
+			sc = new Scanner(inputStream, "UTF-8");
+
+			while (sc.hasNextLine()) {
+				String line = sc.nextLine();
+				line = line.replace("(", ":");
+				line = line.replace(")", ":");
+				
+				Directive f = Directive.fromCoan(line);
+				int endLine = Utils.localizeEndDirective(f);
+				f.setEndLine(endLine);
+				
+				if (directiveList.containsKey(f.getFile())) {
+					directiveList.get(f.getFile()).add(f);
+				} else {
+					ArrayList<Directive> listTemp = new ArrayList<Directive>();
+					listTemp.add(f);
+					directiveList.put(f.getFile(), listTemp);
+				}
+				
+			}
+			// note that Scanner suppresses exceptions
+			if (sc.ioException() != null) {
+				throw sc.ioException();
+			}
+		} finally {
+			if (inputStream != null) {
+				inputStream.close();
+			}
+			if (sc != null) {
+				sc.close();
+			}
+		}
+
+		for (File f : directiveList.keySet()) {
+			ArrayList<Directive> listTemp = directiveList.get(f);
+
+			FileOutputStream os = new FileOutputStream(
+					new File(outputPath + "/" + f.getName() + EXTENSION_OUT_DIRECTIVES));
+			String output = "";
+
+			int total = 0;
+			for (Directive function : listTemp) {
+				output += function.getID() + "\n";
+				total++;
+			}
+			System.out.println("File:" + f.getName() + " has " + total + " directives.");
+			os.write(output.getBytes());
+			os.close();
+			
+		}
+	}
+	
+	
+	
 	public void writeFileWithDirectives(String inputPath, String outputPath) {
 		List<File> files = new ArrayList<File>();
 		Utils.listFilesAndFilesSubDirectories(inputPath, files, ".c");
@@ -274,20 +347,20 @@ public class Main {
 		
 		
 		//Get total directives
-		files.clear();
-		Utils.listFilesAndFilesSubDirectories(outputPath, files, EXTENSION_OUT_DIRECTIVES);
-		
-		for (File file : files) {
-			FileInputStream inputStream = new FileInputStream(file);
-			Scanner sc = new Scanner(inputStream, "UTF-8");
-			while (sc.hasNextLine()) {
-				totalDirectives++;
-			}
-			sc.close();
-			inputStream.close();
-		}
-		
-		fw.write("Total Directives: " + totalDirectives + "\n");
+//		files.clear();
+//		Utils.listFilesAndFilesSubDirectories(outputPath, files, EXTENSION_OUT_DIRECTIVES);
+//		
+//		for (File file : files) {
+//			FileInputStream inputStream = new FileInputStream(file);
+//			Scanner sc = new Scanner(inputStream, "UTF-8");
+//			while (sc.hasNextLine()) {
+//				totalDirectives++;
+//			}
+//			sc.close();
+//			inputStream.close();
+//		}
+//		
+//		fw.write("Total Directives: " + totalDirectives + "\n");
 		fw.close();
 		
 		

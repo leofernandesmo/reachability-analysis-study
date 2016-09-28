@@ -33,6 +33,32 @@ public class Directive {
 		return vd;
 	}
 
+	public static Directive fromCoan(String line) {
+		Directive vd = new Directive();
+		try {
+
+			if (line.contains("::")) { //Corrigi algumas diretivas que possuem parametros
+				int idxS = line.indexOf(":");
+				int idxE = line.indexOf("::")+1;
+				String subtemp = line.substring(0, idxS);
+				line = subtemp + line.substring(idxE, line.length());
+			}
+
+			String[] info = line.split(":");
+			vd.setName(info[0].trim());
+			vd.setType(info[1].trim());
+			String fileName = info[2].trim();
+			vd.setFile(new File(fileName));
+			vd.setStartLine(Integer.parseInt(info[3]));
+			// vd.setEndLine(Integer.parseInt(info[4]));
+
+		} catch (NumberFormatException e) {
+			Utils.logError("NumberFormatException:" + e.getMessage() + line);
+			e.printStackTrace();
+		}
+		return vd;
+	}
+
 	public File getFile() {
 		return file;
 	}
@@ -105,7 +131,7 @@ public class Directive {
 	}
 
 	public String getID() {
-		return getFile().getName() + ":" + getName() + ":" + getStartLine();
+		return getFile().getAbsolutePath() + ":" + getType() + ":" + getName() + ":" + getStartLine() + ":" + getEndLine();
 	}
 
 	@Override
