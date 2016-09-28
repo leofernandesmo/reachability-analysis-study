@@ -30,7 +30,7 @@ public class Main {
 	private static final String CTAGS_COMMAND = "./bin/ctags_command.sh";
 	private static final String COAN_COMMAND = "./bin/coan_command.sh";
 	private static final String AWK_COMMAND = "./bin/awk_command.sh ";
-	
+
 	public static final String LOG_FILE = "/home/leofernandesmo/workspace/reachability-analysis-study/output/logerror.log";
 
 	public static void main(String[] args) {
@@ -100,7 +100,7 @@ public class Main {
 			while (sc.hasNextLine()) {
 				String line = sc.nextLine();
 				Function f = Function.fromCTags(line, inputPath);
-				
+
 				if (funcList.containsKey(f.getFile())) {
 					funcList.get(f.getFile()).add(f);
 				} else {
@@ -154,9 +154,16 @@ public class Main {
 
 	}
 
-	
-	
-	public void writeFileWithDirectives2(String inputPath, String outputPath) throws IOException{
+	/**
+	 * Versão nova do método que gera as diretivas de um arquivo em c. Nele
+	 * usamos o programa COAN para descobrir as diretivas e onde elas começam.
+	 * Depois apenas verificamos onde cada diretiva termina.
+	 * 
+	 * @param inputPath
+	 * @param outputPath
+	 * @throws IOException
+	 */
+	public void writeFileWithDirectives2(String inputPath, String outputPath) throws IOException {
 		Map<File, ArrayList<Directive>> directiveList = new HashMap<File, ArrayList<Directive>>();
 		File tempFile = new File(outputPath + TEMP_COAN_OUT);
 		tempFile.getParentFile().mkdirs();
@@ -174,11 +181,11 @@ public class Main {
 				String line = sc.nextLine();
 				line = line.replace("(", ":");
 				line = line.replace(")", ":");
-				
+
 				Directive f = Directive.fromCoan(line);
 				int endLine = Utils.localizeEndDirective(f);
 				f.setEndLine(endLine);
-				
+
 				if (directiveList.containsKey(f.getFile())) {
 					directiveList.get(f.getFile()).add(f);
 				} else {
@@ -186,7 +193,7 @@ public class Main {
 					listTemp.add(f);
 					directiveList.put(f.getFile(), listTemp);
 				}
-				
+
 			}
 			// note that Scanner suppresses exceptions
 			if (sc.ioException() != null) {
@@ -216,12 +223,18 @@ public class Main {
 			System.out.println("File:" + f.getName() + " has " + total + " directives.");
 			os.write(output.getBytes());
 			os.close();
-			
+
 		}
 	}
-	
-	
-	
+
+	/**
+	 * Versão anterior do método que gerava o arquivo com diretivas. Nele
+	 * usávamos apenas leitura de texto linha a linha e comparação com um
+	 * conjunto de strings (ex. #if, #ifdef, #ifndef)
+	 * 
+	 * @param inputPath
+	 * @param outputPath
+	 */
 	public void writeFileWithDirectives(String inputPath, String outputPath) {
 		List<File> files = new ArrayList<File>();
 		Utils.listFilesAndFilesSubDirectories(inputPath, files, ".c");
@@ -272,14 +285,17 @@ public class Main {
 				functions.add(function);
 			}
 			br.close();
-			br = new BufferedReader(new FileReader(
-					fileWithFunction.getAbsolutePath().replace(EXTENSION_OUT_FUNCTIONS, EXTENSION_OUT_DIRECTIVES)));
-			// Read Directive functions
-			while ((line = br.readLine()) != null) {
-				Directive directive = Directive.fromVariabilityLine(line);
-				directives.add(directive);
+			File fileWithDirectives = new File(
+					fileWithFunction.getAbsolutePath().replace(EXTENSION_OUT_FUNCTIONS, EXTENSION_OUT_DIRECTIVES));
+			if (fileWithDirectives.exists()) {
+				br = new BufferedReader(new FileReader(fileWithDirectives));
+				// Read Directive functions
+				while ((line = br.readLine()) != null) {
+					Directive directive = Directive.fromVariabilityLine(line);
+					directives.add(directive);
+				}
+				br.close();
 			}
-			br.close();
 
 			File mapFile = new File(
 					fileWithFunction.getAbsolutePath().replace(EXTENSION_OUT_FUNCTIONS, EXTENSION_OUT_MAP));
@@ -312,7 +328,7 @@ public class Main {
 		Utils.listFilesAndFilesSubDirectories(outputPath, files, EXTENSION_OUT_MAP);
 
 		FileWriter fw = new FileWriter(outputPath + TEMP_SUMMARY_OUT);
-		
+
 		int totalFunctions = 0;
 		int totalFunctionsWithDirectives = 0;
 		int totalFunctionsWithoutDirectives = 0;
@@ -324,47 +340,44 @@ public class Main {
 			Scanner sc = new Scanner(inputStream, "UTF-8");
 			while (sc.hasNextLine()) {
 				String line = sc.nextLine();
-				if(line.startsWith(CODE_FUNCTION_WITH_DIRECTIVE)){
+				if (line.startsWith(CODE_FUNCTION_WITH_DIRECTIVE)) {
 					totalFunctions++;
 					totalFunctionsWithDirectives++;
-				} else if(line.startsWith(CODE_FUNCTION_WITHOUT_DIRECTIVE)){
+				} else if (line.startsWith(CODE_FUNCTION_WITHOUT_DIRECTIVE)) {
 					totalFunctions++;
 					totalFunctionsWithoutDirectives++;
-				} else if(line.startsWith(CODE_DIRECTIVE_WITHOUT_FUNCTION)){
+				} else if (line.startsWith(CODE_DIRECTIVE_WITHOUT_FUNCTION)) {
 					totalDirectivesWithoutFunction++;
 				}
 			}
-			
+
 			sc.close();
 			inputStream.close();
 		}
-		
+
 		fw.write("Total Funtions: " + totalFunctions + "\n");
 		fw.write("Total Funtions With Directives: " + totalFunctionsWithDirectives + "\n");
 		fw.write("Total Funtions Without Directives: " + totalFunctionsWithoutDirectives + "\n");
 		fw.write("Total Directives Without Function: " + totalDirectivesWithoutFunction + "\n");
-		
-		
-		
-		//Get total directives
-//		files.clear();
-//		Utils.listFilesAndFilesSubDirectories(outputPath, files, EXTENSION_OUT_DIRECTIVES);
-//		
-//		for (File file : files) {
-//			FileInputStream inputStream = new FileInputStream(file);
-//			Scanner sc = new Scanner(inputStream, "UTF-8");
-//			while (sc.hasNextLine()) {
-//				totalDirectives++;
-//			}
-//			sc.close();
-//			inputStream.close();
-//		}
-//		
-//		fw.write("Total Directives: " + totalDirectives + "\n");
+
+		// Get total directives
+		// files.clear();
+		// Utils.listFilesAndFilesSubDirectories(outputPath, files,
+		// EXTENSION_OUT_DIRECTIVES);
+		//
+		// for (File file : files) {
+		// FileInputStream inputStream = new FileInputStream(file);
+		// Scanner sc = new Scanner(inputStream, "UTF-8");
+		// while (sc.hasNextLine()) {
+		// totalDirectives++;
+		// }
+		// sc.close();
+		// inputStream.close();
+		// }
+		//
+		// fw.write("Total Directives: " + totalDirectives + "\n");
 		fw.close();
-		
-		
-		
+
 	}
 
 }
